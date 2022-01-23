@@ -1,0 +1,606 @@
+{"acquisitions":
+  {
+    "regular": 
+	  [
+		{
+		 "c1": "rname_id", 
+		 "rel": "is_acquirer", 
+		 "c2": "uuid", 
+		 "file_name": "acquisition_acquirer", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "ename_id", 
+		 "rel": "is_acquiree", 
+		 "c2": "uuid", 
+		 "file_name": "acquisition_acquiree", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "type_of", 
+		 "c2": "acquisition_type", 
+		 "file_name": "acquisition_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "acquired_on", 
+		 "c2": "acquired_on", 
+		 "file_name": "acquisition_on_year", 
+		 "to_drop": []
+		}
+	  ], 
+	"numerical": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "price_usd", 
+		 "c2": "price_usd", 
+		 "file_name": "acquisition_price", 
+		 "to_drop": [], 
+		 "k": 40
+                }
+	  ]
+  },
+"event_appearance":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "sponsor", 
+		 "c2": "sponsor", 
+		 "file_name": "event_appearance_sponsor", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "speaker", 
+		 "c2": "speaker", 
+		 "file_name": "event_appearance_speaker", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "organizer", 
+		 "c2": "organizer", 
+		 "file_name": "event_appearance_organizer", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "exhibitor", 
+		 "c2": "exhibitor", 
+		 "file_name": "event_appearance_exhibitor", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "contestant", 
+		 "c2": "contestant", 
+		 "file_name": "event_appearance_contestant", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}
+	  ]
+  },
+"events":
+  {
+	"regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "event_city", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "city", 
+		 "c2": "city", 
+		 "file_name": "event_city", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "event_roles", 
+		 "file_name": "event_type", 
+		 "to_drop": ["other"], 
+		 "to_expand": [], 
+		 "to_explode": true
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "started_on", 
+		 "c2": "started_on", 
+		 "file_name": "event_start", 
+		 "to_drop": []
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "ended_on", 
+		 "c2": "ended_on", 
+		 "file_name": "event_end", 
+		 "to_drop": []
+		}
+	  ]
+  },
+"funding_rounds":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "org_name_id", 
+		 "rel": "launched", 
+		 "c2": "name_id", 
+		 "file_name": "fr_org", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "investment_type", 
+		 "file_name": "fr_subtype", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "fr_coun", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "city", 
+		 "c2": "city", 
+		 "file_name": "fr_city", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "lead_investor_uuids", 
+		 "rel": "lead_investor_of", 
+		 "c2": "name_id", 
+		 "file_name": "fr_lead_inv", 
+		 "to_drop": [], 
+		 "to_expand": ["org", "person"], 
+		 "to_explode": true
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "announced_on", 
+		 "c2": "announced_on", 
+		 "file_name": "fr_announced_on_year", 
+		 "to_drop": []
+		}
+	  ], 
+	"numerical": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "raised_amount_usd", 
+		 "c2": "raised_amount_usd", 
+		 "file_name": "fr_raised_amount", 
+		 "to_drop": [], 
+		 "k": 40
+		}
+	  ]
+  },
+"funds":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "fund_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "ename_id", 
+		 "rel": "has_fund", 
+		 "c2": "name_id", 
+		 "file_name": "fund_org", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "announced_on_year", 
+		 "c2": "announced_on", 
+		 "file_name": "fund_announced_on", 
+		 "to_drop": []
+		}
+	  ], 
+	"numerical": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "raised_amount_usd", 
+		 "c2": "raised_amount_usd", 
+		 "file_name": "fund_raised_amount", 
+		 "to_drop": [], 
+		 "k": 40
+		}
+	  ]
+  },
+"investors":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "investor_types", 
+		 "file_name": "iv_itype", 
+		 "to_drop": [], 
+		 "to_expand": ["org", "person"], 
+		 "to_explode": true
+		}
+	  ], 
+	"numerical": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "total_invested_usd", 
+		 "c2": "total_funding_usd", 
+		 "file_name": "iv_total_fund", 
+		 "to_drop": [], 
+		 "k": 40
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "investment_count", 
+		 "c2": "investment_count", 
+		 "file_name": "iv_investment_count", 
+		 "to_drop": [], 
+		 "k": 40
+		}
+	  ]
+  },
+"ipos":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "ipo_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "org_ipo", 
+		 "c2": "uuid", 
+		 "file_name": "ipo_type", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "ipo_coun", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "stock_exchange_symbol", 
+		 "c2": "stock_exchange_symbol", 
+		 "file_name": "ipo_stock_symbol", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "went_public_on", 
+		 "c2": "went_public_on", 
+		 "file_name": "ipo_public_year", 
+		 "to_drop": []
+		}
+	  ], 
+	"numerical": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "share_price_usd", 
+		 "c2": "share_price_usd", 
+		 "file_name": "ipo_share_price", 
+		 "to_drop": [], 
+		 "k": 40
+		}, 
+	        {
+		 "c1": "uuid", 
+		 "rel": "raised_amount_usd", 
+		 "c2": "money_raised_usd", 
+		 "file_name": "ipo_raised_amount", 
+		 "to_drop": [], 
+		 "k": 40
+		}
+	  ]
+  },
+"jobs":
+  {
+    "regular": 
+	  [
+	        {
+	         "c1": "person_name", 
+		 "rel": "has_job", 
+		 "c2": "uuid", 
+		 "file_name": "jobs_people", 
+		 "to_drop": [], 
+		 "to_expand": ["person"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "in_org", 
+		 "c2": "org_name", 
+		 "file_name": "jobs_org", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid",  
+		 "rel": "job_title", 
+		 "c2": "title", 
+		 "file_name": "jobs_title", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": true
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "job_type", 
+		 "c2": "job_type", 
+		 "file_name": "jobs_types", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "is_current", 
+		 "c2": "is_current", 
+		 "file_name": "jobs_current", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "jobs_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "uuid", 
+		 "rel": "started_on", 
+		 "c2": "started_on", 
+		 "file_name": "jobs_started_on", 
+		 "to_drop": []
+		}, 
+		{
+		 "c1": "uuid", 
+		 "rel": "ended_on", 
+		 "c2": "ended_on", 
+		 "file_name": "jobs_ended_on", 
+		 "to_drop": []
+		}
+	  ]
+  },
+"organizations":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "employee_count", 
+		 "c2": "employee_count", 
+		 "file_name": "org_employee_count", 
+		 "to_drop": ["unknown"], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "org_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "org_country", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "org_status", 
+		 "c2": "status", 
+		 "file_name": "org_status", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "role", 
+		 "c2": "roles", 
+		 "file_name": "org_role", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": true
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "category", 
+		 "c2": "category_list", 
+		 "file_name": "org_category", 
+		 "to_drop": ["Other"], 
+		 "to_expand": [], 
+		 "to_explode": true
+		}, 
+		{
+		 "c1": "name_id",  
+		 "rel": "category_group", 
+		 "c2": "category_groups_list", 
+		 "file_name": "org_category_subgroup", 
+		 "to_drop": ["Other"], 
+		 "to_expand": [], 
+		 "to_explode": true
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "founded_on", 
+		 "c2": "founded_on", 
+		 "file_name": "org_founded_on_year", 
+		 "to_drop": []
+		}
+	  ]
+  },
+"people":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "gender", 
+		 "c2": "gender", 
+		 "file_name": "person_gender", 
+		 "to_drop": ["not_provided", "other"], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "person_type", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "person_country", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false
+		}
+	  ]
+  },
+"investment_partners":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "iname_id", 
+		 "rel": "funding_round_investor", 
+		 "c2": "fund_id", 
+		 "file_name": "fr_inv", 
+		 "to_drop": [], 
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false
+		}, 
+		{
+		 "c1": "pname_id", 
+		 "rel": "funding_round_investment_partner", 
+		 "c2": "fund_id", 
+		 "file_name": "fr_investment_partner", 
+		 "to_drop": [], 
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false
+		}
+	  ]
+  },
+"organization_parents":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "parent_org", 
+		 "c2": "pname_id", 
+		 "file_name": "org_parent", 
+		 "to_drop": [], 
+		 "to_expand": ["org"], 
+		 "to_explode": false
+		}
+	  ]
+  }
+}
