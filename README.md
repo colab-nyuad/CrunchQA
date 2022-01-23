@@ -1,6 +1,6 @@
 Download Crunchbase dump and unzip into folder data
 
-Command to generate KG: python creare_kg.py
+Command to generate KG: python construct_kg.py
 
 Command to shuffle and split generated triples into train, valid, test: to do (add bash script)
 
