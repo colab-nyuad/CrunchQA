@@ -13,10 +13,6 @@ from sklearn import preprocessing
 import math
 import json
 
-# to do 4
-#add 10 for merge name id
-#add check inclusion function for all
-
 clusters = {}
 organizations_list = []
 people_list = []
