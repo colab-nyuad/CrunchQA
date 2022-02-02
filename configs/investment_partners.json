@@ -1,0 +1,1 @@
+{"regular": [{"c1": "iname_id", "rel": "funding_round_investor", "c2": "fund_id", "file_name": "fr_inv", "to_drop": [], "to_expand": ["org", "person"], "to_explode": false}, {"c1": "pname_id", "rel": "funding_round_investment_partner", "c2": "fund_id", "file_name": "fr_investment_partner", "to_drop": [], "to_expand": ["org", "person"], "to_explode": false}]}

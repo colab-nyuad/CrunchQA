@@ -1,0 +1,1 @@
+{"regular": [{"c1": "name_id", "rel": "parent_org", "c2": "pname_id", "file_name": "org_parent", "to_drop": [], "to_expand": ["org"], "to_explode": false}]}
