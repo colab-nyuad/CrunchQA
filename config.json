@@ -6,28 +6,37 @@
 		 "c1": "rname_id", 
 		 "rel": "is_acquirer", 
 		 "c2": "uuid", 
-		 "file_name": "acquisition_acquirer", 
+		 "file_name": "org-is_acquirer-acquisition", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"acquisition",
+		 "separate":false
 		}, 
 		{
 		 "c1": "ename_id", 
 		 "rel": "is_acquiree", 
 		 "c2": "uuid", 
-		 "file_name": "acquisition_acquiree", 
+		 "file_name": "org-is_acquiree-acquisition", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"acquisition",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "type_of", 
 		 "c2": "acquisition_type", 
-		 "file_name": "acquisition_type", 
+		 "file_name": "acquisition-type_of-acquisition_type", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"acquisition",
+		 "tail":"acquisition_type",
+		 "separate":false
 		}
 	  ], 
 	"temporal": 
@@ -36,8 +45,10 @@
 		 "c1": "uuid", 
 		 "rel": "acquired_on", 
 		 "c2": "acquired_on", 
-		 "file_name": "acquisition_on_year", 
-		 "to_drop": []
+		 "file_name": "acquisition-acquired_on-date", 
+		 "to_drop": [],
+		 "head":"acquisition",
+		 "tail":"date"
 		}
 	  ], 
 	"numerical": 
@@ -46,12 +57,18 @@
 		 "c1": "uuid", 
 		 "rel": "price_usd", 
 		 "c2": "price_usd", 
-		 "file_name": "acquisition_price", 
-		 "to_drop": [], 
-		 "k": 40
-                }
+		 "file_name": "acquisition-price_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"acquisition",
+		 "tail":"price",
+		 "separate":false
+		 }
+		              
 	  ]
   },
+      
+
 "event_appearance":
   {
     "regular": 
@@ -60,49 +77,65 @@
 		 "c1": "name_id", 
 		 "rel": "sponsor", 
 		 "c2": "sponsor", 
-		 "file_name": "event_appearance_sponsor", 
+		 "file_name": "event-sponsor-[to_change]", 
 		 "to_drop": [], 
-		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"to_change",
+		 "separate":true
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "speaker", 
 		 "c2": "speaker", 
-		 "file_name": "event_appearance_speaker", 
+		 "file_name": "event-speaker-[to_change]", 
 		 "to_drop": [], 
-		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"to_change",
+		 "separate":true		 
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "organizer", 
 		 "c2": "organizer", 
-		 "file_name": "event_appearance_organizer", 
+		 "file_name": "event-organizer-[to_change]", 
 		 "to_drop": [], 
-		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"to_change",
+		 "separate":true	
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "exhibitor", 
 		 "c2": "exhibitor", 
-		 "file_name": "event_appearance_exhibitor", 
+		 "file_name": "event-exhibitor-[to_change]", 
 		 "to_drop": [], 
-		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"to_change",
+		 "separate":true	
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "contestant", 
 		 "c2": "contestant", 
-		 "file_name": "event_appearance_contestant", 
+		 "file_name": "event-contestant-[to_change]", 
 		 "to_drop": [], 
-		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_expand": ["org", "person"], 
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"to_change",
+		 "separate":true	
 		}
 	  ]
   },
+  
 "events":
   {
 	"regular": 
@@ -111,28 +144,37 @@
 		 "c1": "name_id", 
 		 "rel": "country_code", 
 		 "c2": "country_code", 
-		 "file_name": "event_city", 
+		 "file_name": "event-country_code-country_code", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"country_code",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "city", 
 		 "c2": "city", 
-		 "file_name": "event_city", 
+		 "file_name": "event-city-city", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"event",
+		 "tail":"city",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "type_of", 
 		 "c2": "event_roles", 
-		 "file_name": "event_type", 
+		 "file_name": "event-type_of-event_role", 
 		 "to_drop": ["other"], 
 		 "to_expand": [], 
-		 "to_explode": true
+		 "to_explode": true,
+		 "head":"event",
+		 "tail":"event_role",
+		 "separate":false
 		}
 	  ], 
 	"temporal": 
@@ -141,18 +183,23 @@
 		 "c1": "name_id", 
 		 "rel": "started_on", 
 		 "c2": "started_on", 
-		 "file_name": "event_start", 
-		 "to_drop": []
+		 "file_name": "event-started_on-date", 
+		 "to_drop": [],
+		 "head":"event",
+		 "tail":"date"
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "ended_on", 
 		 "c2": "ended_on", 
-		 "file_name": "event_end", 
-		 "to_drop": []
+		 "file_name": "event-ended_on-date", 
+		 "to_drop": [],
+		 "head":"event",
+		 "tail":"date"
 		}
 	  ]
   },
+      
 "funding_rounds":
   {
     "regular": 
@@ -161,46 +208,61 @@
 		 "c1": "org_name_id", 
 		 "rel": "launched", 
 		 "c2": "name_id", 
-		 "file_name": "fr_org", 
+		 "file_name": "org-launched-funding_round", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"funding_round",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "type_of", 
 		 "c2": "investment_type", 
-		 "file_name": "fr_subtype", 
-		 "to_drop": [], 
+		 "file_name": "funding_round-type_of-investment_type", 
+		 "to_drop": ["series_unknown"], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"funding_round",
+		 "tail":"investment_type",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "country_code", 
 		 "c2": "country_code", 
-		 "file_name": "fr_coun", 
+		 "file_name": "funding_round-country_code-country_code", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"funding_round",
+		 "tail":"country_code",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "city", 
 		 "c2": "city", 
-		 "file_name": "fr_city", 
+		 "file_name": "funding_round-city-city", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"funding_round",
+		 "tail":"city",
+		 "separate":false
 		}, 
 		{
 		 "c1": "lead_investor_uuids", 
 		 "rel": "lead_investor_of", 
 		 "c2": "name_id", 
-		 "file_name": "fr_lead_inv", 
+		 "file_name": "[to_change]-lead_investor_of-funding_round", 
 		 "to_drop": [], 
 		 "to_expand": ["org", "person"], 
-		 "to_explode": true
+		 "to_explode": true,
+		 "head":"to_change",
+		 "tail":"funding_round",
+		 "separate":true
 		}
 	  ], 
 	"temporal": 
@@ -209,8 +271,10 @@
 		 "c1": "name_id", 
 		 "rel": "announced_on", 
 		 "c2": "announced_on", 
-		 "file_name": "fr_announced_on_year", 
-		 "to_drop": []
+		 "file_name": "funding_round-announced_on-date", 
+		 "to_drop": [],
+		 "head":"funding_round",
+		 "tail":"date"
 		}
 	  ], 
 	"numerical": 
@@ -219,12 +283,16 @@
 		 "c1": "name_id", 
 		 "rel": "raised_amount_usd", 
 		 "c2": "raised_amount_usd", 
-		 "file_name": "fr_raised_amount", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "funding_round-raised_amount_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"funding_round",
+		 "tail":"price",
+		 "separate":false
 		}
 	  ]
   },
+  
 "funds":
   {
     "regular": 
@@ -233,29 +301,38 @@
 		 "c1": "name_id", 
 		 "rel": "type_of", 
 		 "c2": "type", 
-		 "file_name": "fund_type", 
+		 "file_name": "fund-type_of-type_fund", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"fund",
+		 "tail":"type_fund",
+		 "separate":false
 		}, 
 		{
 		 "c1": "ename_id", 
 		 "rel": "has_fund", 
 		 "c2": "name_id", 
-		 "file_name": "fund_org", 
+		 "file_name": "org-has_fund-fund", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"fund",
+		 "separate":false
 		}
 	  ], 
 	"temporal": 
 	  [
 	        {
 		 "c1": "name_id", 
-		 "rel": "announced_on_year", 
+		 "rel": "announced_on", 
 		 "c2": "announced_on", 
-		 "file_name": "fund_announced_on", 
-		 "to_drop": []
+		 "file_name": "fund-announced_on-date", 
+		 "to_drop": [],
+		 "head":"fund",
+		 "tail":"date",
+		 "separate":false
 		}
 	  ], 
 	"numerical": 
@@ -264,12 +341,16 @@
 		 "c1": "name_id", 
 		 "rel": "raised_amount_usd", 
 		 "c2": "raised_amount_usd", 
-		 "file_name": "fund_raised_amount", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "fund-raised_amount_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"fund",
+		 "tail":"price",
+		 "separate":false
 		}
 	  ]
   },
+      
 "investors":
   {
     "regular": 
@@ -278,10 +359,13 @@
 		 "c1": "name_id", 
 		 "rel": "type_of", 
 		 "c2": "investor_types", 
-		 "file_name": "iv_itype", 
+		 "file_name": "[to_change]-type_of-investor_type", 
 		 "to_drop": [], 
 		 "to_expand": ["org", "person"], 
-		 "to_explode": true
+		 "to_explode": true,
+		 "head":"to_change",
+		 "tail":"investor_type",
+		 "separate":true
 		}
 	  ], 
 	"numerical": 
@@ -290,20 +374,27 @@
 		 "c1": "name_id", 
 		 "rel": "total_invested_usd", 
 		 "c2": "total_funding_usd", 
-		 "file_name": "iv_total_fund", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "org-total_invested_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"org",
+		 "tail":"price",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "investment_count", 
 		 "c2": "investment_count", 
-		 "file_name": "iv_investment_count", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "[to_change]-investment_count-count", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"to_change",
+		 "tail":"count",
+		 "separate":true
 		}
 	  ]
   },
+  
 "ipos":
   {
     "regular": 
@@ -312,37 +403,49 @@
 		 "c1": "uuid", 
 		 "rel": "type_of", 
 		 "c2": "type", 
-		 "file_name": "ipo_type", 
+		 "file_name": "ipo-type_of-type_ipo", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"ipo",
+		 "tail":"type_ipo",
+		 "separate":false
 		}, 
 		{
 		 "c1": "name_id", 
 		 "rel": "org_ipo", 
 		 "c2": "uuid", 
-		 "file_name": "ipo_type", 
+		 "file_name": "ipo-org_ipo-org", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"ipo",
+		 "tail":"org",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "country_code", 
 		 "c2": "country_code", 
-		 "file_name": "ipo_coun", 
+		 "file_name": "ipo-country_code-country_code", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"ipo",
+		 "tail":"country_code",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "stock_exchange_symbol", 
 		 "c2": "stock_exchange_symbol", 
-		 "file_name": "ipo_stock_symbol", 
+		 "file_name": "ipo-stock_exchange_symbol-stock_exchange_symbol", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"ipo",
+		 "tail":"stock_exchange_symbol",
+		 "separate":false
 		}
 	  ], 
 	"temporal": 
@@ -351,8 +454,10 @@
 		 "c1": "uuid", 
 		 "rel": "went_public_on", 
 		 "c2": "went_public_on", 
-		 "file_name": "ipo_public_year", 
-		 "to_drop": []
+		 "file_name": "ipo-went_public_on-date", 
+		 "to_drop": [],
+		 "head":"ipo",
+		 "tail":"date"
 		}
 	  ], 
 	"numerical": 
@@ -361,77 +466,102 @@
 		 "c1": "uuid", 
 		 "rel": "share_price_usd", 
 		 "c2": "share_price_usd", 
-		 "file_name": "ipo_share_price", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "ipo-share_price_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"ipo",
+		 "tail":"price",
+		 "separate":false
 		}, 
 	        {
 		 "c1": "uuid", 
 		 "rel": "raised_amount_usd", 
 		 "c2": "money_raised_usd", 
-		 "file_name": "ipo_raised_amount", 
-		 "to_drop": [], 
-		 "k": 40
+		 "file_name": "ipo-raised_amount_usd-price", 
+		 "to_drop": [0], 
+		 "k": 40,
+		 "head":"ipo",
+		 "tail":"price",
+		 "separate":false
 		}
 	  ]
   },
+      
 "jobs":
   {
     "regular": 
 	  [
-	        {
-	         "c1": "person_name", 
+	    {
+	     "c1": "person_name", 
 		 "rel": "has_job", 
 		 "c2": "uuid", 
-		 "file_name": "jobs_people", 
+		 "file_name": "person-has_job-job", 
 		 "to_drop": [], 
 		 "to_expand": ["person"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"person",
+		 "tail":"job",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "in_org", 
 		 "c2": "org_name", 
-		 "file_name": "jobs_org", 
+		 "file_name": "job-in_org-org", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"job",
+		 "tail":"org",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid",  
 		 "rel": "job_title", 
 		 "c2": "title", 
-		 "file_name": "jobs_title", 
+		 "file_name": "job-job_title-job_title", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": true
+		 "to_explode": true,
+		 "head":"job",
+		 "tail":"job_title",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "job_type", 
 		 "c2": "job_type", 
-		 "file_name": "jobs_types", 
+		 "file_name": "jobs-job_type-job_type", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
-		}, 
+		 "to_explode": false,
+		 "head":"job",
+		 "tail":"job_type",
+		 "separate":false
+		},
 		{
 		 "c1": "uuid", 
 		 "rel": "is_current", 
 		 "c2": "is_current", 
-		 "file_name": "jobs_current", 
+		 "file_name": "job-is_current-job_current", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"job",
+		 "tail":"job_current",
+		 "separate":false
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "type_of", 
 		 "c2": "type", 
-		 "file_name": "jobs_type", 
+		 "file_name": "job-type_of-type_job", 
 		 "to_drop": [], 
 		 "to_expand": [], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"job",
+		 "tail":"type_job",
+		 "separate":false
 		}
 	  ], 
 	"temporal": 
@@ -440,130 +570,23 @@
 		 "c1": "uuid", 
 		 "rel": "started_on", 
 		 "c2": "started_on", 
-		 "file_name": "jobs_started_on", 
-		 "to_drop": []
+		 "file_name": "job-started_on-date", 
+		 "to_drop": [],
+		 "head":"job",
+		 "tail":"date"
 		}, 
 		{
 		 "c1": "uuid", 
 		 "rel": "ended_on", 
 		 "c2": "ended_on", 
-		 "file_name": "jobs_ended_on", 
-		 "to_drop": []
+		 "file_name": "job-ended_on-date", 
+		 "to_drop": [],
+		 "head":"job",
+		 "tail":"date"
 		}
 	  ]
   },
-"organizations":
-  {
-    "regular": 
-	  [
-	        {
-		 "c1": "name_id", 
-		 "rel": "employee_count", 
-		 "c2": "employee_count", 
-		 "file_name": "org_employee_count", 
-		 "to_drop": ["unknown"], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "type_of", 
-		 "c2": "type", 
-		 "file_name": "org_type", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "country_code", 
-		 "c2": "country_code", 
-		 "file_name": "org_country", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "org_status", 
-		 "c2": "status", 
-		 "file_name": "org_status", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "role", 
-		 "c2": "roles", 
-		 "file_name": "org_role", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": true
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "category", 
-		 "c2": "category_list", 
-		 "file_name": "org_category", 
-		 "to_drop": ["Other"], 
-		 "to_expand": [], 
-		 "to_explode": true
-		}, 
-		{
-		 "c1": "name_id",  
-		 "rel": "category_group", 
-		 "c2": "category_groups_list", 
-		 "file_name": "org_category_subgroup", 
-		 "to_drop": ["Other"], 
-		 "to_expand": [], 
-		 "to_explode": true
-		}
-	  ], 
-	"temporal": 
-	  [
-	        {
-		 "c1": "name_id", 
-		 "rel": "founded_on", 
-		 "c2": "founded_on", 
-		 "file_name": "org_founded_on_year", 
-		 "to_drop": []
-		}
-	  ]
-  },
-"people":
-  {
-    "regular": 
-	  [
-	        {
-		 "c1": "name_id", 
-		 "rel": "gender", 
-		 "c2": "gender", 
-		 "file_name": "person_gender", 
-		 "to_drop": ["not_provided", "other"], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "type_of", 
-		 "c2": "type", 
-		 "file_name": "person_type", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}, 
-		{
-		 "c1": "name_id", 
-		 "rel": "country_code", 
-		 "c2": "country_code", 
-		 "file_name": "person_country", 
-		 "to_drop": [], 
-		 "to_expand": [], 
-		 "to_explode": false
-		}
-	  ]
-  },
+  
 "investment_partners":
   {
     "regular": 
@@ -572,22 +595,29 @@
 		 "c1": "iname_id", 
 		 "rel": "funding_round_investor", 
 		 "c2": "fund_id", 
-		 "file_name": "fr_inv", 
+		 "file_name": "[to_change]-funding_round_investor-funding_round", 
 		 "to_drop": [], 
 		 "to_expand": ["org", "person"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"to_change",
+		 "tail":"funding_round",
+		 "separate":true
 		}, 
 		{
 		 "c1": "pname_id", 
 		 "rel": "funding_round_investment_partner", 
 		 "c2": "fund_id", 
-		 "file_name": "fr_investment_partner", 
+		 "file_name": "[to_change]-funding_round_investment_partner-funding_round", 
 		 "to_drop": [], 
 		 "to_expand": ["org", "person"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"to_change",
+		 "tail":"funding_round",
+		 "separate":true
 		}
 	  ]
   },
+      
 "organization_parents":
   {
     "regular": 
@@ -596,11 +626,163 @@
 		 "c1": "name_id", 
 		 "rel": "parent_org", 
 		 "c2": "pname_id", 
-		 "file_name": "org_parent", 
+		 "file_name": "org-parent_org-org", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
-		 "to_explode": false
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"org",
+		 "separate":false
+		}
+	  ]
+  },
+      
+"organizations":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "employee_count", 
+		 "c2": "employee_count", 
+		 "file_name": "org-employee_count-employee_count", 
+		 "to_drop": ["unknown"], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"employee_count",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "org-type_of-type_org", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"type_org",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "org-country_code-country_code", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"country_code",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "org_status", 
+		 "c2": "status", 
+		 "file_name": "org-org_status-org_status", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"org",
+		 "tail":"org_status",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "role", 
+		 "c2": "roles", 
+		 "file_name": "org-role-org_role", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": true,
+		 "head":"org",
+		 "tail":"org_role",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "category", 
+		 "c2": "category_list", 
+		 "file_name": "org-category-category", 
+		 "to_drop": ["Other"], 
+		 "to_expand": [], 
+		 "to_explode": true,
+		 "head":"org",
+		 "tail":"category",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id",  
+		 "rel": "category_group", 
+		 "c2": "category_groups_list", 
+		 "file_name": "org-category_group-category_group", 
+		 "to_drop": ["Other"], 
+		 "to_expand": [], 
+		 "to_explode": true,
+		 "head":"org",
+		 "tail":"category_group",
+		 "separate":false
+		}
+	  ], 
+	"temporal": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "founded_on", 
+		 "c2": "founded_on", 
+		 "file_name": "org-founded_on-date", 
+		 "to_drop": [],
+		 "head":"org",
+		 "tail":"date",
+		 "separate":false
+		}
+	  ]
+  },
+
+"people":
+  {
+    "regular": 
+	  [
+	        {
+		 "c1": "name_id", 
+		 "rel": "gender", 
+		 "c2": "gender", 
+		 "file_name": "person-gender-gender", 
+		 "to_drop": ["not_provided", "other"], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"person",
+		 "tail":"gender",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "type_of", 
+		 "c2": "type", 
+		 "file_name": "person-type_of-type_person", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"person",
+		 "tail":"type_person",
+		 "separate":false
+		}, 
+		{
+		 "c1": "name_id", 
+		 "rel": "country_code", 
+		 "c2": "country_code", 
+		 "file_name": "person-country_code-country_code", 
+		 "to_drop": [], 
+		 "to_expand": [], 
+		 "to_explode": false,
+		 "head":"person",
+		 "tail":"country_code",
+		 "separate":false
 		}
 	  ]
   }
+  
+
 }
