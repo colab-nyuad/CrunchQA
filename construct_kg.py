@@ -13,6 +13,9 @@ from sklearn import preprocessing
 import math
 import json
 
+# to do 4
+#add 10 for merge name id
+#add check inclusion function for all
 
 clusters = {}
 organizations_list = []
@@ -65,16 +68,49 @@ people = take_sample(people, sample, sample_size)
 print("name_id unique? ", check_uniqueness(people["name_id"]))
 print("length of dataframe people :", len(people))
 
+event_appearances = pd.read_csv("data/event_appearances.csv")
+event_appearance_df = event_appearances[["participant_name", "participant_uuid", "participant_type"]]
+event_appearance_df = event_appearance_df.dropna()
+
+event_appearance_people = event_appearance_df[event_appearance_df["participant_type"] == "person"]
+event_appearance_people["appearance_people_name_id"] = merge_with_id(event_appearance_people["participant_uuid"], event_appearance_people["participant_name"])
+event_appearance_people = take_sample(event_appearance_people, sample, sample_size)
+
+event_appearance_org = event_appearance_df[event_appearance_df["participant_type"] == "organization"]
+event_appearance_org["appearance_org_name_id"] = merge_with_id(event_appearance_org["participant_uuid"], event_appearance_org["participant_name"])
+event_appearance_org = take_sample(event_appearance_org, sample, sample_size)
+
+investor_df = pd.read_csv("data/investors.csv")
+investor_df = investor_df[["uuid", "name", "type"]]
+investor_df = investor_df.dropna()
+investor_people = investor_df[investor_df["type"] == "person"]
+investor_people["investor_people_name_id"] = merge_with_id(investor_people["uuid"], investor_people["name"])
+investor_people = take_sample(investor_people, sample, sample_size)
+
+investor_org = investor_df[investor_df["type"] == "organization"]
+investor_org["investor_org_name_id"] = merge_with_id(investor_org["uuid"], investor_org["name"])
+investor_org = take_sample(investor_org, sample, sample_size)
+
 orgs = set(org['name_id'])
+orgs = orgs.union(set(event_appearance_org["appearance_org_name_id"]))
+orgs = orgs.union(set(investor_org["investor_org_name_id"]))
+
 people_names = set(people["name_id"])
+people_names = people_names.union(set(event_appearance_people["appearance_people_name_id"]))
+people_names = people_names.union(set(investor_people["investor_people_name_id"]))
+
 orgs_and_people = set()
 orgs_and_people = orgs_and_people.union(people_names)
 orgs_and_people = orgs_and_people.union(orgs)
 
+#print(list(people_names)[:20])
+#print(list(orgs)[:20])
 
 #************************************************************************#
 #********************************* Jobs *********************************#
 #************************************************************************#
+# checked
+# tested
 
 config_jobs = config["jobs"]
 jobs = pd.read_csv("data/jobs.csv")
@@ -96,6 +132,8 @@ create_triples(jobs, config_jobs, orgs, people_names, organizations_list, people
 #************************************************************************#
 #********************************* IPOs *********************************#
 #************************************************************************#
+# checked
+# tested
 
 config_ipos = config["ipos"]
 ipos = pd.read_csv("data/ipos.csv")
@@ -109,9 +147,12 @@ print("name_id unique? ", check_uniqueness(ipos["uuid"]))
 print("length of dataframe ipos:", len(ipos))
 create_triples(ipos, config_ipos, orgs, people_names, organizations_list, people_list, clusters)
 
+
 #************************************************************************#
 #************************* Organization Parents *************************#
 #************************************************************************#
+#
+# tested
 
 config_organization_parents = config["organization_parents"]
 org_pa = pd.read_csv("data/org_parents.csv")
@@ -125,9 +166,12 @@ print("length of dataframe organization parents:", len(org_pa))
 organizations_list.extend(list(set(org_pa['pname_id'])))
 create_triples(org_pa, config_organization_parents, orgs, people_names, organizations_list, people_list)
 
+
 #************************************************************************#
 #******************************* Funding Rounds *************************#
 #************************************************************************#
+# checked
+# tested
 
 config_funding_rounds = config["funding_rounds"]
 fr = pd.read_csv("data/funding_rounds.csv")
@@ -150,13 +194,16 @@ create_triples(fr, config_funding_rounds, orgs, people_names, organizations_list
 triples = pd.DataFrame(fr["investment_type"].unique())
 triples.insert(1, "relation", "subtype_of")
 triples.insert(2, "type", "funding_round")
+triples.columns = ["investment_type", "subtype_of", "type_funding_round"]
 save_kg_triples(triples)
-save_qa_triples(triples, 'fr_subtype2')
+save_qa_triples(triples, 'investment_type-subtype_of-type_funding_round')
 
 
 #************************************************************************#
 #************************** Investment Partners *************************#
 #************************************************************************#
+#
+# tested
 
 config_investment_partners = config["investment_partners"]
 ip = pd.read_csv("data/investment_partners.csv")
@@ -169,9 +216,12 @@ ip = take_sample(ip, sample, sample_size)
 print("length of dataframe investment partners:", len(ip))
 create_triples(ip, config_investment_partners, orgs, people_names, organizations_list, people_list) 
 
+
 #************************************************************************#
 #********************************** Investors  **************************#
 #************************************************************************#
+# checked
+# tested
 
 config_investors = config["investors"]
 investors = pd.read_csv("data/investors.csv")
@@ -185,18 +235,24 @@ investors = take_sample(investors, sample,sample_size)
 print("name_id unique? ", check_uniqueness(investors["name_id"]))
 print("length of dataframe investors:", len(investors))
 
+investors["investor_types"] = investors["investor_types"].apply(lambda x: x.split(","))
+investors = investors.explode("investor_types")
 ivsubtype = list(investors.investor_types.unique())
 ivsubtype.remove("investor")
 triples = pd.DataFrame(ivsubtype)
 triples.insert(1, "relation", "subtype_of")
 triples.insert(2, "type", "investor")
+triples.columns = ["investor_type", "relation", "type_investor"]
 save_kg_triples(triples)
-save_qa_triples(triples, 'iv_subtype')
+save_qa_triples(triples, 'investor_type-subtype_of-type_investor')
 create_triples(investors, config_investors, orgs, people_names, organizations_list, people_list, clusters)  
+
 
 #************************************************************************#
 #********************************** Funds *******************************#
 #************************************************************************#
+# checked
+# tested
 
 config_funds = config["funds"]
 funds = pd.read_csv("data/funds.csv")
@@ -210,9 +266,11 @@ print("name_id unique? ", check_uniqueness(funds['name_id']))
 print("length of dataframe funds:", len(funds))
 create_triples(funds, config_funds, orgs, people_names, organizations_list, people_list, clusters)   
 
+
 #************************************************************************#
 #*************************** Acquisitions *******************************#
 #************************************************************************#
+# checked
 
 config_acquisitions = config["acquisitions"]
 a = pd.read_csv("data/acquisitions.csv")
@@ -231,14 +289,17 @@ triples.remove("acquisition")
 if len(triples) > 0:
     triples = pd.DataFrame(triples)
     triples.insert(1, "relation", "subtype_of")
-    triples.insert(2, "type","acquisition")
+    triples.insert(2, "type_acquisition","acquisition")
+    triples.columns = ["acquisition_type", "relation", "type_acquisition"]
     save_kg_triples(triples)
-    save_qa_triples(triples, 'acquisition_subtype')
+    save_qa_triples(triples, 'acquisition_type-subtype_of-type_acquisition')
 create_triples(a, config_acquisitions, orgs, people_names, organizations_list, people_list, clusters)    
 
 #************************************************************************#
 #********************************* Events *******************************#
 #************************************************************************#
+# checked
+# tested
 
 config_events = config["events"]
 e = pd.read_csv("data/events.csv")
@@ -246,38 +307,57 @@ e["name_id"] = merge_with_id(e["uuid"],e["name"])
 e = take_sample(e, sample, sample_size)
 print("name_id unique? ", check_uniqueness(e["name_id"]))
 print("length of dataframe events:", len(e))
+e["event_roles"] = e["event_roles"].apply(lambda x: x.split(","))
+e = e.explode("event_roles")
+e["event_roles"] = e["event_roles"].replace("other", float("NaN"))
+e = e.dropna()
 triples = list(e["event_roles"].unique())
 triples = pd.DataFrame(triples)
 triples.insert(1, "relation", "subtype_of")
 triples.insert(2, "type", "event")
+triples.columns = ["event_role", "relation", "type_event"]
 save_kg_triples(triples)
-save_qa_triples(triples, 'event_subtype')
+save_qa_triples(triples, 'event_role-subtype_of-type_event')
 create_triples(e, config_events, orgs, people_names, organizations_list, people_list)    
 
 #************************************************************************#
 #************************ Event_appearance ******************************#
 #************************************************************************#
+# checked
+# tested
 
 config_event_appearance = config["event_appearance"]
 ea = pd.read_csv("data/event_appearances.csv")
 ea["name_id"] = merge_with_id(ea["participant_uuid"],ea["participant_name"])
 ea["event_id"] = merge_with_id(ea["event_uuid"],ea["event_name"])
+
 ea = take_sample(ea, sample, sample_size)
 print("name_id unique? ", check_uniqueness(ea["event_id"]))
 print("length of dataframe event appearance:", len(ea))
 appearance_types = ea['appearance_type'].unique()
 for at in appearance_types:
     ea[at] = ea.apply(lambda row: process_appearance_type(row, at), axis=1)
+
+#print(ea)
+#print(ea.sponsor.unique())
+#print(ea.speaker.unique())
+#print(ea.organizer.unique())
+#print(ea.contestant.unique())
+#print(ea.exhibitor.unique())
 create_triples(ea, config_event_appearance, orgs, people_names, organizations_list, people_list)    
 
 #************************************************************************#
 #************************ Organizations *********************************#
 #************************************************************************#
+# 
+# tested
 
 config_organizations = config["organizations"]
 organizations_list = set(organizations_list)
 org = org[org['name_id'].isin(organizations_list)]
-create_triples(org, config, orgs, people_names, organizations_list, people_list)     
+org['type'] = 'organization'
+create_triples(org, config_organizations, orgs, people_names, organizations_list, people_list)     
+
 
 #************************************************************************#
 #******************************* People *********************************#
