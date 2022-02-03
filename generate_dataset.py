@@ -49,15 +49,16 @@ for folder in folders:
             
             
 # remove and create file that record the question dataset size
-record_path = "qa_templates/qa_dataset_overview.txt"
-if os.path.exists(record_path):
-    os.remove(record_path)
-    print("successfully deleted old qa_dataset_overview.txt")
-else:
-    print("qa_dataset_overview.txt doesn't exist yet, will create a new one")
-    
-open(record_path, 'a').close()
-print("created new qa_dataset_overvies.txt")
+record_paths = ["qa_templates/qa_dataset_overview.txt", "qa/1hop/qa_1hop.txt", "qa/2hop/qa_2hop.txt", "qa/advanced/qa_advanced.txt"]
+for record_path in record_paths:
+    if os.path.exists(record_path):
+        os.remove(record_path)
+        print("successfully deleted old" + record_path)
+    else:
+        print(record_path + "doesn't exist yet, will create a new one")
+        
+    open(record_path, 'a').close()
+    print("created new" + record_path)
 
 
 # path for the triplets
