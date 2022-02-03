@@ -26,3 +26,4 @@ series_h	Series H
 series_i	Series I	
 series_j	Series J	
 series_unknown	Venture - Series Unknown
+pre_seed	Pre - seed
