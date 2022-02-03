@@ -244,6 +244,13 @@ def create_regular_triples(data, config_regular, orgs, people, organizations_lis
         triples.insert(1, "relation", r)
         triples = triples.drop_duplicates(keep = "last")
         
+        '''
+        if tail == "country_code":
+            print(file_name)
+            print(triples)
+            print(triples.country_code.unique())
+        '''
+        
         for e in to_expand:
                 if e == 'org': 
                     organizations_list.extend(list(set(triples[head]) & orgs))
