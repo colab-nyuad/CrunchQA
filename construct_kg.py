@@ -80,6 +80,7 @@ people = take_sample(people, sample, sample_size)
 print("name_id unique? ", check_uniqueness(people["name_id"]))
 print("length of dataframe people :", len(people))
 
+'''
 event_appearances = pd.read_csv("data/event_appearances.csv")
 event_appearance_df = event_appearances[["participant_name", "participant_uuid", "participant_type"]]
 event_appearance_df = event_appearance_df.dropna()
@@ -102,18 +103,23 @@ investor_people = take_sample(investor_people, sample, sample_size)
 investor_org = investor_df[investor_df["type"] == "organization"]
 investor_org["investor_org_name_id"] = merge_with_id(investor_org["uuid"], investor_org["name"])
 investor_org = take_sample(investor_org, sample, sample_size)
-
+'''
 orgs = set(org['name_id'])
+'''
 orgs = orgs.union(set(event_appearance_org["appearance_org_name_id"]))
 orgs = orgs.union(set(investor_org["investor_org_name_id"]))
+'''
 
 people_names = set(people["name_id"])
+'''
 people_names = people_names.union(set(event_appearance_people["appearance_people_name_id"]))
 people_names = people_names.union(set(investor_people["investor_people_name_id"]))
+'''
 
 orgs_and_people = set()
 orgs_and_people = orgs_and_people.union(people_names)
 orgs_and_people = orgs_and_people.union(orgs)
+
 
 #print(list(people_names)[:20])
 #print(list(orgs)[:20])
