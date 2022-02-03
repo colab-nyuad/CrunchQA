@@ -183,10 +183,12 @@ def create_numerical_triples(data, config_numerical, clusters, orgs, people):
             clustering_data_person = np.array(people_df[tail].tolist()).reshape((len(people_df), 1))
             clustering_data_org = np.array(organization_df[tail].tolist()).reshape((len(organization_df), 1))
             
+            '''
             print("this is clustering data person")
             print(clustering_data_person)
             print("this is clustering data org")
             print(clustering_data_org)
+            '''
             
             mapping_person = cluster_data(clustering_data_person, filename_person, clusters, k)
             mapping_org = cluster_data(clustering_data_org, filename_org, clusters, k)
@@ -194,10 +196,12 @@ def create_numerical_triples(data, config_numerical, clusters, orgs, people):
             people_df[tail] = people_df[tail].map(mapping_person)
             organization_df[tail] = organization_df[tail].map(mapping_org)
             
+            '''
             print("------clustered person investor-------")
             print(people_df)
             print("------clustered org investor------")
             print(organization_df)
+            '''
             
             save_clustered_triples(people_df)
             save_clustered_triples(organization_df)
@@ -285,10 +289,12 @@ def split_person_org(df, people, organization):
     organization_df = df[df["entity_type"] == "org"]
     organization_df = organization_df.drop(columns = ["entity_type"])
     organization_df = organization_df.rename(columns = {"to_change":"org"})
+    '''
     print("----------------people_df-----------------"),
     print(people_df)
     print("------------------org_df-------------------")
     print(organization_df)
+    '''
     return people_df, organization_df
             
         
