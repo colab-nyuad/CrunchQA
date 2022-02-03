@@ -100,8 +100,39 @@ def get_df(path, h, r, t):
         the_file = pd.read_csv(filename)
     return the_file
 
-def pick_answer_1hop(head, rel, tail, constraint, q):
-    pass
+
+# path is template path
+def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename, constraint = None):
+    
+    record = head + "\t" + rel + "\t" + tail + "\t" + question + "\t" + str(sample_size)
+    qa = dict()
+    
+    main_df = get_df(triples_path, head, rel, tail)
+    sample_from = list(set(main_df[head].to_list()))
+    
+    if len(sample_from) >= sample_size:
+        sample = random.sample(sample_from, sample_size)
+    else:
+        sample = sample_from
+        
+    for item in sample:
+        q = question.replace("[" + head + "]", item)
+        a = "|".join(main_df.loc[main_df[head] == item, tail].to_list())
+        qa.update({q:a})
+        
+    qa_df = pd.DataFrame.from_dict(qa, orient = "index")
+    qa_df.reset_index(inplace = True)
+    qa_df.columns = ["q", "a"]
+    qa_df.to_csv("qa/1hop/csv/" + qa_filename + ".csv", index=False, header = None, encoding = "utf-8")
+    qa_df.to_csv("qa/1hop/txt/" + qa_filename + ".txt", sep = '\t', index = False, header = None)
+    qa_df.to_csv('qa/1hop/qa_1hop.txt', sep = '\t', mode = 'a', index = False, header = None)
+    
+    
+    
+        
+    
+    
+    
     
     
 
