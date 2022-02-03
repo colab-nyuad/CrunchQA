@@ -191,8 +191,13 @@ def create_numerical_triples(data, config_numerical, clusters, orgs, people):
             mapping_person = cluster_data(clustering_data_person, filename_person, clusters, k)
             mapping_org = cluster_data(clustering_data_org, filename_org, clusters, k)
             
-            people_df[tail] = people_df[tail].map(mapping)
-            organization_df[tail] = organization_df[tail].map(mapping)
+            people_df[tail] = people_df[tail].map(mapping_person)
+            organization_df[tail] = organization_df[tail].map(mapping_org)
+            
+            print("------clustered person investor-------")
+            print(people_df)
+            print("------clustered org investor------")
+            print(org_df)
             
             save_clustered_triples(people_df)
             save_clustered_triples(organization_df)
@@ -203,10 +208,9 @@ def create_numerical_triples(data, config_numerical, clusters, orgs, people):
         else:
              # Clustering
             clustering_data = np.array(triples[tail].tolist()).reshape((len(triples), 1))
-            mapping = cluster_data(clustering_data, tail, clusters, k)
+            mapping = cluster_data(clustering_data, file_name, clusters, k)
             triples[tail] = triples[tail].map(mapping)    
             save_clustered_triples(triples)
-        
             save_qa_triples(triples, file_name)
 
 def create_regular_triples(data, config_regular, orgs, people, organizations_list, people_list):
