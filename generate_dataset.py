@@ -31,16 +31,46 @@ Created on Wed Jan 26 21:24:32 2022
 import pandas as pd
 import random
 import pickle
+import os
 from utils_dataset import *
 
+# clear previous contents
+folders = ["qa/1hop/csv/", "qa/1hop/txt/", "qa/2hop/csv", "qa/2hop/txt", "qa/advanced/csv", "qa/advanced/txt"]
+for folder in folders:
+    for filename in os.listdir(folder):
+        file_path = os.path.join(folder, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception as e:
+            print('Failed to delete %s. Reason: %s' % (file_path, e))
+            
+            
+# remove and create file that record the question dataset size
+record_path = "qa_templates/qa_dataset_overview.txt"
+if os.path.exists(record_path):
+    os.remove(record_path)
+    print("successfully deleted old qa_dataset_overview.txt")
+else:
+    print("qa_dataset_overview.txt doesn't exist yet, will create a new one")
+    
+open(record_path, 'a').close()
+print("created new qa_dataset_overvies.txt")
+
+
 # path for the triplets
-path = "triples/"
+triples_path = "triples/"
 
 # path for files that convert non-readables to readables
 readable_path = "qa_readable/"
 
 # path for templates
 temp_path = "qa_templates/"
+
+# this many questions per template
+sample_size = 100
 
 #*********************************investment type**********************************
 
@@ -92,20 +122,21 @@ print(t1)
 # constraints and questions to read
 # [constraint, question]
 
-
-
 for index, row in t1.iterrows():
     head = row['entity1']
     rel = row['relation1']
     tail = row['entity2']
+    question = row["1_hop_q"]
+    qa_filename = "qa" + str(index)
     print(head, rel, tail)
-    triplet_df = get_df(path, head, rel, tail)
-    if len(triplet_df) == 0:
-        print("-------------------------------------")
-    print(triplet_df)
+    triplet_df = get_df(triples_path, head, rel, tail)
+    print(len(triplet_df))
+    
+    pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename)
+    
     print("*"*50)
 
 
 
-    
+
     
