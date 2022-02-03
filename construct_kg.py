@@ -107,7 +107,7 @@ investor_org = take_sample(investor_org, sample, sample_size)
 orgs = set(org['name_id'])
 '''
 orgs = orgs.union(set(event_appearance_org["appearance_org_name_id"]))
-orgs = orgs.union(set(investor_org["investor_org_name_id"]))
+orgs = orgs.union(set(investor_org["investor_org_name_id"]))git add 
 '''
 
 people_names = set(people["name_id"])
@@ -328,7 +328,6 @@ print("length of dataframe events:", len(e))
 e["event_roles"] = e["event_roles"].apply(lambda x: x.split(","))
 e = e.explode("event_roles")
 e["event_roles"] = e["event_roles"].replace("other", float("NaN"))
-e = e.dropna()
 triples = list(e["event_roles"].unique())
 triples = pd.DataFrame(triples)
 triples.insert(1, "relation", "subtype_of")
@@ -337,6 +336,8 @@ triples.columns = ["event_role", "relation", "type_event"]
 save_kg_triples(triples)
 save_qa_triples(triples, 'event_role-subtype_of-type_event')
 create_triples(e, config_events, orgs, people_names, organizations_list, people_list)    
+
+#print("event countrycode: ", e.country_code.unique())
 
 #************************************************************************#
 #************************ Event_appearance ******************************#
