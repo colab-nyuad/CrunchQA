@@ -15,6 +15,17 @@ Created on Thu Jan 27 11:13:51 2022
 import pandas as pd
 import random
 
+# path for the triplets
+triples_path = "triples/"
+
+# path for files that convert non-readables to readables
+readable_path = "qa_readable/"
+
+# path for templates
+temp_path = "qa_templates/"
+
+
+
 #***********************************************************************#
 #**********************turn strings into readables**********************#
 #***********************************************************************#
@@ -86,6 +97,24 @@ def test_func(h, *args):
     else:
         print("s")
 '''
+
+#******************************dictionaries for readables*********************#
+
+#*********************************investment type**********************************
+
+investment_type_to_word = get_investment_type(readable_path)
+
+#**********************************stock exchange symbol***********************
+
+stock_to_word = get_stock_symbol(readable_path)
+
+#***********************************country code****************************
+
+country_code_to_word = get_country_dict(readable_path)
+
+#*******************************cluster name to value********************************
+
+
 #***************************************************************************#
 #*************************get and join triplet files************************#
 #***************************************************************************#
@@ -108,7 +137,18 @@ def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_
     qa = dict()
     
     main_df = get_df(triples_path, head, rel, tail)
+    
+    # turn unreadables into readables
+    if (head == "person") or (head == "org") or (head == "event") or (head == "funding_round") or (head == "fund"):
+        main_df[head] = main_df[head].apply(lambda x: readable(x))
+    elif (head == "country_code"):
+        main_df[head] = main_df[head].apply(lambda x: country_code_to_word[x])
+    elif (head == "investment_type"):
+        main_df[head] = main_df[head].apply(lambda x: investment_type_to_word[x])
+        
+    # take a sample
     sample_from = list(set(main_df[head].to_list()))
+    random.shuffle(sample_from)
     
     if len(sample_from) >= sample_size:
         sample = random.sample(sample_from, sample_size)
