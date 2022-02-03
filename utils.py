@@ -197,7 +197,7 @@ def create_numerical_triples(data, config_numerical, clusters, orgs, people):
             print("------clustered person investor-------")
             print(people_df)
             print("------clustered org investor------")
-            print(org_df)
+            print(organization_df)
             
             save_clustered_triples(people_df)
             save_clustered_triples(organization_df)
