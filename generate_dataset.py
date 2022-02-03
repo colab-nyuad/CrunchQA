@@ -72,19 +72,6 @@ temp_path = "qa_templates/"
 # this many questions per template
 sample_size = 100
 
-#*********************************investment type**********************************
-
-investment_type_to_word = get_investment_type(readable_path)
-
-#**********************************stock exchange symbol***********************
-
-stock_to_word = get_stock_symbol(readable_path)
-
-#***********************************country code****************************
-
-country_code_to_word = get_country_dict(readable_path)
-
-#*******************************cluster name to value********************************
 
 cluster_file = open("clustering/clusters.pickle", "rb")
 cluster_centers = pickle.load(cluster_file)
