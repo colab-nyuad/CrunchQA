@@ -607,13 +607,13 @@
 		 "c1": "pname_id", 
 		 "rel": "funding_round_investment_partner", 
 		 "c2": "fund_id", 
-		 "file_name": "[to_change]-funding_round_investment_partner-funding_round", 
+		 "file_name": "person-funding_round_investment_partner-funding_round", 
 		 "to_drop": [], 
-		 "to_expand": ["org", "person"], 
+		 "to_expand": ["person"], 
 		 "to_explode": false,
-		 "head":"to_change",
+		 "head":"person",
 		 "tail":"funding_round",
-		 "separate":true
+		 "separate":false
 		}
 	  ]
   },
