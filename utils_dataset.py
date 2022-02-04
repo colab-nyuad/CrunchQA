@@ -120,6 +120,7 @@ country_code_to_word = get_country_dict(readable_path)
 #***************************************************************************#
 
 # get the triplet dataframe corresponding to the head rel and tail
+# path here refers to triples path
 def get_df(path, h, r, t):
     try:
         filename = path + h + "-" + r + "-" + t + ".csv"
@@ -133,11 +134,12 @@ def get_df(path, h, r, t):
 # path is template path
 def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename, constraint = None):
     
-    record = head + "\t" + rel + "\t" + tail + "\t" + question + "\t" + str(sample_size)
+    
     qa = dict()
     
+    # main part of question
     main_df = get_df(triples_path, head, rel, tail)
-    
+
     # turn unreadables into readables
     if (head == "person") or (head == "org") or (head == "event") or (head == "funding_round") or (head == "fund"):
         main_df[head] = main_df[head].apply(lambda x: readable(x))
@@ -145,6 +147,8 @@ def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_
         main_df[head] = main_df[head].apply(lambda x: country_code_to_word[x])
     elif (head == "investment_type"):
         main_df[head] = main_df[head].apply(lambda x: investment_type_to_word[x])
+    elif (head == "event_role"):
+        main_df[head] = main_df[head].apply(lambda x: " ".join(x.split("_")))
         
     # take a sample
     sample_from = list(set(main_df[head].to_list()))
@@ -154,12 +158,15 @@ def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_
         sample = random.sample(sample_from, sample_size)
     else:
         sample = sample_from
-        
+                
     for item in sample:
         q = question.replace("[" + head + "]", item)
-        a = "|".join(main_df.loc[main_df[head] == item, tail].to_list())
+        a = "|".join(list(set(main_df.loc[main_df[head] == item, tail].to_list())))
         qa.update({q:a})
         
+    
+            
+    #print(qa)
     qa_df = pd.DataFrame.from_dict(qa, orient = "index")
     qa_df.reset_index(inplace = True)
     qa_df.columns = ["q", "a"]
@@ -167,15 +174,85 @@ def pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_
     qa_df.to_csv("qa/1hop/txt/" + qa_filename + ".txt", sep = '\t', index = False, header = None)
     qa_df.to_csv('qa/1hop/qa_1hop.txt', sep = '\t', mode = 'a', index = False, header = None)
     
-    
+    record = head + "\t" + rel + "\t" + tail + "\t" + "no_constraint" + "\t" + question + "\t" + str(len(qa_df)) + "\n"
+
+    with open("qa_templates/qa_dataset_overview.txt", "a") as myfile:
+        myfile.write(record)
     
         
     
     
     
-    
-    
+def pick_answer_1hop_constraint(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename, constraint):
 
+    qa = dict()
+    
+    # main part of question
+    main_df = get_df(triples_path, head, rel, tail)
+    print("from utils:", head, rel, tail, constraint)
+    constraint_parts = constraint.split("-")
+    constraint_h = constraint_parts[0]
+    constraint_r = constraint_parts[1]
+    constraint_t = constraint_parts[2]
+    
+    # constraint part
+    constraint_df = get_df(triples_path, constraint_h, constraint_r, constraint_t)
+    
+    if constraint_h == head:
+        join_column = head
+    elif constraint_h == tail:
+        join_column = tail
+    print(join_column)
+    print(main_df)
+    print(constraint_df)
+    main_df = pd.merge(main_df, constraint_df, on = join_column)
+    print(main_df)
+    
+    # turn unreadables into readables
+    if (head == "person") or (head == "org") or (head == "event") or (head == "funding_round") or (head == "fund"):
+        main_df[head] = main_df[head].apply(lambda x: readable(x))
+    elif (head == "country_code"):
+        main_df[head] = main_df[head].apply(lambda x: country_code_to_word[x])
+    elif (head == "investment_type"):
+        main_df[head] = main_df[head].apply(lambda x: investment_type_to_word[x])
+    elif (head == "event_role"):
+        main_df[head] = main_df[head].apply(lambda x: " ".join(x.split("_")))
+        
+    if (constraint_t == "person") or (constraint_t == "org") or (constraint_t == "event") or (constraint_t == "funding_round") or (head == "fund"):
+        main_df[constraint_t] = main_df[constraint_t].apply(lambda x: readable(x))
+    elif (constraint_t == "country_code"):
+        main_df[constraint_t] = main_df[constraint_t].apply(lambda x: country_code_to_word[x])
+    elif (constraint_t == "investment_type"):
+        main_df[constraint_t] = main_df[constraint_t].apply(lambda x: investment_type_to_word[x])
+    elif (constraint_t == "event_role"):
+        main_df[constraint_t] = main_df[constraint_t].apply(lambda x: " ".join(x.split("_")))
+        
+    sample_from = main_df[[head, constraint_t]].drop_duplicates()
+    
+    if len(sample_from) >= sample_size:
+        sample = sample_from.sample(n = sample_size)
+    else:
+        sample = sample_from
+        
+    for index, row in sample.iterrows():
+        q = question.replace("[" + head + "]", row[head])
+        q = q.replace("(" + constraint_t + ")", row[constraint_t])
+        mask = (main_df[head] == row[head]) & (main_df[constraint_t] == row[constraint_t])
+        result_df = main_df[mask]
+        a = "|".join(list(set(result_df[tail].to_list())))
+        qa.update({q:a})
+
+    qa_df = pd.DataFrame.from_dict(qa, orient = "index")
+    qa_df.reset_index(inplace = True)
+    qa_df.columns = ["q", "a"]
+    qa_df.to_csv("qa/1hop/csv/" + qa_filename + ".csv", index=False, header = None, encoding = "utf-8")
+    qa_df.to_csv("qa/1hop/txt/" + qa_filename + ".txt", sep = '\t', index = False, header = None)
+    qa_df.to_csv('qa/1hop/qa_1hop.txt', sep = '\t', mode = 'a', index = False, header = None)
+    
+    record = head + "\t" + rel + "\t" + tail + "\t" + constraint + "\t" + question + "\t" + str(len(qa_df)) + "\n"
+
+    with open("qa_templates/qa_dataset_overview.txt", "a") as myfile:
+        myfile.write(record)
 
 
 
