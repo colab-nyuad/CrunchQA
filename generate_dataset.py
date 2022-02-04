@@ -49,7 +49,7 @@ for folder in folders:
             
             
 # remove and create file that record the question dataset size
-record_paths = ["qa_templates/qa_dataset_overview.txt", "qa/1hop/qa_1hop.txt", "qa/2hop/qa_2hop.txt", "qa/advanced/qa_advanced.txt"]
+record_paths = ["qa_templates/qa_dataset_overview.txt", "qa/1hop/qa_1hop.txt", "qa/1hop/1hop_simple_constraint.txt", "qa/2hop/qa_2hop.txt", "qa/advanced/qa_advanced.txt"]
 for record_path in record_paths:
     if os.path.exists(record_path):
         os.remove(record_path)
@@ -107,6 +107,7 @@ config = {
 t1 = pd.read_csv(temp_path + "template_1hop.csv")
 print(t1)
 
+#t1 = t1[50:]
 # constraints and questions to read
 # [constraint, question]
 
@@ -120,8 +121,15 @@ for index, row in t1.iterrows():
     triplet_df = get_df(triples_path, head, rel, tail)
     print(len(triplet_df))
     
-    pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename)
+    #pick_answer_1hop(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename)
     
+    constraint = row["simple_constraint"]
+    if constraint != float("NaN") and type(constraint) == str:
+        print("trom generate dataset file:", constraint, constraint == float("NaN"))
+        question = row["1_hop_q_simple_constraint"]
+        qa_filename = "qa" + str(index) + "simple"
+        pick_answer_1hop_constraint(temp_path, triples_path, head, rel, tail, question, sample_size, qa_filename, constraint = constraint)
+        
     print("*"*50)
 
 
