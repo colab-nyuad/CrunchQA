@@ -74,7 +74,7 @@
     "regular": 
 	  [
 	        {
-		 "c1": "name_id", 
+		 "c1": "event_id", 
 		 "rel": "sponsor", 
 		 "c2": "sponsor", 
 		 "file_name": "event-sponsor-[to_change]", 
@@ -86,7 +86,7 @@
 		 "separate":true
 		}, 
 		{
-		 "c1": "name_id", 
+		 "c1": "event_id", 
 		 "rel": "speaker", 
 		 "c2": "speaker", 
 		 "file_name": "event-speaker-[to_change]", 
@@ -98,7 +98,7 @@
 		 "separate":true		 
 		}, 
 		{
-		 "c1": "name_id", 
+		 "c1": "event_id", 
 		 "rel": "organizer", 
 		 "c2": "organizer", 
 		 "file_name": "event-organizer-[to_change]", 
@@ -110,7 +110,7 @@
 		 "separate":true	
 		}, 
 		{
-		 "c1": "name_id", 
+		 "c1": "event_id", 
 		 "rel": "exhibitor", 
 		 "c2": "exhibitor", 
 		 "file_name": "event-exhibitor-[to_change]", 
@@ -122,7 +122,7 @@
 		 "separate":true	
 		}, 
 		{
-		 "c1": "name_id", 
+		 "c1": "event_id", 
 		 "rel": "contestant", 
 		 "c2": "contestant", 
 		 "file_name": "event-contestant-[to_change]", 
