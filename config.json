@@ -31,7 +31,7 @@
 		 "rel": "type_of", 
 		 "c2": "acquisition_type", 
 		 "file_name": "acquisition-type_of-acquisition_type", 
-		 "to_drop": [], 
+		 "to_drop": ["acquisition"], 
 		 "to_expand": [], 
 		 "to_explode": false,
 		 "head":"acquisition",
@@ -415,12 +415,12 @@
 		 "c1": "name_id", 
 		 "rel": "org_ipo", 
 		 "c2": "uuid", 
-		 "file_name": "ipo-org_ipo-org", 
+		 "file_name": "org-org_ipo-ipo", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
 		 "to_explode": false,
-		 "head":"ipo",
-		 "tail":"org",
+		 "head":"org",
+		 "tail":"ipo",
 		 "separate":false
 		}, 
 		{
@@ -531,7 +531,7 @@
 		 "c1": "uuid", 
 		 "rel": "job_type", 
 		 "c2": "job_type", 
-		 "file_name": "jobs-job_type-job_type", 
+		 "file_name": "job-job_type-job_type", 
 		 "to_drop": [], 
 		 "to_expand": [], 
 		 "to_explode": false,
@@ -626,12 +626,12 @@
 		 "c1": "name_id", 
 		 "rel": "parent_org", 
 		 "c2": "pname_id", 
-		 "file_name": "org-parent_org-org", 
+		 "file_name": "org-parent_org-org_parent", 
 		 "to_drop": [], 
 		 "to_expand": ["org"], 
 		 "to_explode": false,
 		 "head":"org",
-		 "tail":"org",
+		 "tail":"org_parent",
 		 "separate":false
 		}
 	  ]
