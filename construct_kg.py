@@ -69,12 +69,14 @@ with open('config.json') as config_file:
 org = pd.read_csv("data/organizations.csv")
 org = org[org["name"].notna()]
 org["name_id"] = merge_with_id(org["uuid"], org["name"])
+org["name"] = org["name"].apply(lambda x: "".join(x.split("|")))
 org = take_sample(org, sample, sample_size)
 print("name_id unique? ", check_uniqueness(org["name_id"]))
 print("length of dataframe organization:", len(org))
 
 people = pd.read_csv("data/people.csv")
 people = people.dropna(subset=['name', 'gender', 'country_code'], how='any')
+people["name"] = people["name"].apply(lambda x: "".join(x.split("|")))
 people["name_id"] = merge_with_id(people["uuid"], people["name"])
 people = take_sample(people, sample, sample_size)
 print("name_id unique? ", check_uniqueness(people["name_id"]))
@@ -133,8 +135,11 @@ orgs_and_people = orgs_and_people.union(orgs)
 config_jobs = config["jobs"]
 jobs = pd.read_csv("data/jobs.csv")
 jobs = jobs.dropna(subset=['is_current', 'person_name', 'org_name', 'title'], how='any')
+jobs["title"] = jobs["title"].apply(lambda x: "".join(x.split("|")))
 jobs["title"] = jobs["title"].apply(lambda x: fetch_job_title(x, executive_jobs))
+jobs["person_name"] = jobs["person_name"].apply(lambda x: "".join(x.split("|")))
 jobs["person_name"] = merge_with_id(jobs["person_uuid"], jobs["person_name"])
+jobs["org_name"] = jobs["org_name"].apply(lambda x: "".join(x.split("|")))
 jobs["org_name"] = merge_with_id(jobs["org_uuid"], jobs["org_name"])
 jobs["type"] = 'job'
 jobs = jobs[jobs['person_name'].isin(people_names)]
@@ -157,6 +162,7 @@ config_ipos = config["ipos"]
 ipos = pd.read_csv("data/ipos.csv")
 ipos = ipos.dropna(subset=['org_name'], how='all')
 ipos["uuid"] = ipos["uuid"].apply(lambda x: "ipo@" + x[-10:])  # mark it as ipo
+ipos["org_name"] = ipos["org_name"].apply(lambda x: "".join(x.split("|")))
 ipos["name_id"] = merge_with_id(ipos["org_uuid"], ipos["org_name"])
 ipos = ipos.dropna(subset=['share_price_usd', 'money_raised_usd'], how='all')
 ipos = ipos[ipos['name_id'].isin(orgs)]
@@ -175,7 +181,9 @@ create_triples(ipos, config_ipos, orgs, people_names, organizations_list, people
 config_organization_parents = config["organization_parents"]
 org_pa = pd.read_csv("data/org_parents.csv")
 org_pa = org_pa.dropna(subset=['name','parent_name'], how='any')
+org_pa["name"] = org_pa["name"].apply(lambda x: "".join(x.split("|")))
 org_pa["name_id"] = merge_with_id(org_pa["uuid"], org_pa["name"])
+org_pa["parent_name"] = org_pa["parent_name"].apply(lambda x: "".join(x.split("|")))
 org_pa["pname_id"] = merge_with_id(org_pa["parent_uuid"], org_pa["parent_name"])
 org_pa = org_pa[org_pa['name_id'].isin(orgs)]
 org_pa = org_pa[org_pa['pname_id'].isin(orgs)]
@@ -194,7 +202,9 @@ create_triples(org_pa, config_organization_parents, orgs, people_names, organiza
 config_funding_rounds = config["funding_rounds"]
 fr = pd.read_csv("data/funding_rounds.csv")
 fr = fr.dropna(subset=['raised_amount_usd', 'org_name'], how='any')
+fr["org_name"] = fr["org_name"].apply(lambda x: "".join(x.split("|")))
 fr["org_name_id"] = merge_with_id(fr["org_uuid"], fr["org_name"])
+fr["name"] = fr["name"].apply(lambda x: "".join(x.split("|")))
 fr["name_id"] = merge_with_id(fr["uuid"], fr["name"])
 fr = fr.drop_duplicates(subset = "name_id", keep = "last")
 fr = fr[fr['org_name_id'].isin(orgs)]
@@ -225,8 +235,12 @@ save_qa_triples(triples, 'investment_type-subtype_of-type_funding_round')
 
 config_investment_partners = config["investment_partners"]
 ip = pd.read_csv("data/investment_partners.csv")
+ip = ip.dropna(subset=['investor_name', 'partner_name'], how='any')
+ip["investor_name"] = ip["investor_name"].apply(lambda x: "".join(x.split("|")))
 ip["iname_id"] = merge_with_id(ip["investor_uuid"], ip["investor_name"])
+ip["partner_name"] = ip["partner_name"].apply(lambda x: "".join(x.split("|")))
 ip["pname_id"] = merge_with_id(ip["partner_uuid"], ip["partner_name"])
+ip["funding_round_name"] = ip["funding_round_name"].apply(lambda x: "".join(x.split("|")))
 ip["fund_id"] = merge_with_id(ip["funding_round_uuid"], ip["funding_round_name"])
 ip = ip[ip['iname_id'].isin(orgs_and_people)]
 ip = ip[ip['pname_id'].isin(orgs_and_people)]
@@ -244,17 +258,18 @@ create_triples(ip, config_investment_partners, orgs, people_names, organizations
 config_investors = config["investors"]
 investors = pd.read_csv("data/investors.csv")
 investors = investors[investors["name"].notna()]
+investors["name"] = investors["name"].apply(lambda x: "".join(x.split("|")))
 investors["name_id"] = merge_with_id(investors["uuid"], investors["name"])
 investors = investors.dropna(subset=['total_funding_usd', 'investment_count'], how='all')
 investors = investors[investors['name_id'].isin(orgs_and_people)]
 investors["investor_types"] = investors["investor_types"].replace(float("NaN"), "investor")
-investors["investor_types"] = investors["investor_types"].replace('angel', "angel_investor")
 investors = take_sample(investors, sample,sample_size)
 print("name_id unique? ", check_uniqueness(investors["name_id"]))
 print("length of dataframe investors:", len(investors))
 
 investors["investor_types"] = investors["investor_types"].apply(lambda x: x.split(","))
 investors = investors.explode("investor_types")
+investors["investor_types"] = investors["investor_types"].replace('angel', "angel_investor")
 ivsubtype = list(investors.investor_types.unique())
 ivsubtype.remove("investor")
 triples = pd.DataFrame(ivsubtype)
@@ -274,7 +289,10 @@ create_triples(investors, config_investors, orgs, people_names, organizations_li
 
 config_funds = config["funds"]
 funds = pd.read_csv("data/funds.csv")
+funds = funds.dropna(subset=['name', 'entity_name'], how='any')
+funds["name"] = funds["name"].apply(lambda x: "".join(x.split("|")))
 funds["name_id"] = merge_with_id(funds["uuid"], funds["name"])
+funds["entity_name"] = funds["entity_name"].apply(lambda x: "".join(x.split("|")))
 funds["ename_id"] = merge_with_id(funds["entity_uuid"], funds["entity_name"])
 funds = funds.dropna(subset=['raised_amount_usd'], how='all')
 funds = funds[funds['ename_id'].isin(orgs)]
@@ -292,8 +310,11 @@ create_triples(funds, config_funds, orgs, people_names, organizations_list, peop
 
 config_acquisitions = config["acquisitions"]
 a = pd.read_csv("data/acquisitions.csv")
+a = a.dropna(subset=['acquirer_name', 'acquiree_name'], how='any')
 a["uuid"] = a["uuid"].apply(lambda x: "ac@" + x[-10:])
+a["acquirer_name"] = a["acquirer_name"].apply(lambda x: "".join(x.split("|")))
 a["rname_id"] = merge_with_id(a["acquirer_uuid"],a["acquirer_name"])
+a["acquiree_name"] = a["acquiree_name"].apply(lambda x: "".join(x.split("|")))
 a["ename_id"] = merge_with_id(a["acquiree_uuid"],a["acquiree_name"])
 a = a[a['rname_id'].isin(orgs)]
 a = a[a['ename_id'].isin(orgs)]
@@ -321,6 +342,8 @@ create_triples(a, config_acquisitions, orgs, people_names, organizations_list, p
 
 config_events = config["events"]
 e = pd.read_csv("data/events.csv")
+e = e[e["name"].notna()]
+e["name"] = e["name"].apply(lambda x: "".join(x.split("|")))
 e["name_id"] = merge_with_id(e["uuid"],e["name"])
 e = take_sample(e, sample, sample_size)
 print("name_id unique? ", check_uniqueness(e["name_id"]))
@@ -347,7 +370,10 @@ create_triples(e, config_events, orgs, people_names, organizations_list, people_
 
 config_event_appearance = config["event_appearance"]
 ea = pd.read_csv("data/event_appearances.csv")
+ea = ea.dropna(subset=['participant_name', 'event_name'], how='any')
+ea["participant_name"] = ea["participant_name"].apply(lambda x: "".join(x.split("|")))
 ea["name_id"] = merge_with_id(ea["participant_uuid"],ea["participant_name"])
+ea["event_name"] = ea["event_name"].apply(lambda x: "".join(x.split("|")))
 ea["event_id"] = merge_with_id(ea["event_uuid"],ea["event_name"])
 
 ea = take_sample(ea, sample, sample_size)
