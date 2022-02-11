@@ -12,21 +12,7 @@ Created on Wed Jan 26 21:24:32 2022
 @author: yulif
 """
 
-# to do:
-    # 1. write an if statement for [year]
-    # 2. special case for acquisition type, not select "acquisition"
-    # 3. remember to drop duplicates of 1 hop questions
-    # (done) 4. write functions for "readables":
-        # country 
-        # company 
-        # person
-        # event
-        # funding round
-        # fund
-    # 5. special case for gender, sample from each gender
-    # 6. before sampling any qa, check if the dataframe length is greater than 0
-    # 7. for date, when date1 and date2 exist, write if statement
-    
+
     
 import pandas as pd
 import random
@@ -42,15 +28,13 @@ folders = ["qa/1hop/simple_constraint",
            "qa/2hop/base", 
            "qa/2hop/simple_constraint", 
            "qa/2hop/temporal_constraint", 
+           "qa/2hop/dummy",
            
-           "qa/advanced/counting", 
-           "qa/advanced/ordering", 
-           "qa/advanced/multi_entity", 
-           "qa/advanced/multi_relation",
-           "qa/advanced/multi_constraint",
-           "qa/advanced/time_range", 
-           "qa/advanced/quantity_range"]
-
+           "qa/advanced/vanilla",
+           "qa/advanced/clustering",
+           "qa/advanced/regression"
+]
+'''
 for folder in folders:
     for filename in os.listdir(folder):
         file_path = os.path.join(folder, filename)
@@ -64,7 +48,7 @@ for folder in folders:
             
             
 # remove and create file that record the question dataset size
-record_paths = ["qa/1hop/1hop_record.txt", "qa/2hop/2hop_record.txt", "qa/advanced/acvanced_record.txt"]
+record_paths = ["qa/1hop/1hop_record.txt", "qa/2hop/2hop_record.txt", "qa/advanced/advanced_record.txt"]
 for record_path in record_paths:
     if os.path.exists(record_path):
         os.remove(record_path)
@@ -74,6 +58,7 @@ for record_path in record_paths:
         
     open(record_path, 'a').close()
     print("created new" + record_path)
+'''
 
 
 # path for the triplets
@@ -88,7 +73,7 @@ temp_path = "qa_templates/"
 # this many questions per template
 sample_size = 100
 
-
+'''
 cluster_file = open("clustering/clusters.pickle", "rb")
 cluster_centers = pickle.load(cluster_file)
 cluster_file.close()
@@ -103,7 +88,7 @@ cluster_file.close()
 #*********************************************************************************
 #*************************************1 hop QA************************************
 #*********************************************************************************
-'''
+
 t1 = pd.read_csv(temp_path + "template_1hop.csv")
 print(t1)
 
@@ -151,8 +136,7 @@ for index, row in t1_simple.iterrows():
     qa_filename = "qa-1hop-" + str(index) + "simple.txt"
     qa = pick_answer_1hop_constraint(temp_path, triples_path, head, rel, tail, simple_question, sample_size, qa_filename, constraint = simple_constraint)
     write_df_qa(qa, "qa/1hop/simple_constraint/", qa_filename, simple_question)
-    write_qa_record("qa/1hop/qa_record.txt", entity_route, simple_question, index, len(qa), simple_constraint)
-
+    write_qa_record("qa/1hop/1hop_record.txt", entity_route, simple_question, index, len(qa), simple_constraint)
 
 
 #-------------------------temporal questions------------------------
@@ -178,13 +162,13 @@ for index, row in t1_temporal.iterrows():
 
         
 print("*"*50)
-'''
+
 
 
 #*********************************************************************************
 #*************************************2 hop QA************************************
 #*********************************************************************************
-'''
+
 t2 = pd.read_csv(temp_path + "template_2hop.csv")
 print("this is t2")
 print(t2)
@@ -213,9 +197,7 @@ for index, row in t2_base.iterrows():
     qa = pick_answer_2hop(temp_path, triples_path, ent1, rel1, ent2, rel2, ent3, question, sample_size, qa_filename)
     write_df_qa(qa, "qa/2hop/base/", qa_filename, question)
     write_qa_record("qa/2hop/2hop_record.txt", entity_route, question, index, len(qa), "None")
-'''
 
-'''
 #-------------------------------simple constraint---------------------
 
 t2_simple = t2[["entity1", "relation1", "entity2", "relation2", "entity3", "2_hop_q", "simple_constraint", "2_hop_1_simple_constraint"]]
@@ -243,25 +225,151 @@ for index, row in t2_simple.iterrows():
     write_qa_record("qa/2hop/2hop_record.txt", entity_route, question, index, len(qa), simple_constraint)
 
 '''
-
 #-------------------------------temporal constraint-------------------------
+##
+
+#----------------------------------with dummy node-------------------------
+
+
+t2_2 = pd.read_csv(temp_path + "template_2hop_dummy.csv")
+
+t2_dummy = t2_2[["entity1", "relation1", "entity2", "relation2", "entity3", "2_hop_q"]]
+t2_dummy = t2_dummy.drop_duplicates()
+t2_dummy = t2_dummy.dropna()
+
+for index, row in t2_dummy.iterrows():
+    
+    ent1 = row['entity1']
+    rel1 = row['relation1']
+    ent2 = row['entity2']
+    rel2 = row["relation2"]
+    ent3 = row["entity3"]
+    components = [ent1, rel1, ent2, rel2, ent3]
+    print("components:", components)
+    
+    entity_route ="-".join(components)
+    
+    # for ordinary questions
+    question = row["2_hop_q"]
+    qa_filename = "qa-2hop-dummy-" + str(index) + ".txt"
+    qa = pick_answer_2hop(temp_path, triples_path, ent1, rel1, ent2, rel2, ent3, question, sample_size, qa_filename)
+    write_df_qa(qa, "qa/2hop/dummy/", qa_filename, question)
+    write_qa_record("qa/2hop/2hop_record.txt", entity_route, question, index, len(qa), "None")
+
+
 
 
 #*********************************************************************************
-#*************************************2 hop QA************************************
+#**********************************advanced QA************************************
 #*********************************************************************************
 
 ta = pd.read_csv("qa_templates/template_advanced.csv")
 print(ta)
 
+def get_advanced_qa(q_index, question, sample_size, qa_filename):
+    if q_index == "q2_1":
+        print("true")
+        return get_q2_1(question, sample_size, qa_filename)
+    elif q_index == "q2_2_1":
+        return get_q2_2_1(question, sample_size, qa_filename)
+    elif q_index == "q2_2":
+        return get_q2_2(question, sample_size, qa_filename)
+    elif q_index == "q2_3_1":
+        return get_q2_3_1(question, sample_size, qa_filename)
+    elif q_index == "q2_3":
+        return get_q2_3(question, sample_size, qa_filename)
+    elif q_index == "q2_4":
+        return get_q2_4(question, sample_size, qa_filename)
+    elif q_index == "q2_5":
+        return get_q2_5(question, sample_size, qa_filename)
+    elif q_index == "q2_6":
+        return get_q2_6(question, sample_size, qa_filename)
+    elif q_index == "q2_7":
+        return get_q2_7(question, sample_size, qa_filename)
+    elif q_index == "q2_8":
+        return get_q2_8(question, sample_size, qa_filename)
+    elif q_index == "q3_1":
+        return get_q3_1(question, sample_size, qa_filename)
+    elif q_index == "q3_2":
+        return get_q3_2(question, sample_size, qa_filename)
+    elif q_index == "q3_3":
+        return get_q3_3(question, sample_size, qa_filename)
+    elif q_index == "q3_3":
+        return get_q3_3(question, sample_size, qa_filename)
+    elif q_index == "q3_4":
+        return get_q3_4(question, sample_size, qa_filename)
+    elif q_index == "q3_5":
+        return get_q3_5(question, sample_size, qa_filename)
+    elif q_index == "q3_6":
+        return get_q3_6(question, sample_size, qa_filename)
+    elif q_index == "q3_7":
+        return get_q3_7(question, sample_size, qa_filename)
+    elif q_index == "q3_8":
+        return get_q3_8(question, sample_size, qa_filename)
+    elif q_index == "q3_9":
+        return get_q3_9(question, sample_size, qa_filename)
+    elif q_index == "q3_10":
+        return get_q3_10(question, sample_size, qa_filename)
+    elif q_index == "q4_1":
+        return get_q4_1(question, sample_size, qa_filename)
+    elif q_index == "q4_2":
+        return get_q4_2(question, sample_size, qa_filename)
+    elif q_index == "q4_3":
+        return get_q4_3(question, sample_size, qa_filename)
+    elif q_index == "q4_4":
+        return get_q4_4(question, sample_size, qa_filename)
+    elif q_index == "q4_5":
+        return get_q4_5(question, sample_size, qa_filename)
+
+    
+    
+    
+    
+'''
+for index, row in ta[18:].iterrows():
+    q_index = row["question_code"]
+    question = row["question"]
+    entity_route = row["base_query"]
+    constraint = str(row["constraint"])
+    qa_filename = "advanced-" + str(q_index) + ".txt"
+    
+    print(q_index, question, qa_filename)
+    qa = get_advanced_qa(q_index, question, sample_size, qa_filename)
+    print(qa)
+    
+    if qa == None:
+        break
+    qa_filepath = row["filepath"]
+    paths = qa_filepath.split("|")
+    for p in paths:
+        write_df_qa(qa, "qa/advanced/" + p + "/", qa_filename, question)
+    write_qa_record("qa/advanced/advanced_record.txt", entity_route, question, index, len(qa), constraint)
+
+'''
+
+for index, row in ta[:18].iterrows():
+    q_index = row["question_code"]
+    question = row["question"]
+    entity_route = row["base_query"]
+    constraint = str(row["constraint"])
+    qa_filename = "advanced-" + str(q_index) + ".txt"
+    
+    print(q_index, question, qa_filename)
+    qa = get_advanced_qa(q_index, question, sample_size, qa_filename)
+    print(qa)
+    
+    if qa == None:
+        break
+    qa_filepath = row["filepath"]
+    paths = qa_filepath.split("|")
+    for p in paths:
+        write_df_qa(qa, "qa/advanced/" + p + "/", qa_filename, question)
+    write_qa_record("qa/advanced/advanced_record.txt", entity_route, question, index, len(qa), constraint)
+
+
 
 # to do
-# (done) add " ".join for category and category group
-# [event_rold] event delete event in sentence
-# for clustered, add pickle value
-# write for ordinal constraint
-# fix grammar errors
-# put people land organization together (in advanced qa)
+# clear files only in targeted folder
 
 
 
