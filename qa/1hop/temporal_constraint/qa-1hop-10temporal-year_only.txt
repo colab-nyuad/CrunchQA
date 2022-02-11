@@ -1,0 +1,100 @@
+funding round that Karaoke One launched in 2018	Equity_Crowdfunding_-_Karaoke_One@df131
+funding round that Gooddler launched in 2014	Seed_Round_-_Gooddler@392ab
+funding round that Wysa launched in 2019	Seed_Round_-_Wysa@9c115
+funding round that Phoenix Cardiac launched in 2018	Venture_Round_-_Phoenix_Cardiac@7ffac
+funding round that RedHill Biopharma launched in 2019	Post-IPO_Equity_-_RedHill_Biopharma@0764e
+funding round that Pop Meals launched in 2018	Seed_Round_-_Pop_Meals@7ecbd
+funding round that AUTOPAY launched in 2014	Venture_Round_-_AUTOPAY@90d30|Seed_Round_-_AUTOPAY@41c03
+funding round that Alation launched in 2021	Series_D_-_Alation@faefe
+funding round that iOrderFresh launched in 2015	Angel_Round_-_iOrderFresh@1e99c|Angel_Round_-_iOrderFresh@f3ae1|Angel_Round_-_iOrderFresh@654c3
+funding round that RatedPower launched in 2021	Series_A_-_RatedPower@78cbe
+funding round that MightyTV launched in 2015	Seed_Round_-_MightyTV@9f088
+funding round that HashiCorp launched in 2017	Series_C_-_HashiCorp@215de
+funding round that Vyant Bio launched in 2016	Post-IPO_Equity_-_Vyant_Bio@1657a
+funding round that nura launched in 2017	Seed_Round_-_nura@bf433
+funding round that TRiCERA launched in 2020	Series_A_-_TRiCERA@1685f
+funding round that Orchard Platform launched in 2015	Series_B_-_Orchard_Platform@1fc7c
+funding round that Faylasof launched in 2019	Seed_Round_-_Faylasof@05b3b
+funding round that Liven launched in 2015	Angel_Round_-_Liven@df859
+funding round that Twile launched in 2016	Funding_Round_-_Twile@9fc70
+funding round that Fio launched in 2014	Venture_Round_-_Fio@5310b
+funding round that Capricor Therapeutics launched in 2009	Post-IPO_Equity_-_Capricor_Therapeutics@85f9f
+funding round that Fleetsmith launched in 2018	Series_A_-_Fleetsmith@76c5c
+funding round that Model Metrics launched in 2010	Venture_Round_-_Model_Metrics@36a38
+funding round that Matchpoint Careers launched in 2012	Venture_Round_-_Matchpoint_Careers@f80b9
+funding round that ContraFect launched in 2020	Grant_-_ContraFect@5c0c3
+funding round that AllPlants launched in 2021	Series_B_-_AllPlants@4409c
+funding round that Ascenteum International launched in 2020	Series_B_-_Ascenteum_International@edf88
+funding round that Canhelp Genomics launched in 2015	Angel_Round_-_Canhelp_Genomics@417ea
+funding round that TieSet launched in 2021	Pre_Seed_Round_-_TieSet@5fa98
+funding round that Nordsense launched in 2017	Seed_Round_-_Nordsense@88514
+funding round that UNL launched in 2022	Seed_Round_-_UNL@bda2a
+funding round that Lilac Solutions launched in 2018	Seed_Round_-_Lilac_Solutions@6453a|Seed_Round_-_Lilac_Solutions@ce918
+funding round that Neosens launched in 2008	Venture_Round_-_Neosens@29c1c
+funding round that University of Connecticut launched in 2019	Grant_-_University_of_Connecticut@d3b3a
+funding round that GT Nexus launched in 2011	Venture_Round_-_GT_Nexus@e14ef
+funding round that Instacart launched in 2021	Venture_Round_-_Instacart@39e7b|Venture_Round_-_Instacart@f4a8f
+funding round that BridgeWave Communications launched in 2009	Venture_Round_-_BridgeWave_Communications@12a5b
+funding round that MoBagel launched in 2021	Series_A_-_MoBagel@6ee30
+funding round that CrossCurrent launched in 2011	Venture_Round_-_CrossCurrent@7329b
+funding round that PARALLAX ONE launched in 2013	Angel_Round_-_PARALLAX_ONE@43f61
+funding round that TurningArt launched in 2014	Venture_Round_-_TurningArt@a8d1e
+funding round that Novan launched in 2015	Private_Equity_Round_-_Novan@16ad2|Venture_Round_-_Novan@e69fb
+funding round that GaitTronics launched in 2013	Seed_Round_-_GaitTronics@6c672|Grant_-_GaitTronics@a970c
+funding round that PhableCare launched in 2021	Series_A_-_PhableCare@10826|Series_A_-_PhableCare@c1985
+funding round that FSLogix launched in 2013	Seed_Round_-_FSLogix@949e0
+funding round that Centriq Technology launched in 2018	Venture_Round_-_Centriq_Technology@fd723
+funding round that Flat.mx launched in 2021	Series_A_-_Flat.mx@9be00
+funding round that ESPIRIT launched in 2016	Series_B_-_ESPIRIT@834c3
+funding round that SocialFlow launched in 2014	Venture_Round_-_SocialFlow@873f0
+funding round that Allo-Media launched in 2014	Angel_Round_-_Allo-Media@81df3|Seed_Round_-_Allo-Media@d1a92
+funding round that Velo Industries launched in 2015	Seed_Round_-_Velo_Industries@c381e
+funding round that Myocardial Solutions launched in 2002	Series_A_-_Myocardial_Solutions@55bca
+funding round that AERDRON launched in 2016	Grant_-_AERDRON@e877c
+funding round that Efort launched in 2016	Series_C_-_Efort@e3dc9
+funding round that RewardStock launched in 2018	Venture_Round_-_RewardStock@6d0d7
+funding round that Controlant launched in 2016	Funding_Round_-_Controlant@d0463
+funding round that Clover Biopharmaceuticals launched in 2019	Series_B_-_Clover_Biopharmaceuticals@b33e2
+funding round that QuickPlay Media launched in 2015	Private_Equity_Round_-_QuickPlay_Media@81660
+funding round that Coghead launched in 2007	Series_B_-_Coghead@5478a
+funding round that Zoona launched in 2016	Series_B_-_Zoona@36b74
+funding round that Ava launched in 2016	Seed_Round_-_Ava@8dd8b
+funding round that Pedestal Inc launched in 2000	Series_C_-_Pedestal_Inc@39e1b
+funding round that Pakal Technologies launched in 2018	Seed_Round_-_Pakal_Technologies@1e473
+funding round that Wan866.com launched in 2018	Series_A_-_Wan866.com@73fcc
+funding round that Ybex launched in 2017	Seed_Round_-_Ybex@43a1a
+funding round that ECOBAO launched in 2016	Series_A_-_ECOBAO@4e653
+funding round that ChuangYou Network launched in 2013	Angel_Round_-_ChuangYou_Network@ded2d
+funding round that Daily E-Sports launched in 2017	Series_B_-_Daily_E-Sports@e9d49|Series_C_-_Daily_E-Sports@55f09
+funding round that Adamis Pharmaceuticals launched in 2012	Post-IPO_Equity_-_Adamis_Pharmaceuticals@bef66|Post-IPO_Debt_-_Adamis_Pharmaceuticals@cf071
+funding round that Salesloft launched in 2021	Series_E_-_Salesloft@168cd
+funding round that Vinoled launched in 2017	Seed_Round_-_Vinoled@58f4b
+funding round that Adioso launched in 2010	Seed_Round_-_Adioso@75c39
+funding round that ConSentry Networks launched in 2006	Series_D_-_ConSentry_Networks@e9818
+funding round that Saniona launched in 2016	Grant_-_Saniona@316c9
+funding round that Crowdentials launched in 2014	Seed_Round_-_Crowdentials@5f4cf
+funding round that Cleo launched in 2017	Seed_Round_-_Cleo@37ae4
+funding round that Qatalog launched in 2020	Series_A_-_Qatalog@a2f24
+funding round that RLS Therapeutics launched in 2019	Pre_Seed_Round_-_RLS_Therapeutics@38e8d
+funding round that Freeze Tag launched in 2011	Post-IPO_Debt_-_Freeze_Tag@307b4
+funding round that Rapawalk launched in 2020	Seed_Round_-_Rapawalk@e84dd
+funding round that OneTwoSee launched in 2015	Debt_Financing_-_OneTwoSee@c19f4
+funding round that Alena launched in 2021	Pre_Seed_Round_-_Alena@64972
+funding round that WANTED Technologies launched in 1999	Angel_Round_-_WANTED_Technologies@87394
+funding round that Narmi launched in 2017	Pre_Seed_Round_-_Narmi@49549
+funding round that Exit41 launched in 2002	Series_A_-_Exit41@8ddf7|Series_C_-_Exit41@ce8db
+funding round that The New Shop launched in 2019	Angel_Round_-_The_New_Shop@4a917
+funding round that Wata Games launched in 2018	Seed_Round_-_Wata_Games@304ae
+funding round that Nereus Pharmaceuticals launched in 2010	Series_E_-_Nereus_Pharmaceuticals@0741a
+funding round that Kdan Mobile Software launched in 2016	Seed_Round_-_Kdan_Mobile_Software@cd5c8
+funding round that independenceIT launched in 2011	Venture_Round_-_independenceIT@cb607
+funding round that Amex Exploration launched in 2011	Post-IPO_Equity_-_Amex_Exploration@163bd
+funding round that Justworks launched in 2020	Series_E_-_Justworks@aa0c1
+funding round that Lexaria Bioscience launched in 2018	Post-IPO_Equity_-_Lexaria_Bioscience@7826c
+funding round that UpCloud launched in 2020	Series_B_-_UpCloud@ea12b
+funding round that Speach launched in 2018	Series_A_-_Speach@0c828
+funding round that SilviBio launched in 2021	Grant_-_SilviBio@b119d
+funding round that Taxi2airport.com launched in 2017	Venture_Round_-_Taxi2airport.com@99128
+funding round that MyStore launched in 2006	Angel_Round_-_MyStore@11370
+funding round that Mobio launched in 2014	Venture_Round_-_Mobio@a1053
+funding round that OwnBackup launched in 2019	Series_C_-_OwnBackup@6e1b9

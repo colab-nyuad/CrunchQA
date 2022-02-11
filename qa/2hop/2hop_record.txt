@@ -1,0 +1,147 @@
+0	person-lead_investor_of-funding_round-launched-org	None	[person] was the lead investor of funding round launched by which organizations	100
+1	person-lead_investor_of-funding_round-type_of-investment_type	None	[person] was the lead investor of what types of funding rounds	100
+2	person-lead_investor_of-funding_round-country_code-country_code	None	[person] was the lead investor of funding rounds in which countries	100
+3	person-lead_investor_of-funding_round-raised_amount_usd-price	None	amounts raised in the funding rounds led by [person]	100
+4	person-lead_investor_of-funding_round-funding_round_investment_partner-person	None	list investment partners in the funding rounds lead by [person]	100
+6	person-funding_round_investor-funding_round-launched-org	None	[person] invested in which organizations	100
+8	person-funding_round_investor-funding_round-type_of-investment_type	None	[person] invested in what types of funding rounds	100
+9	person-sponsor-event-country_code-country_code	None	[person] is the sponsor of events in which countries	100
+10	person-sponsor-event-city-city	None	[person] is the sponsor of events in which cities	100
+11	person-sponsor-event-type_of-event_role	None	[person] is the sponsor of what types of events	100
+12	person-speaker-event-country_code-country_code	None	[person] is the sspeaker of events in which countries	100
+13	person-speaker-event-city-city	None	[person] is the speaker of events in which cities	100
+14	person-speaker-event-type_of-event_role	None	[person] is the speaker of what types of events	100
+15	person-organizer-event-country_code-country_code	None	[person] is the organizer of events in which countries	100
+16	person-organizer-event-city-city	None	[person] is the organizer of events in which cities	100
+17	person-organizer-event-type_of-event_role	None	[person] is the organizer of what types of events	100
+18	person-exhibitor-event-country_code-country_code	None	[person] is the exhibitor of events in which countries	100
+19	person-exhibitor-event-city-city	None	[person] is the exhibitor of events in which cities	100
+20	person-exhibitor-event-type_of-event_role	None	[person] is the exhibitor of what types of events	99
+21	person-contestant-event-country_code-country_code	None	[person] is the contestant of events in which countries	100
+22	person-contestant-event-city-city	None	[person] is the contestant of events in which cities	100
+23	person-contestant-event-type_of-event_role	None	[person] is the contestant of what types of events	100
+24	org-launched-funding_round-type_of-investment_type	None	[org] launched what types of funding rounds	100
+25	org-launched-funding_round-country_code-country_code	None	[org] launched funding rounds in what countries	100
+26	org-launched-funding_round-city-city	None	[org] launched funding rounds in what cities	100
+27	org-launched-funding_round-lead_investor_of-person	None	list of people who were the lead investors of [org]'s funding rounds	100
+28	org-launched-funding_round-lead_investor_of-org	None	list of companies that were lead investors of [org]'s funding rounds	100
+29	org-launched-funding_round-announced_on-date	None	when did [org] announce its funding rounds	100
+30	org-launched-funding_round-funding_round_investor-person	None	list of people who invested in [org]	100
+31	org-launched-funding_round-funding_round_investor-org	None	list companies that invested in [org]	100
+32	org-lead_investor_of-funding_round-launched-org	None	[org] was lead investor of funding orunds launched by which companies	100
+33	org-lead_investor_of-funding_round-type_of-investment_type	None	[org] was the lead investor of what types of funding rounds	100
+34	org-lead_investor_of-funding_round-country_code-country_code	None	[org] was the lead investor of funding rounds in which countries	100
+35	org-lead_investor_of-funding_round-raised_amount_usd-price	None	amounts raised in the funding rounds led by [org]	100
+36	org-lead_investor_of-funding_round-funding_round_investment_partner-person	None	list investment partners in the funding rounds lead by [org]	100
+37	org-funding_round_investor-funding_round-launched-org	None	[org] invested in which organizations	100
+38	org-funding_round_investor-funding_round-type_of-investment_type	None	[org] invested in what type of funding rounds	100
+39	org-funding_round_investor-funding_round-raised_amount_usd-price	None	amounts raised in funding rounds [org] invested in	100
+40	org-has_fund-fund-has_fund-org	None	[org] is the sponsor of events in which countries	100
+41	org-has_fund-fund-announced_on-date	None	[org] is the sponsor of events in which cities	100
+42	org-has_fund-fund-raised_amount_usd-price	None	[org] is the sponsor of what types of events	100
+43	org-sponsor-event-type_of-event_role	None	[org] is the sspeaker of events in which countries	100
+44	org-sponsor-event-started_on-date	None	[org] is the speaker of events in which cities	100
+45	org-speaker-event-ended_on-date	None	[org] is the speaker of what types of events	100
+46	org-speaker-event-type_of-event_role	None	[org] is the organizer of events in which countries	100
+47	org-speaker-event-started_on-date	None	[org] is the organizer of events in which cities	100
+48	org-organizer-event-ended_on-date	None	[org] is the organizer of what types of events	100
+49	org-organizer-event-type_of-event_role	None	[org] is the exhibitor of events in which countries	100
+50	org-organizer-event-started_on-date	None	[org] is the exhibitor of events in which cities	100
+51	org-exhibitor-event-ended_on-date	None	[org] is the exhibitor of what types of events	100
+52	org-exhibitor-event-type_of-event_role	None	[org] is the contestant of events in which countries	100
+53	org-exhibitor-event-started_on-date	None	[org] is the contestant of events in which cities	100
+54	category-category-org-org_ipo-ipo	None	ipos released by [category] organizations	100
+55	category-category-org-parent_org-org_parent	None	list of parent organizations of [category] companies	100
+56	category-category-org-launched-funding_round	None	list of funding rounds launched by [category] organizations	100
+57	category-category-org-lead_investor_of-funding_round	None	list of funding rounds led by [category] companies	100
+58	category-category-org-funding_round_investor-funding_round	None	list of funding rounds that has [category] investors	100
+59	category-category-org-has_fund-fund	None	list the funds owned by [category] organizations	100
+60	category-category-org-sponsor-event	None	list of events sponsored by [category] companies	100
+61	category-category-org-speaker-event	None	list of events with a speaker from [category]	100
+62	category-category-org-organizer-event	None	list or events organized by [category] companies	100
+63	category-category-org-exhibitor-event	None	list of events with an exhibitor from [category]	100
+64	category-category-org-contestant-event	None	list of events with a contestant from [category]	100
+65	org_role-role-org-sponsor-event	None	list of events sponsored by [role] organizations	1
+66	org_role-role-org-speaker-event	None	list of events in which the speaker is has role [role]	1
+67	org_role-role-org-organizer-event	None	list or events organized by [role] organizations	1
+68	org_role-role-org-exhibitor-event	None	list of events in which the exhibitor has role [role]	1
+69	org_role-role-org-contestant-event	None	list of events involving contestants with [role]	1
+70	event-sponsor-person-country_code-country_code	None	the sponsor of [event] come from what countries	91
+71	event-sponsor-person-sponsor-event	None	people that sponsored [event] also sponsored in what other events	100
+72	event-sponsor-org-sponsor-event	None	companies that sponsored [event] also sponsored in what other events	100
+73	event-sponsor-org-category-category	None	the sponsors of [event] are from what industries	100
+74	event-speaker-org-category-category	None	the speakers of [event] are from what industries	100
+75	event-organizer-org-category-category	None	the organizers of [event] are from what industries	100
+76	event-exhibitor-org-category-category	None	the exhibitor of [event] are from what industries	100
+77	event-contestant-org-category-category	None	the contestants of [event] are from what industries	99
+78	fund-has_fund-org-launched-funding_round	None	the owner of [fund] launched which funding rounds	100
+79	fund-has_fund-org-lead_investor_of-funding_round	None	the owner of [fund] is the lead investor of which funding rounds	99
+80	fund-has_fund-org-funding_round_investor-funding_round	None	the owner of [fund] invested in which funding rounds	100
+81	fund-has_fund-org-sponsor-event	None	the owner of [fund] sponsored what events	100
+82	fund-has_fund-org-country_code-country_code	None	the owner of [fund] is from what countries	95
+83	fund-has_fund-org-org_status-org_status	None	what is the operating suatus of the owner of [fund]	100
+84	fund-has_fund-org-role-org_role	None	what are the roles of the owner of [fund]	100
+85	fund-has_fund-org-category-category	None	the owner of [fund] is from what industries	96
+86	funding_round-lead_investor_of-person-country_code-country_code	None	[funding_round] is led by investors from what countries	100
+87	funding_round-lead_investor_of-org-country_code-country_code	None	[funding_round] is led by investors from what countries	100
+88	funding_round-funding_round_investor-person-country_code-country_code	None	the investors of [funding_round] are from which countries	100
+89	funding_round-funding_round_investor-org-country_code-country_code	None	the investors of [funding_round] are from which countries	100
+90	funding_round-funding_round_investor-org-category-category	None	the investors of [funding_round] are from what industries	100
+91	funding_round-funding_round_investment_partner-person-country_code-country_code	None	[funding_round]'s investment partners are from which countries	100
+92	city-city-funding_round-launched-org	None	funding rounds in [city] are launched by what organizations	100
+95	org_parent-parent_org-org-category-category	None	[pareng_org]'s child companies are from what categories	1
+4	person-lead_investor_of-funding_round-funding_round_investment_partner-person	person-gender-gender(c)	list the (gender) investment partners in the funding rounds that [person] led	100
+5	person-lead_investor_of-funding_round-funding_round_investment_partner-person	person-country_code-country_code(c)	list investment partners from (country_code) in the funding rounds lead by [person]	100
+6	person-funding_round_investor-funding_round-launched-org	org-country_code-country_code	[person] invested in what companies based in (country_code)	100
+7	person-funding_round_investor-funding_round-launched-org	org-category-category	[person] invested in what (category) companies	100
+0	person-lead_investor_of-funding_round-launched-org	None	[person] was the lead investor of funding round launched by which organizations	100
+1	person-lead_investor_of-funding_round-type_of-investment_type	None	[person] was the lead investor of what types of funding rounds	100
+2	person-lead_investor_of-funding_round-country_code-country_code	None	[person] was the lead investor of funding rounds in which countries	100
+3	person-lead_investor_of-funding_round-raised_amount_usd-price	None	amounts raised in the funding rounds led by [person]	100
+4	person-lead_investor_of-funding_round-funding_round_investment_partner-person	None	list investment partners in the funding rounds lead by [person]	100
+6	person-funding_round_investor-funding_round-launched-org	None	[person] invested in which organizations	100
+8	person-funding_round_investor-funding_round-type_of-investment_type	None	[person] invested in what types of funding rounds	100
+9	person-sponsor-event-country_code-country_code	None	[person] is the sponsor of events in which countries	100
+10	person-sponsor-event-city-city	None	[person] is the sponsor of events in which cities	100
+11	person-sponsor-event-type_of-event_role	None	[person] is the sponsor of what types of events	100
+1	org-is_acquirer-acquisition-is_acquiree-org	None	what are the organizations acquired by [org]	100
+2	org-is_acquirer-acquisition-type_of-acquisition_type	None	[org] had what types of acquisitions	100
+3	org-is_acquirer-acquisition-acquired_on-date	None	when did [org]'s acquisitions take place	100
+4	org-is_acquirer-acquisition-price_usd-price	None	list of acquisition price from [org]'s acquisitions	100
+5	org-is_acquiree-acquisition-is_acquirer-org	None	[org] was acquired by which company	100
+7	org-is_acquiree-acquisition-type_of-acquisition_type	None	[org] was acquired in what type of acquisition	100
+8	org-is_acquiree-acquisition-acquired_on-date	None	when was [org] acquired	100
+9	org-is_acquiree-acquisition-price_usd-price	None	for how much was [org] acquired	100
+11	org-org_ipo-ipo-country_code-country_code	None	[org] launched its ipo in which country	100
+12	org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol	None	what is the stock exchange symbol of [org]'s ipo	100
+13	org-org_ipo-ipo-went_public_on-date	None	when did [org] go public	100
+14	org-org_ipo-ipo-share_price_usd-price	None	what is the share price of [org]'s ipo	100
+15	org-org_ipo-ipo-raised_amount_usd-price	None	how much did [org] raise in its ipo	100
+1	org-is_acquirer-acquisition-is_acquiree-org	None	what are the organizations acquired by [org]	100
+2	org-is_acquirer-acquisition-type_of-acquisition_type	None	[org] had what types of acquisitions	100
+3	org-is_acquirer-acquisition-acquired_on-date	None	when did [org]'s acquisitions take place	100
+4	org-is_acquirer-acquisition-price_usd-price	None	list of acquisition price from [org]'s acquisitions	100
+5	org-is_acquiree-acquisition-is_acquirer-org	None	[org] was acquired by which company	100
+7	org-is_acquiree-acquisition-type_of-acquisition_type	None	[org] was acquired in what type of acquisition	100
+8	org-is_acquiree-acquisition-acquired_on-date	None	when was [org] acquired	100
+9	org-is_acquiree-acquisition-price_usd-price	None	for how much was [org] acquired	100
+11	org-org_ipo-ipo-country_code-country_code	None	[org] launched its ipo in which country	100
+12	org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol	None	what is the stock exchange symbol of [org]'s ipo	100
+13	org-org_ipo-ipo-went_public_on-date	None	when did [org] go public	100
+14	org-org_ipo-ipo-share_price_usd-price	None	what is the share price of [org]'s ipo	100
+15	org-org_ipo-ipo-raised_amount_usd-price	None	how much did [org] raise in its ipo	100
+16	org-in_org-job-has_job-person	None	list of people that work in [org]	100
+24	person-has_job-job-in_org-org	None	[person] works for which org	100
+25	person-has_job-job-job_title-job_title	None	[person]'s job title	100
+27	person-has_job-job-job_type-job_type	None	what types of job does [person] have	100
+30	acquisition_type-type_of-acquisition-is_acquirer-org	None	organizations that had [acquisition_type] acquisitions	4
+31	acquisition_type-type_of-acquisition-is_acquiree-org	None	organizations that were acquired in [acquisition_type] acquisition	4
+35	date-acquired_on-acquisition-is_acquirer-org	None	list of companies that made an acquisition during [date]	100
+37	date-acquired_on-acquisition-is_acquiree-org	None	list of companies acquired during [date]	100
+38	date-acquired_on-acquisition-is_acquiree-org	None	list of companies aquired during [date]	100
+42	date-went_public_on-ipo-org_ipo-org	None	list of organizations that launched ipo during [date]	100
+62	country_code-country_code-ipo-org_ipo-org	None	list of organizations that launched ipo in [country_code]	91
+64	country_code-country_code-ipo-stock_exchange_symbol-stock_exchange_symbol	None	what are the stock exchange symbols of ipos in [country_code]	89
+68	stock_exchange_symbol-stock_exchange_symbol-ipo-org_ipo-org	None	list organizations that launched their ipos on [stock_exchange_symbol]	91
+74	job_title-job_title-job-has_job-person	None	list of people who are [job_title]s	15
+81	job_type-job_type-job-has_job-person	None	list of people with [job_type] jobs	5

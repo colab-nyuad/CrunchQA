@@ -1,0 +1,100 @@
+amounts raised in the funding rounds led by Vertis Venture 3 Tech Transfer	3165677.0|2554151.0
+amounts raised in the funding rounds led by ITT Industries	1000000.0
+amounts raised in the funding rounds led by Partam Hightech	1250000.0
+amounts raised in the funding rounds led by Daying Capital	4490852.0
+amounts raised in the funding rounds led by FunPlus	30000000.0
+amounts raised in the funding rounds led by Chongqing Yulong Group	3001313.0
+amounts raised in the funding rounds led by Dyrdek Machine	844998.0
+amounts raised in the funding rounds led by Wutong Group	11418857.0|12209248.0
+amounts raised in the funding rounds led by Prima Materia	118843611.0
+amounts raised in the funding rounds led by General Motors	500000000.0|102936053.0|2000000000.0|125000.0|15183368.0|255000.0|1000000000.0|139000000.0
+amounts raised in the funding rounds led by Logistika AG	537965.0
+amounts raised in the funding rounds led by Roemer, Robinson, Melville & Co	4000000.0
+amounts raised in the funding rounds led by Huaao Ziben	4551562.0
+amounts raised in the funding rounds led by Taizhou Amphora Venture Capital Partnership	1452000.0
+amounts raised in the funding rounds led by BackWeb Technologies	1000000.0
+amounts raised in the funding rounds led by The Crawford Group	47500000.0
+amounts raised in the funding rounds led by Kodiak Capital Group	4275000.0|2000000.0|1500000.0|2600000.0|3000000.0|10000000.0|5000000.0|15000000.0
+amounts raised in the funding rounds led by Opportunity Fund	11520000.0
+amounts raised in the funding rounds led by FL Finance	2000000.0
+amounts raised in the funding rounds led by KPCB Edge	2500000.0|3755621.0
+amounts raised in the funding rounds led by Deutsche Wohnen	10865502.0
+amounts raised in the funding rounds led by Point72 Ventures	20000000.0|3200000.0|16000000.0|25880000.0|40000000.0|6000000.0|56700000.0|34000000.0|12000000.0|60000000.0|2350000.0|15423734.0|11000000.0|10000000.0|25000000.0|45000000.0|8000000.0|3000000.0|35000000.0|70000000.0|14250000.0|24381770.0|21000000.0|4500000.0|5500000.0|18651046.0|10150000.0|15000000.0|17000000.0
+amounts raised in the funding rounds led by Gene Capital	1421949.0|2872119.0
+amounts raised in the funding rounds led by Arsenal	3000000.0|6900000.0|9548207.0|9000000.0|3700000.0
+amounts raised in the funding rounds led by Quantonation	2626409.0
+amounts raised in the funding rounds led by Swedbank Robur	10600000.0|17677860.0|2871241.0
+amounts raised in the funding rounds led by Apricot Capital	30000000.0|10000000.0|1096186.0
+amounts raised in the funding rounds led by The Cleveland Foundation	130000.0|2250000.0
+amounts raised in the funding rounds led by VMware Foundation	2500000.0
+amounts raised in the funding rounds led by Shandong Economic Development	7354077.0
+amounts raised in the funding rounds led by Huaou Equity Investment	2906977.0|3660518.0|650929.0
+amounts raised in the funding rounds led by Main Sequence	3750000.0|3500000.0|23718329.0|1543400.0|9700000.0|3430612.0|2524103.0|2616776.0|1250000.0|772046.0|1183555.0|16481458.0|4000000.0|2318821.0|13000000.0|5917361.0|1149661.0
+amounts raised in the funding rounds led by Hefei Taihe Optoelectronic Technology	872080.0
+amounts raised in the funding rounds led by Makuake	93953.0|91949.0|49769.0|782380.0|232691.0|35240.0|36120.0|11192.0|37263.0|25664.0|28967.0|18413.0|19598.0|6030.0|964408.0|47355.0|274169.0|46952.0|222678.0|55821.0|131940.0|1065801.0|206030.0|124915.0
+amounts raised in the funding rounds led by Kangchengheng Touzi	1569834.0
+amounts raised in the funding rounds led by Rokk3r	2000000.0|15000000.0
+amounts raised in the funding rounds led by Antara Capital Master Fund	30000000.0|20000000.0
+amounts raised in the funding rounds led by Techstars Future of Longevity Accelerator	120000.0|100000.0
+amounts raised in the funding rounds led by Deerfield	240000000.0|50000000.0|5600000.0|20000000.0|200000000.0|130000000.0|350000000.0|16000000.0|42500000.0|125000000.0|75000000.0|40000000.0|80000000.0|83500000.0|34000000.0|36834000.0|27500000.0|60000000.0|7100000.0|44500000.0|6813355.0|11000000.0|12000000.0|30000000.0|10000000.0|25000000.0|13000000.0|4000000.0|100000000.0|45000000.0|53000000.0|28000000.0|35000000.0|150000000.0|231500000.0|70000000.0|20500000.0|57000000.0|65000000.0|40750000.0|18000000.0|15000000.0|257700000.0
+amounts raised in the funding rounds led by Rampart Capital LLP	21000000.0
+amounts raised in the funding rounds led by Cowin Capital	7413052.0|20000000.0|4700905.0|4884534.0|16000000.0|4320000.0|15683076.0|15384852.0|1497260.0|1646750.0|3278360.0|7487706.0|483724.0|2969000.0|5800000.0|966250.0|1577586.0|4316243.0|4799482.0|3966166.0|2315461.0|445327.0|8704104.0|1601665.0|3203782.0|1544637.0|15659745.0|2820000.0|7005450.0|28255412.0|30033000.0|8424600.0|15718103.0|2960000.0|16086841.0|1632421.0|1464770.0
+amounts raised in the funding rounds led by Supply Marketing Capital Management	1449548.0
+amounts raised in the funding rounds led by North Carolina Biotechnology Center	250000.0|15970.0|200000.0|25000.0|500000.0|18945.0|100000.0|78000.0|3000.0|20000.0
+amounts raised in the funding rounds led by Louisiana Board of Regents	1000000.0|195400.0
+amounts raised in the funding rounds led by SBIR Advance	75000.0|100000.0
+amounts raised in the funding rounds led by Navitas Capital	12200000.0|5700000.0|2800000.0|36000000.0|6500000.0|9000000.0|5000000.0|6010736.0|23500000.0|1200000.0|1500000.0
+amounts raised in the funding rounds led by HSCJ	2939654.0
+amounts raised in the funding rounds led by HBM Partners	18500000.0|25000000.0|4888769.0|2500000.0
+amounts raised in the funding rounds led by HeadHunter	5000000.0
+amounts raised in the funding rounds led by Hebei Information Industry Investment Group	1520619.0
+amounts raised in the funding rounds led by Kendal Capital	74601054.0
+amounts raised in the funding rounds led by DEEDE3 Deutschland Immobilien GmbH	1222157.0
+amounts raised in the funding rounds led by Essential Capital Consortium	5000000.0
+amounts raised in the funding rounds led by Founder's Room Capital	1000000.0
+amounts raised in the funding rounds led by Elekta	36000000.0
+amounts raised in the funding rounds led by Yamanashi Chugin Management Consulting	88520.0|270267.0|263955.0|255331.0|87685.0|213433.0
+amounts raised in the funding rounds led by DBS - NUS Social Venture Challenge Asia	10000.0
+amounts raised in the funding rounds led by Arushi Ventures	3000000.0|2000000.0
+amounts raised in the funding rounds led by Wacker Chemie	15000000.0
+amounts raised in the funding rounds led by Havells India	6593945.0
+amounts raised in the funding rounds led by BOV Capital	1273646.0|2749051.0
+amounts raised in the funding rounds led by Juxtapose	15500000.0|3000000.0|6000000.0
+amounts raised in the funding rounds led by The Tech Garden	150000.0
+amounts raised in the funding rounds led by Global Innovation Fund	169421.0|303922.0|11250492.0|217087.0|229000.0|2200000.0|750000.0|1520990.0|2170874.0|600000.0|10000000.0|460000.0|20000.0|385397.0|224000.0
+amounts raised in the funding rounds led by Highland Capital Management	25000000.0|5000000.0
+amounts raised in the funding rounds led by Saltwater Venture Sparks	248958.0
+amounts raised in the funding rounds led by Global Power Synergy Company	453780227.0
+amounts raised in the funding rounds led by M12 - Microsoft's Venture Fund	3500000.0|9340000.0|16000000.0|21250000.0|24500000.0|6250000.0|1000000.0|30000000.0|21500000.0|12100000.0|11000000.0|10000000.0|25000000.0|4000000.0|26000000.0|4600000.0|8000000.0|22000000.0|28000000.0|27000000.0|3250000.0|700000.0|2000000.0|21000000.0|6700000.0|9000000.0|17000000.0|3218446.0
+amounts raised in the funding rounds led by CTI Capital	3200000.0|8100000.0
+amounts raised in the funding rounds led by NewSpring Ventures	4000000.0|2000000.0|13000000.0|4500000.0
+amounts raised in the funding rounds led by fearless	150000.0
+amounts raised in the funding rounds led by British Robotics Seed Fund	413825.0|112479.0|184438.0|404770.0|331332.0
+amounts raised in the funding rounds led by Anne Corporation	12091350.0
+amounts raised in the funding rounds led by Gamut Capital	215000000.0
+amounts raised in the funding rounds led by State of Mind Ventures	2000000.0|3500000.0|2200000.0|12000000.0|5500000.0|4000000.0|5000000.0
+amounts raised in the funding rounds led by Patria Investimentos	15000000.0
+amounts raised in the funding rounds led by Suda Tiangong	12167023.0
+amounts raised in the funding rounds led by MakeMyTrip.com	1482508.0|15000000.0
+amounts raised in the funding rounds led by AJL Ophthalmic	1056890.0
+amounts raised in the funding rounds led by Kilo Health	363656.0|590585.0
+amounts raised in the funding rounds led by Muma Capital	3919663.0
+amounts raised in the funding rounds led by Emerald Development Managers	31000000.0|3000000.0|2000000.0
+amounts raised in the funding rounds led by Kandis Investments Limited	50000000.0
+amounts raised in the funding rounds led by Keppel Communications	5000000.0
+amounts raised in the funding rounds led by 7thirty Capital	2100000.0
+amounts raised in the funding rounds led by MLM Investment company	2000000.0
+amounts raised in the funding rounds led by Credit Suisse Loan Funding	410000000.0
+amounts raised in the funding rounds led by Chengdu Caiyun Nongye	1543392.0
+amounts raised in the funding rounds led by Esco Ventures	3400000.0|5000000.0
+amounts raised in the funding rounds led by Creadev	50000000.0|40000000.0|45484007.0|22000000.0|6750000.0|24000000.0|6000000.0|35000000.0|16000000.0|15846192.0|6400000.0|5000000.0|5588453.0|4769064.0|1087350.0|13700000.0
+amounts raised in the funding rounds led by Incentrum Group	85000000.0
+amounts raised in the funding rounds led by Nanjing Qingfang Touzi	2984763.0
+amounts raised in the funding rounds led by Archetype	4200000.0
+amounts raised in the funding rounds led by Notes We Buy	1500000.0
+amounts raised in the funding rounds led by Third Rock Ventures	86000000.0|20000000.0|33000000.0|55000000.0|40000000.0|34000000.0|12000000.0|30000000.0|60000000.0|58500000.0|81000000.0|38000000.0|100000000.0|45000000.0|26000000.0|40700000.0|47000000.0|35000000.0|27000000.0|95000000.0|56200000.0|57000000.0|65000000.0|18372751.0|110000000.0|82000000.0
+amounts raised in the funding rounds led by CICC Alpha	58921443.0|100000000.0
+amounts raised in the funding rounds led by Hongyue Venture Capital	451760.0
+amounts raised in the funding rounds led by MapsGroup	560222.0
+amounts raised in the funding rounds led by Cathay Venture	1100000.0
+amounts raised in the funding rounds led by Caymus Equity	1160600.0

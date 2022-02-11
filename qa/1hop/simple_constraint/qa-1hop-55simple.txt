@@ -1,0 +1,100 @@
+who is the SGP speaker of 20th Annual Global MilSatCom, London, UK	Equatorial_Space@49839
+who is the AUS speaker of Connect Retail West 2020	Westfield_Corporation@e823c
+who is the USA speaker of emerge Americas 2019	8base@392fe
+who is the NLD speaker of DevoXX Belgium	AxonIQ@8b0b4
+who is the BEL speaker of The Big Score 2019	Venly_(Previously_Arkane)@7400e
+who is the GBR speaker of Digital Marketing Leaders Summit Jakarta 2019	The_Body_Shop_International@3d3ee
+who is the USA speaker of Sundance Institute New Frontier Story Lab 2018	Unity_Technologies@b71dd
+who is the GBR speaker of Blockchain Shift	Stealth@84e55
+who is the IND speaker of AISS 2018 NASSCOM – DSCI	E42@12e63
+who is the VNM speaker of APAC F&B Innovation Summit 2021	KAMEREO@907b8
+who is the USA speaker of Pubcon Las Vegas 2016	Bell_+_Ivy@ab5e2
+who is the TWN speaker of APAC F&B Innovation Summit 2021	3_SQUARE@38e60
+who is the EST speaker of Slush 2018	TranslateWise@9d944
+who is the USA speaker of AutoTech Council - Mapping and Navigation	Civil_Maps@c1126
+who is the SVK speaker of SXSW 2015	AeroMobil@63253
+who is the GBR speaker of Bloomberg Invest Summit	Checkout.com@7ba3b
+who is the RUS speaker of WUD	4Blind@89535
+who is the USA speaker of How DataOps Can Prevent a DataOops	DataKitchen@dd881
+who is the USA speaker of Connect Westside Los Angeles 2019	Money360@72bb5|Greenberg_Glusker_LLP.@89c08|CBRE_Group@da5c2|George_Smith_Partners@0aa70|Crexi@00448
+who is the USA speaker of Connect Retail West 2020	Money360@72bb5|Bloomingdale's@51677|Marcus_&_Millichap@07154|ConnectCRE@67850|Donahue_Schriber@cbf20|Chicago_Title_Insurance_Company@d8f1f|Newmark_Knight_Frank_(NKF)@5990b|CBRE_Group@da5c2|Banc_of_California@9ece6|Crexi@00448
+who is the USA speaker of DC CyberWeek 2019	NUTS_Technologies_Inc.@7a1c3
+who is the FRA speaker of CIO Summit Chicago 2017	Vade_Secure@f4a6d
+who is the USA speaker of San Francisco VCs, Angels, Crypto and ICOs Event	venture_/_science@79686|Monetizr@5dc08
+who is the USA speaker of Focus on Wellness Speaker Series	Eddins_Counseling_Group@43ec9
+who is the USA speaker of SoCal Startup Day	GV@168e2
+who is the USA speaker of Entrepreneur Live	Foodstirs@7ee03
+who is the USA speaker of National Board of Medical Examiners	Embodied_Labs@95485
+who is the HKG speaker of Crédit Agricole & Le Village by CA Virtual Roadshow	WHub@b66ba|Neufast_Limited@f6264
+who is the USA speaker of Global Dating Insights 2018	Spectrum_Labs@107f1
+who is the MAR speaker of World Economic Forum Annual Meeting 2020	Atlan_Space@1ab28
+who is the SWE speaker of BREAKIT - Fintech Future of Credit	Instantor@1e72b
+who is the USA speaker of Barclays Select Series: European Payments and Fintech Forum	Crowdz@8eceb
+who is the USA speaker of IDTechEx Show 2017	AerNos,_Inc.@b3f7c|NEXT_Future_Transportation@c47a3
+who is the USA speaker of Elevate 2018	Unboundly@3750d|Pilota@6e709
+who is the GBR speaker of Seamless Europe 2021	Starling_Bank@6b4c6|Tide@e5d3c
+who is the USA speaker of INVENTURE$ 2019	TwentyTables@8eea4
+who is the USA speaker of QCon New York 2019	Netifi@bbdea
+who is the IND speaker of VMA Valve Industry Knowledge Forum 2019	Centre_for_Computational_Technologies_Pvt_Ltd@97afb
+who is the USA speaker of AUTONOMOUS VEHICLE TEST & DEVELOPMENT SYMPOSIUM USA	Civil_Maps@c1126
+who is the TUR speaker of Webinar: Future of Logistics	TIRPORT@b2220
+who is the USA speaker of SUM #03	Loop_AI_Group_Cognitive_Computing@0333f
+who is the USA speaker of Gartner IT Symposium/Xpo 2019	Falkonry@1ea6f
+who is the CHL speaker of Fashion Online 2020	Brand_&_Label@6ddd7
+who is the DEU speaker of SingularityU Brussels Summit 2019	AVA@87dab
+who is the TUR speaker of AEGEAN ECONOMIC FORUM, 2019	TIRPORT@b2220
+who is the GBR speaker of Pitch	LuJam_Cyber@2f8c2
+who is the JPN speaker of The AI Congress Las Vegas	Ricoh_Company@7424d
+who is the CHE speaker of IGD Supply Chain Summit 2021	Nestlé@1503d
+who is the USA speaker of Fort Worth IT Symposium	Maxxsure@18b0f
+who is the HKG speaker of 2018 Lendit Conference Europe	Know_Your_Customer@23a8e
+who is the PRT speaker of Electric & Hybrid Vehicle technology expo	AddVolt@14755
+who is the USA speaker of MLOps & ModelOps: What’s next?	Scry_Analytics@60c62|Veritone@75969|DataKitchen@dd881
+who is the USA speaker of CyFy 2019: Observer Research Foundation	The_Blockchain_Challenge@067f2
+who is the USA speaker of SXSW 2020	Pryon@60098|ZeBrand_Inc.@b0743
+who is the USA speaker of eTail Boston 2019	Vertebrae@8a5ba
+who is the BGR speaker of Tech of Tomorrow 2019	Impetus_Capital@ea753
+who is the USA speaker of Collab’ Startups X Grands Comptes	The_Carlyle_Group@1bf7f
+who is the CAN speaker of Virtual Futurist Conference	iComply_Investor_Services_Inc.@48feb
+who is the JPN speaker of The 4th International Chatbot Summit	Bespoke@3a9be
+who is the ISR speaker of Global Space and Technology Convention 2021	NSLComm@45fce
+who is the GBR speaker of Cryptocompare London Blockchain Summit	SVK_Crypto@e3b8c
+who is the USA speaker of San Francisco Fashion Week ® 2018 : Retail Tech - A.I. + Big Data + Blockchain	Loop_AI_Group_Cognitive_Computing@0333f
+who is the CHE speaker of START Summit 2017	Starmind@72e5a
+who is the GBR speaker of MAD//Fest	skignz@45fc3
+who is the FRA speaker of AWS Innovate AI/ML Edition	Synchronized@3890c
+who is the USA speaker of The Countdown Summit TED	Persefoni@335c1
+who is the USA speaker of Founders Live LA pitch event	WeWork@e9485
+who is the IND speaker of NRF 2020	Haptik@ead2b
+who is the USA speaker of MEC 2020 - MOVIMIENTO DE EMPRESAS CREATIVAS	ONErpm@f21d9|CD_Baby@fdf06|Dieste_Inc.@4880c
+who is the DEU speaker of Money2020 Europe 2018	Zuper@7bc4c
+who is the USA speaker of Lendit Fintech USA 2019	World_Innovation_Lab@373f3
+who is the ARE speaker of IFN Forum Fintech 2017	Eureeca@28827
+who is the USA speaker of Demystifying DataOps - Riding the Change	DataKitchen@dd881
+who is the USA speaker of Service Delivery Innovation Summit	Tarifica@af8bf
+who is the USA speaker of InsureTech Connect 2020	Fenris@ed4ea
+"who is the DEU speaker of Freezing Week ""Emotional Intelligence Meets AI"""	AI_Bots_as_a_Service_-_a_Conversational_AI_engine_by_AI_BaaS@2b6fa
+who is the USA speaker of IoT Blockchain Summit Atlanta 2018	AnyLog@42144
+who is the USA speaker of KubeCon + CloudNativeCon Europe 2019	CodiLime@35131|PlanetScale@8e426
+who is the USA speaker of TechStars Barclays London 2018 Accelerator	otto_by_DEVCON@77d70|Keybot@5637d|Gatsby@02349|Crowdz@8eceb
+who is the USA speaker of HIVE Esports	BITKRAFT_Ventures@b034c
+who is the IND speaker of Start-A-Thon	Inflection_Point_Ventures@8d275
+who is the EST speaker of TechCrunch Disrupt Berlin 2019 - Top Pick (Security & Privacy)	Raison@abb3a
+who is the USA speaker of tct2018	CardioCube_(acquired_by_Voxel)@ee282
+who is the GBR speaker of EdTechX Europe 2016	EduMe@01fc4
+who is the BGR speaker of Aeternity Universe One	TraDEXsocial@cf470
+who is the JPN speaker of Google Cloud Next 2018	Cogent_Labs@ac721
+who is the EST speaker of Pioneers Festival 2019	Alpha_AR@bc11d
+who is the NLD speaker of Boston Consulting Group - AI Game Changers	Frosha@93f6e
+who is the FRA speaker of Digital Marketing Leaders Summit Hong Kong 2018	Danone@60de3
+who is the ARE speaker of Startup Weekend	Eureeca@28827
+who is the USA speaker of Enterprise DATAVERSITY 2015	DataKitchen@dd881
+who is the USA speaker of AfricaCom 2018	KaiOS_Technologies@6cfb5
+who is the BEL speaker of Arch Summit	Venly_(Previously_Arkane)@7400e
+who is the POL speaker of FinTech Connect London 2019	Nethone@ce014
+who is the HKG speaker of APAC F&B Innovation Summit 2021	Green_Queen_Media@2be85
+who is the CHE speaker of Web Summit 2017	Sonect@9bfc1
+who is the ROM speaker of INVENTURE$ 2019	Gumzzz@2fcb4
+who is the USA speaker of BISNOW'S NY URBANTECH SUMMIT: REAL ESTATE DEVELOPMENT & DISRUPTION	Enodo@08a7a
+who is the CAN speaker of Digifest 2018	GoParkr@a1be4
+who is the USA speaker of ETHIndia	Quantstamp@acd44

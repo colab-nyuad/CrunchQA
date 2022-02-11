@@ -1,0 +1,100 @@
+industry of Hyperkit Technologies	Sales_and_Marketing|Mobile|Information_Technology|Software|Design|Commerce_and_Shopping|Apps
+industry of Loftware	Software|Information_Technology
+industry of DataCert	Software|Professional_Services|Financial_Services
+industry of MoveCU	Lending_and_Investments|Financial_Services
+industry of FutureCap	Lending_and_Investments|Financial_Services
+industry of Share A Dream	Community_and_Lifestyle|Professional_Services
+industry of Evergen	Sustainability|Information_Technology|Energy|Software|Natural_Resources
+industry of Vopium	Hardware|Mobile|Information_Technology
+industry of OriCiro Genomics	Science_and_Engineering|Professional_Services|Biotechnology
+industry of Mono+Mono	Sales_and_Marketing|Content_and_Publishing|Advertising|Media_and_Entertainment|Commerce_and_Shopping
+industry of JamesEdition	Clothing_and_Apparel|Real_Estate|Design|Commerce_and_Shopping|Transportation|Community_and_Lifestyle
+industry of ActiveVideo	Media_and_Entertainment|Video
+industry of leviaplan	Internet_Services
+industry of Mixed Media Labs	Sales_and_Marketing|Mobile|Software|Advertising|Platforms
+industry of Chestnut Cosmetics	Consumer_Goods|Commerce_and_Shopping
+industry of GoKid	Internet_Services|Mobile|Software|Transportation|Community_and_Lifestyle|Apps
+industry of Dermal China	Consumer_Goods|Commerce_and_Shopping
+industry of Bajaj Allianz Life Insurance Company Limited	Science_and_Engineering|Information_Technology|Professional_Services|Financial_Services|Software|Hardware
+industry of Turning Square	Sports
+industry of BEJOND	Design
+industry of Kent Langley.com	Software|Data_and_Analytics|Other
+industry of GrandBazar	Software|Data_and_Analytics|Commerce_and_Shopping
+industry of Wavicle	Internet_Services|Software|Information_Technology
+industry of Swiss Devco	Hardware|Information_Technology|Professional_Services
+industry of SNP Transformations Deutschland	Information_Technology
+industry of GEA Network	Professional_Services
+industry of oVertone Haircare	Consumer_Goods
+industry of Host Healthcare, Inc.	Administrative_Services|Health_Care|Professional_Services
+industry of AMP-BEST Consulting	Software
+industry of Albion Global	Software|Information_Technology|Professional_Services
+industry of WOOW Social Media	Internet_Services|Sales_and_Marketing|Mobile|Software|Advertising|Media_and_Entertainment|Apps
+industry of PPTV	Media_and_Entertainment|Video|Content_and_Publishing
+industry of Vitec Videocom	Media_and_Entertainment|Video
+industry of Phoresa	Health_Care
+industry of DommeHouse.com	Media_and_Entertainment|Video
+industry of Yantai Dongcheng Pharmaceutical	Health_Care|Science_and_Engineering|Biotechnology
+industry of GoGo Fit	Health_Care|Sports
+industry of Ravid	Mobile|Software|Media_and_Entertainment|Platforms|Video
+industry of Contiga Tinglev	Manufacturing|Real_Estate
+industry of Kind Village	Information_Technology|Other|Community_and_Lifestyle|Government_and_Military
+industry of The New Orleans Exchange	Real_Estate
+industry of Sparkle	Software|Apps|Financial_Services
+industry of Cambly	Internet_Services|Information_Technology|Messaging_and_Telecommunications|Media_and_Entertainment|Video|Education
+industry of Surrey Signs	Design
+industry of SOTR Solutions	Government_and_Military
+industry of Faculty of Electrical Engineering and Computing (FER), University of Zagreb	Education
+industry of Asyncode Limited	Internet_Services|Information_Technology|Software|Design|Data_and_Analytics
+industry of Soshowise	Commerce_and_Shopping|Financial_Services
+industry of Cowrks	Real_Estate
+industry of Deed	Gaming|Software|Media_and_Entertainment|Events
+industry of so+ma	Internet_Services|Sales_and_Marketing|Financial_Services
+industry of Electro Optic Center	Health_Care
+industry of Computing Devices International	Information_Technology
+industry of Tomrepair	Commerce_and_Shopping
+industry of HOMI SmartHome	Internet_Services|Other
+industry of Chai Garam	Food_and_Beverage
+industry of President Engineering Group	Manufacturing|Science_and_Engineering
+industry of The Fourth Floor	Information_Technology|Community_and_Lifestyle|Professional_Services
+industry of Zmaaya	Internet_Services|Software|Information_Technology
+industry of Reckonsys	Software|Design|Information_Technology
+industry of Cumbria Biogas	Sustainability|Energy
+industry of ARB Midstream	Natural_Resources|Energy
+industry of Next Wave Impact	Lending_and_Investments|Financial_Services
+industry of PROPLUS LOGICS	Internet_Services|Sales_and_Marketing|Mobile|Software|Design|Commerce_and_Shopping|Apps
+industry of Shenzhen Sidu Kongjian Touzi Co., Ltd.	Lending_and_Investments|Financial_Services
+industry of We're on a road to nowhere	Professional_Services|Financial_Services
+industry of Main Mezzanine Capital	Lending_and_Investments|Hardware|Financial_Services
+industry of Business Careware	Media_and_Entertainment|Software|Messaging_and_Telecommunications|Events
+industry of Arvoia	Software|Transportation
+industry of Shebah	Transportation|Community_and_Lifestyle
+industry of Payforward	Software|Information_Technology
+industry of ARJ Holding	Real_Estate
+industry of The Phat Startup	Software|Community_and_Lifestyle|Education
+industry of Travers Smith	Professional_Services
+industry of Courtsdesk	Content_and_Publishing|Information_Technology|Privacy_and_Security|Professional_Services|Software|Media_and_Entertainment|Government_and_Military|Data_and_Analytics
+industry of embWiSe Technologies	Software|Information_Technology
+industry of Finding Your Individuality	Health_Care|Education
+industry of WCL Group	Other|Education
+industry of Adhunik Power System	Manufacturing|Sustainability|Energy
+industry of Splynt	Science_and_Engineering|Software|Health_Care|Artificial_Intelligence|Data_and_Analytics
+industry of Bosera Asset Management	Information_Technology|Financial_Services
+industry of WorldLink	Internet_Services|Information_Technology|Professional_Services|Software|Other|Data_and_Analytics
+industry of GGE Group	Transportation|Manufacturing|Science_and_Engineering
+industry of Bonzer Technologies Pvt. Ltd.	Sales_and_Marketing|Mobile|Software|Design|Commerce_and_Shopping|Apps
+industry of Parker Hughes Cancer Center	Health_Care
+industry of Sascar	Software|Transportation
+industry of Mondo Taxi	Software|Transportation|Mobile|Apps
+industry of bunkersofa	Internet_Services|Software
+industry of Topaz Information Solutions	Health_Care|Information_Technology
+industry of Elixir Fine Foods	Internet_Services|Other|Food_and_Beverage|Commerce_and_Shopping|Community_and_Lifestyle
+industry of OrthoIndy	Health_Care
+industry of Silicon Valley Leadership Group	Other|Education
+industry of Pikkart	Software|Hardware
+industry of Jonathan Rose Companies	Real_Estate
+industry of Bza LLC	Internet_Services|Sales_and_Marketing|Software|Media_and_Entertainment|Design|Commerce_and_Shopping
+industry of Abdiel Capital	Design|Data_and_Analytics|Professional_Services|Financial_Services
+industry of Tasso	Health_Care
+industry of Weir Flow Control	Manufacturing|Energy
+industry of DXagency	Sales_and_Marketing|Advertising
+industry of BGS Venture	Software|Platforms|Mobile|Financial_Services

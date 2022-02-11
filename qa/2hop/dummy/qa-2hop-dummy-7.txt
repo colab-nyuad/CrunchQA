@@ -1,0 +1,100 @@
+Wijnvoordeel.nl was acquired in what type of acquisition	management_buyout
+La Galvanina was acquired in what type of acquisition	lbo
+Distec International was acquired in what type of acquisition	lbo
+Bostavan was acquired in what type of acquisition	lbo
+Tequila Casa Dragones was acquired in what type of acquisition	lbo
+Normatrans was acquired in what type of acquisition	lbo
+Ster Century was acquired in what type of acquisition	management_buyout
+Templine Employment Agency was acquired in what type of acquisition	management_buyout
+CVO-Technologies was acquired in what type of acquisition	merge
+YellowFox was acquired in what type of acquisition	lbo
+Centrify was acquired in what type of acquisition	lbo
+Arizona Chemical Company was acquired in what type of acquisition	lbo
+Milk was acquired in what type of acquisition	acquihire
+Aca Group Of Companies was acquired in what type of acquisition	merge
+RAM Infotechnology was acquired in what type of acquisition	lbo
+Sator Beheer was acquired in what type of acquisition	lbo
+Press & Converting was acquired in what type of acquisition	lbo
+Updata Infrastructure was acquired in what type of acquisition	management_buyout
+Network Group Holdings was acquired in what type of acquisition	merge
+SunSystem Technology was acquired in what type of acquisition	merge
+Papa Gino's was acquired in what type of acquisition	lbo
+Bank of Africa Group was acquired in what type of acquisition	lbo
+Steel Marketing was acquired in what type of acquisition	merge
+S.J. Electro Systems was acquired in what type of acquisition	lbo
+Swedoffice was acquired in what type of acquisition	lbo
+Lab Crafters was acquired in what type of acquisition	lbo
+Heartland Home Services was acquired in what type of acquisition	lbo
+Vertafore was acquired in what type of acquisition	lbo
+Func Food Finland Oy was acquired in what type of acquisition	lbo
+Unirac was acquired in what type of acquisition	lbo
+Masterwork Electronics was acquired in what type of acquisition	lbo
+Jigsaw24 was acquired in what type of acquisition	lbo|management_buyout
+Alro group was acquired in what type of acquisition	lbo
+Eneas Group was acquired in what type of acquisition	lbo
+Rolland Enterprises was acquired in what type of acquisition	lbo
+Brintons Carpets Limited was acquired in what type of acquisition	lbo|management_buyout
+Primo Japan was acquired in what type of acquisition	lbo
+Emitel was acquired in what type of acquisition	lbo
+Ipsen was acquired in what type of acquisition	management_buyout
+A-Gas was acquired in what type of acquisition	lbo|management_buyout
+Agenda Communications and Conference Services was acquired in what type of acquisition	lbo
+F3EA Servicing was acquired in what type of acquisition	lbo
+RMS Beauty was acquired in what type of acquisition	lbo
+Sanitec was acquired in what type of acquisition	lbo|management_buyout
+Qinhuai Data was acquired in what type of acquisition	lbo
+Rocket Medical was acquired in what type of acquisition	lbo
+Narumiya International was acquired in what type of acquisition	lbo
+Vittoria was acquired in what type of acquisition	lbo
+Horizon Hobby was acquired in what type of acquisition	lbo
+280 CapMarkets was acquired in what type of acquisition	merge
+Sonder Design was acquired in what type of acquisition	acquihire
+Maintpartner Group was acquired in what type of acquisition	lbo
+Polywest was acquired in what type of acquisition	lbo
+Accra Mall was acquired in what type of acquisition	lbo
+Liaigre was acquired in what type of acquisition	lbo
+SSP Innovations was acquired in what type of acquisition	lbo
+Enara Group was acquired in what type of acquisition	lbo
+Proven Partners was acquired in what type of acquisition	lbo
+Bartoline was acquired in what type of acquisition	lbo
+Brukens Thermotreat was acquired in what type of acquisition	lbo
+Novotema was acquired in what type of acquisition	lbo
+Wowza Media Systems was acquired in what type of acquisition	lbo
+Dion Herbs & Spices was acquired in what type of acquisition	lbo
+Nazareno Gabrielli was acquired in what type of acquisition	lbo
+Spheros GmbH was acquired in what type of acquisition	management_buyout
+Merit Industries was acquired in what type of acquisition	lbo
+idX Corporation was acquired in what type of acquisition	lbo
+Little Chef was acquired in what type of acquisition	lbo
+Helly Hansen was acquired in what type of acquisition	lbo
+Paule Ka was acquired in what type of acquisition	management_buyout
+The Harley Medical Group was acquired in what type of acquisition	lbo
+Ingram Micro was acquired in what type of acquisition	lbo
+SEM was acquired in what type of acquisition	lbo
+Radiant Plumbing & Air Conditioning was acquired in what type of acquisition	lbo
+Industrie Ilpea Spa was acquired in what type of acquisition	lbo
+Lateral was acquired in what type of acquisition	lbo
+Forensic Access was acquired in what type of acquisition	lbo
+Imperial Supplies was acquired in what type of acquisition	lbo
+Enermet Group Oy was acquired in what type of acquisition	lbo
+Buildercom Oy was acquired in what type of acquisition	lbo
+Davenham Group was acquired in what type of acquisition	management_buyout
+Gray & Osbourn was acquired in what type of acquisition	management_buyout
+Life Healthcare was acquired in what type of acquisition	lbo
+Proresta Internet technologies pvt ltd was acquired in what type of acquisition	merge
+PMSI was acquired in what type of acquisition	lbo
+Foxtons was acquired in what type of acquisition	lbo
+The Belfry Group was acquired in what type of acquisition	lbo
+The Goldfield Corporation was acquired in what type of acquisition	merge
+Corposan was acquired in what type of acquisition	lbo
+Virosac was acquired in what type of acquisition	management_buyout
+BOTANICA Group was acquired in what type of acquisition	merge
+EG A/S was acquired in what type of acquisition	lbo
+Covenant Physician Partners was acquired in what type of acquisition	lbo
+Clayton Group Services was acquired in what type of acquisition	lbo
+SmartPocket was acquired in what type of acquisition	acquihire
+Grupo Saona was acquired in what type of acquisition	management_buyout
+Eductive Group was acquired in what type of acquisition	lbo
+Insight Global was acquired in what type of acquisition	lbo
+Northwest Bank was acquired in what type of acquisition	merge
+RestorixHealth was acquired in what type of acquisition	lbo

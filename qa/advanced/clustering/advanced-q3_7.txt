@@ -1,0 +1,100 @@
+which Fruit companies have the highest ipo share price	DAVIDsTEA@862e3
+which Therapeutics companies have the highest ipo share price	Verseon@54e02
+which Web Development companies have the highest ipo share price	JFrog@c63b8
+which Emergency Medicine companies have the highest ipo share price	Entrada_Therapeutics@16f7d
+which Industrial companies have the highest ipo share price	Gallantt_Group@77fb2
+which Energy companies have the highest ipo share price	Next_Generation_Media@f77d2
+which Delivery Service companies have the highest ipo share price	Vaxcyte@0abbd
+which Small and Medium Businesses companies have the highest ipo share price	Shoals_Technologies_Group@23c91
+which Cosmetic Surgery companies have the highest ipo share price	SoYoung_Technology@9a304
+which Product Management companies have the highest ipo share price	Amplitude@50829
+which Genetics companies have the highest ipo share price	10X_Genomics@0de39
+which Power Grid companies have the highest ipo share price	Opower@1ab73
+which Compliance companies have the highest ipo share price	Tenable@8045b
+which Location Based Services companies have the highest ipo share price	Inpixon@36e62
+which Parking companies have the highest ipo share price	SP_Plus@34485
+which Electric Vehicle companies have the highest ipo share price	Rivian@e9cf2
+which Innovation Management companies have the highest ipo share price	Blackchain@d9559
+which RFID companies have the highest ipo share price	Impinj@87739
+which Information and Communications Technology (ICT) companies have the highest ipo share price	Prosus@dbcde
+which UX Design companies have the highest ipo share price	Aaradhana_Technology@91cd9
+which Sales Automation companies have the highest ipo share price	UserTesting@4e413
+which Audio companies have the highest ipo share price	Spotify@b1a5e
+which Nutrition companies have the highest ipo share price	Procter_&_Gamble_Company@7183f
+which 3D Technology companies have the highest ipo share price	Roblox@85e4e
+which InsurTech companies have the highest ipo share price	Oscar_Health@19fe7
+which Music Label companies have the highest ipo share price	AudioValley@ff721
+which Credit companies have the highest ipo share price	New_Century_Mortgage@c180a
+which Communication Hardware companies have the highest ipo share price	Mynaric@516a7
+which Social News companies have the highest ipo share price	Qutoutiao@eca4e
+which Local Shopping companies have the highest ipo share price	Rue21@eed6b
+which Privacy companies have the highest ipo share price	Intertrust@d2f56
+which Residential companies have the highest ipo share price	Gafisa@4aec8
+which Elder Care companies have the highest ipo share price	Care.com@1a6bd
+which GPS companies have the highest ipo share price	Telenav@01cce
+which Digital Signage companies have the highest ipo share price	ALFI@5a2ad
+which Home Improvement companies have the highest ipo share price	HD_Supply_Holdings@d9331
+which Training companies have the highest ipo share price	Docebo@3181a
+which Green Consumer Goods companies have the highest ipo share price	Le_Gaga@e59a3
+which Tutoring companies have the highest ipo share price	Care.com@1a6bd
+which Consulting companies have the highest ipo share price	Vlc_Holdings@0a455
+which Energy Storage companies have the highest ipo share price	Hoymiles@f0754
+which Document Management companies have the highest ipo share price	DISCO@6597e
+which Online Games companies have the highest ipo share price	Roblox@85e4e
+which Risk Management companies have the highest ipo share price	Tabula_Rasa_Healthcare_(formerly_CareKinesis)@7efb2
+which Incubators companies have the highest ipo share price	Rocket_Internet@62455
+which Cloud Storage companies have the highest ipo share price	Isilon_Systems@50cc3
+which Consumer Electronics companies have the highest ipo share price	Dialog_Semiconductor@c6a85
+which Embedded Systems companies have the highest ipo share price	Spansion@95ddb
+which Management Information Systems companies have the highest ipo share price	Privia_Health@85308
+which Impact Investing companies have the highest ipo share price	Volvere_plc@20648
+which Cryptocurrency companies have the highest ipo share price	SMIN_ltda@1e0e7
+which IT Infrastructure companies have the highest ipo share price	New_Relic@8c0ea
+which Data Storage companies have the highest ipo share price	OVHcloud@b360e
+which Neuroscience companies have the highest ipo share price	Nyxoah@1037c
+which Cannabis companies have the highest ipo share price	Gaby@b3c96|Flower_One@35df0
+which Emerging Markets companies have the highest ipo share price	Artisan_Partners@7eaee
+which Autonomous Vehicles companies have the highest ipo share price	TuSimple@c026e
+which Environmental Consulting companies have the highest ipo share price	Advanced_Disposal_Services@e119f
+which Private Cloud companies have the highest ipo share price	HashiCorp@08351
+which Enterprise Resource Planning (ERP) companies have the highest ipo share price	Great_Plains_Software@85a61
+which Usability Testing companies have the highest ipo share price	SunwayWorld@07b62
+which Crowdsourcing companies have the highest ipo share price	CrowdStrike@d9be9
+which Direct Sales companies have the highest ipo share price	Herbalife_Nutrition_Ltd.@97505
+which Winery companies have the highest ipo share price	Winc@faf44
+which Market Research companies have the highest ipo share price	Qualtrics@10103
+which Solar companies have the highest ipo share price	C&J_Energy_Services@e79be
+which Flash Storage companies have the highest ipo share price	Datto@3cc93
+which Pet companies have the highest ipo share price	Elanco@782b6
+which Recreation companies have the highest ipo share price	Manchester_United_Football_Club_Limited@035db
+which Warehousing companies have the highest ipo share price	Ryerson@6729e
+which Confectionery companies have the highest ipo share price	Cake_Box_Holdings@b016e
+which Subscription Service companies have the highest ipo share price	Ancestry@1737a
+which Electronics companies have the highest ipo share price	Infibeam@60ab0
+which Cloud Security companies have the highest ipo share price	GitLab@d85c5
+which Billing companies have the highest ipo share price	Bill.com@9e96f
+which Career Planning companies have the highest ipo share price	Cookbiz_Co.,Ltd@54a10
+which Retirement companies have the highest ipo share price	Athene@591d1
+which Property Management companies have the highest ipo share price	Opendoor@956cd
+which Wedding companies have the highest ipo share price	Ikka_Dining_Project@e2ddd
+which Information Services companies have the highest ipo share price	CyrusOne@e4be3
+which Restaurants companies have the highest ipo share price	Toast@89ba9
+which Higher Education companies have the highest ipo share price	Afya@5432a
+which Military companies have the highest ipo share price	Armor_Holdings@396fa
+which Mobile Payments companies have the highest ipo share price	One97@c47b7
+which Lead Generation companies have the highest ipo share price	ON24@001c7
+which Printing companies have the highest ipo share price	XTPL@00d4e
+which Mapping Services companies have the highest ipo share price	Telenav@01cce
+which Grocery companies have the highest ipo share price	Grocery_Outlet@b1d39
+which Fuel companies have the highest ipo share price	EnergySolutions@127d7
+which Association companies have the highest ipo share price	Alibaba_Group@d055e
+which Communications Infrastructure companies have the highest ipo share price	Sycamore_Networks@9b97e
+which Dental companies have the highest ipo share price	SmileDirectClub@302f4
+which Forestry companies have the highest ipo share price	PRT@d7237
+which TV companies have the highest ipo share price	VIZIO@15635
+which Alternative Medicine companies have the highest ipo share price	Praxis_Precision_Medicines@f73c4
+which Home Renovation companies have the highest ipo share price	Azek_Building_Products@dda02
+which CleanTech companies have the highest ipo share price	XL_Fleet@6aed5
+which Windows companies have the highest ipo share price	PGT_Innovations@379ee
+which Electronic Health Record (EHR) companies have the highest ipo share price	Computer_Programs_and_Systems@6b62d
+which Oil and Gas companies have the highest ipo share price	Alon_Gas_Energy_Development@1510c

@@ -1,0 +1,100 @@
+the investors of Seed Round - Tilofy are from what industries	Health_Care|FinTech|Smart_Cities|InsurTech|Retail
+the investors of Grant - Siyavula Education are from what industries	Impact_Investing|Non_Profit
+the investors of Series D - Eaze are from what industries	Venture_Capital|Impact_Investing|Finance
+the investors of Series B - CanDo are from what industries	Financial_Services
+the investors of Venture Round - Oxford Space Systems are from what industries	Venture_Capital|Information_Technology|Financial_Services
+the investors of Seed Round - Piictu are from what industries	Finance
+the investors of Series A - Shorla Pharma are from what industries	Venture_Capital|Health_Care|Biotechnology
+the investors of Series A - Remote are from what industries	Venture_Capital|Finance|Angel_Investment|Financial_Services
+the investors of Series E - DataStax are from what industries	Financial_Services|Software|Digital_Media|Venture_Capital|Finance|Angel_Investment
+the investors of Series A - Casela are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Seed Round - Talentry are from what industries	Financial_Services|Impact_Investing|Venture_Capital|Renewable_Energy|Finance|Insurance
+the investors of Seed Round - Farmeron are from what industries	Marketplace|SaaS|Venture_Capital|Consumer|Internet|Finance|Business_Development
+the investors of Series A - Aero are from what industries	Finance|Financial_Services
+the investors of Series A - rebike1 are from what industries	Venture_Capital
+the investors of Series A - BuzzFeed are from what industries	Publishing|Digital_Media|Software|News|Media_and_Entertainment|Venture_Capital|Information_Services
+the investors of Non Equity Assistance - Fintecture are from what industries	Social_Impact|Social_Entrepreneurship|Finance|Financial_Services
+the investors of Series B - Orca Security are from what industries	Cyber_Security|Financial_Services|FinTech|Real_Estate|Venture_Capital|Internet|Finance|Business_Development
+the investors of Debt Financing - renegade.bio are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series D - Benchling are from what industries	Enterprise|Marketplace|Financial_Services|FinTech|Consumer|Venture_Capital|Finance|Angel_Investment|Business_Development|Consulting
+the investors of Seed Round - Krishify are from what industries	Venture_Capital|Angel_Investment|Financial_Services
+the investors of Series C - Yubo are from what industries	Gaming|Consumer_Goods|Mobile_Apps|Marketplace|FinTech|Real_Estate|SaaS|Venture_Capital|Artificial_Intelligence|Education
+the investors of Seed Round - LearnPlatform are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series G - Stemcentrx are from what industries	Venture_Capital|Finance|Angel_Investment|Financial_Services
+the investors of Non Equity Assistance - Open.Media are from what industries	Social_Impact|Social_Entrepreneurship|Finance|Financial_Services
+the investors of Series A - Geofusion are from what industries	Information_and_Communications_Technology_(ICT)|Agriculture
+the investors of Series B - Kuaishou Technology are from what industries	Venture_Capital|Impact_Investing|Finance|Financial_Services
+the investors of Series B - TCR2 are from what industries	Life_Science|Health_Care|Venture_Capital|Biotechnology
+the investors of Convertible Note - JOY Familytech are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series D - Dynavax Technologies are from what industries	Life_Science|Finance|Venture_Capital
+the investors of Seed Round - inmobly are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series B - Affinia Therapeutics are from what industries	Financial_Services|Health_Care|Consumer|Venture_Capital|Biotechnology|Finance|Pharmaceutical|Business_Development
+the investors of Series A - Wysdom.AI are from what industries	Enterprise_Software|Software|FinTech|Artificial_Intelligence|Enterprise_Applications
+the investors of Series A - Securonix are from what industries	Financial_Services|Health_Care|FinTech|Consumer|Venture_Capital|Finance
+the investors of Series B - Rustic Crust are from what industries	Venture_Capital|Impact_Investing|Financial_Services
+the investors of Seed Round - Storyhunter are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Private Equity Round - Pixieset are from what industries	Venture_Capital|Enterprise_Software|FinTech
+the investors of Series A - Activate are from what industries	Financial_Services|Venture_Capital|Finance|Angel_Investment|Social_Media|Coworking
+the investors of Venture Round - Swipii are from what industries	Venture_Capital|Impact_Investing|Financial_Services
+the investors of Series C - AdmitOne Security are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series B - Hexiaoxiang are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series C - MakeMyTrip.com are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Seed Round - Stockbit are from what industries	Film|FinTech|E-Commerce|Media_and_Entertainment|Venture_Capital|Artificial_Intelligence|Big_Data|Internet_of_Things
+the investors of Series B - Sparta Science are from what industries	Venture_Capital|Finance|Financial_Services|Business_Development
+the investors of Venture Round - Teamtailor are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Venture Round - Anessa are from what industries	Venture_Capital|Finance|Financial_Services|CleanTech
+the investors of Private Equity Round - Saks.com are from what industries	Venture_Capital|Financial_Services|Asset_Management|Business_Development
+the investors of Series C - Meero are from what industries	Financial_Services|Health_Care|FinTech|Venture_Capital|Finance
+the investors of Venture Round - Avid Apparel are from what industries	Management_Consulting|Finance|Financial_Services
+the investors of Venture Round - MetrixLab are from what industries	Enterprise_Software|Mobile|Information_Technology|Marketplace|Financial_Services|Digital_Media|Video_Advertising|Cloud_Infrastructure|Local_Advertising
+the investors of Non Equity Assistance - Sindesy are from what industries	Social_Impact|Social_Entrepreneurship|Finance|Financial_Services
+the investors of Series C - Artful Home are from what industries	Venture_Capital|Social_Media|Consulting
+the investors of Seed Round - Spike are from what industries	Venture_Capital|Finance|FinTech
+the investors of Series A - if(we) are from what industries	Venture_Capital|Enterprise|Financial_Services|Consumer
+the investors of Series A - Ando are from what industries	Venture_Capital|Impact_Investing|Finance
+the investors of Seed Round - Cognotion are from what industries	Finance
+the investors of Series C - Lingokids are from what industries	Financial_Services|Asset_Management|Venture_Capital|Finance|Angel_Investment|Consulting
+the investors of Seed Round - Upodi ApS are from what industries	Venture_Capital
+the investors of Series A - SOCASH are from what industries	Venture_Capital|Information_Technology|Finance|Financial_Services
+the investors of Seed Round - Zameen Organic are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series A - Yeloha are from what industries	Venture_Capital|Finance|FinTech|Financial_Services
+the investors of Series B - VictorOps are from what industries	Information_Technology|Financial_Services|FinTech|SaaS|Venture_Capital|Finance
+the investors of Series A - Dexterity are from what industries	Venture_Capital|Finance|Incubators|Financial_Services
+the investors of Series A - Opinum are from what industries	Financial_Services|Impact_Investing|Venture_Capital|Finance|Business_Development
+the investors of Series A - 8i are from what industries	Mobile|B2B|Financial_Services|Venture_Capital|Finance|Angel_Investment
+the investors of Series A - Infarm are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Seed Round - Lolli are from what industries	Marketplace|Financial_Services|Consumer|Venture_Capital|Finance|Business_Development
+the investors of Series D - Good Eggs are from what industries	Financial_Services|Venture_Capital|Financial_Exchanges|Agriculture|Finance|Angel_Investment|Business_Development|Food_and_Beverage
+the investors of Private Equity Round - Reward Gateway are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Venture Round - Aire are from what industries	Financial_Exchanges|Finance|Venture_Capital|Financial_Services
+the investors of Series A - Sonatype are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series D - LookingGlass Cyber Solutions are from what industries	Enterprise_Software|Information_Technology|Financial_Services|Banking|Impact_Investing|Venture_Capital|Finance
+the investors of Series A - TicketIQ are from what industries	Financial_Exchanges|Finance|Venture_Capital|Financial_Services
+the investors of Venture Round - Zero Motorcycles are from what industries	Application_Performance_Management|Finance|Business_Development
+the investors of Series C - Bionano Genomics are from what industries	Venture_Capital|Health_Care|Biotechnology
+the investors of Series A - LANDBAY are from what industries	Financial_Services|Venture_Capital|Finance|Funding_Platform|Crowdfunding
+the investors of Non Equity Assistance - Q2Q Health are from what industries	Social_Impact|Social_Entrepreneurship|Finance|Financial_Services
+the investors of Series B - Juxinli are from what industries	Crowdfunding|Small_and_Medium_Businesses|Financial_Services
+the investors of Series B - Glints are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Seed Round - Sportlogiq are from what industries	Automotive|Consumer_Electronics|Computer_Vision|SaaS|Audio|Artificial_Intelligence|Neuroscience
+the investors of Series A - HighRadius are from what industries	Venture_Capital|Enterprise_Software|FinTech
+the investors of Seed Round - Moova are from what industries	Venture_Capital|Marketplace|Financial_Services|Consumer
+the investors of Series B - Uhnder are from what industries	Financial_Services|Health_Care|Venture_Capital|Finance|Business_Development
+the investors of Venture Round - Trilliant are from what industries	Venture_Capital|Manufacturing|Electronics|Robotics
+the investors of Pre Seed Round - Sympatic are from what industries	Consulting|Management_Consulting|Business_Development
+the investors of Series A - Alma are from what industries	Renewable_Energy|Finance|Insurance
+the investors of Seed Round - Workit Health are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Pre Seed Round - Finblox are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series A - Unagi Scooters are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series E - One Medical are from what industries	Venture_Capital|Finance|Angel_Investment
+the investors of Series C - Engie Solar are from what industries	Venture_Capital
+the investors of Venture Round - Celladon are from what industries	Venture_Capital|Finance|Therapeutics|Biotechnology
+the investors of Series B - Videology are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series B - Amplience are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Series A - Kafene are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Seed Round - Sensei are from what industries	Venture_Capital|Finance|Financial_Services
+the investors of Pre Seed Round - RWM PHARMA Pvt. Ltd are from what industries	Manufacturing|Hospital|Medical|Pharmaceutical
+the investors of Seed Round - Furious Corp are from what industries	Financial_Services|Digital_Media|Venture_Capital|Angel_Investment|Incubators
+the investors of Series A - Ottopia are from what industries	Cyber_Security|Information_Technology|Financial_Services|Software|Semiconductor|Venture_Capital|Internet|Consumer_Software|Network_Security
+the investors of Seed Round - Litmaps are from what industries	Venture_Capital|Financial_Services
+the investors of Series D - Quora are from what industries	Enterprise|Virtual_Currency|Financial_Services|Computer_Vision|Impact_Investing|FinTech|Consumer|Venture_Capital|Internet|Finance|Business_Development

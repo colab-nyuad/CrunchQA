@@ -1,0 +1,100 @@
+what types of event did Astound Commerce mostly participate in	conference
+what types of event did Spacepath Communications mostly participate in	conference
+what types of event did Johnson & Johnson Medical mostly participate in	conference
+what types of event did BandCizer mostly participate in	conference|festival|seminar
+what types of event did Blue Maven Media mostly participate in	competition|conference|demo_day|hackathon|meetup
+what types of event did Hy-Lok USA mostly participate in	conference
+what types of event did Boldly Social mostly participate in	meetup
+what types of event did ITUARI Teknokent mostly participate in	demo_day
+what types of event did Bullhorn mostly participate in	expo
+what types of event did BaseStone mostly participate in	demo_day
+what types of event did 4theTable mostly participate in	conference|expo|meetup|networking
+what types of event did Modern IE mostly participate in	conference
+what types of event did Forerunner Ventures mostly participate in	conference|networking
+what types of event did Augmentir mostly participate in	conference|expo
+what types of event did TF Holdings mostly participate in	conference|expo
+what types of event did The Australian Trade Commission mostly participate in	conference
+what types of event did Vibrant Marketing mostly participate in	conference|networking
+what types of event did WatchRx mostly participate in	competition|conference|expo
+what types of event did Tractive mostly participate in	conference|expo
+what types of event did Boundless mostly participate in	conference|expo|meetup|networking
+what types of event did Xero mostly participate in	conference
+what types of event did Turbado mostly participate in	conference|expo
+what types of event did Avery Design Systems mostly participate in	conference
+what types of event did College of business #11 mostly participate in	conference|expo
+what types of event did Axnes mostly participate in	conference|expo|seminar
+what types of event did WhichCraft mostly participate in	conference|demo_day|expo
+what types of event did MindHour mostly participate in	conference|meetup
+what types of event did Opsmatic mostly participate in	conference
+what types of event did beBold Communcations mostly participate in	conference|expo
+what types of event did Hi-Rez Studios mostly participate in	conference
+what types of event did adAPPt mostly participate in	conference|seminar
+what types of event did Lowe's Ventures mostly participate in	conference|meetup
+what types of event did Fasoo mostly participate in	conference
+what types of event did Huwin mostly participate in	conference|expo
+what types of event did GBS mostly participate in	conference|expo|networking
+what types of event did Stoneroos mostly participate in	conference
+what types of event did IDE House of Brands mostly participate in	conference|meetup|networking
+what types of event did Manatt Digital mostly participate in	conference
+what types of event did TBI Bank mostly participate in	conference|expo|meetup|networking
+what types of event did Curb mostly participate in	competition|demo_day|meetup|networking
+what types of event did Envieta LLC mostly participate in	conference
+what types of event did Jubao Internet Technology mostly participate in	conference|expo
+what types of event did Risksave Technologies mostly participate in	competition|demo_day|meetup|networking
+what types of event did Milo mostly participate in	conference|expo|meetup|networking
+what types of event did Warsteiner mostly participate in	conference|festival
+what types of event did TechLAB Innovation Center mostly participate in	conference|demo_day
+what types of event did Selfysports mostly participate in	conference|expo|meetup|networking
+what types of event did Vessel mostly participate in	demo_day|festival
+what types of event did German Tech Entrepreneurship Center mostly participate in	competition|conference|expo|networking
+what types of event did Cherwell Software mostly participate in	conference
+what types of event did ScaleFT mostly participate in	conference
+what types of event did Therachat mostly participate in	demo_day|meetup|networking
+what types of event did NASDAQ Entrepreneurial Center mostly participate in	competition
+what types of event did Turbine Labs mostly participate in	conference
+what types of event did CSF Corp. mostly participate in	conference
+what types of event did Odyssey Information Services mostly participate in	conference
+what types of event did SFTL - SwissFinTechLadies mostly participate in	conference|meetup|networking
+what types of event did Cyviz mostly participate in	conference
+what types of event did Inter State Studio mostly participate in	conference|expo
+what types of event did InsideView mostly participate in	conference
+what types of event did Feria Ganadera mostly participate in	conference|expo|meetup|networking
+what types of event did GiftsUwish mostly participate in	conference|demo_day|expo
+what types of event did ExtraHop mostly participate in	conference
+what types of event did Gamalon mostly participate in	conference
+what types of event did USIO Energy mostly participate in	conference|expo|meetup|networking
+what types of event did Starz Entertainment mostly participate in	conference
+what types of event did AI Foundry mostly participate in	conference|networking
+what types of event did FADU mostly participate in	conference
+what types of event did Carnegie Mellon University mostly participate in	conference
+what types of event did WIS mostly participate in	conference
+what types of event did Marca Em Casa mostly participate in	competition|conference|demo_day|hackathon|meetup
+what types of event did Develocraft mostly participate in	competition|conference|expo|networking
+what types of event did Coveo mostly participate in	conference
+what types of event did CESCE mostly participate in	conference|expo
+what types of event did Kony mostly participate in	conference
+what types of event did Quanttera mostly participate in	conference|expo|seminar
+what types of event did Allegro DVT mostly participate in	conference
+what types of event did Inflyter mostly participate in	conference|expo|meetup|networking
+what types of event did MetGen mostly participate in	conference|expo
+what types of event did Embassy of the Kingdom of the Netherlands in Helsinki mostly participate in	competition|conference
+what types of event did CyberProductivity mostly participate in	conference|networking
+what types of event did Buzzbar mostly participate in	conference|festival
+what types of event did Sparkle mostly participate in	conference
+what types of event did CIARA Technologies mostly participate in	conference
+what types of event did Dentsply Sirona mostly participate in	conference|expo
+what types of event did CM.com mostly participate in	conference
+what types of event did Robotics Trends mostly participate in	conference|expo
+what types of event did Odience mostly participate in	competition|hackathon|networking
+what types of event did Dynamix mostly participate in	conference|hackathon
+what types of event did Amec Foster Wheeler mostly participate in	conference|expo
+what types of event did Genial Technology, Inc. mostly participate in	competition|conference|hackathon|meetup|networking
+what types of event did ISOLAS mostly participate in	conference
+what types of event did Serious Factory mostly participate in	conference|expo|meetup|networking
+what types of event did APS Group mostly participate in	conference|seminar
+what types of event did Pachyderm mostly participate in	conference
+what types of event did Gamebcn mostly participate in	conference|demo_day|expo|festival|networking
+what types of event did CSPi mostly participate in	conference
+what types of event did Page One Power mostly participate in	conference
+what types of event did Huddly mostly participate in	conference
+what types of event did B'zT, LLC. mostly participate in	competition|conference|hackathon|meetup|networking

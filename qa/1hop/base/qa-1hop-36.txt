@@ -1,0 +1,100 @@
+funding round in which Michael Brams is a lead investor	Series_A_-_Organovo_Holdings@8ee23
+funding round in which Renat Batyrov is a lead investor	Pre_Seed_Round_-_Almamat@27ea8
+funding round in which Jon Hallett is a lead investor	Pre_Seed_Round_-_Nexza@4e850
+funding round in which Eric Yuan is a lead investor	Angel_Round_-_Workvivo@30598
+funding round in which Kate Miller is a lead investor	Seed_Round_-_Miss_Grass@538a3
+funding round in which Magnus Kjoller is a lead investor	Seed_Round_-_Gloove@8928a|Angel_Round_-_Betterbooqr@2d5f6
+funding round in which Hashem Zahran is a lead investor	Angel_Round_-_Different_Sign@001b3
+funding round in which Josh Brant is a lead investor	Pre_Seed_Round_-_Richie_AI@72208
+funding round in which Mark Kaleem is a lead investor	Series_A_-_MobileEngines@c12f7
+funding round in which Burak Şen is a lead investor	Series_A_-_Yeniben.com@6f22b
+funding round in which John Burd is a lead investor	Seed_Round_-_Alertgy@9b1b0
+funding round in which Yuchun Lee is a lead investor	_Inc.@a49e8|Series_C_-_DSP_Concepts
+funding round in which Keshav Murugesh is a lead investor	Series_A_-_Miko@ec12e
+funding round in which Wynand Geldenhuys is a lead investor	Pre_Seed_Round_-_Munch@d6c51|Pre_Seed_Round_-_Munch@36ab8|Pre_Seed_Round_-_Vectra@babab
+funding round in which Jason Krantz is a lead investor	Series_A_-_FINTRX@a2c88
+funding round in which Jack Dorsey is a lead investor	Venture_Round_-_CoinList@e6d13
+funding round in which Arun Tadanki is a lead investor	Seed_Round_-_The_Office_Pass@ed774
+funding round in which Eyoel Kebede is a lead investor	Seed_Round_-_EK_Group@4230d|Seed_Round_-_EK_Group@d5a94|Seed_Round_-_AHE@c175b
+funding round in which Denis Vasilyev is a lead investor	Pre_Seed_Round_-_LAVA@6e97e
+funding round in which Arnold Wierzejski is a lead investor	Funding_Round_-_cthings.co@d1325|Pre_Seed_Round_-_cthings.co@597ca
+funding round in which Dan Scheinman is a lead investor	Seed_Round_-_Think_Big_Analytics@a9688
+funding round in which Krzysztof Ziętarski is a lead investor	Pre_Seed_Round_-_Marie_Zélie@d4b55
+funding round in which MArco Pozzi is a lead investor	Pre_Seed_Round_-_Taalentfy@37a00
+funding round in which Ronny Conway is a lead investor	Seed_Round_-_Hugging_Face@37639
+funding round in which Laszlo Giricz is a lead investor	Seed_Round_-_Poseidon@a0eb2|Pre_Seed_Round_-_Poseidon@72005
+funding round in which Indrek Kasela is a lead investor	Angel_Round_-_GScan@8d0ac
+funding round in which Wong Chen is a lead investor	Pre_Seed_Round_-_INVOKE@e60a3
+funding round in which Robert Herjavec is a lead investor	Pre_Seed_Round_-_THEMAGIC5@d9d45
+funding round in which Martin Shkreli is a lead investor	Series_A_-_Turing_Pharmaceuticals@ad614
+funding round in which Bettina Buechel is a lead investor	Seed_Round_-_Flyability@4bb25
+funding round in which Mark Pacala is a lead investor	Venture_Round_-_Babel_Health@faff5
+funding round in which Tom Williams is a lead investor	Pre_Seed_Round_-_Dieta_Health@cbff9
+funding round in which Bjørnar Iversen is a lead investor	Seed_Round_-_Melodypipe@c07e0
+funding round in which Suren Marumamula is a lead investor	Seed_Round_-_Ornativa@d7b7f
+funding round in which Alexander Meinhart is a lead investor	Pre_Seed_Round_-_Secondra.com@36613
+funding round in which Ryan Gonzales is a lead investor	Seed_Round_-_RG+E@17fc8
+funding round in which Steven MacDonald is a lead investor	Seed_Round_-_Kush_Marketplace@cd038
+funding round in which Pietro De Nardis is a lead investor	Series_A_-_BeMyEye@971ac
+funding round in which Richard Riney is a lead investor	Grant_-_Ranken_Jordan_Pediatric_Bridge_Hospital@27ee7
+funding round in which Robin Tombs is a lead investor	Venture_Round_-_Yoti@aa388
+funding round in which Gareth Williams is a lead investor	Seed_Round_-_Boundary@43913
+funding round in which Kishore Ganji is a lead investor	Angel_Round_-_ChitMonks@94a44
+funding round in which Pramod Singhal is a lead investor	Angel_Round_-_PayMe_India@53da4
+funding round in which Frank Barbella is a lead investor	Seed_Round_-_ClearCam@b84b7
+funding round in which Itai Tsiddon is a lead investor	Series_A_-_Homesome@9b175
+funding round in which John Gabriel is a lead investor	Pre_Seed_Round_-_Autzu@07478
+funding round in which Suresh Kumar is a lead investor	Seed_Round_-_Freightify@f85d0
+funding round in which Pierre Drion is a lead investor	Series_B_-_Ogeda@430a4
+funding round in which James McCarthy is a lead investor	Venture_Round_-_Goldstar_Events@26dcf
+funding round in which Paolo Rubatto is a lead investor	Series_A_-_Inspirna|_Inc.(formerly_Rgenix|_Inc.)@cac01
+funding round in which Bernard Chauvin is a lead investor	Series_C_-_EyeTechCare@48fb7
+funding round in which Bobby Hambrick is a lead investor	Seed_Round_-_Velocity_Robotics@d4ebc
+funding round in which Vinay Kumar Bansal is a lead investor	Angel_Round_-_Footprints_Childcare@86322
+funding round in which Doug Atkin is a lead investor	Series_A_-_Selerity@8829b
+funding round in which Jun Lei is a lead investor	Series_G_-_VANCL@37260
+funding round in which Elizabeth Hunker is a lead investor	Seed_Round_-_Snips@47593
+funding round in which Tom Lee is a lead investor	Post-IPO_Debt_-_PURE_Bioscience@ef8d8
+funding round in which Rafizi Ramli is a lead investor	Pre_Seed_Round_-_INVOKE@2b337
+funding round in which David Greene is a lead investor	Seed_Round_-_Knetik@519b4
+funding round in which Janneke Niessen is a lead investor	Seed_Round_-_Closure@6796f
+funding round in which Robert Smithson is a lead investor	Pre_Seed_Round_-_Just_Auto_Insurance@d6af7
+funding round in which Daniel Souyris is a lead investor	Pre_Seed_Round_-_Polare_Group@545fb
+funding round in which Kustaa Piha is a lead investor	Venture_Round_-_Sooma@872d4|Seed_Round_-_Klinik@54e79
+funding round in which Qiangdong Liu is a lead investor	Series_A_-_InWE@22dc8
+funding round in which Carr Bettis is a lead investor	Post-IPO_Equity_-_AudioEye@f5b7e
+funding round in which Preben Damgaard is a lead investor	Venture_Round_-_Templafy@af2d1
+funding round in which Tommaso Trionfi is a lead investor	Angel_Round_-_Callida_Energy_Inc.@5a3dd
+funding round in which Den Christian Bocassa is a lead investor	Seed_Round_-_Ethereum_Enterprises@c172d
+funding round in which Daniel Zumino is a lead investor	Pre_Seed_Round_-_Stargazer@e9692
+funding round in which Brad D. Smith is a lead investor	_Huntington@bb664|Grant_-_Marshall_University
+funding round in which Fernando Cabello is a lead investor	Seed_Round_-_Afterbanks@12432
+funding round in which Burkhard Binder is a lead investor	Pre_Seed_Round_-_BLÓM@72d8e
+funding round in which Will Ahmed is a lead investor	Seed_Round_-_Upgrade_Academy@0f5e5
+funding round in which Arpit Sharma is a lead investor	Pre_Seed_Round_-_WESPOD_-_Web_3.0_Agency@36a68
+funding round in which Satyen V Kothari is a lead investor	Angel_Round_-_WorkIndia@12867|Series_A_-_Cube@566ae
+funding round in which Manny Marrero is a lead investor	Seed_Round_-_True_Collegiate@38575
+funding round in which Zohar Gilon is a lead investor	Venture_Round_-_Body_Vision_Medical@b01d3
+funding round in which Cosmas Wong is a lead investor	Seed_Round_-_Grey_Jean_Technologies@7cf7a
+funding round in which Igor Rybakov is a lead investor	Seed_Round_-_amma_pregnancy_tracker@738e7
+funding round in which Reddy Dandolu is a lead investor	Seed_Round_-_DCEX@ae5e4
+funding round in which Henry Chong is a lead investor	Pre_Seed_Round_-_Great_Ocean_Guoxin_(Malaysia)_Sdn_Bhd@aea14
+funding round in which Tyler Engh is a lead investor	Series_A_-_MarkITx@4e272
+funding round in which Oliver Hehl is a lead investor	Seed_Round_-_Jobful@e01dd
+funding round in which Stanley Ezeokeke is a lead investor	Pre_Seed_Round_-_Boogie_Network_App@4a009
+funding round in which Edmond Nonie is a lead investor	Debt_Financing_-_Track_Your_Build@e9b89|Debt_Financing_-_Track_Your_Build@06b13|Pre_Seed_Round_-_Track_Your_Build@91524
+funding round in which Matthew Smith is a lead investor	Funding_Round_-_Sapphire_Technology@4e52b
+funding round in which Shravin Bharti Mittal is a lead investor	Series_A_-_mPharma@868dc
+funding round in which Fabrice Le Parc is a lead investor	Seed_Round_-_Bonapart@5128a
+funding round in which Tom Blomfield is a lead investor	Pre_Seed_Round_-_Lottie@26e21
+funding round in which Leigh Jasper is a lead investor	Angel_Round_-_Buildxact@6166c
+funding round in which Peter Werth is a lead investor	Series_B_-_Putney@48cad
+funding round in which Sam Ben Avraham is a lead investor	Seed_Round_-_Casa_Blanca@c41cb
+funding round in which José Carlos Semenzato is a lead investor	Angel_Round_-_Cyon_Equipamentos@3df7d
+funding round in which Rob Devey is a lead investor	Seed_Round_-_Urban_Jungle@fbedc
+funding round in which Shai Dekel is a lead investor	Seed_Round_-_Tasq.ai@46ce5
+funding round in which Andrew Wright is a lead investor	Seed_Round_-_Trainiac@c3af0
+funding round in which Deval Patrick is a lead investor	Series_C_-_Amwell@eb00f
+funding round in which Puneet Dalmia is a lead investor	Series_A_-_CoinTribe_Technologies@c879c
+funding round in which Shaun Cooley is a lead investor	Pre_Seed_Round_-_Nemo@cf93e
+funding round in which Jari Ovaskainen is a lead investor	Seed_Round_-_Invstr@ea192

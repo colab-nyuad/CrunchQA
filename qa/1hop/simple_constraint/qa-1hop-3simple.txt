@@ -1,0 +1,100 @@
+GV is the speaker of what USA event	SoCal_Startup_Day@16883
+ForceManager is the speaker of what DEU event	DIA_Munich_2017@19e86
+Digital Fuel Capital is the speaker of what USA event	Internet_Retailer_Conference_&_Exhibition@9f485
+Furhat Robotics is the speaker of what USA event	Forbes_Under_30_Summit_2019@1aef8
+FreshCar is the speaker of what USA event	Bloomberg_New_Energy_Finance_-_Future_of_Mobility_Summit@2b77b
+Be Sure Healthcare is the speaker of what GBR event	Future_Healthcare_2019@29c7e
+Opal Solutions is the speaker of what FRA event	Paris_Healthcare_Week_2019@940a3
+Birdies is the speaker of what USA event	Connect_Direct-to-Consumer_2019@eb071
+UBS is the speaker of what HKG event	Digital_Marketing_Leaders_Summit_Hong_Kong_2018@7b660
+White and Williams LLP is the speaker of what USA event	Connect_National_Investment_&_Finance_2019@aeb6e
+Vizidox is the speaker of what GBR event	Bett_Show_London_2020@0f52a|Bett_Show_2018@bca65
+Crexi is the speaker of what USA event	Connect_Westside_Los_Angeles_2019@52b3f|Connect_Retail_West_2020@03e09
+Rublix Development Pte. Ltd. is the speaker of what USA event	The_North_American_Bitcoin_Conference_(TNABC)@32ad1
+Crassula is the speaker of what NLD event	Money_20/20_Europe_2019@1ad71
+Turnkey Lender is the speaker of what USA event	Money_Experience_Summit@7f42c
+Mitsubishi Tanabe Pharma is the speaker of what DEU event	Clinical_Operations_Strategy_Meeting_Europe_2018@26ebd
+Repair Biotechnologies is the speaker of what GBR event	Longevity_Leaders_World_Congress@61a6a
+Enigma Technologies is the speaker of what FIN event	Slush_2018@bf85f
+Quandoo is the speaker of what DEU event	WeAreDevelopers_World_Congress_2019@a9237|Tech_Open_Air_2019@6728c
+Soundeon is the speaker of what FRA event	Midem_2018@812ac
+Coworkies is the speaker of what FRA event	Vivatech_2021@abea1
+Spree Interactive is the speaker of what NLD event	VR_Days_Europe_2017@2ab0f
+BCF Ventures is the speaker of what USA event	The_AI_Summit_New_York_2018@88bc9
+Hybrid Energy Storage Solutions is the speaker of what ESP event	“Energía_inteligente:_Soluciones_tecnológicas_para_la_eficiencia_y_seguridad_energética_en_misiones_Internacionales”@f241a
+Momentum Cyber is the speaker of what USA event	RSA_Conference_2019@77ee4|Structure_Security_2017@fec0f
+Natixis is the speaker of what USA event	Connect_National_Investment_&_Finance_2019@aeb6e
+gestigon is the speaker of what BEL event	ConnecteDriver_&_Smart_Mobility_2018@f128a
+Channel VAS is the speaker of what BGR event	Webit_Festival_Europe@79042
+Shop by VOICE is the speaker of what NOR event	Global_Seed_Forum,_2108@a57a6
+ObjectBox is the speaker of what FIN event	Slush_2017@bef63
+TOPOLYTICS is the speaker of what USA event	Sapphire_Now_+_Asug_Annual_Conference_2019@98158
+Ascendo.ai is the speaker of what USA event	MIT_AI_Conference_2018_FUTURE_of_INDUSTRIES_INDUSTRIES_of_FUTURE@65d10|Global_Predictive_Analytics_Conference_-_April_2018_-_Santaclara@022d3|Internet_of_Things_World_2017@f44fd
+doc.ai is the speaker of what CAN event	NIPS_2019@4788e
+RIDDLE&CODE is the speaker of what GBR event	BLOCKCHAIN_LIVE@08f0e
+Caron Treatment Centers is the speaker of what USA event	Caron_Atlanta’s_Saddle_Up_for_Sobriety_Gala@f1b14
+TBCASoft is the speaker of what ARE event	GSMA_Mobile_360_MENA_2019@54e05
+Stable Insurance is the speaker of what BMU event	GR_Innovation_&_Insurtech_-_2018@ebf01
+Second State is the speaker of what CZE event	Open_Source_Summit_Europe@6b935
+Dashlane is the speaker of what PRT event	Web_Summit_2018@218da|Web_Summit_2017@d36a4
+UX3D is the speaker of what USA event	SIGGRAPH_2019@5a25f
+ePIC Blockchain Inc. is the speaker of what DEU event	Grincon1@ab768
+Bee Partners is the speaker of what CAN event	Canada_Investment_Space_2019@2aa30
+Norkon Computing Systems is the speaker of what NOR event	Revenue_Innovators_in_Scandinavia@2847f
+Itential is the speaker of what USA event	Cisco_Live_San_Diego_2019@d532a
+Avanath Capital Management is the speaker of what USA event	Connect_Apartments_2019@b8a6f
+Fonterra Co-operative Group is the speaker of what SGP event	Data_&_Analytics_Leaders_Summit_Singapore_2019@d7901
+mplace.me is the speaker of what RUS event	FinNext-2016@88eb3|RIW_2016@26752
+ForceManager is the speaker of what ESP event	Mobile_World_Congress_2017@bffe3
+Franz Inc. is the speaker of what DEU event	SEMANTiCs_Karlsruhe_2019@26c86
+TBI Bank is the speaker of what CZE event	LendingUP!_Turning_Loans_Around_2019@ed2b9
+Ava Labs is the speaker of what USA event	Token_Summit_III@50ea9
+Raiven Capital is the speaker of what CAN event	Badhouse_Pitch+Learn_-_Episode_8:_Vancouver_Startup_Week_edition@a6ca7
+Seamless is the speaker of what USA event	Real_Estate_Tech_and_Innovation_Expo@d4a9b
+Ro is the speaker of what USA event	Collision_2018@4d82d
+Alibaba Group is the speaker of what ESP event	Ecommfashion_AW'18@31c31
+YouMay is the speaker of what FIN event	Slush_Helsinki_2019@5e71c
+Tastry, Inc. is the speaker of what USA event	Shoptalk_2019@3e44f|NRF_2020@76181|Groceryshop@7fe9a|The_AI_Summit_San_Francisco_2018@8f8c9
+CRU Group is the speaker of what GBR event	Mining_Journal_Select_London@eba5a
+Overbond AI is the speaker of what CAN event	Sibos_Toronto_2017@13a20
+Hacky Security is the speaker of what ISR event	Cybertech_Tel_Aviv_2020@e3bf8
+Almaz Capital is the speaker of what CZE event	0100_Conferences_Prague@1835e
+Guppy Group is the speaker of what USA event	Fintech_Americas_Conference_2019@fb989|Token_Fest_2018@de437
+BaseN is the speaker of what FIN event	IT_Pro_2017@009dd
+FanWide is the speaker of what USA event	TechCrunch_Meetup_+_Pitch-Off:_Seattle_2017@6f3f2
+TCL Technology is the speaker of what HKG event	Digital_Marketing_Leaders_Summit_Hong_Kong_2018@7b660
+IDC is the speaker of what SGP event	Asian_Financial_Services_Congress_2019@55677
+Endlist is the speaker of what PHL event	Endlist_Launch@b0e2e
+Tended is the speaker of what GBR event	IoT_Tech_Games@23719
+Crassula is the speaker of what LVA event	Startup_SAFARI_Riga@5e92d
+The Corcoran Group is the speaker of what USA event	Real_Estate_Tech_and_Innovation_Expo@d4a9b
+Dundee Precious Metals is the speaker of what USA event	Future_of_Mining_Americas_2018@9a92d
+Sendbird is the speaker of what USA event	API_World_2017@ecb85
+ApostropheCMS is the speaker of what USA event	MongoDB_Live_2021@13e40
+Jamison Realty is the speaker of what USA event	Connect_Los_Angeles_2020@ce1a0
+Bleexy is the speaker of what USA event	eTail_West_2019@97307|National_Retail_Federation_Tech_2018@6f313|World_Blockchain_Forum_-_New_York_Summit_2018@e687d
+The Tech Company Inc. is the speaker of what FRA event	MIDEM_Music_2016@73abe|Midem_2017@ea207
+Sonect is the speaker of what AUT event	Pioneers_Festival_2018@ba9e0
+InnerSpace is the speaker of what CAN event	Collision_2019@37423
+Clarity PR is the speaker of what USA event	Women_Future_Conference@6fafb|GBx:_Talking_to_the_US_Media@1fac8
+Unboundly is the speaker of what USA event	Travel_Tech_Con_2018@81ae5
+Keybot is the speaker of what GBR event	TechStars_Barclays_London_2018_Accelerator@20a4b
+Stambol is the speaker of what CAN event	VR/AR_Global_Summit@871b9
+AMTD Group is the speaker of what CHE event	World_Economic_Forum_Annual_Meeting_2016@89e6f
+LuckaBox is the speaker of what CHE event	GS1_Forum@540f8|SOM_EXPO_Zürich_2018@e70c1
+Telelink is the speaker of what BGR event	DigitalK_2018@34a8f
+Guppy Group is the speaker of what NLD event	Money20/20_Europe_2018@2af6a
+Cold Fusion is the speaker of what JPN event	Picotachi_#47@8b89c|JAWS-UG_Sapporo_2017_#20@e2ec9
+Marcus & Millichap is the speaker of what USA event	Connect_Chicago_2019@c6ae5|Connect_Apartments_2019@b8a6f|Connect_Retail_West_2020@03e09|Connect_New_York_2019@9a376|Connect_Los_Angeles_2020@ce1a0|Connect_Orange_County_2019@34255
+GuideOne Insurance is the speaker of what USA event	Global_Insurance_Symposium@cf986
+Click-Ins is the speaker of what USA event	Plug_&_Play_FALL_EXPO@8506e
+WHub is the speaker of what THA event	Techsauce_Global_Summit_2018@3b85f
+BMW i Ventures is the speaker of what USA event	The_AI_Congress_Las_Vegas@dca85
+Relay Ventures is the speaker of what CAN event	proTECH_2019@83176
+TwentyTables is the speaker of what USA event	US_Chamber_of_Commerce_Foundation:_Digital_Empowers_Summit@581ec|Build_it_in_DC_2019@e3022|Philly_Tech_Week_2019@80257|Food_Innovation_Panel_&_Networking_Event@0636e
+Hogan Lovells is the speaker of what AUS event	Future_of_Mining_Australia_2020@9f8a7
+Merus Capital is the speaker of what USA event	TechCrunch_Early_Stage_2021_Part_1@2f8f7
+Instantor is the speaker of what DNK event	Techfestival_2018@78c96
+Deep 6 AI is the speaker of what USA event	SXSW_2018@0e1fe|HIMSS_2018@5d9d6
+Terracom S.A. is the speaker of what BGR event	Webit.Festival_Europe@53be5
+Averon is the speaker of what CHE event	World_Economic_Forum_Annual_Meeting_2019@bcdef

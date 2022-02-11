@@ -1,0 +1,100 @@
+list of PolicyBazaar's investors	Intel_Capital@b1751|Tiger_Global_Management@0a837|Alpha_Wave_Global@23c45|Inventus_Capital@cfa06|Inventus_Capital_Partners@45635
+list of ATAI Life Sciences's investors	Woodline_Partners@a55e2|What_If_Ventures@c396b|Thiel_Capital@f5104|Subversive_Capital@24ec7
+list of Coherus Biosciences's investors	Venrock@ea992|Helix_Ventures@6750e|Kohlberg_Kravis_Roberts@0e1bb|Lilly_Ventures@c39b9
+list of Layr's investors	Flyover_Capital@2a2a0|Sandbox_Insurtech_Ventures@dec38|Maschmeyer_Group_Ventures@44334
+list of Coho Data's investors	Ignition_Partners@28f48|March_Capital@8f078|Hewlett_Packard_Pathfinder@e766f|Andreessen_Horowitz@5ca29
+list of Deliverect's investors	DST_Global@d3fc4|OMERS_Ventures@8e3b4|Alkeon_Capital@7e925|SmartFin@aec4d|Newion@6de1a
+list of Balloon's investors	Imagination_Capital@c1090|Luma_Launch@6ed91|XFactor_Ventures@cc0d3|Wavemaker_Partners@5beac
+list of Attentive's investors	Bain_Capital_Ventures@f34c7|Sequoia_Capital@55f91|Institutional_Venture_Partners@b1b51|High_Alpha@d10ff|NextView_Ventures@20ff3|Coatue@ac419
+list of BuzzFeed's investors	General_Atlantic@51dc9|Hearst_Ventures@11d54|Lerer_Hippeau@21e35|HuffPost@a501f|RRE_Ventures@db761|New_Enterprise_Associates@63147|Founder_Collective@cb00f|Andreessen_Horowitz@5ca29|SV_Angel@78176
+list of TweetDeck's investors	Index_Ventures@4a1ab|IA_Ventures@01ab0|PROfounders_Capital@90266|Social_Leverage@1733a|Betaworks@0572b|SV_Angel@78176
+list of Learnerbly's investors	R_Ventures@7825f|Beringea@5fcc5|Frontline_Ventures@7a50b
+list of Celo's investors	Greenfield_One@d33ba|Electric_Capital@bc81f|Lakestar@2f323|Andreessen_Horowitz@5ca29
+list of NBD Nanotechnologies's investors	Phoenix_Venture_Partners@83c77|Massachusetts_Clean_Energy_Center@beff3|BASF_Venture_Capital@eb39a
+list of Shef's investors	M13@6b9bf|Andreessen_Horowitz@5ca29|Craft_Ventures@1e268
+list of GlassHouse Technologies's investors	Paladin_Capital_Group@e6ccc|Kodiak_Venture_Partners@28720|Globespan_Capital_Partners@33c6e|Sigma_Partners@d41de
+list of Workit Health's investors	FirstMark@68505|CVS_Health_Ventures@1a3e3|Insight_Partners@7b1c9|RRE_Ventures@db761
+list of ViajaNet's investors	Redpoint_eventures@e9369|General_Catalyst@4a135|Redpoint@3c72a
+list of Observe.AI's investors	Emergent_Ventures@a8e95|Maschmeyer_Group_Ventures@44334|Menlo_Ventures@1596d
+list of Nimble Storage's investors	Artis_Ventures_(AV)@bc81b|GGV_Capital@2a091|Wing_Venture_Capital@105aa|Lightspeed_Venture_Partners@55ccd|Sequoia_Capital@55f91|Accel@7bf36
+list of Pandion Therapeutics's investors	Roche_Venture_Fund@1c74e|SR_One@32f89|Versant_Ventures@6b818|Access_Biotechnology@987f7|Polaris_Partners@ed4ca
+list of Silver Spring Networks's investors	Foundation_Capital@d3faa|GV@168e2|DFJ_Growth@832e1|Kleiner_Perkins@421ec
+list of Jumbotail's investors	Alteria_Capital@61f0b|Kalaari_Capital@bbb9a|Nexus_Venture_Partners@7bdd1|Invus@cbde5
+list of Indiegogo's investors	Institutional_Venture_Partners@b1b51|Draper_Associates@97743|Kleiner_Perkins@421ec|Ridge_Ventures@d96a0
+list of 23andMe's investors	Xfund@3632d|Google@27711|New_Enterprise_Associates@63147|Sequoia_Capital@55f91|GV@168e2|GlaxoSmithKline@56082
+list of Manna Drone Delivery's investors	ff_Venture_Capital@e0361|Molten_Ventures@4d317|Dynamo@5d693
+list of Sera Prognostics's investors	Domain_Associates@7b081|OUP_(Osage_University_Partners)@475e1|aMoon_Fund@0902a|InterWest_Partners@e32a5
+list of Cobee's investors	Balderton@bccad|Lanai_Partners@458c4|Target_Global@7cc6a|Speedinvest@ef75d|Encomenda_VC@14956
+list of Khatabook's investors	RTP_Global@c209e|GGV_Capital@2a091|B_Capital_Group@f78d4|Tribe_Capital@a36d4|Hummingbird_Ventures@c9323
+list of TargetSpot's investors	CBS_Radio@e391e|Union_Square_Ventures@f8cee|Bain_Capital_Ventures@f34c7
+list of Razorpay's investors	Alkeon_Capital@7e925|Tiger_Global_Management@0a837|Y_Combinator@d2d5e|GIC@9b96c|Matrix_Partners_India@79c5f|Ribbit_Capital@2bf87
+list of BYJU’S's investors	Sequoia_Capital_India@d3a3d|Bond@357ec|DST_Global@d3fc4
+list of Cenzic's investors	Advanced_Technology_Ventures@b3e16|JK&B_Capital@b4e8b|Hummer_Winblad_Venture_Partners@ceb7b|Mohr_Davidow_Ventures@c11e0
+list of Meniga's investors	Groupe_BPCE@2a810|Swedbank@872c2|Anthemis_Group@db658|Industrifonden@58372
+list of iyzico's investors	Endeavor_Catalyst@e5652|Speedinvest@ef75d|212@25687
+list of Baydin's investors	K9_Ventures@8dc02|Pobox@add9f|Techstars@bcac2
+list of Hipmunk's investors	Ignition_Partners@28f48|Oak_Investment_Partners@a858f|Glassdoor@bbc24|NGP_Capital@eac82
+list of Soundbrenner's investors	CoCoon_Ignite_Ventures@c09ec|Brinc@2d28a|Asgard_-_human_VC_for_AI@6e98e
+list of Manufactured's investors	Bullpen_Capital@a214c|Resolute_Ventures@d9d95|Amplify.LA@0aef3
+list of MerchantCircle's investors	Steamboat_Ventures@4a9e9|Scale_Venture_Partners@3c6b2|Rustic_Canyon_Partners@57108
+list of AWS Elemental's investors	Founders_Circle_Capital@0dd4c|Telstra_Ventures@81276|Voyager_Capital@b21f7|Steamboat_Ventures@4a9e9|General_Catalyst@4a135
+list of GetYourGuide's investors	Highland_Capital_Partners@8e070|H14@20ba2|Battery_Ventures@8f3b3|UniCredit_Group@a787f|Spark_Capital@db9e1|SoftBank_Vision_Fund@532ce|Searchlight_Capital_Partners@10112|PROfounders_Capital@90266|NGP_Capital@eac82|NFQ_Capital@f243e|Highland_Europe@9aacf|Heartcore_Capital@cae04
+list of Vivun's investors	Salesforce_Ventures@d1bf2|Unusual_Ventures@e8e7f|Menlo_Ventures@1596d|Firebolt_Ventures@18c8e|Accel@7bf36|Atlassian_Ventures@94755
+list of findmyfare.com's investors	Jafferjee_Brothers_Group@8f18b|Abishek_Sithampalam@227d2|Ironwood_Capital_Partners@23b92
+list of Zephyr Health's investors	GV@168e2|Susa_Ventures@512d3|Icon_Ventures@5ec1c|Kleiner_Perkins@421ec
+list of Shots Studios's investors	Maven_Ventures@79782|Universal_Music_Group@06d0b|NALA_Investments@8dc05|Jason_Calacanis@21433|WI_Harper_Group@1c485|DCM_Ventures@95d5f
+list of Azafaros's investors	BioGeneration_Ventures@789bf|Forbion_Capital_Partners@3b1f4|BioMedPartners@6f045
+list of Brilliant's investors	Celesta_Capital@51b03|Resideo_Technologies@8f896|Next47@e0f8e|August_Capital@9010c
+list of Finmark's investors	IDEA_Fund_Partners@8c45c|York_IE@08695|AltaIR_Capital@e12e5|Draper_Associates@97743
+list of CoverHound's investors	Blumberg_Capital@07f6d|Route_66_Ventures@d0146|RRE_Ventures@db761|Core_Innovation_Capital@b457f
+list of Tappp's investors	Visionnaire_Ventures@a5e6d|Transmedia_Capital@52e9a|ADvantage@4dd2e
+list of Sofiac's investors	Fondaction@aa217|The_Canada_Infrastructure_Bank@01993|Fiera_Private_Debt@0b7be
+list of Databricks's investors	Franklin_Templeton_Investments@fe069|Race_Capital@b6973|Counterpoint_Global@96113|New_Enterprise_Associates@63147|Microsoft@9ffbb|Andreessen_Horowitz@5ca29
+list of Siperian's investors	REV@fc337|Blumberg_Capital@07f6d|Investor_Growth_Capital_Limited@b62cb|ArrowPath_Venture_Partners@a8757
+list of Smart Protection's investors	Big_Sur_Ventures@b6c80|Nauta_Capital@ca174|Wayra@13779|JME_Ventures@224df
+list of Beta Hatch's investors	Lewis_&_Clark_AgriFood@45bea|Cavallo_Ventures@22808|Innova_Memphis@2f368
+list of Trendyol's investors	General_Atlantic@51dc9|Kleiner_Perkins@421ec|Tiger_Global_Management@0a837
+list of Salesken's investors	Sequoia_Capital_India@d3a3d|M12_-_Microsoft's_Venture_Fund@41a0c|Two_Culture_Capital@9c023
+list of Acronis's investors	OpenView@5b2ed|CVC_Capital_Partners@a1cd3|Goldman_Sachs@fc86c|Insight_Partners@7b1c9
+list of Three Ring's investors	TCP_Venture_Capital@93e88|Great_Oaks_Venture_Capital@4ad2d|New_Markets_Venture_Partners@69b12
+list of NeoPath Networks's investors	DCM_Ventures@95d5f|Gabriel_Venture_Partners@ae959|August_Capital@9010c
+list of Klara's investors	Partech@ae47b|Creathor_Ventures@6efd9|FirstMark@68505|Gradient_Ventures@be00e
+list of Avaamo's investors	Intel_Capital@b1751|Streamlined_Ventures@6b2ba|Liquidity_Capital@07b69|Ericsson_Ventures@502e9|Rembrandt_Venture_Partners@92c75|Mahindra_Partners@00860
+list of WhiteFox Defense Technologies's investors	Frontier_Venture_Capital@3fde0|Stage_Venture_Partners@73818|Okapi_Venture_Capital@06c31|JAM_Capital_Partners@5b955|SaaS_Ventures@01bee
+list of VOSS Solutions's investors	Intel_Capital@b1751|Eden_Ventures@25810|XAnge@78a2e
+list of Vineti's investors	Cardinal_Health@aab7d|Canaan_Partners@43370|Section_32@fce1e|Casdin_Capital@834ae|Novartis_Pharma@ff456
+list of UNIFi Software's investors	Blue_Cloud_Ventures@57eb6|Pelion_Venture_Partners@a51e1|Scale_Venture_Partners@3c6b2|Canaan_Partners@43370
+list of Crossover Health's investors	Deerfield_Management@f83d0|Norwest_Venture_Partners@eee08|Irving_Investors@4d2d5|Gurnet_Point_Capital@ab086
+list of Blueshift's investors	Avatar_Growth_Capital@ea3ee|Nexus_Venture_Partners@7bdd1|Fort_Ross_Ventures@19522|Storm_Ventures@e8452|Great_Oaks_Venture_Capital@4ad2d
+list of Spring Labs's investors	Pritzker_Group_Venture_Capital@dc298|LeadBlock_Partners@e6eb0|RRE_Ventures@db761|August_Capital@9010c
+list of AvantStay's investors	Bullpen_Capital@a214c|Zeno_Ventures@18519|3L_Capital@de57c
+list of Wallbox's investors	Endeavor_Catalyst@e5652|Seaya_Ventures@abb35|Cathay_Innovation@5c408|Iberdrola@04476
+list of Prologue's investors	WndrCo@46abb|Weekend_Fund@6128b|The_Twenty_Minute_VC@b7faf|AngelList@fce2a|Sequoia_Capital@55f91|Andreessen_Horowitz@5ca29
+list of Co-op commerce's investors	Sugar_Capital@73eff|RiverPark_Ventures@33b33|Shopify@ab169|Indicator_Ventures@6fb17
+list of Lex Machina's investors	Ulu_Ventures@452f2|XSeed_Capital@fae67|TSVC@dd906
+list of Apervita's investors	Optum_Ventures@3b971|GE_Ventures@e0571|MATH_Venture_Partners@a388b
+list of Delectable's investors	Deep_Fork_Capital@a42e8|DN_Capital@4dbfb|Sway_Ventures@95268
+list of SimilarWeb's investors	CE_Ventures_(CEIIF)@52a3f|Prosus_&_Naspers@9c281|Viola_Growth@7441f
+list of Cargo's investors	Fontinalis_Partners@74fbb|Eighteen94_Capital@650af|Founders_Fund@7175c|Techstars_Mobility_Accelerator@141eb|Bleu_Capital@b9133
+list of Ribbon Biolabs's investors	Hadean_Ventures@f66e7|IST_cube@afb48|Tecnet_Equity@8ad52
+list of Stripe's investors	Tiger_Global_Management@0a837|Founders_Fund@7175c|Kleiner_Perkins@421ec|CapitalG@723f6|American_Express_Ventures@70ea3|Lowercase_Capital@6d151|Sequoia_Capital@55f91|General_Catalyst@4a135
+list of Personal Genome Diagnostics's investors	Cowen_Healthcare_Investments@1ac10|New_Enterprise_Associates@63147|Innovatus_Capital_Partners@67a43
+list of RiskVision's investors	Castile_Ventures@f686e|Intel_Capital@b1751|Walden_International@88c85
+list of Gabi's investors	Northwestern_Mutual_Future_Ventures@fb76e|Mubadala_Capital_Ventures@66020|Project_A_Ventures@ac95b
+list of walk15's investors	DOJUS_group@1278b|Lithuanian_Business_Angel_Network@1e899|70Ventures@b52b9
+list of mfine's investors	BEENEXT@0e2f3|SBI_Investment@43acf|SBI_Ven_Capital@80d8e|Prime_Venture_Partners@1fcaf|Stellaris_Venture_Partners@e5905|Alteria_Capital@61f0b
+list of Narmi's investors	Techstars_New_York_City_Accelerator@c778a|Picus_Capital@d6054|New_Enterprise_Associates@63147
+list of Top Hat's investors	Georgian@a8009|Emergence@9d28a|Felicis_Ventures@da89d|BMO’s_Technology@adf52|Inovia_Capital@fcf58|Uncork_Capital@68093
+list of Wrisk's investors	RLC_Ventures@2b8f5|Guinness_Asset_Management@e6cc2|QBN_Capital@c85a0
+list of Gem's investors	WndrCo@46abb|Greylock@8a7e3|Sapphire@b5aba|Accel@7bf36|ICONIQ_Growth@c8694
+list of Insurello's investors	Inventure@313cb|Schibsted@85994|Luminar_Ventures@de742
+list of Benvenue Medical's investors	Domain_Associates@7b081|Technology_Partners@22251|Versant_Ventures@6b818|InterWest_Partners@e32a5
+list of Casper's investors	Norwest_Venture_Partners@eee08|Rainfall_Ventures@78315|Slow_Ventures@b14b0|Lerer_Hippeau@21e35|Correlation_Ventures@3a2f0|Irving_Investors@4d2d5|blisce/@b3e43|Institutional_Venture_Partners@b1b51|New_Enterprise_Associates@63147
+list of Glovo's investors	Rakuten@e44bc|Lakestar@2f323|Entrée_Capital@70477|Idinvest_Partners@2af60|GR_Capital@d6bb4|Korelya_Capital@c2e67|Seaya_Ventures@abb35|Cathay_Innovation@5c408
+list of VTS's investors	BoxGroup@fc337|OpenView@5b2ed|Bessemer_Venture_Partners@cc2e8|Work-Bench@0061b|RRE_Ventures@db761|Trinity_Ventures@275b9|Thrive_Capital@f41ab
+list of Data Domain's investors	Greylock@8a7e3|New_Enterprise_Associates@63147|Sutter_Hill_Ventures@b06eb
+list of Reserve's investors	Human_Ventures@95d2e|Wildcat_Venture_Partners@8a0c4|Visionnaire_Ventures@a5e6d|Expa@57b9c|ACME_Capital@ddd53
+list of Bandpage's investors	Ridge_Ventures@d96a0|GGV_Capital@2a091|Walden_Venture_Capital@f3ee8|Mohr_Davidow_Ventures@c11e0
+list of Diligent Robotics's investors	True_Ventures@662ea|Pathbreaker_Ventures@c1bb3|DNX_Ventures@4660a|Next_Coast_Ventures@3148f
+list of OFI's investors	Endeavor_Catalyst@e5652|Rise_Capital@b8b79|IGNIA@ad9b7
+list of Storwize's investors	Sequoia_Capital_Israel@c7bdf|Bessemer_Venture_Partners@cc2e8|Lehman_Brothers_Holdings_Inc.@08ad5

@@ -1,0 +1,100 @@
+which Continuing Education companies in Singapore have the largest number of employees	Tueetor_Pte_Ltd@6da62
+which Sales companies in Norway have the largest number of employees	Bertel_O._Steen@c5be4
+which Pharmaceutical companies in Lebanon have the largest number of employees	Holdal_Group@e5c30
+which Productivity Tools companies in Brazil have the largest number of employees	SPRO_IT_Solutions@050f1
+which LGBT companies in Uruguay have the largest number of employees	GPSGAY@94092
+which Human Computer Interaction companies in Ukraine have the largest number of employees	Artkai@ad516
+which Genetics companies in Indonesia have the largest number of employees	Locusgen@d1dde
+which Financial Services companies in Portugal have the largest number of employees	Millennium_Bank_SA@1072e|Banco_Portugues_de_Investimento@c6fad
+which Transaction Processing companies in Pakistan have the largest number of employees	Safepay@c3eb8
+which Machinery Manufacturing companies in Switzerland have the largest number of employees	SFS_Group@6dc9b
+which Consumer Goods companies in Netherlands have the largest number of employees	HEMA@ec78c|Louis_Dreyfus_Company@2e6aa|Grandvision@ba33b
+which Fraud Detection companies in Argentina have the largest number of employees	VU@ecaf5
+which Restaurants companies in Uruguay have the largest number of employees	Arcos_Dorados_Holdings@588c0
+which E-Commerce companies in Philippines have the largest number of employees	PayMaya@3dd62
+which Lifestyle companies in Kuwait have the largest number of employees	Nalbes@ccad9
+which Spam Filtering companies in Switzerland have the largest number of employees	MailCleaner@dc48a
+which Customer Service companies in Zimbabwe have the largest number of employees	Crypto_Counter@95396
+which Artificial Intelligence companies in Serbia have the largest number of employees	.nanobile@3602f|Wonderland_AI_Summit@c328f|Protech_Ltd.@a7e82|Agremo@fb2bb
+which SMS companies in Lithuania have the largest number of employees	Akira_Mobile@fa600
+which Organic Food companies in Chile have the largest number of employees	Food_For_the_Future@8751e|FOODS.CL@ad2e0
+which Shopping companies in Serbia have the largest number of employees	Loyalster@70224
+which Business Intelligence companies in Argentina have the largest number of employees	Nubiral@be2d8
+which Tourism companies in Bolivarian Republic of Venezuela have the largest number of employees	FITRIP@54b06
+which Financial Services companies in Armenia have the largest number of employees	FEAS@ccf9d
+which Food Processing companies in Japan have the largest number of employees	Ajinomoto@eca14|Suntory_Beverage_&_Food@9bbc8
+which Freight Service companies in Australia have the largest number of employees	ACFS_Port_Logistics@fe58f
+which Data Integration companies in Germany have the largest number of employees	Seeburger@66473|hybris@d62e7
+which Consumer Research companies in Norway have the largest number of employees	Trybe@e0ad2
+which Console Games companies in Romania have the largest number of employees	Amber@01c76
+which Freight Service companies in Estonia have the largest number of employees	e-freight.eu@1b2a7|truck4goods@5d8ae
+which Credit companies in Chile have the largest number of employees	Creditú@732af
+which Venture Capital companies in Kyrgyzstan have the largest number of employees	Highland_Capital@3472b
+which Therapeutics companies in Austria have the largest number of employees	Tyromotion@cc8fa
+which Venture Capital companies in Maldives have the largest number of employees	Raisecrown_Group@da07e
+which Impact Investing companies in Malaysia have the largest number of employees	Affin_Hwang_Asset_Management@4b95e
+which Social News companies in Republic of Korea have the largest number of employees	Benefit@a73ff
+which Baby companies in Bangladesh have the largest number of employees	Baby_Shoppers@457f8
+which Subscription Service companies in United Kingdom of Great Britain and Northern Ireland have the largest number of employees	Scarlett_of_Soho@961dc|Gousto@ced6d
+which Robotics companies in Netherlands have the largest number of employees	Alliance_Ventures@c5146
+which SEM companies in Sweden have the largest number of employees	Web_Guide_Partner@31b7e
+which Reputation companies in Romania have the largest number of employees	Web_Boutique_SRL@60689
+which B2B companies in Ireland have the largest number of employees	Orbiscom@26470
+which Government companies in Mexico have the largest number of employees	Alfa_Corporativo@976d7
+which IaaS companies in United Kingdom of Great Britain and Northern Ireland have the largest number of employees	Fasthosts@c9835
+which Marine Technology companies in Ireland have the largest number of employees	Cathx@149b2|Seabased@3d31c
+which Tobacco companies in Japan have the largest number of employees	Japan_Tobacco@2cf95
+which Security companies in Denmark have the largest number of employees	ISS@a6e3a
+which Security companies in Israel have the largest number of employees	Attenti@c000c|Sansa_Security@13d83|Elbit_Systems@89a7c|Opgal@ea840
+which iOS companies in Netherlands have the largest number of employees	Quintor@9ba86
+which Mobile companies in Germany have the largest number of employees	Vodafone_Germany@29424|eBay_Kleinanzeigen@09a2c|T-Systems_International@e3d8e|Cellity@e881f|Giesecke+Devrient@f2acb|otto.de@13853|Deutsche_Telekom@d0c5b
+which Meeting Software companies in China have the largest number of employees	G-NET@bc7d2
+which mHealth companies in Uganda have the largest number of employees	WinSenga@cbdb9
+which Industrial companies in Hungary have the largest number of employees	Falcon-Vision@7449b
+which Farming companies in Switzerland have the largest number of employees	Syngenta@2232e|Syngenta_Ventures@47429
+which Mobile Apps companies in Islamic Republic of Iran have the largest number of employees	Divar@9a5cb
+which Desktop Apps companies in Turkey have the largest number of employees	Ribbito@30f9a
+which Non Profit companies in Luxembourg have the largest number of employees	European_Court_of_Justice@33085
+which Social Media Management companies in Russian Federation have the largest number of employees	Boompublic@a6511|Social_Searcher@f647a
+which Software Engineering companies in Cyprus have the largest number of employees	SoftBot@5018f
+which Lending companies in Jersey have the largest number of employees	Hawk_Lending_Group@8e794
+which Video companies in Pakistan have the largest number of employees	Tune.pk_(Pvt)_Ltd@6e1f5|Vsays@612ef
+which Market Research companies in Malaysia have the largest number of employees	Pulse_Group_Plc@adfbd
+which Commercial companies in South Africa have the largest number of employees	Eqstra_Holdings@212dd
+which Biopharma companies in Isle of Man have the largest number of employees	Juvenescence@e54be
+which Consumer Software companies in China have the largest number of employees	Linewell_Software@61407
+which Natural Resources companies in Israel have the largest number of employees	Bazan_Group_ltd@ee1b8
+which Music companies in Cyprus have the largest number of employees	Muse_Group@19736
+which App Marketing companies in Belgium have the largest number of employees	TapCrowd@a3b8b|AppTweak@c50e3
+which Renewable Energy companies in Croatia have the largest number of employees	Koncar@7db91
+which Human Computer Interaction companies in Republic of Korea have the largest number of employees	ProtoPie@11704
+which Parenting companies in Singapore have the largest number of employees	Grand_Legacy_Pte._Ltd.@c519a|Teamie@2eaa8|Skooly@d7a35|Social_Weaver_Pte_Ltd@3519d|Family5@97485
+which Battery companies in Latvia have the largest number of employees	HyMet_Thermal_Interfaces@b3bf0
+which Apps companies in Angola have the largest number of employees	Inokri@13239
+which Gaming companies in Republic of Korea have the largest number of employees	Gamfs@8b402|DaDa_Soft@396e6
+which Ad Network companies in United Arab Emirates have the largest number of employees	FoxPush@95ac9
+which Food and Beverage companies in Côte d'Ivoire have the largest number of employees	Sania@e68d3
+which Self-Storage companies in United Kingdom of Great Britain and Northern Ireland have the largest number of employees	Shurgard@a69d8
+which Fashion companies in Tunisia have the largest number of employees	Maille_Club@46698
+which Credit Cards companies in Mexico have the largest number of employees	Clara@479e7
+which Energy companies in Netherlands have the largest number of employees	SHV_Energy@2e562|Royal_Dutch_Shell@e470d|Nuon@de154
+which Social Recruiting companies in India have the largest number of employees	Zyoin@f1c7b
+which Industrial Automation companies in Poland have the largest number of employees	Turck@4fc48
+which Search Engine companies in Cameroon have the largest number of employees	Kerawa.com@6bfe1
+which Big Data companies in Singapore have the largest number of employees	ADVANCE.AI@5a55e
+which Personal Branding companies in Malaysia have the largest number of employees	Christy_Ng_Shoes@99284
+which Embedded Software companies in India have the largest number of employees	Jasmin_Infotech@5ef42|Cerium_Systems@908ee|MosChip_Technologies_Limited@ffd45
+which Digital Media companies in North Macedonia have the largest number of employees	MkMage@543d4
+which Management Consulting companies in France have the largest number of employees	Ayming@bb6e7|Sia_Partners@af507|CGI_Business_Consulting@34724|IZIUM@2fb17|Keyrus@25e11|Alan_Allman_Associates@e71a3
+which Mining companies in Argentina have the largest number of employees	Estrella_International_Energy_Services_Ltd.@af106|Afrimat@2b17b
+which Call Center companies in Morocco have the largest number of employees	Total-Call._SA@23989
+which 3D Printing companies in Romania have the largest number of employees	Printivate@59f5a
+which Taxi Service companies in Jersey have the largest number of employees	goto@95a6d
+which Management Information Systems companies in Iceland have the largest number of employees	Rational_Network@386d3
+which Cryptocurrency companies in Hong Kong have the largest number of employees	Amber_Group@7562c|BIT_Mining_Limited@69c71|Bitcoiin2Gen@b243c
+which Rental companies in Ukraine have the largest number of employees	Mirkvartir@e0a95
+which Music companies in Denmark have the largest number of employees	YouSee@bf197
+which Environmental Engineering companies in Estonia have the largest number of employees	TREV-2_Grupp@6ba00
+which Knowledge Management companies in Denmark have the largest number of employees	amie@18977
+which Social Media Management companies in Ecuador have the largest number of employees	Bini@3b9cb
+which Cloud Security companies in Austria have the largest number of employees	SecureBeam@ee094|crosscloud@79e39

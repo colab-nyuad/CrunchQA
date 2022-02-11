@@ -1,0 +1,100 @@
+Laurent Nizri is the organizer of what types of events	conference|expo
+Richard Scott -Will-Harknett is the organizer of what types of events	conference
+Tracy Levesque is the organizer of what types of events	conference
+Tameez Abramjee is the organizer of what types of events	seminar|expo|competition|meetup|festival|conference|demo_day|hackathon|networking|virtual
+Mickael Ibers is the organizer of what types of events	demo_day
+Rafal Roszak is the organizer of what types of events	demo_day
+Austin Gunter is the organizer of what types of events	meetup
+Atsushi Hisatsumi is the organizer of what types of events	conference
+Elisha Oduwaye is the organizer of what types of events	expo
+Stefan Cuda is the organizer of what types of events	conference
+Giancarlo Rocchietti is the organizer of what types of events	conference
+Vicky Guo is the organizer of what types of events	conference
+Milan Ivanovic is the organizer of what types of events	conference
+Louisa Whyte is the organizer of what types of events	competition|conference
+Emily Barrett is the organizer of what types of events	festival
+Francesca Marano is the organizer of what types of events	conference
+Tomás De Matteis is the organizer of what types of events	seminar|competition|class|meetup|demo_day|hackathon|networking
+Dan Oshinsky is the organizer of what types of events	meetup|networking
+Matthias Grabner is the organizer of what types of events	conference|virtual
+Viktor Manev is the organizer of what types of events	conference
+Linda Nichols is the organizer of what types of events	conference
+Juan Sequeda is the organizer of what types of events	webinar
+Elio Assuncao is the organizer of what types of events	seminar|expo|class|meetup|festival|conference|networking
+Anastasia Raspopina (Rostova) is the organizer of what types of events	conference|expo
+Shobhit Sharma is the organizer of what types of events	virtual
+Chris Joannou is the organizer of what types of events	conference
+Anna Anisin is the organizer of what types of events	conference
+Matthew Wren is the organizer of what types of events	networking|expo|virtual
+Dustin Hartzler is the organizer of what types of events	conference
+Marco van den Akker is the organizer of what types of events	expo
+Joe Blackburn is the organizer of what types of events	conference
+Mfon Bassey is the organizer of what types of events	festival
+Simone Haas is the organizer of what types of events	conference
+Paula Ines Sosa is the organizer of what types of events	conference
+Merle Arnika Fuchs is the organizer of what types of events	competition
+Jeffrey S. Skoll is the organizer of what types of events	meetup|seminar|conference
+Sean Daly is the organizer of what types of events	meetup
+Matthew Davis is the organizer of what types of events	meetup|seminar|demo_day|networking
+Zohar Babin is the organizer of what types of events	seminar
+Youen Chene is the organizer of what types of events	conference
+Jon Birdsong is the organizer of what types of events	meetup
+Lucy Mills is the organizer of what types of events	class
+Mátyás Dobó is the organizer of what types of events	competition|seminar|conference|networking
+Greg Fisher is the organizer of what types of events	conference
+Jake Cohn is the organizer of what types of events	networking
+Colleen Blake is the organizer of what types of events	seminar
+Chaitali Tanniwar is the organizer of what types of events	meetup
+Ricardo Tomasi is the organizer of what types of events	conference
+Erika Kikuchi is the organizer of what types of events	competition|meetup|networking
+Ryan Colby is the organizer of what types of events	festival
+Andrew Yaroshenko is the organizer of what types of events	meetup|conference|hackathon|demo_day
+Christopher Bergh is the organizer of what types of events	webinar
+Mark Sadecki is the organizer of what types of events	conference
+Josef Holm is the organizer of what types of events	expo|meetup|conference|hackathon|networking
+James Kollegger is the organizer of what types of events	conference
+Ryan Chin is the organizer of what types of events	conference
+Rohith Reji is the organizer of what types of events	conference
+Andrew Oved is the organizer of what types of events	seminar|meetup
+Jun Hyuk Ahn is the organizer of what types of events	conference
+Priyanka Sharma is the organizer of what types of events	conference|networking
+Satish Talim is the organizer of what types of events	seminar|conference
+Frederick Shic is the organizer of what types of events	conference
+Doug Erickson is the organizer of what types of events	meetup
+Jeremy Baksht is the organizer of what types of events	seminar|meetup
+Yoav Barel is the organizer of what types of events	conference
+Joseph Floyd is the organizer of what types of events	meetup
+Manuel Corpas is the organizer of what types of events	conference
+Wioleta Burdzy Seth is the organizer of what types of events	expo
+Sam Parr is the organizer of what types of events	conference
+Jamie Driver is the organizer of what types of events	networking|festival
+Beth Santos is the organizer of what types of events	meetup|networking
+Jeff Bezos is the organizer of what types of events	conference
+York Huang is the organizer of what types of events	conference
+Michael Cardamone is the organizer of what types of events	meetup
+Tevfik Mert Azizoğlu is the organizer of what types of events	conference
+Katie Serignese-Flash is the organizer of what types of events	conference
+Tracy Fance is the organizer of what types of events	class
+Tim Gasper is the organizer of what types of events	webinar
+Olivia Friedman (Co-founder) is the organizer of what types of events	seminar|webinar|class|virtual
+Will Critchlow is the organizer of what types of events	conference|networking
+Sandra Toms is the organizer of what types of events	conference
+Crimson Rose is the organizer of what types of events	festival|expo
+Jonathan Greechan is the organizer of what types of events	webinar|virtual
+Tarek Pertew is the organizer of what types of events	conference
+Rudy De Waele is the organizer of what types of events	competition
+Jose Erosa is the organizer of what types of events	conference|networking|expo|hackathon
+Walt Mossberg is the organizer of what types of events	conference
+Shani Peled is the organizer of what types of events	conference
+Stephen Kenwright is the organizer of what types of events	conference
+Kerena Saltzman is the organizer of what types of events	conference
+Adam Janczewski is the organizer of what types of events	conference
+Suhas Patel is the organizer of what types of events	conference
+Christopher Meador is the organizer of what types of events	conference|expo
+Misha Chellam is the organizer of what types of events	conference
+Guillermo Rauch is the organizer of what types of events	conference
+Matt Turck is the organizer of what types of events	seminar|meetup|networking|conference
+Danny Gamboa is the organizer of what types of events	meetup|networking
+Necole Pynn is the organizer of what types of events	conference
+David Gould is the organizer of what types of events	virtual
+Max Markovtsev is the organizer of what types of events	meetup

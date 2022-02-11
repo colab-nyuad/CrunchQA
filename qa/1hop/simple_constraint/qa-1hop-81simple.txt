@@ -1,0 +1,100 @@
+list the Real_Estate lead investors of Series A - FedBid	H.I.G._Capital@ecbdc
+list the Venture_Capital lead investors of Series A - Manual	Sonoma_Brands@187f4
+list the Health_Care lead investors of Series C - IntelePeer	VantagePoint_Capital_Partners@81456
+list the Product_Research lead investors of Grant - Cancer Therapy and Research Center	Cancer_Prevention_and_Research_Institute_of_Texas@9490b
+list the Impact_Investing lead investors of Grant - Clayton County Public Schools	Bill_&_Melinda_Gates_Foundation@4776a
+list the Finance lead investors of Seed Round - Vaticle	Animatrix_Capital@81fab
+list the Finance lead investors of Series C - BioMimetic Therapeutics	InterWest_Partners@e32a5
+list the Biotechnology lead investors of Grant - SOFIE	National_Institutes_of_Health@f4150
+list the Impact_Investing lead investors of Pre Seed Round - Levo	Y_Combinator@d2d5e
+list the Smart_Cities lead investors of Grant - Pelixar	Space3ac@1fa66
+list the Finance lead investors of Seed Round - Skippet	Neo@0a0ba
+list the FinTech lead investors of Pre Seed Round - ff.next (previously Family Finances)	Nestholma@45987
+list the Software lead investors of Venture Round - HTEC Group	Brighton_Park_Capital@37c1c
+list the Industrial lead investors of Series A - yetu	Bilfinger_Venture_Capital@2e134
+list the Internet lead investors of Pre Seed Round - hitcap esports GmbH	Carcharodon_Capital@2e7f8
+list the Venture_Capital lead investors of Series A - JINGWEI	DGS_Development@bd5a5
+list the Finance lead investors of Seed Round - Hepstar	Amadeus_Capital_Partners@55145
+list the Semiconductor lead investors of Grant - MITS	National_Science_Foundation@583cb
+list the Financial_Services lead investors of Series B - Fabric	Corner_Ventures@840db
+list the Emerging_Markets lead investors of Seed Round - LoftSmart	Tribeca_Venture_Partners@fc577
+list the Finance lead investors of Series B - Cask	Safeguard_Scientifics@49632
+list the Construction lead investors of Venture Round - Cyberdyne	DaiwaHouse@b8c58
+list the Financial_Services lead investors of Post-IPO Equity - Noventic	Hg@a0de1
+list the Financial_Services lead investors of Seed Round - Ethereal Machines	Blume_Ventures@d5401
+list the FinTech lead investors of Venture Round - Gemelo	Invest_Tech@27cd3
+list the Venture_Capital lead investors of Series B - US HealthVest	Oak_HC/FT@9a26a
+list the Venture_Capital lead investors of Series C - Mobile Klinik	Canadian_Business_Growth_Fund@50584
+list the IT_Infrastructure lead investors of Series A - Vungle	Crosslink_Capital@b1936
+list the Venture_Capital lead investors of Venture Round - AppInstitute	Foresight_Group@d7ca6
+list the Financial_Services lead investors of Series A - Enveil	C5_Capital@98011
+list the Finance lead investors of Seed Round - Clootrack	Indian_Angel_Network@5ef69
+list the Financial_Services lead investors of Series A - Axikin Pharmaceuticals	Sanderling_Ventures@e9480
+list the EdTech lead investors of Grant - Lilu	National_Science_Foundation@583cb
+list the Financial_Services lead investors of Series A - FILLD	Shea_Ventures@83711
+list the Pharmaceutical lead investors of Venture Round - Medlumics	Asabys_Partners@0611b
+list the E-Commerce lead investors of Series B - Chockstone	Vesta_Corporation@df8a0
+list the Universities lead investors of Series A - DATAFLUCT	UTEC_-_The_University_of_Tokyo_Edge_Capital_Partners@b80cd
+list the Banking lead investors of Series A - Genenta Science	Mediobanca_Banca_di_Credito_Finanziario_S.p.A.@aa06d
+list the Government lead investors of Grant - Vapor Cell Technologies	National_Science_Foundation@583cb
+list the Consulting lead investors of Series B - Definigen	University_of_Cambridge_Enterprise@c8ecd
+list the Angel_Investment lead investors of Venture Round - Latimer Group	Clearly_Social_Angels@5b596
+list the Venture_Capital lead investors of Secondary Market - PharmEasy	B_Capital_Group@f78d4
+list the Venture_Capital lead investors of Private Equity Round - Immedis	Scottish_Equity_Partners@e708d
+list the Financial_Services lead investors of Pre Seed Round - Particle	SOSV@e832c
+list the Consumer lead investors of Post-IPO Equity - Forcepoint	New_Enterprise_Associates@63147
+list the Business_Development lead investors of Series D - SentinelOne	Insight_Partners@7b1c9
+list the Venture_Capital lead investors of Series A - Letus Legend	Sequoia_Capital_China@3dd2c
+list the Finance lead investors of Series A - Datagen Technologies	Viola_Ventures@c9978
+list the Health_Care lead investors of Private Equity Round - Digital Map Products	Silversmith_Capital_Partners@a6099
+list the Venture_Capital lead investors of Series C - Covalent Technologies	Menlo_Ventures@1596d
+list the InsurTech lead investors of Series B - iCapital Network	Pivot_Investment_Partners@2d527
+list the Finance lead investors of Series B - Synthace	Horizons_Ventures@62a86
+list the Venture_Capital lead investors of Pre Seed Round - PowerTree	FounderFuel@f2dc3
+list the Venture_Capital lead investors of Series C - Greenlight Planet	Apis_Partners@0ed8b
+list the FinTech lead investors of Series C - The RealReal	Canaan_Partners@43370
+list the Financial_Services lead investors of Seed Round - Smart Load Solutions	Prototron@fb3e3
+list the Business_Development lead investors of Series A - IID	Bessemer_Venture_Partners@cc2e8
+list the Financial_Services lead investors of Seed Round - Inovactis	Sowefund@c2053
+list the Lifestyle lead investors of Seed Round - Blanket	Aurify_Brands@cb550
+list the Financial_Services lead investors of Seed Round - Capdesk	Fuel_Ventures@bb146
+list the Finance lead investors of Series C - Shareholder InSite	BIP_Capital@c7734
+list the Software lead investors of Series C - SOASTA	Pelion_Venture_Partners@a51e1
+list the Venture_Capital lead investors of Debt Financing - Nutrivend	U.K._Steel_Enterprise@ac30a
+list the Wellness lead investors of Venture Round - Wellbeats	LFE_Capital@e09a1
+list the Chemical lead investors of Seed Round - Sencure	Cottonwood_Technology_Fund@acdf9
+list the Financial_Services lead investors of Series A - ChinaStar	Zhongjing_Ruiyi@8e622
+list the Finance lead investors of Series A - iQiyi Sports	China_Sports_Capital@d35e0
+list the Transportation lead investors of Series A - StradVision	Hyundai_Mobis@26785
+list the Artificial_Intelligence lead investors of Series B - Surf Air	ff_Venture_Capital@e0361
+list the Digital_Media lead investors of Seed Round - Aircam	Upfront_Ventures@d9c86
+list the Government lead investors of Debt Financing - AngioChem	Government_Of_Quebec@4ac7b
+list the Impact_Investing lead investors of Series A - Opopop	Valor_Siren_Ventures@fc291
+list the Financial_Services lead investors of Grant - Appt Health	Innovate_UK@c7441
+list the Semiconductor lead investors of Grant - Allegro 3D	National_Science_Foundation@583cb
+list the Health_Diagnostics lead investors of Venture Round - ABM Pharma	Kurma_Partners@42b27
+list the Venture_Capital lead investors of Seed Round - ZAGO Milano	Angel_Capital_Management@35fec
+list the Venture_Capital lead investors of Series B - Lu Daopei Medical Group	Temasek_Holdings@08246
+list the Legal lead investors of Series A - Confluence Solar	Convexa_Capital_Ventures@8deaf
+list the Financial_Services lead investors of Debt Financing - Breathe Life	National_Bank_of_Canada@0d28d
+list the Infrastructure lead investors of Series B - adHawk	Entrée_Capital@70477
+list the Venture_Capital lead investors of Series A - Fellow.app	Craft_Ventures@1e268
+list the Financial_Services lead investors of Venture Round - Goyoo	Infinity_Ventures_Japan@85195
+list the Biotechnology lead investors of Series C - BioAmber	LANXESS@9d9b8
+list the Financial_Services lead investors of Pre Seed Round - Maieutic Enterprises Incorporated	SOSV@e832c
+list the Venture_Capital lead investors of Seed Round - Sinay	Betatron_Venture_Group@61022
+list the Venture_Capital lead investors of Private Equity Round - Exterro	Leeds_Equity_Partners@f9965
+list the Manufacturing lead investors of Funding Round - SLICE Technologies Ohio	RKCA@ca145
+list the Sustainability lead investors of Pre Seed Round - Baby Talk AS	Silicon_Valley_AS@4ca32
+list the FinTech lead investors of Series B - CreditVidya	Matrix_Partners@e4078
+list the Real_Estate lead investors of Private Equity Round - Brightergy	Trinity_Private_Equity_Group@706ac
+list the Venture_Capital lead investors of Series C - SurgRx	California_Technology_Ventures@93a45
+list the FinTech lead investors of Seed Round - SiamCarDeal	500_TukTuks@e631f
+list the Venture_Capital lead investors of Series D - Code Green Networks	Sierra_Ventures@5a362
+list the Financial_Services lead investors of Product Crowdfunding - KabuK Style	Makuake@166f0
+list the Venture_Capital lead investors of Series B - Teckro	Sands_Capital@c0b56
+list the Education lead investors of Grant - HepaVec AG	German_Federal_Ministry_of_Education_and_Research_(BMBF)@b259e
+list the Health_Care lead investors of Convertible Note - Acodis	VI_Partners@37bfb
+list the Real_Estate lead investors of Series D - Snowflake	ICONIQ_Capital@3018b
+list the Finance lead investors of Debt Financing - GENBAND	Silicon_Valley_Bank@6051d
+list the Business_Development lead investors of Series A - Vuv Analytics	S3_Ventures@92611

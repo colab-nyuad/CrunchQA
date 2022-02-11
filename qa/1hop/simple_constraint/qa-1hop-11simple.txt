@@ -1,0 +1,100 @@
+pre_seed where Levanta Investments is a lead investor	Pre_Seed_Round_-_Warehome@4eb03
+series_a where Auven Therapeutics is a lead investor	Series_A_-_ADC_Therapeutics@0ba59
+series_a where Danone Manifesto Venture is a lead investor	Series_A_-_Kona_Deep@5a6a2
+series_b where SV Health Investors is a lead investor	Series_B_-_Sutro_Biopharma@e0e07|Series_B_-_Logical_Therapeutics@74616|Series_B_-_Deciphera_Pharmaceuticals@e4069|Series_B_-_ValenTx@e864d|Series_B_-_OncoEthix@34f36|Series_B_-_Healthify@2782e
+series_a where Mission Ventures is a lead investor	Series_A_-_Entropia@19fca|Series_A_-_Akonix_Systems@a4e5a|Series_A_-_Bullrun_Financial@bd525|Series_A_-_MarginPoint@7e713
+seed where Picus Capital is a lead investor	Seed_Round_-_Paytron@430f9|Seed_Round_-_Xepelin@2bcd2|Seed_Round_-_Telos_Brands@55b16
+series_a where Infrontier is a lead investor	Series_A_-_Rumi_Spice@a0fe7
+pre_seed where Malta Enterprise is a lead investor	Pre_Seed_Round_-_Pera_Labs@cb343
+series_c where CreditEase Fintech Investment Fund is a lead investor	Series_C_-_Upgrade@1dfa3
+corporate_round where Chihousousei is a lead investor	Corporate_Round_-_Stroly@21fac
+grant where gBETA Medtech is a lead investor	Grant_-_Delve_Health@1efea|Grant_-_BTech@1cd1b|Grant_-_Quartolio@6e7b4|Grant_-_TruDiary@d322f|Grant_-_Bold_Health@a7214
+pre_seed where Future Money is a lead investor	Pre_Seed_Round_-_CodeIsTrust@c77e6
+seed where Zhejiang Taihao Investment Management is a lead investor	Seed_Round_-_Lingzhi_Technology@7424f
+series_b where TransCosmos is a lead investor	Series_B_-_SiteRock@3937a|Series_B_-_Ookbee@48e58|Series_B_-_Berrybenka@ea5ce|Series_B_-_Acadio_Corporation@e221c|Series_B_-_Snapfish@a93e4|Series_B_-_Luxola@6fb26
+seed where Boston Syndicates (BOSS) is a lead investor	Seed_Round_-_Humon@cf50f|Seed_Round_-_Neurable@ec970
+series_b where Argo Global Capital is a lead investor	Series_B_-_uReach_Technologies@46924
+seed where Sumitomo Mitsui Trust Bank is a lead investor	Seed_Round_-_Precision_Forestry@7c22a
+series_a where Valor Siren Ventures is a lead investor	Series_A_-_Joy@d7e0e|Series_A_-_Browze@4ac71|Series_A_-_Yay_Lunch@05d72|Series_A_-_Opopop@a31d0|Series_A_-_Boox@90eef|Series_A_-_Browze@55721|Series_A_-_Rind@699a9|Series_A_-_Logiwa@f01bc
+seed where Sydney Angels is a lead investor	Seed_Round_-_Controlabill@e5df0|Seed_Round_-_Muzeek@5e386|Seed_Round_-_Inspace_XR@78b55|Seed_Round_-_Zenogen@a9056|Seed_Round_-_SignOnSite@07b09|Seed_Round_-_Tapestry@02053|Seed_Round_-_Bubble_Gum_Interactive@d1490
+undisclosed where Credit Suisse is a lead investor	Funding_Round_-_L&P_Cosmetic@6b25b
+seed where Sagemoore Capital is a lead investor	Seed_Round_-_Restore_Health@e9312
+grant where RagingBull.com Foundation is a lead investor	Grant_-_St_Jude_Children’s_Research_Hospital@96f24|Grant_-_Special_Olympics_Massachusetts@d5e51
+seed where Aligo Venture Capital is a lead investor	Seed_Round_-_Gepetto@d24b4
+series_e where Industry Ventures is a lead investor	Series_E_-_Axcient@f5aff
+seed where Reach plc is a lead investor	Seed_Round_-_Timewith@de87d
+series_b where Founders Circle Capital is a lead investor	Series_B_-_Hologram@86d01
+seed where Eatable Adventures is a lead investor	Seed_Round_-_Batavia_Healthy_Food@46501
+seed where Joyance Partners is a lead investor	Seed_Round_-_Oga@be6d1|Seed_Round_-_AOA@de4d4|Seed_Round_-_GrayMatters_Health@0ea39
+corporate_round where Nomura Research Institute is a lead investor	Corporate_Round_-_Toranotec@0ee86|Corporate_Round_-_Kepple_Accounting_Office@26254
+seed where Crosspring is a lead investor	Seed_Round_-_NEO_Finance@0f70a
+post_ipo_equity where GGV Capital is a lead investor	Post-IPO_Equity_-_JD.com@10eff
+series_a where Shasta Ventures is a lead investor	Series_A_-_Valimail@b3c63|Series_A_-_Survios@fa46c|Series_A_-_Deep_Sentinel@379b1|Series_A_-_Demdex@7b153|Series_A_-_GoFormz@b7aee|Series_A_-_SayNow@bb532|Series_A_-_VoloMetrix@cd780|Series_A_-_Kango.com@06690|Series_A_-_Brandcast@c333e|Series_A_-_AppSheet@f220c|Series_A_-_ThreeKit@08266|Series_A_-_Literati@4ff50|Series_A_-_Viakoo@5b873|Series_A_-_Hobo_Labs@34452|Series_A_-_Tonal@b71f2|Series_A_-_Digital_Air_Strike@224df|Series_A_-_Banyan_Security@aaf84|Series_A_-_Squelch@c8275|Series_A_-_Wild_Needle@55031|Series_A_-_ZEFR@1f03a|Series_A_-_Starsky_Robotics@f35af|Series_A_-_Cherry@28879|Series_A_-_Camera_IQ@4dcec|Series_A_-_Mocana@3fa8d|Series_A_-_LeanData@27552|Series_A_-_Cequence@5338a|Series_A_-_Mint@70319|Series_A_-_Marketcetera@03099|Series_A_-_Leanplum@f4965|Series_A_-_SlamData@26a15|Series_A_-_Plastic_Jungle@a085b|Series_A_-_Poppin@a66e2|Series_A_-_Plays.tv@f99c4|Series_A_-_ClassDojo@33be4|Series_A_-_Tally@25b49|Series_A_-_The_Farmer's_Dog@a244e|Series_A_-_Squelch@6961f|Series_A_-_VoloMetrix@104ce|Series_A_-_Scalyr@37c60|Series_A_-_Threadflip@497d3|Series_A_-_Chartcube@8b8d9|Series_A_-_Doostang@51da6|Series_A_-_Bloc@46898|Series_A_-_Hinge@6ad71|Series_A_-_Akoonu@ae5a0|Series_A_-_Skycure@6aa3e|Series_A_-_Suplari@a280c|Series_A_-_TaskRabbit@883b0|Series_A_-_Accion_Systems@c7d45|Series_A_-_ISARA_Corporation@2d622
+grant where ED2 is a lead investor	Grant_-_DigEd@6b29b
+grant where CTI BioPharma is a lead investor	Grant_-_Biowatch@3623b
+angel where White Collar is a lead investor	Angel_Round_-_Zhengzheng_Electronic_Commerce@30d40
+pre_seed where Startupbootcamp FoodTech Rome is a lead investor	Pre_Seed_Round_-_Hotbox_Food@2f8df
+grant where Business Finland is a lead investor	Grant_-_Invesdor@8b878|Grant_-_Lyfta@aa00b|Grant_-_Lyfta@5bfb0|Grant_-_Lyfta@c5a4e|Grant_-_SPOT-A-SHOP@9b3af|Grant_-_Keliber@7de66|Grant_-_Surrogate@e54a9|Grant_-_TILT_Biotherapeutics@125ad|Grant_-_Faron_Pharmaceuticals@ca5d1|Grant_-_ReBio_Technologies@b179e|Grant_-_EatAndTheCity@3cefe|Grant_-_Lyfta@6ccb8|Grant_-_Thirdpresence@69f60|Grant_-_Bonusway@8dfb0|Grant_-_Bonusway@a5064
+private_equity where First Israel Mezzanine Investors is a lead investor	Private_Equity_Round_-_BIRD_Aerosystems@2e0af
+series_a where AgCapital Canada is a lead investor	Series_A_-_SomaDetect@f75b3
+series_a where Staenberg Venture Partners is a lead investor	Series_A_-_mInfo@a5a0f
+series_a where Aweida Venture Partners is a lead investor	Series_A_-_Privacy_Networks@2e9d9
+series_c where InvestCare Partners is a lead investor	Series_C_-_Medvantx@0166e
+series_a where NGN Capital is a lead investor	Series_A_-_Artisan_Pharma@6a9ed|Series_A_-_Santhera_Pharmaceuticals@b356e|Series_A_-_PIN_Pharma@16081|Series_A_-_ACT_Biotech@0bfb4
+series_a where Guanda Ruitou is a lead investor	Series_A_-_Kaige_Health@dfd4b|Series_A_-_Kaige_Health@2e8a6
+seed where 465 Holdings is a lead investor	Seed_Round_-_Neo_(getneo.com)@18031
+series_a where Arbor Ventures is a lead investor	Series_A_-_Abra@26550|Series_A_-_EverC@df573|Series_A_-_Akulaku@9b60f|Series_A_-_GlobaliD@66eca|Series_A_-_DemystData@d8b81|Series_A_-_Planck@986d4|Series_A_-_Paidy@af8e5|Series_A_-_Paidy@e149b
+corporate_round where Aurora Cannabis is a lead investor	Corporate_Round_-_Capcium@45f49
+undisclosed where WarnerMedia is a lead investor	Funding_Round_-_Hulu@81b9c
+seed where Shenzhen Weiyue Creative Investment is a lead investor	Seed_Round_-_Skylimit_Entertainment_Group@b27fa
+series_a where The North West Fund is a lead investor	Series_A_-_Gelmetix@49c12
+series_b where BlueCross BlueShield Venture Partners is a lead investor	Series_B_-_Ultromics@947fc
+series_b where Genome British Columbia is a lead investor	Series_B_-_Acuva_Technologies@440d6
+undisclosed where GE Security is a lead investor	Funding_Round_-_Verified_Identity_Pass@02b9e
+series_b where Beihang Investment is a lead investor	Series_B_-_Alinket@e674c
+seed where JITO Angel Network is a lead investor	Seed_Round_-_NewsReach_India@1301a|Seed_Round_-_S-Ancial_Global_Solutions_Private_limited@3cb44|Seed_Round_-_Pickright@721b3|Seed_Round_-_Vidyakul@38209|Seed_Round_-_BluSmart_Mobility@9facd|Seed_Round_-_Sun_Telematics_Private_Ltd@cc989
+seed where Washington Research Foundation is a lead investor	Seed_Round_-_Medcurity@720ec
+series_e where SternAegis is a lead investor	Series_E_-_ZoomCar@b02c7
+undisclosed where Klinkert Investment Trust is a lead investor	Funding_Round_-_Pnoe@93736
+seed where Wutong Ideal Capital Management is a lead investor	Seed_Round_-_Dianxin_Tech@3a68c
+seed where NVR Capitals and Ventures is a lead investor	Seed_Round_-_Cloudin@7c1ce
+series_c where Cherrystone Angel Group is a lead investor	Series_C_-_Respiratory_Motion@b699f
+pre_seed where Science is a lead investor	Pre_Seed_Round_-_Kyoku@1e247
+series_c where Neuberger Berman Group is a lead investor	Series_C_-_Savage_X_Fenty@9bf5f|Series_C_-_CommonBond@f29ab
+post_ipo_debt where China Resources Leasing is a lead investor	Post-IPO_Debt_-_Renesola_Pty_Ltd.@0231e
+angel where Zhongchu Touzi is a lead investor	Angel_Round_-_Myun_Technology@4e647
+series_e where Next47 is a lead investor	Series_E_-_Electric_Cloud@e2e7e
+seed where Keiretsu Forum is a lead investor	Seed_Round_-_9th_Gear@f51c8|Seed_Round_-_Augrav@7655b|Seed_Round_-_Biosortia_Microbiomics@be95b
+series_d where Thomas Weisel Partners is a lead investor	Series_D_-_Incentive_Systems@8d840
+private_equity where Pacific Corporate Group is a lead investor	Private_Equity_Round_-_ORBCOMM@8e220|Private_Equity_Round_-_Backyard_Broadcasting_Holdings@f3978
+series_a where Verizon Ventures is a lead investor	Series_A_-_HaptX@53a0c|Series_A_-_AdTheorent@f4758|Series_A_-_Sfara@6fde4|Series_A_-_AdStage@0f487|Series_A_-_PICadvanced@5d6be|Series_A_-_Lumina_Networks@44d32|Series_A_-_Rounds@2f887|Series_A_-_Apio_Systems@4e07b
+series_c where High Ground Capital is a lead investor	Series_C_-_Kidstone@14b4b
+series_f where Mitsui & Co is a lead investor	Series_F_-_EarlySense@65a04
+post_ipo_equity where Syntone Ventures is a lead investor	Post-IPO_Equity_-_Outlook_Therapeutics@78552|Post-IPO_Equity_-_Outlook_Therapeutics@13f4e
+post_ipo_equity where Cantor Fitzgerald is a lead investor	Post-IPO_Equity_-_GCM_Grosvenor@a371f
+pre_seed where IIML- Enterprise Incubation Centre is a lead investor	Pre_Seed_Round_-_Skilancer_Solar@dc9cd
+series_a where Sapien Ventures is a lead investor	Series_A_-_Investfit@e0379|Series_A_-_LivePreso@19861
+debt_financing where Innovation Banking Group is a lead investor	Debt_Financing_-_Skyword@bd5e3
+series_a where JAFCO Japan is a lead investor	Series_A_-_Capy_Inc.@038bc|Series_A_-_LPIXEL@322fa|Series_A_-_Money_Forward@36061|Series_A_-_WHITEPLUS@e73be|Series_A_-_Trillium_Secure@5816d|Series_A_-_GiftMall@4cb64|Series_A_-_Hiringboss_Holdings@5dba3|Series_A_-_Interactive_Solutions@d5bfe|Series_A_-_Thirdverse@cabe6|Series_A_-_Wacul@4612b|Series_A_-_Liquid_Global@8ccd0|Series_A_-_Azoop@385c3|Series_A_-_REXEV@4e92d|Series_A_-_3-shake@f482b|Series_A_-_dotData@7ce0c|Series_A_-_Hiringboss_Holdings@308f2|Series_A_-_Kyash@03d7e
+equity_crowdfunding where Sony Bank GATE is a lead investor	Equity_Crowdfunding_-_INNOPHYS@337d9
+grant where LIDS Foundation is a lead investor	Grant_-_Girls_on_the_Run@578ab
+series_a where Tianhe Life Sciences Venture Fund is a lead investor	Series_A_-_Clover_Biopharmaceuticals@67257
+series_b where Alibaba Capital Partners is a lead investor	Series_B_-_ITutorGroup@2235c|Series_B_-_Qyer.com@36a2a
+series_a where Evonik Venture Capital is a lead investor	Series_A_-_mySkin@a2376
+series_d where CICC is a lead investor	Series_D_-_Chunyu_Yisheng@109b3|Series_D_-_DST_Car@68fdb|Series_D_-_GeneCast_Biotechnology@ec015|Series_D_-_Newlink@8b491|Series_D_-_Newlinks_Technology@b344d
+pre_seed where True Wealth Ventures is a lead investor	Pre_Seed_Round_-_Flourish@80613
+series_f where Boston Millennia Partners is a lead investor	Series_F_-_Arthrosurface@5d3a6
+series_c where Auriga Partners is a lead investor	Series_C_-_Bag_Tech@abf99|Series_C_-_Gamida_Cell@0acb8|Series_C_-_erytech@6bf85|Series_C_-_Pharma_Omnium@21ea0
+series_h where Dragoneer Investment Group is a lead investor	Series_H_-_Discord@e309a
+seed where Impact Ventures Hungary is a lead investor	Seed_Round_-_Life_Based_Value@67b96
+pre_seed where Tanarra Credit Partners is a lead investor	Pre_Seed_Round_-_Arctoris@ef83c
+series_a where Mingsheng Ziben is a lead investor	Series_A_-_Tuge_Keji@5085c
+series_a where Beijing Innovation Industry Investment is a lead investor	Series_A_-_Bayuegua@74839
+convertible_note where Formation 8 is a lead investor	Convertible_Note_-_Algal_Scientific@297b3|Convertible_Note_-_Yello_Mobile@de6f3
+series_a where CE Ventures (CEIIF) is a lead investor	Series_A_-_Imvision@8f5b0|Series_A_-_Alcide@4a057
+angel where Shanghai Huaxiaranchuang Information Technology is a lead investor	Angel_Round_-_Shanghai_Ruicao_Network_Technology_Co.(Sharp_grass_network)@03faa|Angel_Round_-_Darui_Business@8bdfc
+series_a where Foundation Capital is a lead investor	Series_A_-_findera@8522c|Series_A_-_Bulletin@aa5ee|Series_A_-_Mode_Analytics@3a4d0|Series_A_-_MistNet@ed605|Series_A_-_Trufa@c59df|Series_A_-_Guardian_Analytics@0f177|Series_A_-_Teamable@a7dc6|Series_A_-_Sunrun@24c33|Series_A_-_Pocket@34f24|Series_A_-_BCB_Group@59bf0|Series_A_-_Loft_Orbital@745b1|Series_A_-_Purfresh@e12c9|Series_A_-_Synfora@8473b|Series_A_-_LendingHome@4b8f7|Series_A_-_BTCjam@0ab6c|Series_A_-_Yozio@1589b|Series_A_-_National_Payment_Network@56eff|Series_A_-_adRise@a22c1|Series_A_-_Dust_Networks@81bf9|Series_A_-_CiiNOW@3f900|Series_A_-_One@2c4bd|Series_A_-_SpringCM@f14e8|Series_A_-_Peerspace@d1c4f|Series_A_-_Platzi@5064a|Series_A_-_Copious@28b2d|Series_A_-_Grabr@13ca1|Series_A_-_Peerspace@ef6a4|Series_A_-_Finxera@131bf|Series_A_-_Simple_Habit@b6a96|Series_A_-_HotLink@3a47e|Series_A_-_ForUsAll@e54ef|Series_A_-_SpoonRocket@7a731|Series_A_-_Cerebras_Systems@18185|Series_A_-_Dimerix_Biosciences_Pty_Ltd@5ef84|Series_A_-_Edge_Dynamics@45eb3|Series_A_-_Zerostack@2aa11
+series_c where Advanced Technology Ventures is a lead investor	Series_C_-_Vivato@c4f6c|Series_C_-_CaseCentral@59b6c|Series_C_-_CombineNet@b09ba|Series_C_-_Hydra_Biosciences@da44e|Series_C_-_Nuventix@2bf26|Series_C_-_Cenzic@12e6f|Series_C_-_Black_Pearl@487c4
+series_a where Shangbay Capital is a lead investor	Series_A_-_Apostle@3e4fa|Series_A_-_Laplace_Interventional@90beb|Series_A_-_Aqua_Medical@222e3
+series_b where Anvil Investment Associates is a lead investor	Series_B_-_Apprion@00ad1
+private_equity where Alcedo is a lead investor	Private_Equity_Round_-_Aeromeccanica_Stranich_SPA@d407f

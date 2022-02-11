@@ -1,0 +1,100 @@
+the organizers of HackerX-Sao Paulo(Full-Stack) Employer Ticket -11/26 are from what industries	Human_Resources|Recruiting|Events
+the organizers of Drug Device Combination Products 2017 are from what industries	Publishing|Information_Services|B2B|Events
+the organizers of Startup Weekend Bermuda 2017 are from what industries	Venture_Capital|Finance|Financial_Services
+the organizers of MVNOs Latin America 2018 are from what industries	Information_Services
+the organizers of ShipTech Middle East are from what industries	Events
+the organizers of The Mobility and Modern Web Conference 2015 are from what industries	Universities|Higher_Education|Education
+the organizers of FP&A Innovation Summit San Diego 2018 are from what industries	Information_Services
+the organizers of AngelHack Bangkok 2016 are from what industries	Events|Marketing
+the organizers of Building the Health Tech Capital are from what industries	Health_Diagnostics|Health_Care|Medical
+the organizers of Hosting & Cloud Transformation Summit 2018 are from what industries	Enterprise_Software|Information_Technology|Innovation_Management|Information_Services|Consulting
+the organizers of Startup Weekend Toronto Internet of Things Edition are from what industries	Communities|Education|Non_Profit
+the organizers of Austin Institute for Graphic Awesomeness are from what industries	Graphic_Design|Publishing|Content
+the organizers of General Assembly are from what industries	Consumer_Goods|Information_Technology|Retail_Technology|Delivery|Payments|Logistics|InsurTech|Retail
+the organizers of In:Confidence USA 2019 are from what industries	Cyber_Security|Enterprise_Software|Software|SaaS|Privacy|Big_Data
+the organizers of 2019 API Pipeline Conference are from what industries	Natural_Resources|Oil_and_Gas
+the organizers of O'Reilly Fluent Conference are from what industries	Information_Technology|EBooks|Publishing|Software|Training|Education|Events
+the organizers of AI for CPG Summit are from what industries	Artificial_Intelligence|Information_Technology|Events|Machine_Learning
+the organizers of World Innovations Forum Lucerne Switzerland are from what industries	Information_Technology
+the organizers of Startup Weekend Leipzig 2017 are from what industries	Venture_Capital|Finance|Financial_Services
+the organizers of Guest webinar: How to perform advanced debugging on Heterogeneous ARM® Cortex Systems are from what industries	Sales|Computer_Vision|Embedded_Software|Embedded_Systems|Linux|Internet_of_Things
+the organizers of BootstrapLabs Applied AI Insider Series: Autonomous Transportation are from what industries	Venture_Capital|Enterprise_Software|Artificial_Intelligence
+the organizers of PDN PhotoPlus International Conference + Expo 2017 are from what industries	Events
+the organizers of Kalicube Tuesdays with Jeff Coyle: The Risks and Rewards of AI-generated Content are from what industries	SaaS|Brand_Marketing|Digital_Marketing
+the organizers of Key Criteria of Startup Selection How To Attract and Impress The Right Investors are from what industries	Corporate_Training|Product_Research|Product_Design|Market_Research|Business_Development|Innovation_Management|Education|Consulting
+the organizers of FundingPost Orange County VCs, Angels, Crypto and ICOs Event are from what industries	Professional_Networking|Online_Portals|Venture_Capital
+the organizers of Consumer Electronics Show 2018 are from what industries	Non_Profit|Consumer_Electronics|Market_Research|Association
+the organizers of FinTech Innovation Summit Dublin 2018 are from what industries	Information_Services
+the organizers of Cardiology at Cancun: Topics in Clinical Cardiology are from what industries	Health_Care|Medical|Non_Profit|Biotechnology
+the organizers of Deep Learning 2.0 Virtual Summit 2021 are from what industries	Artificial_Intelligence|Information_Technology|Events|Machine_Learning
+the organizers of Plug and Play Winter Summit 2021 are from what industries	Health_Care|FinTech|Smart_Cities|InsurTech|Retail
+the organizers of Science and Technology Convergence Conference 2019 are from what industries	Cyber_Security|Artificial_Intelligence|Market_Research|Higher_Education|Bioinformatics|Education|Internet_of_Things
+the organizers of Everywhere Else Tennessee are from what industries	News
+the organizers of TechCrunch Startup Battlefield Latin America 2018 are from what industries	Digital_Media|Internet|Events|News
+the organizers of Startup Pitch Bootcamp São Paulo are from what industries	Venture_Capital|Training|Incubators
+the organizers of TechCrunch Disrupt Europe 2013: Berlin are from what industries	Digital_Media|Internet|Events|News
+the organizers of Ai+ 2021 Launch Event are from what industries	Events|Corporate_Training|Software|Artificial_Intelligence|Machine_Learning|Training|Business_Intelligence
+the organizers of SuperCharger KL FinTech Accelerator Demo Day 2017 are from what industries	Venture_Capital|Finance|FinTech|Financial_Services
+the organizers of ODSC West 2019 are from what industries	Events|Corporate_Training|Software|Artificial_Intelligence|Machine_Learning|Training|Business_Intelligence
+the organizers of Premoney San Francisco 2018 are from what industries	Venture_Capital|Finance|Financial_Services
+the organizers of FinTech Vortex 2017 are from what industries	FinTech|Incubators|Financial_Services
+the organizers of RootConf 2015 are from what industries	Training|Events|Social_Network
+the organizers of Travel Bootstrappers Breakfast are from what industries	Travel
+the organizers of OWASP Global AppSec Tel Aviv 2019 are from what industries	Software|Web_Apps|Non_Profit|Security
+the organizers of Lesbians Who Tech + Allies San Francisco Summit 2019 are from what industries	LGBT|Communities|Women's
+the organizers of Startup Weekend Hattiesburg are from what industries	Communities|Education|Non_Profit
+the organizers of HackerX - Halifax, N.S. Employer Ticket - 5/23 are from what industries	Human_Resources|Recruiting|Events
+the organizers of Enterprise Experience 2019 are from what industries	Publishing|News
+the organizers of HackerX - Los Angeles (Full-Stack) Employer Ticket - 8/29 are from what industries	Human_Resources|Recruiting|Events
+the organizers of Startup Weekend Albuquerque Women s Edition are from what industries	Communities|Education|Non_Profit
+the organizers of Coffee with CISOs: COVID's Impact on Medical Device Security are from what industries	Cyber_Security|Information_Technology|Software|SaaS|Compliance
+the organizers of HackerX-Seattle are from what industries	Human_Resources|Recruiting|Events
+the organizers of Startup Weekend Lille are from what industries	Communities|Education|Non_Profit
+the organizers of Payables Nation - Finance Transformation Tour (Southern California) are from what industries	Financial_Services|Software|FinTech|Payments|Accounting
+the organizers of How to Invest & Evaluate a Startup - Part 1 are from what industries	Venture_Capital|Financial_Services|Business_Development
+the organizers of MIT EF Event - Unleashing Opportunities with Technology are from what industries	Universities|Social_Entrepreneurship|Technical_Support|Information_Technology|Retail_Technology|Software|Higher_Education|Non_Profit|Education
+the organizers of J.P. Morgan Global Technology, Media and Telecom Conference are from what industries	Credit_Cards|Financial_Services|Banking|Wealth_Management|Finance
+"the organizers of SLP Keynote Speaker Series: ""Patent Strategies for Startups"" are from what industries"	Life_Science|Information_Technology|Health_Care|Business_Development|Consulting
+the organizers of HackerX Dublin are from what industries	Human_Resources|Recruiting|Events
+the organizers of Columbia TechBreakfast are from what industries	Web_Development|Information_Technology|Events
+the organizers of Making the most of Digital Social Innovation + drinks are from what industries	Education|Collaboration
+the organizers of Telecom Council ComTech Forum on 5G are from what industries	Mobile|Mobile_Devices|Unified_Communications|Optical_Communication|Wired_Telecommunications|Wireless|Communication_Hardware|Venture_Capital|Satellite_Communication|Communications_Infrastructure
+the organizers of Connected Health Summit 2017 are from what industries	Market_Research
+the organizers of HackerX - Rio De Janeiro (Full-Stack) Employer Ticket - 2/26 are from what industries	Human_Resources|Recruiting|Events
+the organizers of Sur Gujarat Ke Season 1 are from what industries	Music|Audio|Music_Label|Independent_Music
+the organizers of The Fourth Annual CrowdFunding USA are from what industries	Digital_Media|Crowdfunding|Data_Integration
+the organizers of The RSA 2018 Cybersecurity AI Party are from what industries	Cyber_Security|Network_Security|Security
+the organizers of Startup Weekend - Banská Bystrica 2017 are from what industries	Venture_Capital|Finance|Financial_Services
+the organizers of Digital Travel Summit EU 2018 are from what industries	News|Association|Consulting|Events
+the organizers of Global Growth Marketing Conference are from what industries	Social_Entrepreneurship|Communities|Social_Media|Events
+the organizers of JavaOne 2016 are from what industries	Software|Enterprise_Software|Information_Technology|SaaS
+the organizers of IoT World Conference and Expo 2020 are from what industries	Information_Services
+the organizers of IE Venture Day Eastern Europe are from what industries	Universities|Education|Higher_Education|Big_Data
+the organizers of Global Mobile Awards 2016 are from what industries	Mobile|Internet|Social_Media
+the organizers of AngelSummit Americas are from what industries	Journalism|Digital_Media|Impact_Investing|Venture_Capital|Art|Association|Angel_Investment|Performing_Arts|Communities|Education
+the organizers of Startup Weekend Johor Bahru are from what industries	Communities|Education|Non_Profit
+the organizers of SF MusicTech Summit IX are from what industries	Music|Information_Technology
+the organizers of ITEN Wired are from what industries	Information_Technology
+the organizers of Authentication 2.0 are from what industries	Cyber_Security|Security|Software|Quantum_Computing|IT_Infrastructure|Identity_Management|Cloud_Computing|Computer
+the organizers of Hot Topics Silicon Valley 2014 are from what industries	Professional_Networking|Digital_Media
+the organizers of Future Branches 2018 are from what industries	News|Association|Consulting|Events
+the organizers of Capital On Stage London 2014 are from what industries	Venture_Capital|Events
+the organizers of Tech Field Day 15 are from what industries	Event_Management|Social_Media|Events
+the organizers of Sports PR Summit Social Media Workshop are from what industries	Events
+the organizers of FundingPost New York City VC and Angel 2019 Kickoff Event are from what industries	Professional_Networking|Online_Portals|Venture_Capital
+the organizers of Black Hat USA 2016 are from what industries	B2B|Digital_Marketing|Marketing_Automation|Advertising|Market_Research|Marketing|Information_Services|Events
+the organizers of PeopleDoc - European Digital HR Tour (London) are from what industries	Enterprise_Software|Human_Resources|SaaS|Internet|Innovation_Management
+the organizers of Mobile Growth are from what industries	Software|Mobile|Mobile_Apps|App_Marketing
+the organizers of TNW Europe Conference 2015 are from what industries	Publishing|Events|News
+the organizers of San Francisco Newcomer Mixer are from what industries	Association
+the organizers of Vibrant Digital Future Summit 2018 are from what industries	Event_Management|Events|Sports
+the organizers of DreamHack Summer 2019 are from what industries	Internet
+the organizers of ASK US ANYTHING: GETTING INVESTMENT from Startup Bangladesh Limited are from what industries	Venture_Capital|Government|Asset_Management|Financial_Services
+the organizers of ParticleX PropTech Global Challenge 2021 are from what industries	Intelligent_Systems|GreenTech|FinTech|Blockchain|Property_Management|Smart_Cities|Big_Data|eSports|Internet_of_Things
+the organizers of Legendary Shindig are from what industries	Consumer_Goods|Mobile|Fast-Moving_Consumer_Goods|Retail_Technology|Consumer_Electronics|E-Commerce|Consumer|Internet|Consumer_Software|Retail
+the organizers of RIVACIDADE ACIMA DE TUDO: LGPD na estratégia de Marketing are from what industries	Cyber_Security|Information_Technology|Software|Legal|Privacy|Legal_Tech|Compliance|Network_Security
+the organizers of Mobile 360 Series Latin America 2017 are from what industries	Mobile|Internet|Social_Media
+the organizers of 20th SIGOS Conference for Telco & Digital Experience are from what industries	SMS|Mobile|Mobile_Apps|Fraud_Detection|Quality_Assurance|Unified_Communications|Wired_Telecommunications|Wireless|Messaging|VoIP
+the organizers of Smart Kitchen Summit North America 2018 are from what industries	Analytics|Publishing
+the organizers of Plug and Play China Winter Summit 2019 are from what industries	Financial_Services
+the organizers of The Product Group January 2017 are from what industries	Web_Development|Enterprise_Software|Mobile|SaaS|E-Commerce|Association

@@ -1,0 +1,100 @@
+Realtime Utility Engineers's parent organization	Quanta_Services@b2785
+MainStreet's parent organization	TheStreet@46af6
+Lilly USA, LLC's parent organization	Eli_Lilly@d6eeb
+Vegte Investments's parent organization	Vegte_Holding@e0906
+Avo Photonics's parent organization	Halma@5763b
+Designstationen's parent organization	GoldLife@7aae0
+Sargent and Greenleaf's parent organization	Stanley_Black_&_Decker@12d4a
+Wugly's parent organization	Opiness@d624a
+The Global Health Group's parent organization	University_of_California,_San_Francisco@94300
+Sligro's parent organization	Sligro_Food_Group@d003c
+OurTime's parent organization	Match_Group@ca21f
+AlquilarMiAutoCaravana's parent organization	Yescapa@d8f74
+Troll Factory's parent organization	Yle@fa415
+Proximus Group Services NV's parent organization	Proximus_Group@c7c66
+The Art Institute of Pittsburgh - Online Division's parent organization	The_Art_Institutes@f41fb
+Bayard Rock's parent organization	Safe_Banking_Systems@2bf51
+T-Security's parent organization	TIRPORT@b2220
+MAJ Solution's parent organization	Interactive_Life@8b7a6
+Copse Case's parent organization	The_Kadri_Group@5fb81
+iResearch Capital's parent organization	iResearch@3a1fe
+MUFG Innovation Partners's parent organization	Mitsubishi_UFJ_Financial_Group@7423b
+dotloop's parent organization	Zillow_Group@63295
+Infused Health's parent organization	Infused_Partners@e597c
+ShowHeroes Studios's parent organization	ShowHeroes_Group@88d8b
+Hymopack's parent organization	Rosenbloom_Groupe@e593b
+Proto's parent organization	Stanley_Black_&_Decker@12d4a
+Unicredit Investment Banking, Munich's parent organization	UniCredit_Group@a787f
+Exeter Boston Partners's parent organization	Ben_Jen_Holdings@f57c0
+Greenlee's parent organization	Textron@ed779
+Pocket Money Cash's parent organization	Pocket_Money_Group@ed59d
+Westin Hotels & Resorts's parent organization	Starwood_Hotels_&_Resorts@c1646
+LVP's parent organization	Shoppable@f3cf8
+Paslode's parent organization	Illinois_Tool_Works@860b2
+Dunamu & Partners's parent organization	Dunamu@8d219
+Osmose Communications Services's parent organization	Squan@c8740
+PropertyGuru Singapore's parent organization	PropertyGuru_Group@0fdf7
+Cowen and Company's parent organization	Cowen_Group@8413f
+Launch Delta Home Services Accelerator's parent organization	Start_Co.@eb476
+Honolulu Community College, Honolulu's parent organization	University_of_Hawaii@d7e89
+ATB Social Enterprise's parent organization	ATB_Financial@3df6f
+Undertone's parent organization	Perion@31376
+Fiserv IPS-Sendero's parent organization	Fiserv@02d4b
+EPI's parent organization	EDGE_Group@67ad7
+Loci Mobile's parent organization	GTX_Corp@dfd7a
+Bell Properties Group's parent organization	Bell_Resources@a279c
+Terra International Realty ( Fort Myers )'s parent organization	Terra_International_Realty_(_USA_)@3e057
+Fulton-Montgomery Community College's parent organization	The_State_University_of_New_York@94d56
+Emergency Dispatch Africa, a Kiipo Spinoff's parent organization	Labfront@edb42
+Plankk Studio's parent organization	Plankk@41ef7
+eyeconit's parent organization	Visualead@13426
+EBV Elektronik's parent organization	Avnet@c1c83
+LBMC Technologies, LLC's parent organization	LBMC@e7dfc
+Protomenal's parent organization	Novel_Software_Systems@d2049
+Ballard Unmanned Systems's parent organization	Ballard_Power_Systems@d9315
+Rivet's parent organization	OpenRelay@78c83
+Kajal Kurti's parent organization	LTFAB@f1a04
+Calgary Archives Corp.'s parent organization	Innovative_Records_Systems_Corp.@b7a1e
+Colas Canada's parent organization	Colas@d52b4
+Heritage Holdings's parent organization	The_Hartford@8c92b
+Rackham Graduate School, University of Michigan's parent organization	University_of_Michigan@e0278
+Chemistry.com's parent organization	Match_Group@ca21f
+SOG Óleo e Gás SA's parent organization	TS_Participações_e_Investimentos_SA@9c137
+Quantinuum's parent organization	Honeywell@7bbdb
+Caihuoxia's parent organization	Zhuanzhuan@183a1
+Drone Insurance's parent organization	Acend_Insurance_Solutions,_LLC.@defc5
+Kunlun Energy Company's parent organization	PetroChina@2a8b6
+ISVtv's parent organization	ISV@d303c
+Isaac Bilokin International Relations Management's parent organization	The_Isaac_Bilokin_Organisation@f5307
+CRFWEB's parent organization	Clindox@236f6
+8VC's parent organization	Addepar@28fb2
+dospay's parent organization	DOS_&_Co.@3044b
+PhishFeed's parent organization	WMC_Global@b27b6
+Liberty University School of Law's parent organization	Liberty_University@cf0b8
+WHub's parent organization	K-HUB@21074
+Ben Franklin Technology Partners of Central and Northern Pennsylvania's parent organization	Ben_Franklin_Technology_Partners@70a94
+Data Tree's parent organization	First_American@59a4e
+European Software Institute's parent organization	Tecnalia@b7e83
+Boston University Venture Accelerator's parent organization	Boston_University@688e1
+Carnot's parent organization	RA_Capital_Management@8d764
+The Magazine Antiques's parent organization	Art_Media_Holdings@9c565
+INNOVO Network's parent organization	Addepar@28fb2
+DineTime's parent organization	QSR_Automations@54ef7
+HIP Health Plan's parent organization	EmblemHealth@9f175
+Karedo's parent organization	Parallel_AI@627f8
+Vodafone Greece's parent organization	Vodafone@6a2bc
+Newsquest's parent organization	Gannett@04d3f
+Lightspan's parent organization	Edmentum@96108
+EVSE LLC's parent organization	Control_Module_Industries@a98da
+Five's parent organization	Five_Rivers_Solutions@48c15
+Yachtsupp's parent organization	Technolera@25c48
+Techstars Corporate Partner's parent organization	Techstars@bcac2
+Motley Fool Ventures's parent organization	The_Motley_Fool@a5d75
+Geek Squad's parent organization	Best_Buy@6578d
+Biztech Consultancy's parent organization	Brush_Your_Ideas@eef09
+Kredivo's parent organization	FinAccel@10e02
+Kick SF Accelerator - powered by Impact Hub San Francisco's parent organization	Impact_Hub@58ef1
+Credit's parent organization	Dun_&_Bradstreet_Credibility_Corporation@606cf
+Advancing's parent organization	Mutter_Ventures@13be0
+Chase Financial's parent organization	Chase_Manhattan_Corporation@0ab9a
+BeamRoad Business Development Advisors's parent organization	Retina_Group_Education+Training_Services@9b143

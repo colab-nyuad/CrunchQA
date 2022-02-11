@@ -1,0 +1,100 @@
+Rittal is the sponsor of what NLD event	OCP_Regional_Summit_2019@1b2fc
+COUNCIL is the sponsor of what USA event	New_York_Venture_Summit_2019@70cb8|Connected_Claims_USA_Summit_2019@30ada|WTS_USA_2018@5065f
+Quick is the sponsor of what SGP event	Symphony_Innovate_Asia_2019@5f190
+Dizruptiv is the sponsor of what CAN event	Blockchain_Futurist_2019@3213f
+FamiLAB is the sponsor of what USA event	Security_B-sides_Orlando_2016@e8479
+UrtheCast is the sponsor of what USA event	FOSS4G_Boston_2017@9eca8
+Lush Crush is the sponsor of what CHE event	START_Summit_2018@976bc
+Sapient Razorfish is the sponsor of what GBR event	Women_of_Silicon_Roundabout_2018@57f2f
+Rubicon Organics is the sponsor of what CAN event	Benzinga_Cannabis_Capital_Conference_2018@34f18
+IGDA Estonia is the sponsor of what USA event	Intentional_Play_Summit@e36a5|Digital_Entertainment_World_2020@a763e
+El Pais is the sponsor of what ESP event	South_Summit_Madrid_2020@c812a|TRANSFIERE_2020@991a5
+Ireland China Science & Technology Association is the sponsor of what IRL event	Dublin_Tech_Summit_2020@6b41f
+Microblink is the sponsor of what GBR event	LendIt_Fintech_Europe_2019@1106b
+CleverShuttle is the sponsor of what DEU event	Tech_Open_Air_2017@7e570
+Airbus is the sponsor of what NOR event	URBAN_FUTURE_Global_Conference@c8269
+Sun Effects is the sponsor of what FIN event	Slush_2017@bef63|Slush_2016@b63c1|Slush_2018@bf85f
+edvinca is the sponsor of what GBR event	Bett_Show_2018@bca65
+Rilana is the sponsor of what BGR event	The_Power_of_Investments_2019@6b2b1
+Apex Education is the sponsor of what USA event	The_5th_Annual_Global_Crowdfunding_Convention@1c46c
+Brightcove is the sponsor of what FRA event	MIPTV_2015@d9250
+Vuzix is the sponsor of what USA event	Enterprise_Wearable_Technology_Summit_2015@88425|Augmented_World_Expo_2018@a6b47|Augmented_World_Expo_2016@562e5|AWE_USA_2017@28c6d|Enterprise_Wearable_Technology_Summit_East@393dd
+ShieldSquare is the sponsor of what USA event	Adobe_Summit_2018@35b91
+Coders Lab is the sponsor of what POL event	infoShare_2018@f3d3c|infoShare_2017@c458c
+Inneractive is the sponsor of what USA event	AdExchanger's_Industry_Preview_2017@73b35|PROGRAMMATIC_I/O_New_York_2017@510a9
+WorldLink is the sponsor of what USA event	Samsung_Developers_Conference_2017@b314f
+OpenText Corporation is the sponsor of what USA event	BEHAVE_Annual_2017@e4a34|Grace_Hopper_Celebration_of_Women_in_Computing_2017@7f4ec|Dreamforce_2016@0d9d7|Dreamforce_2017@cf172|DAM_New_York_2017@9dd46|RSA_Conference_2019@77ee4|Microsoft_Ignite_2018@0f365|Grace_Hopper_Celebration_of_Women_in_Computing_2019@ac59e|DAM_Los_Angeles_2017@b2ad4|splunk_.conf18@ddb0b|Appian_Training@826ea|Digital_Experience_(DX)_Summit_2016@ed6c3|Grace_Hopper_Celebration_of_Women_in_Computing_2015@cf490|HTCIA_International_Conference_&_Training_Expo_2019@d432a|Dreamforce_2018@a2e3f|Grace_Hopper_Celebration_of_Women_in_Computing_2019@09387
+Tavant is the sponsor of what CZE event	LendingUP!_Turning_Loans_Around_2019@ed2b9
+Quantopian is the sponsor of what SGP event	PyCon_SG_2016@aa668
+Quest Software is the sponsor of what CAN event	iTech_2019_-_Edmonton,_AB@2b1b6
+Regeneron is the sponsor of what USA event	2017_Annual_oSTEM_Conference@aee85
+Contagious Communications is the sponsor of what DEU event	NEXT16@ebb23
+Oregonian Media Group is the sponsor of what USA event	SearchFest_2016@ad629|SearchFest_2015@b0627
+F5 is the sponsor of what ESP event	VMworld_2015_Europe@018f2|KubeCon_+_CloudNativeCon_Europe_2019@2191d|Mobile_World_Congress_2017@bffe3
+Ogilvy is the sponsor of what FRA event	Cannes_Lions_2015@a2a49|Cannes_Lions_2017@7e4ba
+Dun & Bradstreet Credibility Corporation is the sponsor of what CAN event	FIMA_2015@98a9a
+Crop Consultants Australia is the sponsor of what AUS event	Connect_Expo_–_Drone_Summit_2017@1e1f9
+Serrala is the sponsor of what USA event	Money_20/20_USA_2018@89d29|Money_20/20_USA_2019@66f8b
+Business Wire is the sponsor of what ESP event	MWC_Barcelona_2021@4c5a3
+Skytap is the sponsor of what IND event	Ebooks_publishing_Services@dd60b
+PacketZoom is the sponsor of what USA event	DeveloperWeek_2018@ac311
+Grow is the sponsor of what IRL event	SaaStock17@e748b
+Girls Who Test is the sponsor of what POL event	infoShare_2018@f3d3c
+China-Europe Networks of Technology and Innovation is the sponsor of what GBR event	London_Tech_Week_2019@3df07
+Canvass Labs Inc. is the sponsor of what USA event	Open_Source_Summit_North_America_2019@a652d
+Connect-World magazines is the sponsor of what ESP event	MWC_Barcelona_2021@4c5a3
+IIB Council is the sponsor of what GBR event	The_Customer_Service_and_Experience_Summit_Europe@4a366
+Valued is the sponsor of what USA event	Sales_3.0_Conference,_San_Francisco@62a3b
+Condusiv Technologies is the sponsor of what GBR event	TechUG_London@37228
+Omnivex is the sponsor of what USA event	SEAT_2015_San_Francisco_Conference@9bdf4
+creww is the sponsor of what JPN event	Slush_Tokyo_2019@585f3
+CryptoNewsZ is the sponsor of what NLD event	World_Summit_AI_Amsterdam_2019@89da3
+Digital Agency Network is the sponsor of what GBR event	Deep_Learning_Summit_London_2020@68b8e|Festival_of_UX_&_UI_Design@638ed|AI_In_Marketing_Summit_London_2020@83878|AI_In_Retail_Summit_London_2020@32557|AI_In_Healthcare_Summit_London_2020@cf510|The_Customer_Service_and_Experience_Summit_Europe@4a366|MUXL_Conference_2019@0fb92
+Ericsson is the sponsor of what CHE event	World_Economic_Forum_Annual_Meeting_2016@89e6f|World_Economic_Forum_Annual_Meeting_2020@2840f|IoT_Week_2017@21671
+Google VR is the sponsor of what USA event	Unite_Austin_2017@9a304
+Kenan-Flagler Business School, UNC-Chapel Hill is the sponsor of what USA event	IEEE_Women_in_Engineering_International_Leadership_Conference@dfdf2
+Financo Inc. is the sponsor of what USA event	Natural_Products_Expo_West_2020@c13ac
+Partners for Youth with Disabilities is the sponsor of what USA event	Abilities_Expo_Boston_2015@74d3d
+The Sports & Fitness Industry Association (SFIA) is the sponsor of what USA event	CES_2018@cef89
+ATFX is the sponsor of what GBR event	London_Affiliate_Conference_2019@002b3
+Next.Biz is the sponsor of what BRA event	Startup_Weekend_São_José_do_Rio_Preto@5f511
+Codete is the sponsor of what DEU event	MIE_Summit_Berlin_2017@68341
+Thales Group is the sponsor of what ROM event	Hack_the_Zone,_Conference_&_Challenges_#1@7c145|ICEEfest_2019@175f1
+BioEnterprise is the sponsor of what USA event	MedCity_INVEST_2018@34f3e|2018_Medical_Innovation_Summit@09988
+Wallix is the sponsor of what GBR event	IP_Expo_Europe_2018_London@63df1
+ICK International is the sponsor of what USA event	Money_20/20_USA_2018@89d29
+Bank of The West is the sponsor of what USA event	Startup_Socials_Mixer@8d048|Lesbians_Who_Tech_+_Allies_New_York_Leadership_Summit_2019@bf15f|Startup_Sales_Conference_2014@8781c|World_Cup_Tech_Challenge_2015@53529|Startup_Pitch_Night_-_Focusing_on_Female_Founded_Startups@f0361|Lesbians_Who_Tech_+_Allies_San_Francisco_Summit_2019@f2317|ubi_io_Startup_Pitch_Night@b5cad
+WarCollar is the sponsor of what USA event	DerbyCon_2017@5278d|DerbyCon_8.0@a561d
+SophistIT is the sponsor of what CZE event	QuBit_Conference_2017@2b25d
+eGovernment Solutions is the sponsor of what USA event	Knoxville's_2015_Startup_Day@0bccf
+Delphix is the sponsor of what GBR event	DevOps_Enterprise_Summit_2019_London@c3dc4
+MediaBeacon is the sponsor of what GBR event	DAM_Europe_2017@5f423
+Cross Campus is the sponsor of what USA event	Developer_Week_LA@cbad3|LA_Uncubed@81bef|Educelerate_LA_Meetup@4f570|Educelerate_LA@cc662
+SkyGiraffe is the sponsor of what USA event	ET6_Exchange_-_Enterprise_Mobility_&_Digital_Transformation_Summit@3302b
+PIABO PR is the sponsor of what GBR event	NOAH_London_Conference_2017@19f4b|NOAH_London_2019_-_Main_Stage@52831
+SD Times is the sponsor of what USA event	ApacheCon_2019@e3a35|KubeCon_+_CloudNativeCon_North_America_2021@fb3af|All_Day_DevOps@5b0ae|DevOps_West_2018@ef77d|Agile_+_DevOps_West_2019@80683
+Integrated Distribution Services is the sponsor of what USA event	Subscription_Summit_2019@b11a2
+Concessio is the sponsor of what USA event	CFO_Rising_West_Summit_San_Francisco_2018@21a8e
+NorthSpring Capital Partners is the sponsor of what CAN event	Elevate_2018@f813e
+GEEIQ is the sponsor of what ISR event	Cybertech_Tel_Aviv_2020@e3bf8
+123FormBuilder is the sponsor of what ROM event	Timisoara_Startup_Weekend@ff1e1
+Spring Loaded Technology is the sponsor of what NZL event	Webstock_2015@f38ff
+Sportlogiq is the sponsor of what USA event	CVPR_2018@c31bf|CVPR_2019@82ce8
+KIO Networks is the sponsor of what MEX event	Mexico_Connect_2019@6c538
+Inspire Data Solutions is the sponsor of what USA event	Techweek_Kansas_City@987d4
+Meta is the sponsor of what PRT event	Web_Summit_2016@a890c
+Buildout is the sponsor of what USA event	Propmodo_Live:_Empowering_the_Business_of_Real_Estate_with_Technology@729b6
+ISM Gcorp is the sponsor of what USA event	RSA_Conference_2017@3d4cd|RSA_Conference_2019@77ee4|RSA_Conference_2020@a62d5
+Cloud Native Computing Foundation (CNCF) is the sponsor of what DNK event	DockerCon_Europe_2017@2f5f1
+DWF-RCD is the sponsor of what NLD event	Startupbootcamp_Commerce_Amsterdam@5d529
+eDreams ODIGEO is the sponsor of what ESP event	App_Design_&_Development_Conference_2019@dc0ae
+Skytender Systems is the sponsor of what GBR event	Aviation_IT_Show_2015@a72df
+Unbabel is the sponsor of what GBR event	The_Customer_Service_and_Experience_Summit_Europe@4a366|AI_Assistant_Summit_London_2019@38916
+Eventbrite is the sponsor of what DEU event	Tech_Open_Air_2017@7e570|TechCrunch_Disrupt_Europe_2013:_Berlin@2892f|Pirate_Summit_2015@bbcca
+Adon Production is the sponsor of what DEU event	Unternehmertag_2015@e95c2
+PPRO is the sponsor of what DEU event	MPE_Merchant_Payments_Ecosystem_2020@64a6d
+AHA is the sponsor of what USA event	5th_Responsible_Business_Summit_NY_2017@91099
+CNBC is the sponsor of what FRA event	Paris_Europlace_International_Financial_Forum@a2843|VIVA_Technology_Startup_Connect_Paris_2016@53144
+Exosphere is the sponsor of what USA event	RSA_Conference_2019@77ee4
+Publisher is the sponsor of what DEU event	DCX_2017_Digital_Content_Expo@dc988
+MassLandlords is the sponsor of what USA event	MIT_Real_Disruption@2fd92

@@ -1,0 +1,89 @@
+what are the stock exchange symbols of ipos in South Africa	nasdaq|jse
+what are the stock exchange symbols of ipos in Lithuania	nasdaq
+what are the stock exchange symbols of ipos in Belgium	epa|nasdaq|ebr|nyse
+what are the stock exchange symbols of ipos in Hong Kong	nasdaq|hkg|otcpink|nyse
+what are the stock exchange symbols of ipos in Puerto Rico	nasdaq|nyse
+what are the stock exchange symbols of ipos in Qatar	qse
+what are the stock exchange symbols of ipos in Netherlands	nyse|npex|nasdaq|otcpink|ams|tsx|epa|ebr|otcbb
+what are the stock exchange symbols of ipos in Panama	nyse
+what are the stock exchange symbols of ipos in Uganda	use
+what are the stock exchange symbols of ipos in Turkey	nasdaq|tise|ist
+what are the stock exchange symbols of ipos in Saudi Arabia	tadawul
+what are the stock exchange symbols of ipos in United States of America	amex|nse|tpe|nze|fra|otcpink|cnsx|nysearca|asx|otcqx|sto|tyo|bme|bit|nyse|lse|nasdaq|nysemkt|moex|hel|tsx|epa|ams|bmv|cse|sse|wse|kosdaq|cve|otcqb|bom|hkg|etr|otcbb
+what are the stock exchange symbols of ipos in Hungary	bdp
+what are the stock exchange symbols of ipos in Chile	tsx|nyse
+what are the stock exchange symbols of ipos in Sri Lanka	col
+what are the stock exchange symbols of ipos in Colombia	col|nasdaq|nyse
+what are the stock exchange symbols of ipos in Brazil	bvmf|nasdaq|nyse
+what are the stock exchange symbols of ipos in Israel	asx|cse|tlv|nyse|lse|fra|nasdaq|otcpink|hkg|tsx|sgx
+what are the stock exchange symbols of ipos in Thailand	bkk|nyse
+what are the stock exchange symbols of ipos in Morocco	cas
+what are the stock exchange symbols of ipos in Switzerland	swx|nyse|six|nasdaq|ose|epa|ebr
+what are the stock exchange symbols of ipos in Norway	otcqx|nyse|nasdaq|ose|notc
+what are the stock exchange symbols of ipos in Province of China Taiwan	tyo|tsec|nyse|nasdaq|tpe
+what are the stock exchange symbols of ipos in China	asx|neeq|sse|nyse|lse|sehk|nasdaq|otcpink|szse|hkg
+what are the stock exchange symbols of ipos in Togo	gha
+what are the stock exchange symbols of ipos in Armenia	amx
+what are the stock exchange symbols of ipos in Sweden	sto|nyse|fra|nasdaq|ngm
+what are the stock exchange symbols of ipos in Macao	nyse|hkg
+what are the stock exchange symbols of ipos in Cayman Islands	asx|nasdaq
+what are the stock exchange symbols of ipos in India	nse|adx|bom|nyse|lse|jse|nasdaq|nbo
+what are the stock exchange symbols of ipos in Pakistan	psx
+what are the stock exchange symbols of ipos in Spain	asx|bme|nyse|lse|bvmf|nasdaq|epa|mse
+what are the stock exchange symbols of ipos in Nigeria	nig|nyse
+what are the stock exchange symbols of ipos in Egypt	egx
+what are the stock exchange symbols of ipos in Ireland	asx|sto|nyse|lse|fra|nasdaq|epa
+what are the stock exchange symbols of ipos in Finland	fra|hel|lse
+what are the stock exchange symbols of ipos in Portugal	epa|eli
+what are the stock exchange symbols of ipos in Canada	asx|otcqx|etr|cve|cse|otcqb|nyse|lse|fra|nasdaq|nysemkt|otcpink|tsx|cnsx
+what are the stock exchange symbols of ipos in Poland	nasdaq|wse
+what are the stock exchange symbols of ipos in Romania	bvb|nasdaq
+what are the stock exchange symbols of ipos in United Arab Emirates	dfm|nasdaq|nyse|lse
+what are the stock exchange symbols of ipos in Malaysia	asx|nasdaq|klse
+what are the stock exchange symbols of ipos in Austria	nasdaq
+what are the stock exchange symbols of ipos in Guernsey	lse
+what are the stock exchange symbols of ipos in Turks and Caicos Islands	jse_jam
+what are the stock exchange symbols of ipos in Republic of Korea	nasdaq|krx|kosdaq|nyse
+what are the stock exchange symbols of ipos in Jamaica	jse_jam
+what are the stock exchange symbols of ipos in Russian Federation	nasdaq|nyse|lse
+what are the stock exchange symbols of ipos in Bulgaria	bse
+what are the stock exchange symbols of ipos in Japan	tyo|nasdaq|nyse
+what are the stock exchange symbols of ipos in Myanmar	lse
+what are the stock exchange symbols of ipos in Jordan	nasdaq
+what are the stock exchange symbols of ipos in Singapore	asx|cve|nyse|nasdaq|hkg|sgx
+what are the stock exchange symbols of ipos in Jersey	asx
+what are the stock exchange symbols of ipos in Zambia	luse
+what are the stock exchange symbols of ipos in New Zealand	asx|nasdaq|nze
+what are the stock exchange symbols of ipos in Mongolia	tsx|mse
+what are the stock exchange symbols of ipos in Nepal	nyse
+what are the stock exchange symbols of ipos in Zimbabwe	zse
+what are the stock exchange symbols of ipos in Croatia	zse
+what are the stock exchange symbols of ipos in Uruguay	nasdaq
+what are the stock exchange symbols of ipos in Italy	bit|nyse|lse|luxse|nasdaq|hkg|epa|ams
+what are the stock exchange symbols of ipos in Germany	asx|otcqx|nyse|lse|bvmf|fra|nasdaq|otcpink|etr|ams|fwb|nysearca
+what are the stock exchange symbols of ipos in Tanzania	altx|lse
+what are the stock exchange symbols of ipos in Indonesia	idx
+what are the stock exchange symbols of ipos in Viet Nam	hose|adx|hnx
+what are the stock exchange symbols of ipos in France	asx|nyse|nasdaq|epa|ams
+what are the stock exchange symbols of ipos in Bahamas	nasdaq
+what are the stock exchange symbols of ipos in Denmark	sto|cph|cse|lse|fra|nasdaq|otcpink
+what are the stock exchange symbols of ipos in Mexico	nasdaq|nyse|otcpink|bmv
+what are the stock exchange symbols of ipos in Barbados	jse
+what are the stock exchange symbols of ipos in Malta	mse
+what are the stock exchange symbols of ipos in Philippines	asx|nasdaq|pse|nyse
+what are the stock exchange symbols of ipos in Iceland	nasdaq|ams
+what are the stock exchange symbols of ipos in Kyrgyzstan	fra
+what are the stock exchange symbols of ipos in Luxembourg	asx|nyse|nasdaq|etr|ams|fwb
+what are the stock exchange symbols of ipos in Greece	nasdaq|nyse|lse
+what are the stock exchange symbols of ipos in Bermuda	nasdaq|nyse
+what are the stock exchange symbols of ipos in Trinidad and Tobago	nyse
+what are the stock exchange symbols of ipos in North Macedonia	mse_mk
+what are the stock exchange symbols of ipos in Ukraine	ngm
+what are the stock exchange symbols of ipos in United Kingdom of Great Britain and Northern Ireland	vie|asx|tlv|notc|nyse|lse|bkk|fra|nasdaq|nysemkt|nex|ose|tsx|epa|ebr|ise
+what are the stock exchange symbols of ipos in Czechia	prg|lse
+what are the stock exchange symbols of ipos in Argentina	nasdaq|nyse
+what are the stock exchange symbols of ipos in Australia	asx|otcqx|cve|nyse|lse|fra|nasdaq|nysemkt|ose|tsx
+what are the stock exchange symbols of ipos in Latvia	nasdaq
+what are the stock exchange symbols of ipos in Cyprus	cse_cy|tlv|nasdaq
+what are the stock exchange symbols of ipos in Oman	msm
+what are the stock exchange symbols of ipos in Peru	nyse

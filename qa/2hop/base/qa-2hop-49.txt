@@ -1,0 +1,100 @@
+Civicon is the exhibitor of events in which countries	conference
+FutureBanking is the exhibitor of events in which countries	seminar|conference
+Uber is the exhibitor of events in which countries	conference
+Wireless Research Center of North Carolina is the exhibitor of events in which countries	seminar|meetup|demo_day|conference|networking
+KONPARE is the exhibitor of events in which countries	webinar
+ESGAR is the exhibitor of events in which countries	conference
+Silicon Valley Forum is the exhibitor of events in which countries	seminar|competition|meetup|festival|demo_day|conference|networking
+Singapore International Water Week Pte Ltd is the exhibitor of events in which countries	conference
+Axis Innovation is the exhibitor of events in which countries	conference|networking
+Zibox Inc. is the exhibitor of events in which countries	competition
+LAUNCHub Ventures is the exhibitor of events in which countries	meetup|conference
+Okta is the exhibitor of events in which countries	conference|networking
+Apple is the exhibitor of events in which countries	meetup|conference|expo
+B2B Marketing is the exhibitor of events in which countries	seminar|conference
+KPMG International Limited is the exhibitor of events in which countries	meetup|conference
+Arrowmedia Israel is the exhibitor of events in which countries	conference
+CTIA is the exhibitor of events in which countries	competition|conference|networking|expo
+Estate Planning Council of Seattle is the exhibitor of events in which countries	seminar|conference|networking
+Veritas Property Network is the exhibitor of events in which countries	expo
+Asia-Pacific Youth Entrepreneurship Foundation is the exhibitor of events in which countries	competition
+oratio is the exhibitor of events in which countries	seminar|conference
+Alibaba Cloud is the exhibitor of events in which countries	conference
+Avren Events is the exhibitor of events in which countries	seminar|conference|expo
+The Waving Cat is the exhibitor of events in which countries	conference
+Global AM is the exhibitor of events in which countries	expo|competition|meetup|conference|demo_day|hackathon|networking
+NYVC Finance is the exhibitor of events in which countries	demo_day
+Quake Capital Partners is the exhibitor of events in which countries	seminar|expo|competition|meetup|demo_day|conference
+Runway is the exhibitor of events in which countries	conference
+Ministry of Natural Resources, Suriname is the exhibitor of events in which countries	conference
+FAIR Consulting Group is the exhibitor of events in which countries	meetup
+Connect Conferences is the exhibitor of events in which countries	conference|networking
+Angel Investors Network is the exhibitor of events in which countries	competition|demo_day
+RFPIO Inc. is the exhibitor of events in which countries	conference
+Solusi Tiga Selaras is the exhibitor of events in which countries	webinar|class
+FOUNDERPASSION is the exhibitor of events in which countries	demo_day
+Box is the exhibitor of events in which countries	seminar|meetup|conference|demo_day|networking
+SquirrelSave is the exhibitor of events in which countries	seminar
+WITI is the exhibitor of events in which countries	meetup|conference
+CompTIA is the exhibitor of events in which countries	conference
+The FinLab is the exhibitor of events in which countries	seminar|meetup|networking
+Critical Path Group is the exhibitor of events in which countries	meetup
+Impact.tech is the exhibitor of events in which countries	conference
+VerveCon is the exhibitor of events in which countries	conference
+The Royal College of Surgeons of Edinburgh is the exhibitor of events in which countries	class|conference
+Rishikesh Yoga Studio is the exhibitor of events in which countries	class
+Derek Williams is the exhibitor of events in which countries	conference
+Macgregor Communications is the exhibitor of events in which countries	conference
+EASME - EU Executive Agency for SMEs is the exhibitor of events in which countries	meetup|conference
+Women in Consulting (WIC) is the exhibitor of events in which countries	class|seminar|meetup|networking
+The Architect's Newspaper is the exhibitor of events in which countries	seminar|expo|meetup|festival|conference|demo_day|networking
+WinterMusicFestival is the exhibitor of events in which countries	festival
+Congressional Black Caucus Foundation is the exhibitor of events in which countries	conference
+Scientific Update Ltd is the exhibitor of events in which countries	conference
+Singapore Exhibition Services is the exhibitor of events in which countries	conference|expo
+Bits & Pretzels is the exhibitor of events in which countries	meetup|festival|conference|demo_day|networking
+Metaverse is the exhibitor of events in which countries	meetup|conference
+Ustream is the exhibitor of events in which countries	conference
+British Film Institute is the exhibitor of events in which countries	demo_day|networking
+General Dynamics Information Technology is the exhibitor of events in which countries	conference
+Massachusetts Institute of Technology is the exhibitor of events in which countries	expo|competition|meetup|conference|hackathon|networking
+Government of British Columbia is the exhibitor of events in which countries	meetup|conference
+Ignite On Interactive, LLC. (IGNT) is the exhibitor of events in which countries	conference
+Science Media Partners is the exhibitor of events in which countries	conference|expo
+Jerico Recato is the exhibitor of events in which countries	conference
+Wellesley Information Services is the exhibitor of events in which countries	conference
+American Gaming Association is the exhibitor of events in which countries	expo
+Healthtech Women is the exhibitor of events in which countries	conference
+Winbtb is the exhibitor of events in which countries	expo
+HHL Leipzig Graduate School of Management is the exhibitor of events in which countries	competition|conference
+QRC Group is the exhibitor of events in which countries	conference
+Trifork is the exhibitor of events in which countries	conference|expo
+ExactEyes Plus is the exhibitor of events in which countries	expo
+Colombo Javascript Meetup is the exhibitor of events in which countries	meetup
+Annanow is the exhibitor of events in which countries	meetup
+Challenger Project is the exhibitor of events in which countries	competition
+UnderConsideration LLC is the exhibitor of events in which countries	conference
+Amgen is the exhibitor of events in which countries	hackathon
+SaaStr is the exhibitor of events in which countries	expo|meetup|festival|conference|networking
+Support Driven is the exhibitor of events in which countries	conference|expo
+Future Music Forum is the exhibitor of events in which countries	conference
+Crypto Valley Association is the exhibitor of events in which countries	seminar|conference|networking
+Singapore Chinese Chamber of Commerce is the exhibitor of events in which countries	conference
+Brewery of Ideas is the exhibitor of events in which countries	conference
+Goop is the exhibitor of events in which countries	seminar|meetup|festival|conference|demo_day
+Startup Monthly is the exhibitor of events in which countries	seminar|meetup|networking|conference
+Worksmart is the exhibitor of events in which countries	conference
+Global Accelerator Network is the exhibitor of events in which countries	conference
+Scientific Future Group is the exhibitor of events in which countries	competition|seminar|conference|expo
+CoinDesk is the exhibitor of events in which countries	expo|meetup|conference|hackathon|networking
+Ventures Platform is the exhibitor of events in which countries	demo_day
+Blu Venture Investors is the exhibitor of events in which countries	conference
+Prysm Group is the exhibitor of events in which countries	conference|expo
+RocketSpace is the exhibitor of events in which countries	seminar|expo|class|meetup|conference|demo_day|networking
+Mindfire Foundation is the exhibitor of events in which countries	competition
+Bonhill Group is the exhibitor of events in which countries	competition
+PTC is the exhibitor of events in which countries	conference|networking|expo
+Stockholm Blockchain is the exhibitor of events in which countries	conference
+Sciknowledge European Conferences is the exhibitor of events in which countries	conference
+Meetings International is the exhibitor of events in which countries	meetup|seminar|conference|networking
+Synch is the exhibitor of events in which countries	conference

@@ -1,0 +1,100 @@
+Venture Round - Nexdot's investment partners are from which countries	FRA
+Series A - CertiVox's investment partners are from which countries	GBR
+Venture Round - Inbox Health's investment partners are from which countries	USA
+Angel Round - Reflection.io's investment partners are from which countries	SWE
+Seed Round - Verxigo's investment partners are from which countries	HKG
+Venture Round - Antser's investment partners are from which countries	GBR
+Series A - Parse's investment partners are from which countries	USA
+Series E - JumpCloud's investment partners are from which countries	USA
+Series B - Evolution Robotics's investment partners are from which countries	USA
+Seed Round - Blyncsy's investment partners are from which countries	USA
+Series B - Carmell Therapeutics's investment partners are from which countries	USA
+Venture Round - Timo's investment partners are from which countries	AUS
+Series D - Peptimmune's investment partners are from which countries	USA
+Series A - Cue's investment partners are from which countries	USA
+Series E - Singulex's investment partners are from which countries	USA
+Series B - Tarsa Therapeutics's investment partners are from which countries	USA
+Venture Round - paidContent's investment partners are from which countries	USA
+Seed Round - Trustev's investment partners are from which countries	USA
+Venture Round - SugarSync's investment partners are from which countries	USA
+Seed Round - Nanodropper's investment partners are from which countries	USA
+Series B - Paddle's investment partners are from which countries	GBR
+Seed Round - Ravelin's investment partners are from which countries	GBR
+Seed Round - SolSpec's investment partners are from which countries	USA
+Seed Round - Salonkee's investment partners are from which countries	FRA|LUX
+Private Equity Round - Lyneer Staffing Solutions's investment partners are from which countries	USA
+Seed Round - Scribe Security's investment partners are from which countries	ISR
+Seed Round - Satya MicroCapital's investment partners are from which countries	IND
+Series A - CENTRL's investment partners are from which countries	USA
+Seed Round - MakersKit's investment partners are from which countries	USA
+Post-IPO Equity - Qumu's investment partners are from which countries	USA
+Venture Round - AutoFi's investment partners are from which countries	GBR
+Series A - Gravie's investment partners are from which countries	USA
+Series B - Qihoo 360 Technology's investment partners are from which countries	HKG|USA|CHN
+Seed Round - Pollenizer's investment partners are from which countries	AUS
+Venture Round - Anodyne Health's investment partners are from which countries	USA
+Seed Round - Volograms's investment partners are from which countries	IRL
+Series B - SODA's investment partners are from which countries	KOR
+Seed Round - Roomi's investment partners are from which countries	USA
+Series A - ATCG Solutions's investment partners are from which countries	USA
+Venture Round - OpenCloud's investment partners are from which countries	GBR
+Series A - Proven's investment partners are from which countries	USA
+Series A - Savonix's investment partners are from which countries	USA
+Series A - Inside Secure's investment partners are from which countries	ISR
+Private Equity Round - Health Care At Home India's investment partners are from which countries	SGP
+Series B - Altiscale's investment partners are from which countries	USA
+Venture Round - Startupbootcamp's investment partners are from which countries	CHE
+Seed Round - Clip's investment partners are from which countries	IND
+Seed Round - Champsense's investment partners are from which countries	CHN
+Series B - Gatik's investment partners are from which countries	CAN
+Series A - Indegy's investment partners are from which countries	ISR
+Series D - Sunrun's investment partners are from which countries	USA
+Seed Round - Vivoo's investment partners are from which countries	USA
+Venture Round - Paragone's investment partners are from which countries	USA
+Seed Round - Shiok Meats's investment partners are from which countries	USA
+Debt Financing - Active-Semi International Inc.'s investment partners are from which countries	USA
+Secondary Market - Mojn's investment partners are from which countries	GBR
+Series E - Cape Clear Software's investment partners are from which countries	USA|GBR
+Series A - Gradeup's investment partners are from which countries	IND
+Series B - MOVU's investment partners are from which countries	CHE
+Venture Round - Groupe Canva's investment partners are from which countries	CAN
+Seed Round - Doctolib's investment partners are from which countries	FRA
+Pre Seed Round - Chase Interaction's investment partners are from which countries	GBR
+Funding Round - Rent Your Ride's investment partners are from which countries	CAN
+Venture Round - Squarespace's investment partners are from which countries	USA
+Venture Round - LOGOS India's investment partners are from which countries	CAN
+Debt Financing - True Balance's investment partners are from which countries	IND
+Seed Round - Emoticast's investment partners are from which countries	USA
+Seed Round - appScatter's investment partners are from which countries	GBR
+Secondary Market - Alibaba Group's investment partners are from which countries	USA
+Series A - Candor Technology's investment partners are from which countries	USA
+Series A - Kinnser Software's investment partners are from which countries	CAN|USA
+Series A - BIZAY / 360imprimir's investment partners are from which countries	FRA
+Series E - View's investment partners are from which countries	USA
+Series A - CT Accel's investment partners are from which countries	USA
+Venture Round - Cala Medical's investment partners are from which countries	IRL
+Seed Round - Hyperia's investment partners are from which countries	AUS
+Venture Round - Labster's investment partners are from which countries	SWE|GBR|CHN
+Seed Round - Nubity's investment partners are from which countries	USA|MEX
+Seed Round - Doctible's investment partners are from which countries	USA
+Venture Round - NetGenesis's investment partners are from which countries	USA
+Series D - Scribd's investment partners are from which countries	USA
+Seed Round - Blitsy's investment partners are from which countries	USA
+Non Equity Assistance - FightCamp's investment partners are from which countries	CAN
+Series A - Endeavor BioMedicines's investment partners are from which countries	USA
+Series B - Chrono Therapeutics's investment partners are from which countries	USA
+Seed Round - PowiDian's investment partners are from which countries	FRA
+Seed Round - WebCertain's investment partners are from which countries	GBR
+Private Equity Round - FundsXpress's investment partners are from which countries	USA
+Series D - Correlsense's investment partners are from which countries	ISR|USA|GBR
+Series B - Enigma Technologies's investment partners are from which countries	USA
+Seed Round - ToolJet's investment partners are from which countries	IND
+Pre Seed Round - Fundiin's investment partners are from which countries	CAN
+Seed Round - viisights's investment partners are from which countries	ISR|RUS|USA
+Series B - Kiip's investment partners are from which countries	USA
+Series D - Natera's investment partners are from which countries	USA
+Series A - LevelUp's investment partners are from which countries	USA
+Series A - MessageYes (formerly ReplyYes)'s investment partners are from which countries	USA
+Convertible Note - Agilefant's investment partners are from which countries	FIN
+Series A - Nor1's investment partners are from which countries	USA
+Series B - Synthego's investment partners are from which countries	USA

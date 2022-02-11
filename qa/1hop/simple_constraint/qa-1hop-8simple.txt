@@ -1,0 +1,100 @@
+Unbound is the contestant of what meetup event	TechCrunch_Disrupt_SF_2018@d735b
+Rackup is the contestant of what conference event	TechCrunch50_2009@29b0c
+FreshCar is the contestant of what conference event	TechCrunch_Disrupt_SF_2018@d735b
+Crassula is the contestant of what competition event	Startup_World_Cup_2019@e358a
+Sleep Number is the contestant of what meetup event	CES_2015_Las_Vegas@0f488
+fotopedia is the contestant of what conference event	TechCrunch50_2008@4099a
+ifesca is the contestant of what conference event	Bitkom_Big-Data.AI_Summit@d6c3a|Rise_of_AI_2017@7329c
+Roland is the contestant of what expo event	3D_Print_Expo_2019@46981
+Environexus is the contestant of what expo event	CES_2018@cef89
+Uniquid Inc is the contestant of what networking event	TC3_Carrier_Connections_2019@590be
+Pagecloud is the contestant of what conference event	Techcrunch_Disrupt_New_York_2015@3e3cb
+OWC (Other World Computing) and Macsales.com is the contestant of what demo_day event	CES_2015_Las_Vegas@0f488
+ZEFR is the contestant of what competition event	TechCrunch_Disrupt_NYC_2010@e92c5
+Ozaki is the contestant of what meetup event	CES_2015_Las_Vegas@0f488
+iCardy is the contestant of what competition event	KYIV_Tech_Hub:_3rd_Edition_of_Polish_Ukrainian_High-Tech_Hub@ba2f8
+Google, Motorola Mobility division is the contestant of what networking event	CES_2015_Las_Vegas@0f488
+COS Systems is the contestant of what expo event	Telecom_Council_Innovation_Showcase_2018@fa64d
+Rena is the contestant of what conference event	3D_Print_Expo_2019@46981
+Shoppi is the contestant of what expo event	Pirate_Summit_2017@bb32f
+InfoMotion Sports Technologies is the contestant of what conference event	CES_2015_Las_Vegas@0f488
+Axial3D is the contestant of what expo event	RSNA_2017@f75fa|DMEA_Connecting_Digital_Health_2020,_Berlin@4f3cd
+KiKi is the contestant of what demo_day event	500_Startups_Batch_25_Demo_Day@b0a42
+Eagle Acoustics Manufacturing is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+Panasonic is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+Innspire is the contestant of what conference event	The_Investor_Series_-_Vol_3@9e9cc
+GOVWISE is the contestant of what expo event	Webit.Festival_Europe@53be5
+VXi Corporation is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+TenantCloud is the contestant of what networking event	WordCamp_Europe_2019@2567c
+Evolve Energy is the contestant of what demo_day event	URBAN_-_X_-_DEMO_DAY_06@9412b
+Plasmatic Technologies Inc. is the contestant of what conference event	INVENTURE$_2018@ce156|TechFestNW_2018@304c4
+Lemure VR is the contestant of what festival event	World_VR_Forum_2018@3a405
+Polar Electro is the contestant of what meetup event	CES_2015_Las_Vegas@0f488
+Saygus is the contestant of what competition event	CES_2015_Las_Vegas@0f488
+Lia is the contestant of what meetup event	TechCrunch_Disrupt_Berlin_2017@cd371
+Greenbits is the contestant of what meetup event	Techcrunch_Disrupt_SF_2015@2e3ac
+Starmind is the contestant of what seminar event	Founders_Forum_2017@bfd55|Founders_Forum_2018@85f78
+Placense is the contestant of what virtual event	Virtual_South_Summit_e-Challenge_in_Connectivity_&_Data@8b6ac
+Caban Systems is the contestant of what meetup event	TELECOM_COUNCIL_INNOVATION_SHOWCASE_CLASS_OF_2021_DEMO_DAY@e06f2
+OWC (Other World Computing) and Macsales.com is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+TekRevol is the contestant of what expo event	E3_2019@f33b3
+Causecast is the contestant of what conference event	TechCrunch50_2008@4099a
+Billon Group is the contestant of what networking event	Global_Fintech_Hackcelerator_2018@9f78b
+Digipas USA is the contestant of what conference event	CES_2015_Las_Vegas@0f488
+Elevian is the contestant of what hackathon event	TechCrunch_Disrupt_SF_2018@d735b
+Secapp is the contestant of what competition event	EBAN_International_Venture_Academy@88c84
+StaffAny is the contestant of what demo_day event	StartupX_Start_Pre-Accelerator_Demo_Day_2019@ba96d
+EASYAIM SIMULATOR is the contestant of what demo_day event	Alentejo_Accelerator_Program@29a16
+ROSATOM is the contestant of what expo event	3D_Print_Expo_2019@46981
+Osmo is the contestant of what conference event	TechCrunch_Disrupt_SF_2013@72187
+Healium is the contestant of what conference event	SXSW_Pitch!_2019@55d83
+Technogrips Technologies is the contestant of what meetup event	Web_Summit_2017@d36a4
+Energous Corporation is the contestant of what networking event	CES_2015_Las_Vegas@0f488
+Rena is the contestant of what expo event	3D_Print_Expo_2019@46981
+Covetool is the contestant of what demo_day event	URBAN_-_X_-_DEMO_DAY_06@9412b
+Master is the contestant of what conference event	StartupX_Start_Pre-Accelerator_Demo_Day_2019@ba96d
+ReST is the contestant of what demo_day event	CES_2015_Las_Vegas@0f488
+FINsix is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+Tonchidot is the contestant of what conference event	TechCrunch50_2008@4099a
+Duck River Agriculture is the contestant of what class event	Startup_Évora_Summer_2021@f5cb0
+Blackchain is the contestant of what conference event	EU-Startups_Summit_2019@6d563
+AirJetBook is the contestant of what demo_day event	Startup_Istanbul_2017@5d276
+Feetz is the contestant of what networking event	The_TENN_Celebration_Event@13e3f
+Preemadonna is the contestant of what meetup event	FounderMade_Beauty_Summit_2017@55d9c|Techcrunch_Disrupt_SF_2015@2e3ac
+Bitfusion.io is the contestant of what demo_day event	Techcrunch_Disrupt_New_York_2015@3e3cb
+ShieldSquare is the contestant of what hackathon event	Techcrunch_Disrupt_SF_2015@2e3ac
+Bragi is the contestant of what conference event	CES_2015_Las_Vegas@0f488
+BRinova is the contestant of what class event	Alentejo_Accelerator_Program@29a16
+noplag.com is the contestant of what conference event	KYIV_Tech_Hub:_3rd_Edition_of_Polish_Ukrainian_High-Tech_Hub@ba2f8
+ConverSight.ai is the contestant of what demo_day event	Techstars_Farm_to_Fork_Accelerator@d56de
+Notion is the contestant of what expo event	Telecom_Council_Innovation_Showcase_2018@fa64d
+Digifeye is the contestant of what meetup event	Tech_All_Night_To_Get_Lucky@3ced2
+IoTize SAS is the contestant of what expo event	4YFN_[4_Years_From_Now]@782cc
+PartnerPortal.io, Inc. is the contestant of what expo event	Collision_2019@37423
+Gopod is the contestant of what demo_day event	CES_2015_Las_Vegas@0f488
+Breathometer is the contestant of what networking event	CES_2015_Las_Vegas@0f488
+TekRevol is the contestant of what networking event	TechCrunch_Disrupt_SF_2019@65d19
+Autonomous Tractor is the contestant of what demo_day event	CleanTech_Open_Accelerator_Competition@2aa54
+SpotOn is the contestant of what conference event	TechCrunch_Disrupt_NYC_2011@21bd4
+Balodana is the contestant of what expo event	FUND_Conference_-_Chicago_2019@09c2e
+Korzh Studio is the contestant of what expo event	3D_Print_Expo_2019@46981
+blik is the contestant of what conference event	TechCrunch_Disrupt_Berlin_2017@cd371
+Crypterium is the contestant of what meetup event	WebSummit_Lisbon_2021@98a28
+Polte Corporation is the contestant of what hackathon event	TechCrunch_Disrupt_SF_2018@d735b
+Lawyerd! is the contestant of what competition event	IT_EUREKA@bc14b|Kyiv_Tech_Hub_2020@10dde
+Newsadoo is the contestant of what conference event	2019_SXSW_Conference_&_Festivals@d34b4|4Gamechangers@f58e1
+Privacy Tools is the contestant of what conference event	Meticore_{Is_Meticore_Scam_or_Legit}_Price@77d2c
+Plasmatic Technologies Inc. is the contestant of what competition event	TechFestNW_2018@304c4|Telecom_Council_Innovation_Showcase_2018@fa64d
+Allevi is the contestant of what hackathon event	Techcrunch_Disrupt_New_York_2015@3e3cb
+Katalysis is the contestant of what expo event	TNW_Conference_2018@ece97
+Mercury.ai is the contestant of what conference event	SaaStock_EMEA_Online_2020@47c7b
+Vouchery.io is the contestant of what networking event	Uprise_Festival_2017@b3b3b
+Ticketsell.ai is the contestant of what conference event	KYIV_Tech_Hub:_3rd_Edition_of_Polish_Ukrainian_High-Tech_Hub@ba2f8
+Driblet Labs, LLC is the contestant of what conference event	TechCrunch_Hardware_Battlefield_2014@68e06
+Fliiby LTD is the contestant of what meetup event	StartLabs_Meetup_with_Marvin_Liao@8f832
+Wibond is the contestant of what competition event	Financial_Innovation_Program@8b2ed
+AGR Health LLC is the contestant of what virtual event	MassChallenge_Virtual_Startup_Showcase@85a8c
+Koninklijke Philips is the contestant of what meetup event	CES_2015_Las_Vegas@0f488
+ICRealtime is the contestant of what hackathon event	CES_2015_Las_Vegas@0f488
+Tradespace is the contestant of what demo_day event	500_Startups_Batch_25_Demo_Day@b0a42
+Triple 3D is the contestant of what meetup event	UPRISE_Startup_Festival_2015@e4465

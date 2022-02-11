@@ -1,0 +1,100 @@
+Occuity launched what types of funding rounds	seed|equity_crowdfunding
+InnovICs Wireless launched what types of funding rounds	series_b
+Free2Move launched what types of funding rounds	seed|angel
+Iris Plans launched what types of funding rounds	seed
+Abound launched what types of funding rounds	pre_seed|seed
+Verient launched what types of funding rounds	seed|series_a|convertible_note
+Wellbeats launched what types of funding rounds	seed
+GreenYellow launched what types of funding rounds	private_equity
+John Pointon & Sons Ltd launched what types of funding rounds	grant
+Attobahn launched what types of funding rounds	seed
+Milkbasket launched what types of funding rounds	debt_financing|seed|series_a|series_b
+Citra Health Solutions launched what types of funding rounds	series_a
+Athigo launched what types of funding rounds	seed
+Betterpath launched what types of funding rounds	undisclosed|seed|equity_crowdfunding|convertible_note
+Fineway launched what types of funding rounds	seed|series_a
+Beyond Digital Solutions launched what types of funding rounds	seed
+Check My Campus launched what types of funding rounds	grant
+Naturalicious launched what types of funding rounds	seed
+Pegastech launched what types of funding rounds	seed
+Berryworks launched what types of funding rounds	pre_seed
+LiveSmart launched what types of funding rounds	seed
+Xuanhefang launched what types of funding rounds	angel|series_a|series_b
+Hotdesk launched what types of funding rounds	pre_seed|seed
+PorTOS Bulk launched what types of funding rounds	grant
+DUCKT launched what types of funding rounds	pre_seed|seed
+Mi Dulce Hogar launched what types of funding rounds	pre_seed|seed
+Gamgee launched what types of funding rounds	series_a|series_b
+Homethings launched what types of funding rounds	pre_seed|equity_crowdfunding
+The Seam launched what types of funding rounds	pre_seed
+GlamSmile launched what types of funding rounds	series_a
+Lendonomy launched what types of funding rounds	equity_crowdfunding
+Kofax launched what types of funding rounds	post_ipo_equity|grant
+WriteReader launched what types of funding rounds	seed
+Onovative launched what types of funding rounds	angel|series_a
+SocialMLS launched what types of funding rounds	convertible_note
+swingOIL launched what types of funding rounds	seed
+Advisity launched what types of funding rounds	seed
+Chuango launched what types of funding rounds	series_a
+UCHU Biosensors launched what types of funding rounds	grant
+videmic GmbH launched what types of funding rounds	angel
+FeeX launched what types of funding rounds	series_a|series_b
+Shattuck Labs launched what types of funding rounds	series_b|debt_financing
+Dataium launched what types of funding rounds	seed
+Mindstone launched what types of funding rounds	seed|equity_crowdfunding
+Capillary Biomedical launched what types of funding rounds	seed|debt_financing
+CoverGo launched what types of funding rounds	seed|series_a
+Cardiola launched what types of funding rounds	series_e
+Kaminashi launched what types of funding rounds	seed|series_a
+Mobile-XL launched what types of funding rounds	seed
+Trovolone, Inc launched what types of funding rounds	seed
+Astrum Software launched what types of funding rounds	series_a
+Telemedi launched what types of funding rounds	seed|series_a
+CallAround launched what types of funding rounds	seed
+Malang Studio launched what types of funding rounds	seed
+Northern Neck Planning District Commission launched what types of funding rounds	grant
+Southern Scripts launched what types of funding rounds	private_equity
+OBE Power launched what types of funding rounds	seed
+MyRoomIn launched what types of funding rounds	seed
+SaulGoodMan launched what types of funding rounds	series_a
+Praedicat launched what types of funding rounds	series_a
+Fernvaille launched what types of funding rounds	equity_crowdfunding
+Samata Health launched what types of funding rounds	convertible_note
+Mautic launched what types of funding rounds	seed|series_a
+Adsmurai launched what types of funding rounds	series_a|convertible_note|series_b
+Preact launched what types of funding rounds	seed|series_a
+Acenna Data launched what types of funding rounds	pre_seed
+Granular.ai launched what types of funding rounds	pre_seed|grant
+TheMotion launched what types of funding rounds	grant
+Cobrainer launched what types of funding rounds	series_a
+Sigenics launched what types of funding rounds	grant
+1Password launched what types of funding rounds	series_a|series_c|series_b
+Regtank Technology Pte Ltd launched what types of funding rounds	seed
+Katch launched what types of funding rounds	series_a
+Hopscotch launched what types of funding rounds	series_a|series_b
+Bizita Technologies launched what types of funding rounds	pre_seed
+Armory Fuel launched what types of funding rounds	convertible_note
+iPar Impact launched what types of funding rounds	seed
+Sensition launched what types of funding rounds	seed
+Quell launched what types of funding rounds	seed
+Berkshire Sterile Manufacturing (BSM) launched what types of funding rounds	debt_financing
+Suolemi launched what types of funding rounds	seed
+Wuxi Metro launched what types of funding rounds	angel|series_a|series_b
+WazeTrip launched what types of funding rounds	seed
+PingThings launched what types of funding rounds	seed
+Zaman International launched what types of funding rounds	grant
+Qvest launched what types of funding rounds	pre_seed
+Cogent Communications Group launched what types of funding rounds	post_ipo_equity|series_a|series_c|series_b
+FaceCradle launched what types of funding rounds	equity_crowdfunding
+lingbe launched what types of funding rounds	seed
+Estate Assist launched what types of funding rounds	seed
+University of Wyoming launched what types of funding rounds	grant
+Safety Logistics Kft. launched what types of funding rounds	pre_seed
+Nuzol launched what types of funding rounds	pre_seed
+Metamorfoz ICT INC. launched what types of funding rounds	seed
+ecoeats launched what types of funding rounds	seed
+The Learning Partnership launched what types of funding rounds	grant
+GeoOp launched what types of funding rounds	post_ipo_equity|private_equity
+Pomelo launched what types of funding rounds	seed
+Checktom Group ApS launched what types of funding rounds	seed
+Unbound Global launched what types of funding rounds	corporate_round

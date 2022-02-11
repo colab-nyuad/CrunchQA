@@ -1,0 +1,100 @@
+Covatic is the contestant of events in which countries	conference
+Metamako is the contestant of events in which countries	conference|expo
+Techpear is the contestant of events in which countries	demo_day
+PayU is the contestant of events in which countries	conference
+Shadow Creator is the contestant of events in which countries	conference|networking|expo
+Pocketwatch Games is the contestant of events in which countries	conference|networking
+ad65 is the contestant of events in which countries	conference
+Indy Autonomous Challenge is the contestant of events in which countries	conference
+Devolver Digital is the contestant of events in which countries	conference|networking
+smallstack is the contestant of events in which countries	meetup|conference|networking|expo
+Sony Biotechnology is the contestant of events in which countries	meetup
+Telemotix is the contestant of events in which countries	seminar|conference
+Sophilabs is the contestant of events in which countries	competition|meetup|conference|hackathon|networking
+iFutureLab is the contestant of events in which countries	expo|competition|meetup|conference|demo_day|hackathon|networking
+National Board of Medical Examiners (NBME) is the contestant of events in which countries	conference
+Getui is the contestant of events in which countries	conference|expo
+bitspire is the contestant of events in which countries	expo
+K2 is the contestant of events in which countries	seminar|conference|networking
+BeMyApp is the contestant of events in which countries	conference|expo
+FintruX Network is the contestant of events in which countries	seminar|conference|expo|demo_day
+KOHO Financial is the contestant of events in which countries	seminar|expo|competition|meetup|demo_day|conference|networking
+Warthman Associates is the contestant of events in which countries	conference
+BuildFire is the contestant of events in which countries	conference
+HealthID is the contestant of events in which countries	demo_day
+WeSavvy is the contestant of events in which countries	expo|meetup|demo_day|conference|networking
+Digital Commerce Intelligence is the contestant of events in which countries	conference
+Ria Health is the contestant of events in which countries	seminar|meetup|conference|demo_day|networking
+Baffle is the contestant of events in which countries	seminar|conference
+Bloo Vision is the contestant of events in which countries	conference
+MobyTrader is the contestant of events in which countries	competition
+OtoSense is the contestant of events in which countries	meetup|conference|networking
+PayneGroup is the contestant of events in which countries	conference
+UniPrint.net is the contestant of events in which countries	seminar|expo|class|meetup|conference|networking
+VPIphotonics is the contestant of events in which countries	conference
+myGini, Inc. is the contestant of events in which countries	conference
+AllCells is the contestant of events in which countries	meetup
+recycl3R is the contestant of events in which countries	meetup|conference|networking|expo
+Vixar is the contestant of events in which countries	seminar|conference|expo
+K PLASMA ICT is the contestant of events in which countries	expo|meetup|conference|hackathon|networking
+Savvy Training & Consulting is the contestant of events in which countries	conference
+App-App is the contestant of events in which countries	conference
+Meditect is the contestant of events in which countries	expo
+Leaseweb is the contestant of events in which countries	seminar|expo|meetup|festival|demo_day|conference|networking
+Open Trade Documents is the contestant of events in which countries	demo_day
+Wellmo is the contestant of events in which countries	seminar|conference|festival
+Whiteford Taylor Preston is the contestant of events in which countries	conference
+Randtronics is the contestant of events in which countries	conference
+Virgin Media Business is the contestant of events in which countries	conference|expo
+Fully Functional Technology is the contestant of events in which countries	expo
+Ulano is the contestant of events in which countries	conference|expo
+Nine Degree Products is the contestant of events in which countries	conference
+Level Frames is the contestant of events in which countries	demo_day
+Payveris is the contestant of events in which countries	conference
+Infinera is the contestant of events in which countries	conference|networking|expo
+PSKinetic is the contestant of events in which countries	conference
+Engaged Pricing is the contestant of events in which countries	demo_day
+Ezyprofile Systems is the contestant of events in which countries	expo
+Futurecom Systems Group is the contestant of events in which countries	conference
+Cocoche is the contestant of events in which countries	competition|conference
+Admusketeer is the contestant of events in which countries	meetup|conference|networking|expo
+Excelsior is the contestant of events in which countries	conference
+REINER Kartengerate is the contestant of events in which countries	meetup|conference|networking|expo
+COEXEL is the contestant of events in which countries	meetup|conference
+SLTL Group is the contestant of events in which countries	conference
+LingTouNiao is the contestant of events in which countries	conference|expo
+Worknrby is the contestant of events in which countries	meetup|conference|networking|expo
+Viridix is the contestant of events in which countries	seminar|expo|competition|conference|webinar|networking
+Trailex LED Event Solutions is the contestant of events in which countries	conference
+Evarvest is the contestant of events in which countries	networking|conference|hackathon|expo
+Venable LLP is the contestant of events in which countries	conference|expo
+BD Innovations is the contestant of events in which countries	conference
+Adaptive Computing is the contestant of events in which countries	meetup|conference|networking|expo
+IBM is the contestant of events in which countries	seminar|expo|competition|class|meetup|festival|demo_day|conference|hackathon|networking
+Pilot44 is the contestant of events in which countries	conference|networking|festival
+E2focus is the contestant of events in which countries	conference|expo
+AAMP of America is the contestant of events in which countries	expo
+Inquire is the contestant of events in which countries	conference
+Ecron Acunova is the contestant of events in which countries	conference
+Rentumi is the contestant of events in which countries	conference|expo
+Plerdy is the contestant of events in which countries	meetup|conference|networking|expo
+Because We Can is the contestant of events in which countries	conference
+Superside is the contestant of events in which countries	demo_day
+Intempora is the contestant of events in which countries	meetup|conference|networking
+AVA is the contestant of events in which countries	demo_day
+AI.Reverie is the contestant of events in which countries	meetup|conference|expo
+Forganiser is the contestant of events in which countries	meetup|conference|networking|expo
+AM General is the contestant of events in which countries	expo
+myPOS is the contestant of events in which countries	conference|expo
+TestDevLab is the contestant of events in which countries	conference|festival
+Crowd Machine is the contestant of events in which countries	conference|networking|expo
+UNILIGHT is the contestant of events in which countries	meetup|conference|networking|expo
+TruCheck is the contestant of events in which countries	conference|expo
+DocumentCloud is the contestant of events in which countries	competition
+Levit & James is the contestant of events in which countries	conference
+AccessData is the contestant of events in which countries	conference
+CertTech is the contestant of events in which countries	meetup|conference|networking|expo
+Hotels By Day is the contestant of events in which countries	demo_day|conference|expo
+La Salle Technova Barcelona is the contestant of events in which countries	conference
+Challenger Mobile Communications is the contestant of events in which countries	meetup|conference
+AgilData is the contestant of events in which countries	conference|meetup|networking|expo

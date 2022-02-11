@@ -1,0 +1,100 @@
+list the organizations from CAN that lead Convertible Note - ZendyHealth	Propulsion_Ventures@04719
+list the organizations from ESP that lead Seed Round - Agent Panda	Wayra@13779
+list the organizations from USA that lead Series E - Farmers Business Network	Kleiner_Perkins@421ec
+list the organizations from USA that lead Venture Round - Stio	Sandbridge_Capital@4c831
+list the organizations from USA that lead Seed Round - Datarista	Slater_Technology_Fund@67e8c
+list the organizations from POL that lead Seed Round - MyBaze	MCI_Capital_SA@6bf15
+list the organizations from USA that lead Venture Round - LivFin	DEG@0c5cd
+list the organizations from ISR that lead Grant - Weizmann Institute of Science	The_Israel_Precision_Medicine_Partnership_–_IPMP@11ca0
+list the organizations from FRA that lead Venture Round - Ternois	Demeter_Partners@cba7d
+list the organizations from USA that lead Series E - Avalanche Technology	Thomvest_Ventures@310c8
+list the organizations from USA that lead Seed Round - DNALite Therapeutics	Berkeley_Catalyst_Fund_(BCF)@52412
+list the organizations from VNM that lead Venture Round - Ngo Han joint stock company	Mekong_Capital@0f7ab
+list the organizations from DNK that lead Post-IPO Equity - ConvaTec	Novo_Holdings@8e7c3
+list the organizations from CHN that lead Series A - Cloud Box	Jiangsu_Future_Land@754d9
+list the organizations from JPN that lead Venture Round - Seven Seas Technologies Group	Toyota_Tsusho@0cebc
+list the organizations from USA that lead Series D - Send Word Now	Palisade_Capital_Management@32e44
+list the organizations from USA that lead Series B - Innovaccer	M12_-_Microsoft's_Venture_Fund@41a0c
+list the organizations from GBR that lead Seed Round - airfocus	Nauta_Capital@ca174
+list the organizations from CHE that lead Grant - Namahe	Venture_Kick@95916
+list the organizations from ESP that lead Grant - ColorSensing	Centre_for_the_Development_of_Industrial_Technology_(CDTI)@8458d
+list the organizations from USA that lead Series B - Warren Brasil	QED_Investors@c94be
+list the organizations from USA that lead Corporate Round - WeWork India	WeWork@e9485
+list the organizations from USA that lead Pre Seed Round - WakeCap Technologies	SOSV@e832c
+list the organizations from USA that lead Series A - BlueWillow Biologics	North_Coast_Technology_Investors@c4825
+list the organizations from HUN that lead Series A - Ebringa Zrt.	Bonitás_Ventures@3a834
+list the organizations from USA that lead Series B - Education.com	California_Technology_Ventures@93a45
+list the organizations from ESP that lead Series B - SANIFIT	Caixa_Capital_Risc@07474
+list the organizations from USA that lead Grant - Masimo	Bill_&_Melinda_Gates_Foundation@4776a
+list the organizations from USA that lead Pre Seed Round - Eden GeoTech	Ameren_Accelerator@b22d2
+list the organizations from NGA that lead Pre Seed Round - Greenage Technologies	Genesys@aa48a
+list the organizations from DEU that lead Series A - Boxfish	Deutsche_Telekom_Strategic_Investments@419da
+list the organizations from CHN that lead Series A - lucky king	Jiangsu_Zilang@96019
+list the organizations from USA that lead Grant - Inhibikase Therapeutics	Georgia_Research_Alliance@7b44f
+list the organizations from USA that lead Series A - Dusty Robotics	Canaan_Partners@43370
+list the organizations from IND that lead Series A - Buddy4Study.com	CBA_Capital@be0cd
+list the organizations from CHE that lead Series A - New Valence Robotics Corporation	Woodman_Asset_Management@a69cc
+list the organizations from DNK that lead Grant - Eat Grim	InnoFounder_–_Graduate@3ac00
+list the organizations from USA that lead Series A - HYCU	Bain_Capital_Ventures@f34c7
+list the organizations from USA that lead Series B - Vocent	Menlo_Ventures@1596d
+list the organizations from USA that lead Series B - Yesware	Battery_Ventures@8f3b3
+list the organizations from USA that lead Venture Round - Alloptic	Arcapita_Ventures@a29d5
+list the organizations from USA that lead Series A - UpCounsel	Menlo_Ventures@1596d
+list the organizations from ISR that lead Series F - POCARED Diagnostics	Elron_Electronic_Industries@e5fdb
+list the organizations from GBR that lead Series A - GitGuardian	Balderton@bccad
+list the organizations from USA that lead Grant - Filament Games	Wisconsin_Economic_Development_Corporation_(WEDC)@6ea2b
+list the organizations from USA that lead Series E - Dataiku	Tiger_Global_Management@0a837
+list the organizations from IND that lead Convertible Note - Sequretek	Unicorn_India_Ventures@4fe79
+list the organizations from USA that lead Seed Round - Flux	Outsiders_Fund@a86c6
+list the organizations from GBR that lead Series A - Technology Will Save Us	Initial_Capital@874b5
+list the organizations from USA that lead Series C - BuyerLink	ATEL_Ventures@2d703
+list the organizations from USA that lead Seed Round - IROA Technologies LLC	Ann_Arbor_SPARK@cdc51
+list the organizations from BEL that lead Grant - Infarm	Horizon_2020@ebf42
+list the organizations from FRA that lead Equity Crowdfunding - BibeliB	Sowefund@c2053
+list the organizations from CHN that lead Series B - SinoUnited Health Clinic	Qiming_Venture_Partners@9e729
+list the organizations from SGP that lead Pre Seed Round - Plaace	Antler@6be9c
+list the organizations from FRA that lead Series C - Lucibel	Aster@4234a
+list the organizations from USA that lead Series A - Compound	Andreessen_Horowitz@5ca29
+list the organizations from BEL that lead Grant - Pollution Analytical Equipment	EASME_-_EU_Executive_Agency_for_SMEs@5d877
+list the organizations from ITA that lead Seed Round - Sgnam	P101@6279a
+list the organizations from USA that lead Pre Seed Round - Industrial/Organic	SOSV@e832c
+list the organizations from USA that lead Series B - Corrent Corp.	Morgan_Stanley@6513c
+list the organizations from SGP that lead Venture Round - IndiaLends	DSG_Consumer_Partners@f6b2d
+list the organizations from CHN that lead Series A - eXiche	Ping_An_Ventures@abfa1
+list the organizations from USA that lead Series B - GeoTrust Europe	St._Paul_Venture_Capital@ebef7
+list the organizations from GBR that lead Series D - Paack	SoftBank_Vision_Fund@532ce
+list the organizations from ISL that lead Grant - Vivio	Technology_Development_Fund@18f20
+list the organizations from USA that lead Series B - FutureAdvisor	Canvas_Ventures@8f43c
+list the organizations from NLD that lead Series E - Genizon BioSciences	Biotech_Turnaround_Fund_(BTF)@ed7c7
+list the organizations from USA that lead Debt Financing - Everyone Counts	Onex_Falcon@a32eb
+list the organizations from USA that lead Series A - Uberflip	Updata_Partners@1b270
+list the organizations from NLD that lead Convertible Note - Vitrotem	Innovatiefonds_Noord-Holland@e9d8a
+list the organizations from AUT that lead Series A - App Radar	eQventure@4dec8
+list the organizations from BRA that lead Equity Crowdfunding - Peepi	EqSeed@7bb60
+list the organizations from CHN that lead Series A - ShouTi	Qiming_Venture_Partners@9e729
+list the organizations from AUS that lead Pre Seed Round - thingc	Artesian_VC@299c5
+list the organizations from GBR that lead Debt Financing - Procredit Bank Macedonia	European_Bank_for_Reconstruction_and_Development@0c548
+list the organizations from USA that lead Post-IPO Equity - Bank of America	Berkshire_Hathaway@74b41
+list the organizations from GBR that lead Venture Round - Aveni	TRICAPITAL@529ef
+list the organizations from IND that lead Angel Round - Netree E-Services	The_Chennai_Angels@c03d3
+list the organizations from USA that lead Pre Seed Round - Enzyme	Y_Combinator@d2d5e
+list the organizations from CHL that lead Series A - Chattigo	Fen_Ventures@b357b
+list the organizations from GBR that lead Series A - i-design Multimedia	Sigma_Capital_Group@49e64
+list the organizations from USA that lead Private Equity Round - Reimagine Holdings Group	BV_Investment_Partners@ab94b
+list the organizations from AUS that lead Pre Seed Round - The Afternoon	QUT_Creative_Enterprise_Australia@0f19e
+list the organizations from USA that lead Seed Round - GameCo	New_York_Angels@2cb88
+list the organizations from IND that lead Seed Round - Recko	Prime_Venture_Partners@1fcaf
+list the organizations from CHN that lead Series B - QIEZIPAI	Gongqingcheng_Angcheng_Touzi@2f86d
+list the organizations from CHN that lead Seed Round - Houmo.AI	Qiming_Venture_Partners@9e729
+list the organizations from USA that lead Series C - Next Century Spirits	Blue_Hill_Group@0a5fb
+list the organizations from USA that lead Pre Seed Round - Matrix	Village_Global@88349
+list the organizations from USA that lead Convertible Note - Fly Labs	645_Ventures@6fa5d
+list the organizations from USA that lead Seed Round - Sprockets	SC_Launch,_Inc.@a3a29
+list the organizations from CHE that lead Grant - Scandit	Venture_Kick@95916
+list the organizations from USA that lead Series D - Blue Apron	Fidelity@3d01a
+list the organizations from USA that lead Post-IPO Equity - AirXpanders	Vivo_Capital@c7737
+list the organizations from CHN that lead Angel Round - Hexin Keji	Blue_Elephant_Capital@5e3fe
+list the organizations from BEL that lead Grant - COMPANIA EXPORTADORA DE AZAFRAN ESPANOL SA	EASME_-_EU_Executive_Agency_for_SMEs@5d877
+list the organizations from USA that lead Grant - Adnoviv	National_Science_Foundation@583cb
+list the organizations from GBR that lead Debt Financing - Storm & Shelter	Development_Bank_of_Wales@0835b
+list the organizations from CHN that lead Series D - Huikedu Group	China_Oceanwide@e44b6

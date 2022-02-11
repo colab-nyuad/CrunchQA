@@ -1,0 +1,100 @@
+what types of job does Duane Lambrecht have	executive
+what types of job does Govardhan Muralidhar have	executive
+what types of job does Stuart Arundel have	employee
+what types of job does Kiel Kim have	board_member
+what types of job does Sam Richter have	board_member|executive
+what types of job does Hidenobu Kageyama have	executive
+what types of job does Tony Chang have	employee
+what types of job does Richard Keith Latman have	executive
+what types of job does Alina Hoon have	employee|executive
+what types of job does Peter Shipp have	employee
+what types of job does Keri Randolph have	executive
+what types of job does Jinji Tsutomu have	executive
+what types of job does Calvey Taylor-Haw have	advisor
+what types of job does Paul Sandusky have	executive
+what types of job does Jennifer Croker have	employee|executive
+what types of job does Andres Barco have	executive
+what types of job does Ivan Crewkov have	executive
+what types of job does Ian Gosling have	executive
+what types of job does Ashutosh Jha have	executive
+what types of job does Suzanne Hurford have	executive
+what types of job does Elizabeth Choi have	executive
+what types of job does Victoria Andrews have	executive
+what types of job does Thomas Hall have	board_member|executive
+what types of job does Michael Wilford have	executive
+what types of job does Ludwig Wurlitzer have	executive
+what types of job does Sophie Legault have	executive
+what types of job does Eric Guardiola have	executive
+what types of job does Lars Grinde have	executive
+what types of job does Les Hardin have	executive
+what types of job does Kevin Cundiff, Jr. have	employee|executive
+what types of job does Robin Andrea have	executive
+what types of job does Paul Mayer have	employee|executive
+what types of job does Roney Helian have	executive
+what types of job does Raphael Bousquet have	executive
+what types of job does Jesper Lodahl have	executive|advisor
+what types of job does Michael Celano have	board_member|executive
+what types of job does Ole Schaumberg have	executive
+what types of job does Marisol Quintero have	executive
+what types of job does BERCAN ÖZCAN have	executive
+what types of job does Maksim Shymanovich have	executive
+what types of job does Troy Kenyon have	executive
+what types of job does Mark Wokes have	employee
+what types of job does Alan Krapf have	executive
+what types of job does David Malino have	executive
+what types of job does Nash Mohamad have	executive
+what types of job does Dr. Colin Knight have	employee|board_member
+what types of job does Ivan Bujanovic have	executive
+what types of job does Jeff Tanner have	executive
+what types of job does Jennifer Arcuri have	employee|executive
+what types of job does Alisha Raesz have	executive
+what types of job does Justen Stepka have	executive
+what types of job does Avi i Kapri have	executive
+what types of job does Sam Bobley have	executive
+what types of job does Tsafrir Kolatt have	executive
+what types of job does Phurbu Bhuti have	executive
+what types of job does Zelong Yu have	employee
+what types of job does Lee Davy-Martin have	board_member|executive
+what types of job does Lijuan Zhang have	board_member
+what types of job does Hayden Williams have	employee|executive
+what types of job does Moris Eisen have	executive
+what types of job does Ken Tabuki have	executive
+what types of job does Tony Mahar have	employee|board_member
+what types of job does Dr. S. Bette have	executive
+what types of job does Brock Lenon have	executive
+what types of job does Jeppe Bøgede Andersen have	executive
+what types of job does Marta Palacios Cuesta have	executive
+what types of job does Saki Arkoudopoulos have	executive
+what types of job does Yanhui Li have	executive
+what types of job does Sam Ogden have	board_member
+what types of job does Jeff Forringer have	executive
+what types of job does Jordan Campbell have	employee
+what types of job does Surbhi Sarna have	employee|executive
+what types of job does David Buell have	employee
+what types of job does Ben Coombes have	board_member
+what types of job does Justin Zhu have	executive
+what types of job does Robert C Brick have	employee|executive
+what types of job does Gemma Young have	executive
+what types of job does Sarah Hood have	employee
+what types of job does Michel Kassab have	executive
+what types of job does Luke Gall have	executive
+what types of job does Lonny Stormo have	executive
+what types of job does Maximillian Dupenois have	employee|executive
+what types of job does Jean-Claude Havaux have	executive
+what types of job does Edward Macovaz have	employee|executive
+what types of job does Justin M. Vinci have	employee|executive
+what types of job does Rochelle Stewart have	executive
+what types of job does George Thrush have	executive
+what types of job does Rémi Chasles have	executive
+what types of job does Peter Ojo have	executive
+what types of job does Chris Reisig have	employee|executive|advisor
+what types of job does Christian Rymarenko have	executive
+what types of job does Bo Zhang have	executive
+what types of job does Nico Bollini have	executive
+what types of job does Mark Chappell have	executive
+what types of job does Terry Hess have	executive
+what types of job does Rajendra Koppula have	executive
+what types of job does Alexandra Korolkova have	employee
+what types of job does Mahdy Hasan have	employee|executive
+what types of job does Jing Jie Huang have	executive
+what types of job does Kay Schneider have	executive

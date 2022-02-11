@@ -1,0 +1,100 @@
+what is the investment type of Pre Seed Round - Bridgez	pre_seed
+what is the investment type of Non Equity Assistance - LawRevu, Inc.	non_equity_assistance
+what is the investment type of Seed Round - Apotheka Systems Inc.	seed
+what is the investment type of Series B - Hugging Face	series_b
+what is the investment type of Debt Financing - Five9	debt_financing
+what is the investment type of Pre Seed Round - KILOWATTPACK	pre_seed
+what is the investment type of Grant - Arsanis	grant
+what is the investment type of Grant - Parkifast	grant
+what is the investment type of Seed Round - Apptega	seed
+what is the investment type of Seed Round - Sextant Stays	seed
+what is the investment type of Series E - Symphony Communication Services	series_e
+what is the investment type of Pre Seed Round - Eversend	pre_seed
+what is the investment type of Seed Round - Golfshop Online	seed
+what is the investment type of Seed Round - Wowcracy	seed
+what is the investment type of Seed Round - Waveblade	seed
+what is the investment type of Seed Round - EGW Academy	seed
+what is the investment type of Seed Round - NumberEight	seed
+what is the investment type of Convertible Note - Boxgard	convertible_note
+what is the investment type of Grant - Abri Science	grant
+what is the investment type of Seed Round - Baby-Running	seed
+what is the investment type of Series C - Customs4trade (C4T)	series_c
+what is the investment type of Pre Seed Round - getquin	pre_seed
+what is the investment type of Grant - Conexión Latina Newport	grant
+what is the investment type of Seed Round - SpotHelp	seed
+what is the investment type of Convertible Note - eWellness Corporation	convertible_note
+what is the investment type of Seed Round - Umbra	seed
+what is the investment type of Post-IPO Equity - Astrotech	post_ipo_equity
+what is the investment type of Seed Round - Celer Network	seed
+what is the investment type of Angel Round - Ettovr	angel
+what is the investment type of Series A - Coconut Software	series_a
+what is the investment type of Seed Round - Voucheres	seed
+what is the investment type of Seed Round - uQontrol	seed
+what is the investment type of Seed Round - IOTech	seed
+what is the investment type of Series A - Project Canary	series_a
+what is the investment type of Seed Round - Samaya	seed
+what is the investment type of Post-IPO Equity - Centaurus Energy	post_ipo_equity
+what is the investment type of Seed Round - Sana Packaging	seed
+what is the investment type of Debt Financing - Botswana Building Society	debt_financing
+what is the investment type of Seed Round - YouGift	seed
+what is the investment type of Seed Round - Rex Animal Health	seed
+what is the investment type of Seed Round - Global Expertise	seed
+what is the investment type of Convertible Note - Widow Games	convertible_note
+what is the investment type of Seed Round - Infogile Technologies	seed
+what is the investment type of Non Equity Assistance - ByteBuzzer	non_equity_assistance
+what is the investment type of Series D - Skyhigh Networks	series_d
+what is the investment type of Seed Round - Green Gorilla	seed
+what is the investment type of Debt Financing - Ravgen	debt_financing
+what is the investment type of Post-IPO Debt - TeleCommunication Systems	post_ipo_debt
+what is the investment type of Angel Round - Schoolfy	angel
+what is the investment type of Series D - YOYOSYS	series_d
+what is the investment type of Series G - Farmers Business Network	series_g
+what is the investment type of Series B - Cognigine	series_b
+what is the investment type of Seed Round - Theoria Japan	seed
+what is the investment type of Series B - Liran cosmetics	series_b
+what is the investment type of Seed Round - Lit Protocol	seed
+what is the investment type of Pre Seed Round - CAALA	pre_seed
+what is the investment type of Seed Round - Riskpulse	seed
+what is the investment type of Series B - Acton Pharmaceuticals	series_b
+what is the investment type of Debt Financing - Agilum Healthcare Intelligence	debt_financing
+what is the investment type of Seed Round - Cypris	seed
+what is the investment type of Seed Round - Rent Getaways	seed
+what is the investment type of Seed Round - Drafter	seed
+what is the investment type of Seed Round - Smart Robots S.r.l.	seed
+what is the investment type of Seed Round - Nymbl Science	seed
+what is the investment type of Seed Round - Global Threads LLC	seed
+what is the investment type of Seed Round - SinGrow	seed
+what is the investment type of Seed Round - Alter Way	seed
+what is the investment type of Series C - Terns Pharmaceuticals	series_c
+what is the investment type of Series B - Cryptzone	series_b
+what is the investment type of Series C - Synerchip	series_c
+what is the investment type of Series A - Anokion	series_a
+what is the investment type of Series A - Mizzen+Main	series_a
+what is the investment type of Series A - Sundrop Fuels	series_a
+what is the investment type of Pre Seed Round - vCandidates.com	pre_seed
+what is the investment type of Post-IPO Equity - Sorrento Therapeutics	post_ipo_equity
+what is the investment type of Pre Seed Round - Brainbase	pre_seed
+what is the investment type of Seed Round - Crodity S.A.	seed
+what is the investment type of Seed Round - Goosebump	seed
+what is the investment type of Seed Round - AXDRAFT	seed
+what is the investment type of Seed Round - Feeligo	seed
+what is the investment type of Seed Round - OTASYS Labs LLC	seed
+what is the investment type of Seed Round - Cherche mon nid	seed
+what is the investment type of Series B - Hetao101	series_b
+what is the investment type of Seed Round - Lumos Partners	seed
+what is the investment type of Grant - Gisens Biotech	grant
+what is the investment type of Seed Round - EMOSIV, Inc.	seed
+what is the investment type of Seed Round - Sendbloom	seed
+what is the investment type of Debt Financing - CyberSponse	debt_financing
+what is the investment type of Series A - Microread	series_a
+what is the investment type of Seed Round - Drip In	seed
+what is the investment type of Seed Round - Helpie!	seed
+what is the investment type of Angel Round - Eqlim	angel
+what is the investment type of Pre Seed Round - Cedar Credit Builder	pre_seed
+what is the investment type of Convertible Note - KorrAI	convertible_note
+what is the investment type of Seed Round - Local Marketers	seed
+what is the investment type of Series A - SYJ	series_a
+what is the investment type of Series D - Domino Data Lab	series_d
+what is the investment type of Debt Financing - QuantaLife	debt_financing
+what is the investment type of Series B - GlowRoad	series_b
+what is the investment type of Series B - Blue Pillar	series_b

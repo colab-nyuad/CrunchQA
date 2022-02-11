@@ -1,0 +1,97 @@
+Xponentia Capital Fund I belongs to which organization	Xponentia_Capital_Partners@42c77
+Yard Ventures Fund 1 belongs to which organization	Alumni_Ventures@f4b66
+Real Estate Fund belongs to which organization	GTIS_Partners@10a03
+Branzan Energy Income Fund belongs to which organization	Branzan_Investment_Advisors@e872e
+Thoma Bravo Explore Fund belongs to which organization	Thoma_Bravo@3f35a
+Kansai Science City ATR venture NVCC belongs to which organization	Japanese_venture_capital@d939d
+Enern Renewable Energy Fund belongs to which organization	KAYA@18ed9
+Tresidor Fund belongs to which organization	Tresidor_Investment_Management@fb75a
+Blue Amber Ventures III belongs to which organization	Blue_Amber_Ventures@2e22f
+NextGen Drafted belongs to which organization	NextGen_Venture_Partners@31fbe
+Artist Growth Opportunity I LP belongs to which organization	Artist_Capital_Management@442b8
+LocalGlobe IX belongs to which organization	LocalGlobe@dd097
+Tikehau Capital Equity Fund belongs to which organization	Tikehau_Capital@89c5d
+Tewarie Syndicate belongs to which organization	Tewarie_Enterprises@0c810
+Upside Fund II belongs to which organization	Upside_Partnership@b870b
+CLO Fund VI belongs to which organization	Mariner_Investment_Group@94107
+Cambridge Capital Group Equity Option Opportunities belongs to which organization	Cambridge_Capital_Group@5b68d
+CapitalWorks Private Equity Fund LP belongs to which organization	CapitalWorks@f45f6
+Berkshire Fund IX, L.P. belongs to which organization	Berkshire_Partners@70895
+TowerBrook Investors IV belongs to which organization	TowerBrook_Capital_Partners@6f749
+Gaja III belongs to which organization	Gaja_Capital@6ce5c
+CMEA Ventures VII LP belongs to which organization	CMEA_Capital@a1d03
+Bold Coast Capital Fund I belongs to which organization	Bold_Coast_Capital@c6c0b
+Fund II belongs to which organization	Tosca_Debt_Capital@c0173
+Advantage Capital Missouri Partners III belongs to which organization	Advantage_Capital@94220
+Outliers Blockchain Fund II belongs to which organization	Outliers_Fund@bab73
+CFTC-Registered Fund belongs to which organization	DARMA_Capital@958cd
+Innovation Fund North Holland belongs to which organization	Innovatiefonds_Noord-Holland@e9d8a
+America First Story Fund belongs to which organization	Stoutlight_Inc.@8e522
+Fortis Green Renewables Green Fund I belongs to which organization	Fortis_Green_Renewables_Investment_Management@4a2eb
+Shinsei Hibiki Bridge Fund belongs to which organization	Hibiki_Partners@17dab
+Energy Capital Partners Fund IV belongs to which organization	Energy_Capital_Partners@2e3f5
+Pre Seed Investment Fund I belongs to which organization	Jumpspeed_Ventures@50ddd
+Aberdeen Energy & Resources Partners IV belongs to which organization	Aberdeen_Asset_Management@115d8
+Highland Europe FUND IV belongs to which organization	Highland_Europe@9aacf
+Elix Incubator Cohort 1 Seed Fund belongs to which organization	Elix_Incubator@b6329
+Quinpario Partners I belongs to which organization	Quinpario_Partners@81cda
+Summit Partners Subordinated Debt Fund II belongs to which organization	Summit_Partners@3e875
+LifeForce Capital Opportunity Fund belongs to which organization	Lifeforce_Capital@824d2
+Rev1 OTAF V belongs to which organization	Rev1_Ventures@c1f18
+Northzone III belongs to which organization	Northzone@97dd1
+645 Ventures II belongs to which organization	645_Ventures@6fa5d
+Strategic Value Special Situations Fund V belongs to which organization	Strategic_Value_Partners@e83bc
+Starbay Partners, L.P. belongs to which organization	Levensohn_Venture_Partners@b34b5
+Schroders Capital European Operating Hotels Fund belongs to which organization	Schroders_Capital@81a99
+Onex Partners IV belongs to which organization	Onex@b5dd1
+Pontifax Fund IV belongs to which organization	Pontifax@94f51
+FinTLV FUND II belongs to which organization	FinTLV_Ventures@5ea50
+Fimi II belongs to which organization	First_Israel_Mezzanine_Investors@eb3e0
+NYDIG Digital Assets Fund I belongs to which organization	NYDIG@a6e46
+Cardumen Capital I belongs to which organization	CARDUMEN_CAPITAL@e160c
+Norwest Mezzanine Partners IV belongs to which organization	Norwest_Mezzanine_Partners@a503b
+TPG Growth Rise belongs to which organization	TPG_Growth@1d1f3
+NewSpring Mezzanine Capital III, L.P. belongs to which organization	NewSpring@7edf8
+Second India Fund belongs to which organization	Greater_Pacific_Capital@0f443
+CenterPoint Venture Partners II belongs to which organization	CenterPoint_Venture_Partners@3e3aa
+Fund I belongs to which organization	Urban_Us@f8bb1
+Montefiore Investment III belongs to which organization	Montefiore_Investment@8b858
+SunTx CPI Expansion Fund, LP belongs to which organization	SunTx_Capital_Partners@424d0
+EQT Credit Opportunities III belongs to which organization	EQT@de294
+KKR Credit Income Fund belongs to which organization	Kohlberg_Kravis_Roberts@0e1bb
+Equity Fund belongs to which organization	Arcapita_Ventures@a29d5
+Casdin Venture Opportunities Fund LP belongs to which organization	Casdin_Capital@834ae
+Globis Fund VI belongs to which organization	Globis_Capital_Partners@38111
+Global Catalyst Partners belongs to which organization	Global_Catalyst_Partners@2b6cb
+Accel Global Later-Stage “Leaders” Fund belongs to which organization	Accel@7bf36
+Castile Ventures III belongs to which organization	Castile_Ventures@f686e
+NavigatorSRVS - Fund 1 belongs to which organization	NavigatorCRE@91869
+Eclipse SPV I belongs to which organization	Eclipse_Ventures@afd4b
+Newbury Equity Partners III belongs to which organization	Newbury_Partners@e2fc7
+Sovereign's Capital II belongs to which organization	Sovereign’s_Capital@a2e92
+JENOP GLOBAL HEALTHCARE FUND LIMITED belongs to which organization	Jennison_Associates@0abc5
+SL Capital Secondaries Fund II belongs to which organization	SL_Capital_Partners@84ff3
+Primary III belongs to which organization	Primary_Capital@ac066
+M/C Partners VIII belongs to which organization	M/C_Partners@2f55a
+Alaya I belongs to which organization	Alaya_Capital@0ff78
+Urban Innovation Fund I belongs to which organization	Urban_Innovation_Fund@30992
+CCIF I belongs to which organization	Canadian_Co-operative_Investment_Fund@2c7cb
+V4C Eastern Europe Fund belongs to which organization	Value4Capital@c4037
+FIP Néoveris Réunion 2005 belongs to which organization	ACG_Management@75dec
+MogulREIT I belongs to which organization	RealtyMogul@885f3
+WEBER CAPITAL PARTNERS III belongs to which organization	Weber_Capital@5109a
+The Investment Fund for Foundations Fund of Funds Vehicle belongs to which organization	TIFF_Investment_Management@f8634
+BSP Fund belongs to which organization	Invested_Development@0f112
+Ironsides Direct Investment Fund V belongs to which organization	Constitution_Capital_Partners@07aad
+Oregon Public Employees Retirement Fund belongs to which organization	Pathway_Capital_Management@66303
+Insight Partners Continuation Fund belongs to which organization	Insight_Partners@7b1c9
+Charles River Partnership XIII belongs to which organization	CRV@e7e21
+Marathon Fund I belongs to which organization	Marathon_Venture_Capital@f32fe
+NN-FMO Emerging Markets Loans Fund belongs to which organization	NN_Investment_Partners@1493b
+Fluid Ventures belongs to which organization	Agility_Ventures@83aca
+L Capital Partners LP belongs to which organization	L_Capital_Partners@f8155
+Apax Europe VII belongs to which organization	Apax_Partners@2268f
+SunBridge Partners JJV Fund belongs to which organization	Sunbridge_Partners@b445a
+IXO PME 1 belongs to which organization	IXO_Private_Equity@c982f
+Blumberg Capital Fund V belongs to which organization	Blumberg_Capital@07f6d
+Forum Ventures Accelerator Fund IV belongs to which organization	Forum_Ventures@810c2

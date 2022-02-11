@@ -1,0 +1,96 @@
+the owner of Leta Capital Fund III is from what industries	Venture_Capital
+the owner of Sorenson Ventures Opportunity Fund I is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Highland Europe Technology Growth II LP is from what industries	Venture_Capital|Finance|FinTech|Financial_Services
+the owner of Transatlantic Fund is from what industries	Financial_Services|Banking
+the owner of Refinery Ventures Fund II is from what industries	Venture_Capital|Information_Technology
+the owner of Mangrove II is from what industries	Venture_Capital|Internet|Finance
+the owner of Fund I is from what industries	Venture_Capital|FinTech
+the owner of Kedaara Capital PE Fund III is from what industries	Financial_Services
+the owner of SBT Venture Fund II is from what industries	Mobile|FinTech|Venture_Capital|Finance|Cloud_Computing|Internet_of_Things
+the owner of StartVenture Capital Fund I is from what industries	Venture_Capital
+the owner of 645 Ventures, L.P. is from what industries	Venture_Capital|Information_Technology|Finance
+the owner of Radius Venture Partners II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of SEP V is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Auda Asia Secondary Fund is from what industries	Financial_Services
+the owner of Private Equity Fund is from what industries	Venture_Capital|Financial_Services
+the owner of Pivotal bioVenture Partners China Fund I is from what industries	Financial_Services
+the owner of Cintrifuse Early Stage Capital Fund is from what industries	Communities
+the owner of Kleiner Perkins XVIII is from what industries	Venture_Capital|Finance|Incubators|Financial_Services
+the owner of Bay City Capital Fund IV, L.P. is from what industries	Biotechnology
+the owner of HCM PIN II is from what industries	Financial_Exchanges|Finance|Financial_Services
+the owner of Carlyle Global Financial Services Partners III is from what industries	Management_Consulting|Aerospace|Asset_Management|Financial_Services
+the owner of Quantum Energy Partners VI, LP is from what industries	Venture_Capital|Energy
+the owner of Verdane Capital VI B K/S is from what industries	Finance|Financial_Services
+the owner of SmartCap AS Early Fund II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Maverick Ventures Investment Fund is from what industries	Venture_Capital|Health_Care|Finance|Financial_Services
+the owner of Founder's Co-op Fund I is from what industries	Software|Venture_Capital|Asset_Management
+the owner of Khosla Ventures V, L.P. is from what industries	Financial_Services|Health_Care|Venture_Capital|Finance|Business_Development
+the owner of Active Impact Investments Fund I is from what industries	Service_Industry|Impact_Investing|Clean_Energy|CleanTech
+the owner of TF Special Opportunities I is from what industries	Finance|Financial_Services|Business_Development
+the owner of Team Builder Ventures Fund II, L.P. is from what industries	Venture_Capital|Enterprise_Software|Internet|Consumer
+the owner of Pantheon European Fund III, L.P. is from what industries	Venture_Capital|Impact_Investing|Finance|Financial_Services
+the owner of TrueBridge-Kauffman Fellows Endowment Fund III, L.P. is from what industries	Venture_Capital|Finance
+the owner of Bootstrap Incubation Fund XI is from what industries	Venture_Capital
+the owner of The Hive II is from what industries	Finance|Big_Data|FinTech|Incubators
+the owner of Freshmenfund I is from what industries	Gaming|Consumer_Goods|Software|E-Commerce|Fashion|Consumer|Food_and_Beverage|Internet|Consumer_Software|Retail
+the owner of AEP1 is from what industries	Asset_Management|Energy|Oil_and_Gas
+the owner of Continuation Fund is from what industries	Impact_Investing|Finance|Financial_Services
+the owner of BREAKOUT VENTURES is from what industries	Life_Science|Angel_Investment|Financial_Services
+the owner of Summit Ventures V is from what industries	Finance|Financial_Services|Business_Development
+the owner of Bain Capital Life Sciences Fund is from what industries	Lending|Venture_Capital|Credit|Financial_Services
+the owner of Spirit of St. Louis Seed Fund II is from what industries	Life_Science|Software|FinTech|AgTech|Venture_Capital|Geospatial
+the owner of CCMP Capital Investors III is from what industries	Venture_Capital|Angel_Investment|Advice
+the owner of Greylock Fund XV is from what industries	Venture_Capital|Enterprise_Software|Consumer
+the owner of NCN Partners Fund is from what industries	Finance|FinTech
+the owner of Orlando Management ESSVP IV is from what industries	Angel_Investment
+the owner of Highland Capital Partners Leap Fund is from what industries	Venture_Capital|Finance|FinTech|Financial_Services
+the owner of Pretium Residential Real Estate Fund II is from what industries	Asset_Management|Financial_Services
+the owner of Draper Fisher Associate Fund III, L.P. is from what industries	Venture_Capital|Finance|Financial_Services|Business_Development
+the owner of Data Point Capital III is from what industries	Cloud_Infrastructure|Venture_Capital|E-Commerce
+the owner of Oberland Capital Healthcare II is from what industries	Venture_Capital|Asset_Management|Financial_Services
+the owner of Triton Debt Opportunities I is from what industries	Small_and_Medium_Businesses|Impact_Investing|Finance
+the owner of 500 Luchadores II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of UFC Fund1 is from what industries	Corporate_Training|Information_Technology|Venture_Capital|Business_Development
+the owner of RRE Leaders II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of CRCM Opportunity Fund II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Fund V is from what industries	Venture_Capital|Impact_Investing|Finance|Financial_Services
+the owner of Xenon Private Equity VII is from what industries	Venture_Capital|Health_Care|Outsourcing
+the owner of BigbangAngels InvestFund 6 is from what industries	Electronics|Enterprise|Health_Care|Biotechnology|AgTech|SaaS|Artificial_Intelligence|Agriculture|Internet_of_Things
+the owner of Global Founders Capital Fund II is from what industries	Venture_Capital|Impact_Investing|Finance|Financial_Services
+the owner of Edmond de Rothschild Fund III is from what industries	Advice|Financial_Services|Banking
+the owner of Cota Opportunities IV is from what industries	Software|Finance|Venture_Capital
+the owner of Volition Capital Select Fund I is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Cheyne European Strategic Value Credit Fund II is from what industries	Finance|FinTech|Financial_Services
+the owner of Bee Partners I is from what industries	Software|Finance|Venture_Capital|Financial_Services
+the owner of Kakao Venture Fund is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Special-Situations Fund is from what industries	Commercial_Real_Estate|Finance|Real_Estate|Financial_Services
+the owner of Level Equity Growth Partners III LP is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of 5AM Co-Investors III, L.P. is from what industries	Life_Science|Finance|Venture_Capital
+the owner of TEEC Angel Fund II, LP is from what industries	Venture_Capital|Angel_Investment|Financial_Services
+the owner of Camp One Ventures (Fund C), LLC is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Greenspring Opportunities IV, L.P. is from what industries	Venture_Capital|Finance|Angel_Investment
+the owner of Huaxing Growth Capital III is from what industries	Financial_Exchanges|Finance|Financial_Services
+the owner of ACP Investment Fund II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of CONQUEST ADVISORY Renewable Energy Fund is from what industries	Industrial|Financial_Services
+the owner of SIGNALFIRE FUND II is from what industries	Finance|Big_Data|Venture_Capital|Financial_Services
+the owner of True Wind Capital II, L.P is from what industries	Impact_Investing|Finance|Financial_Services
+the owner of HealthCare Ventures VIII is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Unshackled Ventures II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Synergo Italian Private Equity Fund IV is from what industries	Financial_Services
+the owner of Dentsu Digital Investment is from what industries	Finance|Financial_Services|Business_Development
+the owner of True Capital Partners Buyout Fund II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Parkwalk Oxford Isis Fund I is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of NDA Fund XVII LLC is from what industries	Angel_Investment
+the owner of WR Hambrecht Ventures II is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Foundation Capital VI, L.P. is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of PICO Venture Partners I is from what industries	Finance|Financial_Services|Business_Development
+the owner of Infinity e.Ventures Fund II LLP is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Morgenthaler Ventures IX is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of Co-Investment Fund II is from what industries	Agriculture|FinTech|Food_and_Beverage|AgTech
+the owner of Spur Ventures LP is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of BoxGroup Strive is from what industries	Venture_Capital|Impact_Investing|Finance
+the owner of BRIDGESCALE OPPORTUNITIES III is from what industries	Venture_Capital|Finance|Financial_Services
+the owner of The HPH Specialized Fund 1 is from what industries	Financial_Services
+the owner of Desert Sidecar IV is from what industries	Life_Science|Cyber_Security|Medical_Device|Software|Hardware|SaaS|Health_Diagnostics|Machine_Learning|Clean_Energy|CleanTech
+the owner of Caravela VC 1 is from what industries	Venture_Capital
+the owner of H.I.G. Growth Buyouts & Equity Fund III is from what industries	Credit|Financial_Services|Real_Estate|Finance|Insurance

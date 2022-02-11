@@ -1,0 +1,100 @@
+how much money did Series A - FarmLead raise	6500000.0
+how much money did Pre Seed Round - Ultra Auth raise	40000.0
+how much money did Private Equity Round - TopSail Energy raise	100000000.0
+how much money did Series A - Farecast raise	1500000.0
+how much money did Series C - Enigma Technologies raise	95000000.0
+how much money did Pre Seed Round - Nubocha raise	500000.0
+how much money did Equity Crowdfunding - OPER raise	76974.0
+how much money did Private Equity Round - Applied Predictive Technologies raise	100000000.0
+how much money did Venture Round - Acceptd raise	2000000.0
+how much money did Seed Round - TheraTorr Medical raise	105080.0
+how much money did Post-IPO Equity - Geely Auto Group raise	589000000.0
+how much money did Series C - Verinata Health raise	20000000.0
+how much money did Series B - HipLogiq raise	7000000.0
+how much money did Convertible Note - CropX raise	2000000.0
+how much money did Debt Financing - ClearFlow raise	2827500.0
+how much money did Series D - Getui raise	58053669.0
+how much money did Grant - GymSplat raise	4000.0
+how much money did Venture Round - ASG Eye Hospital raise	9100000.0
+how much money did Venture Round - The Surgery Center of Fairbanks raise	935000.0
+how much money did Funding Round - SynCardia Systems raise	14000000.0
+how much money did Seed Round - Vidpal raise	25000.0
+how much money did Seed Round - Aqua raise	1510000.0
+how much money did Seed Round - LocalLux raise	20000.0
+how much money did Venture Round - Oscar Health raise	32500000.0
+how much money did Series G - Prove (formerly Payfone) raise	15143305.0
+how much money did Pre Seed Round - SOUND Nutrition raise	2000000.0
+how much money did Seed Round - Unit raise	3600000.0
+how much money did Seed Round - Optima Process Systems raise	318451.0
+how much money did Convertible Note - Hypest Hive raise	114615.0
+how much money did Grant - Natural Dyer raise	82694.0
+how much money did Series B - JMDNA raise	3053062.0
+how much money did Seed Round - Super Izzy AI raise	287265.0
+how much money did Venture Round - Incuvo raise	350000.0
+how much money did Seed Round - Hintsa raise	550000.0
+how much money did Series C - FullStory raise	32000000.0
+how much money did Seed Round - CounterCraft raise	2469325.0
+how much money did Series A - Salesken raise	8000000.0
+how much money did Post-IPO Debt - NCC raise	320780137.0
+how much money did Grant - Metalysis raise	2454056.0
+how much money did Angel Round - HUM MUSIC raise	628182.0
+how much money did Venture Round - eAgile raise	200000.0
+how much money did Debt Financing - Thetis Pharmaceuticals raise	1434000.0
+how much money did Series A - Airporter raise	279500.0
+how much money did Venture Round - Neoconix raise	23000000.0
+how much money did Pre Seed Round - Enian raise	53155.0
+how much money did Seed Round - Sonation raise	25000.0
+how much money did Seed Round - Wiziva raise	41267.0
+how much money did Post-IPO Debt - Indika Energy raise	675000000.0
+how much money did Seed Round - Club Feast raise	3500000.0
+how much money did Series B - Tima Networks raise	3228107.0
+how much money did Series B - Jinjiedao raise	3021650.0
+how much money did Series A - Adalo raise	8000000.0
+how much money did Series A - OpenReel raise	19000000.0
+how much money did Equity Crowdfunding - ReMeLife w/RemindMecare raise	216385.0
+how much money did Series A - Neyber raise	8547386.0
+how much money did Angel Round - PariWager LLC raise	180000.0
+how much money did Post-IPO Debt - GBank Financial Holding raise	20000000.0
+how much money did Series A - Osmo raise	12000000.0
+how much money did Seed Round - Webtools raise	1232223.0
+how much money did Convertible Note - Boston Therapeutics raise	1322500.0
+how much money did Debt Financing - Adastra Pharmaceuticals raise	1201200.0
+how much money did Series B - Sol Chip raise	5000000.0
+how much money did Series B - TIER Mobility raise	40000000.0
+how much money did Venture Round - Affibody raise	28568380.0
+how much money did Debt Financing - CardiaLen raise	2402000.0
+how much money did Pre Seed Round - Yobitel Communications raise	40000.0
+how much money did Non Equity Assistance - Maya raise	58512.0
+how much money did Venture Round - Archer Technologies raise	24000000.0
+how much money did Pre Seed Round - Bloom Impact Investing raise	493358.0
+how much money did Angel Round - Schoolfy raise	250000.0
+how much money did Seed Round - Trinity Earth raise	161576.0
+how much money did Series B - Network International raise	35000000.0
+how much money did Post-IPO Debt - Jack in the Box raise	800000000.0
+how much money did Angel Round - Financeit raise	3000000.0
+how much money did Venture Round - Whisbi raise	1302859.0
+how much money did Seed Round - Interplai raise	2074999.0
+how much money did Series A - GUANGLI raise	10000000.0
+how much money did Series B - InVivoLink raise	1800000.0
+how much money did Seed Round - TopCheck raise	1152387.0
+how much money did Post-IPO Equity - AGM Group Holdings raise	20000000.0
+how much money did Angel Round - KUKRGAME raise	921520.0
+how much money did Venture Round - Illuminations raise	9000000.0
+how much money did Post-IPO Equity - Perpetua Resources raise	40456286.0
+how much money did Series A - BayTSP raise	1300000.0
+how much money did Seed Round - Rooter raise	2300000.0
+how much money did Venture Round - GMT Exploration Company raise	20621250.0
+how much money did Series A - Elenas raise	6000000.0
+how much money did Debt Financing - WebLink International raise	1460000.0
+how much money did Post-IPO Debt - Kior raise	75000000.0
+how much money did Series B - Geekie raise	7000000.0
+how much money did Series A - Hostmaker raise	6277527.0
+how much money did Series A - Diana Health raise	11000000.0
+how much money did Venture Round - Micro Insurance Company raise	10400000.0
+how much money did Seed Round - Plasmology4 raise	25000.0
+how much money did Series A - ABLife raise	16789049.0
+how much money did Private Equity Round - U.S. Renal Care raise	8900000.0
+how much money did Series A - Texert raise	3000000.0
+how much money did Series C - XL Fleet raise	10500000.0
+how much money did Grant - SolarCity raise	690450.0
+how much money did Pre Seed Round - Wyld raise	75000.0

@@ -1,0 +1,100 @@
+Ikigai Asset Management invested in which seed funding rounds	Seed_Round_-_Digital_Assets_Data@ef9a1
+Adventure Capital invested in which seed funding rounds	Seed_Round_-_Samdesk@79b06
+India Internet Fund invested in which seed funding rounds	Seed_Round_-_Graphic_India@10974|Seed_Round_-_AppVirality@323c9|Seed_Round_-_247_Techies@8659c|Seed_Round_-_Snaplion@963a2|Seed_Round_-_AppVirality@e3379
+Arthur Ventures invested in which series_d funding rounds	Series_D_-_Keap@841ac|Series_D_-_Avalara@883b1
+Engineering Capital invested in which pre_seed funding rounds	Pre_Seed_Round_-_Onymos@9215c|Pre_Seed_Round_-_Evinced@48d11
+Bain Capital Ventures invested in which series_e funding rounds	Series_E_-_Tealium@aef81|Series_E_-_Aria_Systems@55896|Series_E_-_BetterCloud@0983d|Series_E_-_Justworks@aa0c1|Series_E_-_Billtrust@427a6|Series_E_-_Rubrik@159a4|Series_E_-_Redis@c0238|Series_E_-_Vonage@8230a|Series_E_-_Gainsight@f07c7|Series_E_-_ShipBob@2f283|Series_E_-_Clari@170fa|Series_E_-_Sysdig@bf8ae|Series_E_-_Rent_the_Runway@60faf
+Fin Capital invested in which series_a funding rounds	Series_A_-_Synctera@237e0|Series_A_-_Teampay@1b911|Series_A_-_SamCart@5eadf|Series_A_-_Neuro-ID@398fe
+Walmart Foundation invested in which grant funding rounds	Grant_-_TechnoServe@d9adf|Grant_-_Agribusiness_Systems_International@d4c43|Grant_-_Digital_Green@e01dc
+IP Group invested in which pre_seed funding rounds	Pre_Seed_Round_-_CareAlign@cf224
+Nordstar invested in which series_a funding rounds	Series_A_-_Hofy@759c5
+3VC invested in which seed funding rounds	Seed_Round_-_Storyblok@c8f60|Seed_Round_-_DeepCode@e84e4
+Advancit Capital invested in which series_b funding rounds	Series_B_-_BEGiN@a2781|Series_B_-_Public.com@0ee97|Series_B_-_Mic_Network@d25f2|Series_B_-_BEGiN@ea944
+Perwyn invested in which series_g funding rounds	Series_G_-_Gousto@59f11
+Techstars Retail Accelerator invested in which pre_seed funding rounds	Pre_Seed_Round_-_BYBE@be932|Pre_Seed_Round_-_Pikup@62f6d|Pre_Seed_Round_-_Cooklist@a8e91
+Venrock invested in which seed funding rounds	Seed_Round_-_EagerPanda@ac4dd|Seed_Round_-_Threadbox@273a5|Seed_Round_-_The_Public_Health_Company@e6292|Seed_Round_-_Shift_Messenger@4b57a|Seed_Round_-_Socrates.AI,_Inc.@e3aed|Seed_Round_-_Happier@cd76d|Seed_Round_-_Zenefits@a0020|Seed_Round_-_Castlight_Health@25f6a|Seed_Round_-_3Box@a1d1b|Seed_Round_-_Lyra_Health@c56d8|Seed_Round_-_Nanosys@4b61f|Seed_Round_-_Dasher@d13af|Seed_Round_-_Doctor_On_Demand@65e68
+Shamrock Capital Advisors invested in which series_c funding rounds	Series_C_-_Pixellot@6d074|Series_C_-_Mojiva@6a612
+Amadeus Capital Partners invested in which seed funding rounds	Seed_Round_-_Altana_AI@3e83b|Seed_Round_-_Hazy@68525|Seed_Round_-_VocalIQ@b5170|Seed_Round_-_Nu_Quantum@2f828|Seed_Round_-_aiHit@8b435|Seed_Round_-_Quibim@64783|Seed_Round_-_Sprout.ai@f45e1|Seed_Round_-_Pimloc@1a577|Seed_Round_-_V7@c15e7|Seed_Round_-_Sprout.ai@2db7e|Seed_Round_-_Paragraf@2c055|Seed_Round_-_Seldon@45cf3|Seed_Round_-_Ravelin@e4643|Seed_Round_-_The_ID_Co.@86141|Seed_Round_-_Tessian@d160d|Seed_Round_-_XYZ_Reality@89d9e|Seed_Round_-_Charco_Neurotech@e7e4d|Seed_Round_-_Xampla@ab8af
+Studio VC invested in which seed funding rounds	Seed_Round_-_Wayflyer@25197|Seed_Round_-_AppBrilliance@930ec|Seed_Round_-_Smilo@6e9c0|Seed_Round_-_Kambr@b6d40|Seed_Round_-_StreetCred@b6775
+MetaProp invested in which angel funding rounds	Angel_Round_-_Caretaker@2af8c
+MassChallenge invested in which non_equity_assistance funding rounds	Non_Equity_Assistance_-_Hubly_Surgical@efc08|Non_Equity_Assistance_-_Whist@2d0f8|Non_Equity_Assistance_-_NovoThelium@286b3|Non_Equity_Assistance_-_Feelter@a880d|Non_Equity_Assistance_-_Versantis@84bc2|Non_Equity_Assistance_-_Cambas@240fb
+IAG Firemark Ventures invested in which series_b funding rounds	Series_B_-_Arturo@dc24b
+Rho Capital Partners invested in which series_c funding rounds	Series_C_-_Anacor_Pharmaceutical@e4e41|Series_C_-_AqueSys@4cdee|Series_C_-_PrecisionDemand@1bc6b|Series_C_-_MyBuys@2c2c6|Series_C_-_Slacker@80c01|Series_C_-_Channelinsight@7d2cf|Series_C_-_Tapjoy@81375|Series_C_-_SolarBridge_Technologies@0b5fc|Series_C_-_Vidyo@56bcc|Series_C_-_ChargePoint@3c2c1
+North Bridge Venture Partners & Growth Equity invested in which series_g funding rounds	Series_G_-_QD_Vision@02887
+Magic Leap invested in which grant funding rounds	Grant_-_BadVR@c4a31
+J Ventures invested in which seed funding rounds	Seed_Round_-_BrightHire@8c6b1|Seed_Round_-_Toolbox@42620|Seed_Round_-_Higo@9cff6|Seed_Round_-_Dexai_Robotics@445cd|Seed_Round_-_Pawp@c0ab9
+dmg ventures invested in which series_d funding rounds	Series_D_-_YOPA@742eb
+Tuesday Capital invested in which series_c funding rounds	Series_C_-_Kueski@60eb1
+Pear VC invested in which series_d funding rounds	Series_D_-_Guardant_Health@cd2f2
+Monk’s Hill Ventures invested in which series_e funding rounds	Series_E_-_Ninja_Van@5ce58
+byFounders invested in which seed funding rounds	Seed_Round_-_Proper@0ad8c|Seed_Round_-_Contractbook@12a44|Seed_Round_-_Fuzey@15d3a|Seed_Round_-_AeroGuest@59b13|Seed_Round_-_Digitail@c294e
+PointOne Capital invested in which seed funding rounds	Seed_Round_-_ConnectedH@89897|Seed_Round_-_ConnectedH@bd810|Seed_Round_-_KIWInow@58f2c
+BlackSoil invested in which post_ipo_debt funding rounds	Post-IPO_Debt_-_Moneyboxx_Finance@2085d
+Mistletoe invested in which equity_crowdfunding funding rounds	Equity_Crowdfunding_-_Xolo@d7b8b
+Artesian VC invested in which pre_seed funding rounds	Pre_Seed_Round_-_Infiction_labs@4a19e
+Seedrs invested in which series_a funding rounds	Series_A_-_LANDBAY@48593|Series_A_-_LANDBAY@258ff
+H.I.G. Capital invested in which series_f funding rounds	Series_F_-_Nexidia@da899
+Food Retail Ventures invested in which series_a funding rounds	Series_A_-_Afresh_Technologies@3c7b1|Series_A_-_Halla@ef1c7|Series_A_-_Afresh_Technologies@f8e8d
+Xontogeny invested in which seed funding rounds	Seed_Round_-_Tellus_Therapeutics@f4004
+Atlante Seeds invested in which series_a funding rounds	Series_A_-_WISE@5d28d
+Auriga Partners invested in which series_e funding rounds	Series_E_-_Median_Technologies@0acc6|Series_E_-_Implanet@92c83
+Novastar Ventures invested in which convertible_note funding rounds	Convertible_Note_-_SureChill@749ec
+Thiel Capital invested in which convertible_note funding rounds	Convertible_Note_-_ATAI_Life_Sciences@72622
+Sand 9 invested in which series_a funding rounds	Series_A_-_Sand_9@75585
+Digital Alpha invested in which series_c funding rounds	Series_C_-_CIMCON_Lighting@20ac3
+Erasmic Venture Fund invested in which series_c funding rounds	Series_C_-_Kirusa@6e57b
+Incubate Fund invested in which seed funding rounds	Seed_Round_-_Legmin@aba6e|Seed_Round_-_CYBO@35aeb|Seed_Round_-_Catallaxy@ed914|Seed_Round_-_Ax_Robotix@8aea2|Seed_Round_-_Sider@adf3a|Seed_Round_-_Aiming@cdfe5
+Verizon Ventures invested in which series_d funding rounds	Series_D_-_Skyfire_Labs@cc61b|Series_D_-_CloudBees@e37e3
+Bregal Sagemount invested in which undisclosed funding rounds	Funding_Round_-_ZeOmega@219b5|Funding_Round_-_Recondo@8f39c
+Moment Ventures invested in which series_a funding rounds	Series_A_-_Alto_Solutions@28dce|Series_A_-_SOHA_SYSTEMS@cbd85|Series_A_-_Twin_Prime@786dd|Series_A_-_Turing_Labs@f63e4
+Lilly Asia Ventures invested in which series_c funding rounds	Series_C_-_Abogen_Biosciences@dc6e9
+Accel invested in which private_equity funding rounds	Private_Equity_Round_-_Visto@04463|Private_Equity_Round_-_Prezi@b2984|Private_Equity_Round_-_Catawiki@2e621|Private_Equity_Round_-_Amagi_Media_Labs@73950|Private_Equity_Round_-_Plex_Systems@dc42d|Private_Equity_Round_-_Legendary_Entertainment@faf1d
+Serena invested in which seed funding rounds	Seed_Round_-_CoachClub@8e82c|Seed_Round_-_CybelAngel@1f541|Seed_Round_-_Electra@66510|Seed_Round_-_Dataiku@7e6db|Seed_Round_-_Norbert_Health@37d1f|Seed_Round_-_Heuritech@a0752|Seed_Round_-_ACINQ@c1768|Seed_Round_-_Inato@bc24c|Seed_Round_-_Kili_Technology@358b7|Seed_Round_-_Bestmile@e79a3|Seed_Round_-_PixelMe@3b1da|Seed_Round_-_Wecasa@84bf1
+Boulder Ventures invested in which seed funding rounds	Seed_Round_-_Stardog@dc2ef
+Alpha JWC Ventures invested in which series_a funding rounds	Series_A_-_UangTeman@36378|Series_A_-_Bobobox_Indonesia@1b8bb|Series_A_-_Ajaib@874db|Series_A_-_Raena@91bfc|Series_A_-_Una_Brands@b07d8|Series_A_-_Ajaib@a48eb|Series_A_-_Otoklix@8466f
+Steadfast Financial invested in which series_g funding rounds	Series_G_-_Outreach@c4e90
+Tsing Capital invested in which series_e funding rounds	Series_E_-_Phononic@16e0c|Series_E_-_Phononic@c125d
+Google Assistant Investments invested in which seed funding rounds	Seed_Round_-_Claimbot@a17a8|Seed_Round_-_Doppio_Games@9cfd8|Seed_Round_-_Pulse_Labs@4ae59
+Foresite Capital invested in which series_a funding rounds	Series_A_-_TenSixteen_Bio@c9e0b|Series_A_-_Insitro@906a0|Series_A_-_Remix_Therapeutics@64f7a|Series_A_-_LifeMine_Therapeutics@b0490|Series_A_-_Alumis@e699b|Series_A_-_Insitro@27ba8|Series_A_-_Interline_Therapeutics@1b4c3
+Lakehouse Ventures invested in which pre_seed funding rounds	Pre_Seed_Round_-_Two_Front@98cca
+Modus Capital invested in which undisclosed funding rounds	Funding_Round_-_Play:Date@e8ff7
+DFJ DragonFund invested in which series_d funding rounds	Series_D_-_Splashtop@b1009|Series_D_-_Altobeam@8482b
+EXS Capital invested in which private_equity funding rounds	Private_Equity_Round_-_SON_KIM_LAND@cdc1d
+Wayfinder Ventures invested in which pre_seed funding rounds	Pre_Seed_Round_-_Svix@bc9dd
+eFounders invested in which series_b funding rounds	Series_B_-_Aircall@c40c7
+Luminar Ventures invested in which seed funding rounds	Seed_Round_-_Frequencz@95146|Seed_Round_-_Insurely@2c9e1|Seed_Round_-_Greenely@5e80a
+Good News Ventures invested in which seed funding rounds	Seed_Round_-_Decentology@5399d|Seed_Round_-_GoWrench_Auto@a968a
+Israel Growth Partners invested in which series_a funding rounds	Series_A_-_Optimove@acc50|Series_A_-_Locusview@3b030
+Luminous Ventures invested in which seed funding rounds	Seed_Round_-_LGN@58895|Seed_Round_-_Beyond@753d8|Seed_Round_-_Universal_Quantum@ebbc5|Seed_Round_-_Optellum@2065d
+Golden Horn Ventures invested in which series_a funding rounds	Series_A_-_GROU.PS@2be57
+Dux Capital invested in which pre_seed funding rounds	Pre_Seed_Round_-_Mozper@860fd|Pre_Seed_Round_-_Atexto@d44a9
+Longworth Venture Partners invested in which series_c funding rounds	Series_C_-_Tizor_Systems@26501|Series_C_-_Applause@f0f3e|Series_C_-_RapidMiner@ea3af|Series_C_-_SERMO@d8843|Series_C_-_Jibe@f10f4|Series_C_-_Viewfinity@b167f
+Sunfish Partners invested in which pre_seed funding rounds	Pre_Seed_Round_-_Molecule.one@d1e36|Pre_Seed_Round_-_Solvemed_Group@f0279
+Deciens Capital invested in which series_a funding rounds	Series_A_-_Chipper_Cash@a3c4a
+Balyasny Asset Management invested in which series_g funding rounds	Series_G_-_Spotify@b5cec
+WaveEdge Capital invested in which seed funding rounds	Seed_Round_-_Balanced_Pharma@ffe96
+Jelix Ventures invested in which series_a funding rounds	Series_A_-_Sinorbis@5f0f2
+ADB Ventures invested in which seed funding rounds	Seed_Round_-_wagely@700ee
+Prehype invested in which series_a funding rounds	Series_A_-_Sunrise@3d6ce
+Laureus Capital invested in which pre_seed funding rounds	Pre_Seed_Round_-_Qubit9@2eeea
+Lightspeed Venture Partners invested in which seed funding rounds	Seed_Round_-_Magic_Spoon@9bc2d|Seed_Round_-_Talon_Cyber_Security@a6649|Seed_Round_-_Luxe@7455c|Seed_Round_-_Soda_Health@4468f|Seed_Round_-_Faraway@ef63b|Seed_Round_-_Hubilo@e0697|Seed_Round_-_Girlboss@b8785|Seed_Round_-_Snap@c5de1|Seed_Round_-_Synctera@4fc89|Seed_Round_-_Curve_Health@011b1|Seed_Round_-_Epsagon@66f96|Seed_Round_-_Mic_Network@3cd96|Seed_Round_-_Strangeworks@678e1|Seed_Round_-_Binaris@e0af6|Seed_Round_-_Ascend.io@75a7c|Seed_Round_-_EdgeSpring@c6d7b|Seed_Round_-_Vectorized@fa71b|Seed_Round_-_Multiverse@f484e|Seed_Round_-_Payitoff@38330|Seed_Round_-_Height@b9563|Seed_Round_-_Verishop@634ab|Seed_Round_-_Parsable@2b422|Seed_Round_-_IndiGG@8020f|Seed_Round_-_Handshake@98096|Seed_Round_-_Influitive@44b96|Seed_Round_-_Herald@29e28|Seed_Round_-_streamOnce@e0823|Seed_Round_-_CleanCo@c00d0|Seed_Round_-_Flockjay@57a3f|Seed_Round_-_The_Honest_Company@9986c|Seed_Round_-_Leyden_Energy@f4870|Seed_Round_-_Kikoff@7e2ce|Seed_Round_-_Betty_Labs@efaee|Seed_Round_-_Hawku@61543|Seed_Round_-_Hidden_Leaf_Games@14153|Seed_Round_-_The_Nudge@8f0ae|Seed_Round_-_ASTRO_Indonesia@ea8a7
+Joint Polish Investment Fund invested in which series_a funding rounds	Series_A_-_DreamJay@74243|Series_A_-_Nightly@9130a
+Y Combinator Continuity Fund invested in which seed funding rounds	Seed_Round_-_PostHog@43f1b
+Aurora Russia invested in which private_equity funding rounds	Private_Equity_Round_-_OSG_Records_Management@e0c24
+Kairos invested in which private_equity funding rounds	Private_Equity_Round_-_Rhino@adce2
+GreenSoil Building Innovation Fund invested in which seed funding rounds	Seed_Round_-_Electriq_Power@edb49|Seed_Round_-_Cybeats_Technologies@e1de1
+btov Partners invested in which series_c funding rounds	Series_C_-_Quanta@ab09a|Series_C_-_Seven_Senders@9fd44
+Union Square Ventures invested in which series_d funding rounds	Series_D_-_Skillshare@9f617|Series_D_-_MongoDB@1a287|Series_D_-_Dwolla@df6fc|Series_D_-_Edmodo@a1291|Series_D_-_Sift@49b0c|Series_D_-_Funding_Circle@bbf83|Series_D_-_Stack_Overflow@38c4f|Series_D_-_Shapeways@10d87|Series_D_-_Tumblr@4f791|Series_D_-_Etsy@87a4a|Series_D_-_SoundCloud@75f8b|Series_D_-_Meetup@26b2b
+Forgepoint Capital invested in which seed funding rounds	Seed_Round_-_Symmetry_Systems@01ad9
+Pace Gallery invested in which seed funding rounds	Seed_Round_-_TR_Lab@9998c
+Building Ventures invested in which series_a funding rounds	Series_A_-_GoContractor@7167b|Series_A_-_Envoy_Technologies@9705f
+Coppel Capital invested in which series_d funding rounds	Series_D_-_Aura_Financial@947c6
+ATA Ventures invested in which series_e funding rounds	Series_E_-_Zoosk@4fde0|Series_E_-_Actelis_Networks@fb23a
+Longitude Capital invested in which series_a funding rounds	Series_A_-_Velomedix@5bcdf|Series_A_-_Vaxcyte@2a57f|Series_A_-_Alphaeon@73850|Series_A_-_Rivus_Pharmaceuticals@97549|Series_A_-_Aptus_Endosystems@ceadb|Series_A_-_Talaris_Therapeutics@64dcd|Series_A_-_LEXEO_Therapeutics@3497e|Series_A_-_Aimmune_Therapeutics@4533b|Series_A_-_CuraSen_Therapeutics@961e5|Series_A_-_Endeavor_BioMedicines@dd7b1|Series_A_-_Inozyme@0ecb2
+SaaStr invested in which seed funding rounds	Seed_Round_-_Gorgias@08129
+GC Angels invested in which pre_seed funding rounds	Pre_Seed_Round_-_Housemates@bdaed|Pre_Seed_Round_-_CAPSLOCK@aa463|Pre_Seed_Round_-_Your_FLOCK@a245c
+Service Provider Capital invested in which series_a funding rounds	Series_A_-_Truss@6f374
+Permira invested in which post_ipo_equity funding rounds	Post-IPO_Equity_-_Adevinta@96862
+Sora Ventures invested in which seed funding rounds	Seed_Round_-_The_Block@2090d
+Ground Up Ventures invested in which seed funding rounds	Seed_Round_-_ShapeShift_Gaming@450f6
+Sparking Capital invested in which seed funding rounds	Seed_Round_-_Vatis_Tech@17ae7

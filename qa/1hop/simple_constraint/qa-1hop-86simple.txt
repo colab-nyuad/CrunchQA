@@ -1,0 +1,100 @@
+list the Health_Care investors of Series A - mySupermarket	Pitango_Venture_Capital@07031
+list the Health_Care investors of Series F - Atox Bio	Arix_Bioscience@f3812
+list the Finance investors of Series A - Vibsec	Vertex_Ventures@161b5
+list the Consumer investors of Venture Round - SnagFilms	New_Enterprise_Associates@63147
+list the Computer_Vision investors of Series E - Care.com	Matrix_Partners@e4078
+list the InsurTech investors of Seed Round - Quantaad	Plug_and_Play_Tech_Center@bbdba
+list the Finance investors of Series A - Rivus Pharmaceuticals	Longitude_Capital@f1010|Medicxi_Ventures@5c7cb
+list the Finance investors of Series A - Cloud Conformity	Paladin_Capital_Group@e6ccc|Jump_Capital@bc341
+list the Financial_Services investors of Series A - SuperAwesome	Hoxton_Ventures@f37ab
+list the Financial_Services investors of Series C - MagCode	Target_Partners@eb911
+list the EdTech investors of Private Equity Round - Bill4Time	Alpine_Investors@490bd
+list the Venture_Capital investors of Seed Round - Yield Guild Games	gumi_Cryptos_Capital_(gCC)@b0db0
+list the Finance investors of Venture Round - Yields.io	Volta_Ventures@a047e
+list the Finance investors of Series E - CarDekho	Sequoia_Capital_India@d3a3d|LeapFrog_Investments@1c326
+list the E-Commerce investors of Seed Round - SendCloud	SanomaVentures@a65b0
+list the Finance investors of Seed Round - Torbit	Techstars_Ventures@16ee4|K9_Ventures@8dc02
+list the Banking investors of Series A - EnergyWatch	Corporate_Fuel@0ac45
+list the Recruiting investors of Series B - ThingWorx	Momenta@968c7
+list the Finance investors of Series A - Klara	Creathor_Ventures@6efd9
+list the Venture_Capital investors of Series D - Root Insurance	Scale_Venture_Partners@3c6b2|Tiger_Global_Management@0a837|Redpoint@3c72a
+list the Organic_Food investors of Series A - Wicked Foods	Unovis_Asset_Management@ebe7b
+list the Advanced_Materials investors of Venture Round - Adesto Technologies	Applied_Ventures@29eed
+list the FinTech investors of Series D - InfluxData	Battery_Ventures@8f3b3
+list the Financial_Services investors of Series G - Roblox	Altos_Ventures@ac719|Andreessen_Horowitz@5ca29|Meritech_Capital_Partners@ab86f
+list the Broadcasting investors of Series A - Curiosity	Discovery@138bd
+list the Financial_Services investors of Convertible Note - My.Flow	SOSV@e832c
+list the Finance investors of Series A - Alan	Partech@ae47b|Index_Ventures@4a1ab
+list the Venture_Capital investors of Seed Round - Infra.Market	Accel@7bf36
+list the Robotics investors of Convertible Note - Hyr	Twenty_Seven_Ventures@ea579
+list the Venture_Capital investors of Series B - Motionsoft	Edison_Partners@5acd1|Route_66_Ventures@d0146
+list the Consumer_Goods investors of Series A - Farmacias Personalizadas	ALLVP@a79f8
+list the SaaS investors of Seed Round - Typeform	RTAventures_VC@d572c
+list the Venture_Capital investors of Series C - Flywheel	Shasta_Ventures@d46a5|RockPort_Capital@5979e
+list the Business_Development investors of Series A - Zendar	Khosla_Ventures@6b694
+list the SaaS investors of Pre Seed Round - Veryfi	Act_One_Ventures@3a845
+list the Finance investors of Grant - RMC Solutions	The_Vogt_Awards@e173c
+list the Venture_Capital investors of Series B - Tudou	GGV_Capital@2a091|General_Catalyst@4a135
+list the Venture_Capital investors of Series A - Fornova	JAL_Ventures@83a59
+list the Financial_Services investors of Seed Round - Abhi	Sarmayacar@b67c4|Global_Ventures@e5fc8
+list the Market_Research investors of Series D - Applied Intuition	Coatue@ac419
+list the Health_Care investors of Seed Round - Menten AI	Khosla_Ventures@6b694
+list the Biotechnology investors of Series E - TransMedics	Flagship_Pioneering@fe151
+list the Venture_Capital investors of Series B - XenSource	Accel@7bf36|Kleiner_Perkins@421ec
+list the Augmented_Reality investors of Seed Round - Kwicr	Archimedes_Labs@ef4c0
+list the Angel_Investment investors of Series A - Causes	Amidzad_Partners@0b5c0
+list the Finance investors of Series D - Simplivity	Kleiner_Perkins@421ec|Accel@7bf36|Meritech_Capital_Partners@ab86f
+list the Financial_Services investors of Convertible Note - Journey Foods	SOSV@e832c
+list the Finance investors of Series A - Inivata	Cambridge_Innovation_Capital@b9313
+list the Finance investors of Series A - Phurnace Software	S3_Ventures@92611
+list the Incubators investors of Debt Financing - TherOx	Kleiner_Perkins@421ec
+list the Internet investors of Series C - Jupiter	3one4_Capital@7996b
+list the Incubators investors of Series C - ARMO BioSciences	Kleiner_Perkins@421ec
+list the Angel_Investment investors of Seed Round - PictureVision	Benchmark@2f77e
+list the Health_Care investors of Series B - TransMedics	Flagship_Pioneering@fe151
+list the Venture_Capital investors of Series A - Vivense Home & Living	Aslanoba_Capital@bcb47
+list the SaaS investors of Venture Round - ZaiNar	Alchemist_Accelerator@8aef7
+list the Venture_Capital investors of Private Equity Round - Chronus	Level_Equity_Management@bb6ad
+list the Market_Research investors of Series B - AirWalk Communications	Sevin_Rosen_Funds@9e636
+list the Personal_Finance investors of Seed Round - Affable	Prime_Venture_Partners@1fcaf
+list the Finance investors of Series A - Locafox	HV_Capital@84a91
+list the Finance investors of Convertible Note - Liveli	Streamlined_Ventures@6b2ba
+list the Venture_Capital investors of Seed Round - HOVER	Almaz_Capital@d5a7d
+list the Finance investors of Series E - GoCardless	Balderton@bccad|Notion_Capital@d3b02|Accel@7bf36
+list the Social_Entrepreneurship investors of Convertible Note - Re-Nuble	Launch_NY@05e30
+list the Finance investors of Series D - Grubhub	Benchmark@2f77e
+list the Robotics investors of Pre Seed Round - RoboTire	Type_One_Ventures@2e6f9
+list the Cloud_Data_Services investors of Venture Round - Redline Trading Solutions	Cue_Ball@7aeb8
+list the Finance investors of Series D - 3D Robotics	Atlantic_Bridge@3051a
+list the Financial_Services investors of Pre Seed Round - Raise Green	ABN_AMRO_&_Techstars_Future_of_Finance_Accelerator@78785
+list the Wellness investors of Pre Seed Round - Twain	Calm/Storm_Ventures@81ef3
+list the Venture_Capital investors of Seed Round - Gimme Radio	Techstars@bcac2
+list the Finance investors of Seed Round - Brilliant Bicycles	Great_Oaks_Venture_Capital@4ad2d
+list the Higher_Education investors of Series A - Abwaab	GSV_Ventures@5752c
+list the Analytics investors of Series A - 9Lenses	Corporate_Executive_Board_(CEB)@4196f
+list the Software investors of Series A - Cirrascale	Voyager_Capital@b21f7
+list the Finance investors of Seed Round - Stride Funding	Sinai_Ventures@6683a
+list the Business_Development investors of Series B - Tujia	GGV_Capital@2a091
+list the Biotechnology investors of Series A - Carrick Therapeutics	ARCH_Venture_Partners@27bbf
+list the Training investors of Pre Seed Round - Tennibot	Techstars_Sports_Accelerator@4c7a7
+list the Impact_Investing investors of Series A - Brex	Y_Combinator@d2d5e
+list the FinTech investors of Series A - Jetlore	Ulu_Ventures@452f2
+list the Financial_Services investors of Series A - BenchSci	Golden_Ventures@10b51|Inovia_Capital@fcf58|Afore_Capital@d6ed4
+list the Venture_Capital investors of Seed Round - Payhawk	Tiny_VC@b1966|Earlybird_Venture_Capital@2835d
+list the Telecommunications investors of Seed Round - Gameye	Lakestar@2f323
+list the Venture_Capital investors of Venture Round - Restaurant Technologies	ABS_Capital_Partners@3a238
+list the Finance investors of Seed Round - Buymie	Haatch@65766
+list the Venture_Capital investors of Series D - Glovo	Idinvest_Partners@2af60|Korelya_Capital@c2e67
+list the Banking investors of Seed Round - FIGS	Mohr_Davidow_Ventures@c11e0
+list the Venture_Capital investors of Series A - ZipLoan	Matrix_Partners_India@79c5f
+list the Finance investors of Seed Round - Spruce Holdings	Bessemer_Venture_Partners@cc2e8
+list the Venture_Capital investors of Series A - HelloTech	Crosscut_Ventures@6d0ac
+list the Venture_Capital investors of Seed Round - Grin Scooters	Sinai_Ventures@6683a
+list the Finance investors of Series B - Epocrates	Three_Arch_Partners@c3018|InterWest_Partners@e32a5
+list the Finance investors of Series A - BridgeComm	Space_Capital@1eb5c
+list the Financial_Services investors of Seed Round - Elotl	Vertex_US@5c126
+list the Financial_Services investors of Private Equity Round - Mobica	Inflexion_Private_Equity@d8110
+list the Infrastructure investors of Series B - Stash Financial	Entrée_Capital@70477
+list the Financial_Services investors of Series C - Focus	GGV_Capital@2a091
+list the Venture_Capital investors of Series B - Pinger	Kleiner_Perkins@421ec
+list the FinTech investors of Post-IPO Debt - Celsion	Hercules_Capital@bd141

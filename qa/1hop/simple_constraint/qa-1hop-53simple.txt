@@ -1,0 +1,100 @@
+who is the ISR sponsor of VMworld 2016 US	Infinidat@ccfb8|Check_Point_Software_Technologies@a8515
+who is the USA sponsor of Future Labs AI Summit	New_York_University@14c1e|Future_Labs@8f3da
+who is the GBR sponsor of Oktane15	Deloitte@cbc30
+who is the TWN sponsor of The Wearable Technology Show USA	AiQ_Smart_Clothing@d9915
+who is the NOR sponsor of Enterprise Connect Orlando 2018	Pexip@08b9e|Cyviz@5d4a2
+who is the GBR sponsor of HR Retail 2018	SHL@c4d9c
+who is the FRA sponsor of AutoMobility LA 2017	Vulog@ba1b9
+who is the USA sponsor of PyCon SK 2016	The_Fedora_Project@2b427|Red_Hat@f9701|Python_Software_Foundation@a28bb
+who is the KOR sponsor of FinovateFall 2017	Samsung_Electronics@34a54
+who is the ISR sponsor of Underwriting Innovation USA 2021	Kovrr@7f7ee
+who is the GBR sponsor of South Bend Startup Week	F6S@3b378|MOO.COM@273fe
+who is the IRL sponsor of DevOpsDays Vancouver 2017	DemonWare@b1df2
+who is the DEU sponsor of MedTech Summit 2017	OSMUNDA@c79a2|TUV_SUD@f28c1
+who is the AUS sponsor of ad:tech Sydney 2017	Hitwise@b537c|Peazie@427fa|Brus_Media@c7a27
+who is the USA sponsor of HackerX + Microsoft Diversity in Tech	Microsoft@9ffbb|Whitetruffle@51d95|HackerX@47e60
+who is the FRA sponsor of WordCamp Europe 2019	Weglot@b1c1e
+who is the USA sponsor of HR360 Summit 2018	AgileOne@7b683
+who is the JPN sponsor of Google Cloud Next 2017	Groovenauts@f8f11|Trend_Micro@beeb5
+who is the GBR sponsor of Digiday Agency Summit	Financial_Times@341fa
+who is the USA sponsor of Salesforce World Tour Paris 2016	AutoRABIT@9d22d
+who is the DEU sponsor of Spielmacher Conference 2019	FLYERALARM@18825|Stickerstars@91d2e|TeraVolt@f3f7f|SAP@6ae82|WhiteRock@39678
+who is the UKR sponsor of Startupbootcamp Sport & EventTech Melbourne Demo Day	Eltrino@a97f8
+who is the JPN sponsor of IDEAS Show 2014	Global_Brain_Corporation@f7da0|CyberAgent_Capital@7adf7
+who is the ISR sponsor of theCUBE BigDataSV at Strata + Hadoop World 2017 San Jose	Iguazio@a79d8
+who is the DEU sponsor of FST Government Victoria	Matrix42@1c1e0
+who is the HKG sponsor of Magic Internet Gathering - Mintgox003	Lemniscap@f77d6
+who is the PRT sponsor of APPSEC USA 2017	Jscrambler@10bad
+who is the CHE sponsor of Seedstars Dhaka	International_Trade_Centre@366be
+who is the USA sponsor of Disrupt Berlin Hackathon 2017	Devpost@ac5e0|Esri@ae696|Universe@3a17a|Clover@3ad8b
+who is the USA sponsor of Eastern Europe Tech Tour 2018	Almaz_Capital@d5a7d
+who is the CAN sponsor of CoinGeek Week 2018	Squire_Mining@7e2c8
+who is the SWE sponsor of IEEE Women in Engineering International Leadership Conference	Ericsson@ab6e6
+who is the FRA sponsor of Oracle OpenWorld 2019	Capgemini@2af6d
+who is the USA sponsor of IT Roadmap Chicago	Apcela@afdea|Decision_Lens@fe9dc|IBM@a134c|Global_Knowledge@2a429|Apptio@824e6|Load_DynamiX@28b30|Cradlepoint@cb56b|Nasuni@9ce48|Seilevel@12965|Randstad_USA@20738|Comcast_Business@5d831|Savvius@dfdd9|Riverbed_Technology@238eb|AT&T@11171|Keeper_Security@a238d|PGi_(Premiere_Global_Services)@a5995|Zerto@c7d23|Business_IT_Source@7a16e|Project_Leadership_Associates@6b953|Hewlett_Packard_Enterprise@13772|OutSystems@4410e|Oracle_Dyn@3a1eb
+who is the JPN sponsor of WordCamp US 2015	DigitalCube@07807
+who is the GBR sponsor of Girls in Tech Catalyst Conference 2019	Ludic_Group@ae4bc
+who is the CHN sponsor of NVIDIA GTC 2021	Inspur_Group@fbbc0|Lenovo@86d83
+who is the USA sponsor of LA CEOs	CohnReznick@54e70|Newmark_Knight_Frank_(NKF)@5990b|Bryan_Cave_Leighton_Paisner@b0205|Dynamic_Synergy_Executive_Recruitment@f8833
+who is the ISR sponsor of EuroCyber Conference	Israel_Advanced_Technology_Industries@bbdfa
+who is the CAN sponsor of Startup Socials Toronto Mixer	BDC_Venture_Capital@a09d8|Relay_Ventures@93615
+who is the USA sponsor of Social Media Week Austin 2018	Austin_Technology_Council@2f60a|Capital_Factory@f637e|Texchange@f6860
+who is the NLD sponsor of Future of Payments Summit	Holland_FinTech@d675e
+who is the DEU sponsor of Manufacturing Pricing Excellence Conference in Amsterdam	Pricefx@44af5
+who is the CHN sponsor of ODSC East 2020 Virtual Conference	Huawei_Technologies@42c79
+who is the CHN sponsor of Adobe MAX 2016	DJI@7070b
+who is the DEU sponsor of Job Board Summit - Europe 2017	Joblift@9df56
+who is the GBR sponsor of The AI Summit Singapore	PwC@fec0b
+who is the FRA sponsor of Startupbootcamp Scale FinTech Mexico City Demo Day	Ingenico_Group@ad9bc|BNP_Paribas_Personal_Finance@15224|HCVC@84f6d|Airbus@af317|Capgemini@2af6d|Suez_Ventures@55dbd|Danone@60de3|VINCI@a580e|Viva_Technology@867c2|Sopra_Steria@bb790|Sanofi@c772d
+who is the HKG sponsor of Futurecom 2017	Comba_Telecom_Systems_Holdings@f870a
+who is the FRA sponsor of TradeTech Europe 2018	Kepler_Cheuvreux@c3a66|Quasardb@64d2d|Ullink@7bcd5|QuantHouse@f1a10
+who is the POL sponsor of Wolves Summit 2021	SATUS_Starter@59f40
+who is the RUS sponsor of Dubai International Blockchain Summit 2018	B2Broker@cd2e0|HOQU@93b0a
+who is the CHE sponsor of Katapult Accelerator Demo Day	Climate-KIC@133f0
+who is the CHE sponsor of Diffusion Event	Cosmos_Network@c3672|RightMesh@2385b
+who is the KOR sponsor of Citrix Summit Anaheim 2018	Samsung_Electronics@34a54
+who is the USA sponsor of MONETIZE 10	goTransverse@71b25|BillingPlatform@5879a|BlueSnap@6f02b|Chargify@d649b|Zuora@f1c85|RecVue@a5f43
+who is the CHN sponsor of Startupbootcamp EnergyAustralia	Aplus_Labs@456b5
+who is the KOR sponsor of Pacific Telecommunications Council 2019	KT_Corp@4be5f
+who is the USA sponsor of Sourcing Strategies	RecruitiFi@32f2c
+who is the FRA sponsor of ICEEfest 2019	Boiron@a025c|Thales_Group@13d65|Orange@b9ef8
+who is the COL sponsor of ISC West 2018	Biometric_Update@5eac1
+who is the IND sponsor of Dreamforce 2017	Birlasoft@bfd79|Career_planet_Infotech@3ca60|HCL_Enterprise@742b1|Infosys@a9526|SaaSFocus@0cfdd
+who is the DEU sponsor of Using CrowdSourcing to cut document verification time by 85% - organized from AI & Intelligent Automation Network	ScaleHub_AG@9338a
+who is the GBR sponsor of Women In Tech 2017	Ernst_&_Young@b05c9
+who is the USA sponsor of Code Commerce 2017	Steelcase@de9c5|SimilarWeb@8490e|mParticle@a41f3|Persado@983fc|eBay@2dcb1
+who is the GBR sponsor of Cloud Expo New York 2016	Interoute_Communications@76af6
+who is the USA sponsor of WordCamp Norway 2016	WP_Engine@42641|GoDaddy@21590|Bluehost@2b967|Jetpack@147a9
+who is the USA sponsor of Bay Angels - Investment Screening meeting	The_Vault@81869
+who is the USA sponsor of PrivSec Conference New York 2019	National_Cyber_Security_Alliance@4987e|Google@27711|OneTrust@2dc00
+who is the HUN sponsor of Startup Weekend Budapest	Hiventures@1135e|IseeQ@3ec51
+who is the IRL sponsor of Unleash World Paris 2019	Sonru.com@ab2d6|TandemHR_Solutions@589fa|SocialTalent@e5ca4|Immedis@18c7b
+who is the USA sponsor of Tech Tour Healthtech Summit 2017	Orrick,_Herrington_&_Sutcliffe_LLP@f3c02
+who is the USA sponsor of Atlassian Summit 2018	Ricksoft,_Inc.@d54fc|InVision@a9c0e|VictorOps@ed33b|QASymphony@e1db1|Appfire_Technologies@d92da|Klera@06408|Metric.ai@28dcf|QMetry@a7a60|Zephyr@52111|ServiceRocket@b9ac2|Tempo@18247|Atlas_Authority@c783d|Balsamiq@db95a|Sentry@f9675|Gliffy@b2d48|SmartDraw.com@9ad8b|ALM_Works@9c59a|Hiptest@5e4f4
+who is the USA sponsor of FundingPost Los Angeles VC and Angel 400th Investor Conference & Startup Pitch Competition	Crowded@3b9b5|McCarter_&_English@fbb4f
+who is the USA sponsor of Community Building Growth Tactics: Hands-On Workshop	The_Vault@81869|General_Assembly@c08e9|SoftLayer@a2178
+who is the JPN sponsor of EuroTides: Part Of Tides Europe 2017	Ajinomoto@eca14|Nitto_Denko@9f6a2
+who is the DEU sponsor of DEMO Fall 2014	SAP@6ae82
+who is the USA sponsor of LibertyJS	STRATIS_IoT@8e4f6
+who is the IND sponsor of Seedstars World Summit 2017	Payubiz@5be83
+who is the USA sponsor of Edves Catalyst 2020	THE_WORLD_BANK@af6e0
+who is the JPN sponsor of IoTBuild US 2020	Hitachi_Solutions@67b3c
+who is the CHE sponsor of Verge 2017	Tiko.ch@cd2a6
+who is the USA sponsor of Steven Aldrich: Helping Small Business Win Online	SAP_Startup_Focus@6ad60|Founders_Space@2b5e6|The_Gmic@14e5d|StartupDigest@22adf
+who is the USA sponsor of AIST European Steel Forum	Falkonry@1ea6f
+who is the CAN sponsor of NOAH Berlin 2018	Nuvei@85129
+who is the GBR sponsor of Startup Weekend NYC	Rise,_A_Barclays_Company@19797
+who is the USA sponsor of Blockworld 2018	Aikon@e8adf|Bodhi@30ed6|Lamden@e7cac|TrueCerts@e99b7|Kambria@e5992|Airzus@7ff8b|Synerzip@af9c3|ZenSports@939d4|BlockIDE@4a75f|Subspace_Labs@b2989|Platform_6@a411a|CommTrade@2c2c7|Aura_Lab@4b4da|Pledgecamp@8c054|Lunar_Digital_Assets@c5465
+who is the CHN sponsor of Identiverse 2019	Feitian_Technologies@01b1b
+who is the CZE sponsor of Next Level Indie Forum Seattle 2015	Memsource_Group@76bcb
+who is the ISR sponsor of Game Developers Conference 2019	Appnext@77174
+who is the GBR sponsor of HybridConf 2015	Wonderbly@3a22c
+who is the USA sponsor of Deep Learning Summit London 2018	Qualcomm@c07c6
+who is the JPN sponsor of Fuse Vol. 2 Growth Industry Conference	BizReach@e8e45|Sumitomo_Life_Insurance_Company@4cebf|Nomura@60656|Mitsui_Chemicals@d7bed|Toppan_Printing@5d4b5
+who is the USA sponsor of Sprint Accelerator powered by Techstars Demo Day 2016	Sprint_Accelerator@a37e2|Techstars@bcac2
+who is the IRL sponsor of Adobe Summit 2016	Accenture@8930b
+who is the USA sponsor of Big Data Innovation Summit Boston 2018	BeyondCore@59d1b|ThoughtSpot@71088|MapQuest@6ed51|Rhode_Island_Commerce_Corporation@5f2ea|Tamr@bf851|Trillium_Software@f6e8a|Striim@2eeb0
+who is the NZL sponsor of 500 Startups Presents WMD Weapons of Mass Distribution	Xero@216bb
+who is the LUX sponsor of WebSummit Lisbon 2021	European_Investment_Bank@f7db1
+who is the PHL sponsor of Connected Claims USA Summit 2019	DAIS_Technology@72819
+who is the USA sponsor of Black Hat Asia 2016	NortonLifeLock@7ed22|Veracode@c7513|Tenable@8045b|iboss@423df|Fortinet@29abd|Cylance@c3af0|Qualys@53f8e

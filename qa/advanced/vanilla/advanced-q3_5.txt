@@ -1,0 +1,100 @@
+list of investors in DiA Imaging Analysis's Seed	CE_Ventures_(CEIIF)@52a3f|AltaIR_Capital@e12e5
+list of investors in OrderMyGear's Series A	Susquehanna_Growth_Equity@475bd
+list of investors in Curv's Seed	Team8@42091
+list of investors in Adbrain's Seed	Notion_Capital@d3b02
+list of investors in Lightheart Entertainment's Seed	Galaxy_Interactive@8699d
+list of investors in Orbeus's Pre - seed	Techstars_Chicago@10a97
+list of investors in Gloat's Seed	Wellborn_Ventures@4779f|Magma_Venture_Partners@d485a
+list of investors in Coherent Path's Series A	Sigma_Prime_Ventures@4a6aa|CVP_Management@af829
+list of investors in Ganji's Series B	NGP_Capital@eac82|BlueRun_Ventures@beb95
+list of investors in Tekkredi's Series A	Diffusion_Capital_Partners@fc263
+list of investors in Auris Medical's Series C	Sofinnova_Investments@7de35|Sofinnova_Partners@1d29d
+list of investors in Zapp's Series A	MPGI@33b78|Atomico@e7657
+list of investors in HOPU Smart Cities's Seed	EIT_Urban_Mobility@b490b
+list of investors in Zentist's Seed	All_Iron_Ventures@655e6
+list of investors in GrowthSpace's Series A	M12_-_Microsoft's_Venture_Fund@41a0c|Vertex_Ventures@161b5
+list of investors in Sqrrl's Series A	Atlas_Venture@b08cd|Matrix_Partners@e4078
+list of investors in Catalyst Biosciences's Series B	HealthCare_Ventures@e22cd|Morgenthaler_Ventures@47914|Burrill_&_Company@ed234
+list of investors in Univid's Seed	Spintop_Ventures@56ddd
+list of investors in Bravo Wellness's Series A	ABS_Capital_Partners@3a238
+list of investors in Point Pickup's Series A	BBH_Capital_Partners@5421b
+list of investors in Polyglots's Seed	Hitotoki_Incubator@cc672
+list of investors in Smarkets's Series A	Passion_Capital@101c5|Deutsche_Telekom_Strategic_Investments@419da
+list of investors in Restaurant Technologies's Private Equity	Parthenon_Capital_Partners@8c7fc
+list of investors in AT&T CyberSecurity's Series C	Jackson_Square_Ventures@8d8b7|Trident_Capital@c66a1|Kleiner_Perkins@421ec
+list of investors in Quantexa's Series B	Dawn_Capital@c55ee
+list of investors in MesDocteurs's Seed	Partech@ae47b
+list of investors in Yolobus's Series A	India_Quotient@84aba|Nexus_Venture_Partners@7bdd1
+list of investors in Moz's Series C	Foundry@febd0
+list of investors in Virgil Security's Seed	Bloomberg_Beta@4d58d
+list of investors in Pilot's Series B	Authentic_Ventures@07d6a|American_Express_Ventures@70ea3|Index_Ventures@4a1ab
+list of investors in Smytten's Series A	Fireside_Ventures@38d71|Roots_Ventures@0632e
+list of investors in Rivet's Series A	Pelion_Venture_Partners@a51e1|Menlo_Ventures@1596d|Lux_Capital@62d86
+list of investors in OpenTable's Series C	Impact_Venture_Partners@ea7de|Benchmark@2f77e
+list of investors in Yoconut Dairy Free's Pre - seed	Big_Idea_Ventures@7eccd
+list of investors in Wake's Seed	First_Round_Capital@20e13
+list of investors in Kaizo's Seed	Partech@ae47b|Fortino_Capital@b7d8c|River_Venture_Partners@2ee6f|Gradient_Ventures@be00e
+list of investors in Airmee's Seed	J12_Ventures@a0fb4
+list of investors in Minna Technologies's Series B	Element_Ventures@48419|Middlegame_Ventures@2883c
+list of investors in Beauty Noted's Seed	Kortschak_Investments_L.P.@6606b|Ridge_Ventures@d96a0
+list of investors in Lightspeed POS's Series A	Inovia_Capital@fcf58|Accel@7bf36
+list of investors in GetYourGuide's Series B	Spark_Capital@db9e1|Highland_Capital_Partners@8e070
+list of investors in Stemcentrx's Series F	Founders_Fund@7175c|Artis_Ventures_(AV)@bc81b|Sequoia_Capital@55f91
+list of investors in C2i Genomics's Series A	NFX@3b2c6|Casdin_Capital@834ae
+list of investors in DRINKmaple's Series A	FreshTracks_Capital@60434
+list of investors in ARTHEx Biotech's Seed	AdBio_partners@bd9d1
+list of investors in Naurex's Series A	Adams_Street_Partners@fc67e|Takeda_Ventures,_Inc.@2f69b|PathoCapital@9902a
+list of investors in HandScape's Seed	Lighthouse_Capital_Management@fd0d8
+list of investors in Taskable's Pre - seed	LAUNCH@55a72
+list of investors in SarvaGram's Seed	Elevar_Equity@f395d
+list of investors in Borqs Technologies's Series A	GSR_Ventures@b9bc9
+list of investors in The Institute for Corporate Productivity's Series A	Flybridge@f2949
+list of investors in Wish's Series E	DHVC@58739
+list of investors in Realeyes's Series B	NTT_DoCoMo@4e007|Global_Brain_Corporation@f7da0
+list of investors in Wakie's Seed	LETA_Capital@2fccd
+list of investors in Prose's Seed	Red_Sea_Ventures@ae38e|Lerer_Hippeau@21e35|Maveron@d58ab|Isai@91c19
+list of investors in Deciphera Pharmaceuticals's Series B	New_Leaf_Venture_Partners@484c9
+list of investors in Inversago Pharma's Series A	Amorchem@c76da
+list of investors in SpeedDate's Series B	Menlo_Ventures@1596d
+list of investors in Anything World's Pre - seed	Techstars_London_Accelerator@ed4bf|Warner_Music_Group@a630f
+list of investors in Tamasha's Seed	Chiratae_Ventures@d910a
+list of investors in Animated Speech's Series C	Keiretsu_Forum@3106d
+list of investors in UnDosTres's Series A	InnoCells@5861a|IGNIA@ad9b7
+list of investors in BIMA's Series C	Kinnevik_AB@f7f74
+list of investors in Fandango's Series C	TCV@87e26
+list of investors in SwiftKey's Series B	Octopus_Ventures@991f9|Index_Ventures@4a1ab
+list of investors in Emulate's Series A	NanoDimension@997ff
+list of investors in Booster's Series A	Conversion_Capital@28e1c|RRE_Ventures@db761|Maveron@d58ab
+list of investors in Shibumi's Series A	Indicator_Ventures@6fb17
+list of investors in Kin Community's Series C	Mayfield_Fund@ddfa6
+list of investors in Fast Travel Games's Series A	Heartcore_Capital@cae04|Industrifonden@58372
+list of investors in ExitNest's Pre - seed	Coplex@de724
+list of investors in FRX Polymers's Series C	MoreVC@29d7e|BASF_Venture_Capital@eb39a|Capricorn_Partners@c818e|Triton_Systems@fee1d
+list of investors in BlaBlaCar's Series D	Accel@7bf36|Lead_Edge_Capital@a1098|Insight_Partners@7b1c9|blisce/@b3e43
+list of investors in MSUITE's Seed	Next_Level_Ventures@48a41|Stanley_Ventures@d71e8
+list of investors in Tracx's Convertible Note	Flybridge@f2949
+list of investors in iYogi's Series B	Sapphire@b5aba
+list of investors in Asensei's Seed	KB_Partners@24ce5
+list of investors in Scopely's Series E	NewView_Capital@50494|Revolution_Growth@5bac6|D1_Capital_Partners@3ce36
+list of investors in Orca Security's Seed	StoneMill_Ventures@90c90|YL_Ventures@3c44d
+list of investors in STRATIM Systems's Series B	Bessemer_Venture_Partners@cc2e8|Trinity_Ventures@275b9|Norwest_Venture_Partners@eee08
+list of investors in SequoiaDB's Series C	DCM_Ventures@95d5f|Qiming_Venture_Partners@9e729
+list of investors in Snap's Series B	Institutional_Venture_Partners@b1b51|General_Catalyst@4a135|Benchmark@2f77e|Lightspeed_Venture_Partners@55ccd
+list of investors in Ubiquity6's Series B	Benchmark@2f77e|Index_Ventures@4a1ab
+list of investors in Deep Instinct's Series A	Millennium_Technology_Value_Partners@e271f
+list of investors in Itsme's Series A	Seven_Seven_Six@6d8d7|West_Quad_Ventures@f4089
+list of investors in Pillow's Seed	Album_VC@fbaca|Science@d1891|ACME_Capital@ddd53
+list of investors in MetaMap's Series B	Tribe_Capital@a36d4|Craft_Ventures@1e268
+list of investors in Reelgood's Seed	Harrison_Metal@1d4c2
+list of investors in import.io's Series A	Wellington_Partners@96a7b|AME_Cloud_Ventures@b0af4|Imperial_Innovations@0a83f
+list of investors in 99.co's Seed	Sequoia_Capital_India@d3a3d|Golden_Gate@24c50|East_Ventures@6425e
+list of investors in 10Web.io's Seed	Sierra_Ventures@5a362
+list of investors in Tokeny Solutions's Seed	Inveniam_Capital_Partners@00237
+list of investors in hetras's Series E	Target_Partners@eb911|Scottish_Equity_Partners@e708d
+list of investors in SS8 Networks's Series A	ONSET_Ventures@2dbdb
+list of investors in Zogenix's Series B	Domain_Associates@7b081|Chicago_Growth_Partners@43ddf|Scale_Venture_Partners@3c6b2|The_Blackstone_Group_Inc@790ae
+list of investors in Swish.ai's Series A	Dell_Technologies_Capital@0a52f
+list of investors in ElasticBox's Seed	Sierra_Ventures@5a362
+list of investors in Intricately's Series A	Counterpart_Ventures@e18d9
+list of investors in Lifecrowd's Series A	Lightbank@6dc9e
+list of investors in CloudShield Technologies's Series D	Paladin_Capital_Group@e6ccc

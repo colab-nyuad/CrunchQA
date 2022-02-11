@@ -1,0 +1,100 @@
+which company launched Pre Seed Round - Watobe	Watobe@ad7e5
+which company launched Secondary Market - ProctorExam	ProctorExam@deb0b
+which company launched Series H - Procore	Procore@4ba9e
+which company launched Grant - PlantForm	PlantForm@748e6
+which company launched Equity Crowdfunding - XY – The Persistent Company	XY_–_The_Persistent_Company@7ffcd
+which company launched Debt Financing - Catchpoint	Catchpoint@6d2e1
+which company launched Pre Seed Round - StockStory	StockStory@51fb9
+which company launched Seed Round - Everbots	Everbots@ee5a9
+which company launched Venture Round - La Belle Vie	La_Belle_Vie@28ea2
+which company launched Venture Round - CrossFirst Bank	CrossFirst_Bank@2be30
+which company launched Pre Seed Round - isiQiri interface technologies	isiQiri_interface_technologies@d5c84
+which company launched Grant - Platform Calgary	Platform_Calgary@5de8e
+which company launched Seed Round - ShortPoint, Inc.	ShortPoint,_Inc.@82ced
+which company launched Corporate Round - Harbor	Harbor@c42d2
+which company launched Series A - Rupifi	Rupifi@281c8
+which company launched Venture Round - PureForge	PureForge@9f160
+which company launched Series E - WorkFusion	WorkFusion@22d7c
+which company launched Seed Round - Arizona Fuel Operations	Arizona_Fuel_Operations@a85c9
+which company launched Venture Round - Stipple	Stipple@31ffb
+which company launched Seed Round - Procol	Procol@d3723
+which company launched Corporate Round - Spherium.Finance	Spherium.Finance@02f99
+which company launched Grant - WBENC	WBENC@de6e3
+which company launched Seed Round - Louxiaoyi	Louxiaoyi@12987
+which company launched Series B - WARP Solutions	WARP_Solutions@891b4
+which company launched Venture Round - R.W. Pressprich & Co	R.W._Pressprich_&_Co@f5768
+which company launched Angel Round - Privy	Privy@32ef2
+which company launched Post-IPO Equity - 22nd Century Group	22nd_Century_Group@67832
+which company launched Venture Round - Househappy	Househappy@d64f9
+which company launched Seed Round - Kyoto Fusioneering	Kyoto_Fusioneering@aeb6f
+which company launched Angel Round - Rixty	Rixty@0b279
+which company launched Series A - HawkEye 360	HawkEye_360@c56ee
+which company launched Series E - Snowball Finance	Snowball_Finance@2bfc8
+which company launched Venture Round - Brindley Healthcare	Brindley_Healthcare@130c9
+which company launched Angel Round - PKUP	PKUP@a01cf
+which company launched Series A - Baifendian	Baifendian@8ac73
+which company launched Equity Crowdfunding - Universal Fuels	Universal_Fuels@b7b1f
+which company launched Seed Round - Campsited	Campsited@0e84f
+which company launched Seed Round - Triviar	Triviar@f566d
+which company launched Series A - Cowbell Cyber	Cowbell_Cyber@a8107
+which company launched Pre Seed Round - OPTT Health	OPTT_Health@aa085
+which company launched Venture Round - rankingCoach	rankingCoach@3f640
+which company launched Convertible Note - jobZology	jobZology@35024
+which company launched Post-IPO Equity - eHealth	eHealth@30d8e
+which company launched Venture Round - Fine World	Fine_World@031f7
+which company launched Seed Round - ExceptionALLY	ExceptionALLY@985e4
+which company launched Debt Financing - ThreatQuotient	ThreatQuotient@3c497
+which company launched Seed Round - Prezitt	Prezitt@f8d5e
+which company launched Post-IPO Equity - Sphere 3d	Sphere_3d@0e53b
+which company launched Debt Financing - Pulmatrix	Pulmatrix@89bce
+which company launched Seed Round - Hostel Rocket	Hostel_Rocket@8a7af
+which company launched Series A - Sentbe, Inc.	Sentbe,_Inc.@458cc
+which company launched Debt Financing - Lendr	Lendr@4899f
+which company launched Debt Financing - 151 Research	151_Research@84e22
+which company launched Series A - WOWJOY TECHNOLOGY	WOWJOY_TECHNOLOGY@ecbc7
+which company launched Series D - UGO Entertainment	UGO_Entertainment@1567f
+which company launched Grant - Cibles-Solutions d'affaires inc	Cibles-Solutions_d'affaires_inc@baa00
+which company launched Pre Seed Round - VisuWall	VisuWall@6d4c3
+which company launched Venture Round - 3V Transaction Services	3V_Transaction_Services@c4005
+which company launched Funding Round - Wepow	Wepow@58f0f
+which company launched Pre Seed Round - Kankun.io	Kankun.io@24f3f
+which company launched Grant - Pioneer Valley Planning Commission	Pioneer_Valley_Planning_Commission@8a7c8
+which company launched Series A - BLEND Localization	BLEND_Localization@8e43c
+which company launched Grant - Lloyd Hamilton	Lloyd_Hamilton@3cc2a
+which company launched Pre Seed Round - Cubbo	Cubbo@9de88
+which company launched Venture Round - GeekChicDaily	GeekChicDaily@60a99
+which company launched Series E - StockX	StockX@8cb94
+which company launched Seed Round - CityLegends	CityLegends@f103d
+which company launched Debt Financing - ProteoMediX	ProteoMediX@7fc32
+which company launched Product Crowdfunding - LUUV	LUUV@14eaf
+which company launched Series B - Immedia	Immedia@9c59b
+which company launched Seed Round - Drone Racing League	Drone_Racing_League@5e226
+which company launched Debt Financing - Oakwood Lending	Oakwood_Lending@ecfdb
+which company launched Series C - I-Mab Biopharma	I-Mab_Biopharma@ac62f
+which company launched Series A - Tourkrub	Tourkrub@04978
+which company launched Series D - NGM Biopharmaceuticals	NGM_Biopharmaceuticals@25183
+which company launched Seed Round - Gone	Gone@46ce5
+which company launched Venture Round - Avra Medical Robotics	Avra_Medical_Robotics@d2bca
+which company launched Series D - Pavilion Data Systems, Inc.	Pavilion_Data_Systems,_Inc.@61198
+which company launched Post-IPO Equity - MedMen	MedMen@22b50
+which company launched Series A - DMC Biotechnologies	DMC_Biotechnologies@a6c47
+which company launched Seed Round - B-PARTS.com	B-PARTS.com@35d81
+which company launched Angel Round - HOUDAR	HOUDAR@0bd7a
+which company launched Series B - Rootstock Software	Rootstock_Software@d3832
+which company launched Series A - Wintermute Trading	Wintermute_Trading@4b0ec
+which company launched Angel Round - Webtalk	Webtalk@47bcd
+which company launched Seed Round - CHARGE+ZONE	CHARGE+ZONE@5d45d
+which company launched Series A - FinCompare - Smarter Business Finance	FinCompare_-_Smarter_Business_Finance@eb751
+which company launched Debt Financing - Vorago Technologies	Vorago_Technologies@31c73
+which company launched Grant - SwissDeCode	SwissDeCode@80ea9
+which company launched Series D - Komli Media	Komli_Media@bba76
+which company launched Angel Round - Travel Likes.net	Travel_Likes.net@e3381
+which company launched Seed Round - Edueto	Edueto@4ff98
+which company launched Seed Round - Silent Falcon	Silent_Falcon@d3aad
+which company launched Series B - TrialPay	TrialPay@8b877
+which company launched Seed Round - Comedy Crowd TV	Comedy_Crowd_TV@9d0e0
+which company launched Post-IPO Equity - Histogenics	Histogenics@525e6
+which company launched Debt Financing - Evrnu	Evrnu@df313
+which company launched Series B - BrightFarms	BrightFarms@c94ae
+which company launched Venture Round - inkSIG Digital	inkSIG_Digital@6910b
+which company launched Pre Seed Round - ObiNo	ObiNo@701f9

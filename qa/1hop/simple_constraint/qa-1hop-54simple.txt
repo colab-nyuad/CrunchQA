@@ -1,0 +1,100 @@
+who is the USA speaker of St. Marys Speaker Series	Nicholas_Ramos@af7a1
+who is the FIN speaker of Nordic Innovation Summit 2019	Sari_Hurme-Mehtala@69f59
+who is the ISR speaker of MWC Barcelona 2021	Hayim_Porat@9e1ac|Menny_Barzilay@b0146|Yisrael_Gross@930bd|Gilad_Garon@51089|Gilad_Bornstein@2e9e7|Yossi_Vardi@199fc|Oren_Marmur@347ba|Hillel_Coren@c18f4|Sivan_Rauscher@ac0cb
+who is the NZL speaker of World Domination Summit	Derek_Sivers@292dd
+who is the ISR speaker of Cloud Expo New York 2015	Reuven_Harrison@7e458
+who is the USA speaker of CapitalCon	Keith_Herman@c2beb
+who is the SAU speaker of 10th Global Family Office Investment Summit, Dubai. Under the High Patronage of His Highness Sheikh Ahmed Al Maktoum	Abdulrahman_Al-Qahtani@8caae|Al_Sharif_Nawaf_Faiez_Al_Abdelhakim@50d0e|Majed_M._AlTahan@89e7c|Lewa_Abukhait@66c9e|Waleed_Abalkhail@c77fd
+who is the ESP speaker of South Summit	Maria_Eugenia_Giron@9c77c|Juan_Garrigosa@59100|Lynette_Kucsma@5b9ff|Juan_De_Antonio@418af|Martin_Varsavsky@b871d|Fran_Garcia_Ruiz@e17ff|Miguel_Vicente@0fa6a|Ander_Michelena@339eb|José_del_Barrio@a0ad5
+who is the USA speaker of VCCircle Education Investment Summit 2016	Will_Poole@c0509
+who is the GBR speaker of Money 20/20 Europe 2019	Alessandro_Hatami@354b0
+who is the BEL speaker of SAI Computing Conference 2016	Thomas_Kallstenius@26063
+who is the USA speaker of Bay Angels Investors Event - April 24 2018 - San Francisco	Jordan_Wahbeh@eeb4a|Evgeny_Klochikhin@69415|Mehul_Patel@57366|Alex_Popof@1dd92|Phil_Bronsdon@06916|Jim_Jannuzzio@dc3f7
+who is the ARE speaker of World Future Energy Summit	Muhammed_Arafath@67276
+who is the JPN speaker of DevOpsDays Tokyo 2017	Zach_Brown@51368
+who is the SWE speaker of GraphConnect Europe	Lars_Ericsson@109ac|Johan_Teleman@18a6c|Andrés_Taylor@1b6a7|Rickard_Damm@66b88
+who is the JPN speaker of Techsauce Global Summit	Kei_Shimada@44449
+who is the GBR speaker of CanSecWest Vancouver 2018	Georgi_Geshev@eeb5a
+who is the CAN speaker of CEBIT 2018	Dave_Lewis@a3bd7
+who is the HRV speaker of Mobility Pioneers 2018	Mate_Rimac@34a5c
+who is the CHE speaker of MoneyConf Dublin 2018	Olga_Feldmeier@04722|Filipe_Castro@5773e|Ben_Robinson@ca817
+who is the NOR speaker of Webdagene 2015	Målfrid_Ågotnes@3ad31|Ove_Dalen@a40ec|Stine_Bjerkestrand@1dce8|Dag_Scott@3d1fa|Helene_Graver@53ece|Ida_Aalen@e96b8|Bård_Farstad@b97d6|Ida_Jackson@7d7a4
+who is the DNK speaker of DX Summit London	Henrik_Aagaard_Johanson@24dfb
+who is the NZL speaker of Gartner IT Financial, Procurement & Asset Management Summit London 2017	Jo_Liversidge@94e4b
+who is the USA speaker of Startup Grind NYC Hosts Shaun Johnson, Co-founder of Startup Institute	Peter_Crysdale@93ce4|Shaun_Johnson@1b2a2
+who is the IND speaker of Web.br 2015	Sunil_Abraham@62eef
+who is the BLR speaker of PocketGamer Connects San Francisco	Dmitry_Liapin@770e8
+who is the SGP speaker of ArabNet Digital Summit 2015	Parminder_Singh@38c98|Mohan_Belani@18016
+who is the GBR speaker of UX for Good	Richard_Halford@d3d24|Sandra_Gonzalez@7b3d1
+who is the ISR speaker of Web Summit Lisbon 2017	Amiad_Soto@c746f|Moshe_Shlisel@154d3|Yoni_Assia@bb982|Gal_Shaul@82a0c|Dor_Skuler@0340a|Shiran_Yaroslavsky@d5777
+who is the DNK speaker of Chainpoint 19	Jack_Nikogosian@378ba
+who is the CAN speaker of Vivatech 2021	Justin_Trudeau@5dde8|Paul_Allard@dd882|Yannick_Lefang@3fdeb
+who is the AUS speaker of Pirate Summit 2015	John_Henderson@2babc
+who is the JPN speaker of Gartner Data & Analytics Summit Tokyo 2017	Hideaki_Horiuchi@84caf|Kazuto_Ataka@ddfee|Tatsuya_Ichishi@389c0|Tadaaki_Mataga@32c81
+who is the USA speaker of JDA ICON	Anirudh_Pandit@77964
+who is the ITA speaker of Program DIY Video Summit	Mario_Amura@a8281
+who is the CHN speaker of Customer Success Festival APAC	Ryan_Yuan@07c1f|Sarah_Li@c0391
+who is the GBR speaker of Code/Mobile	Niklas_Zennström@90d8f
+who is the JPN speaker of Startup Grind	Akemi_Tsunagawa@8261f
+who is the DEU speaker of Microsoft Future Decoded 2017	Sven_Peters@4a51a|Olivia_Klose@e978a
+who is the SVN speaker of NOAH Berlin 2019	Marko_Gucek@16be8
+who is the USA speaker of 2020 Vision Executive Summit	Valerie_Knafo@eb137|Charlie_Ashton@7bf6b|Derek_Peterson@605f1|Sterling_Perrin@022c1|Craig_Matsumoto@bd88f|Kevin_Shatzkamer@02de2|Robert_Brumley@6ea49|Stephen_Saunders@d3f87|Bill_Walker@8c8ef|Jyeh_Gan@42dd6|Steven_Liang@70deb|John_Watson@37e85|Kevin_Riley@915fa|David_Stehlin@dd2bb|Dave_Duggal@ebe5b|Nirlay_Kundu@8b639|Michel_Langlois@f7435|Edward_Fox@fd60f|Dilip_Pillaipakkam@e31fa|Steve_Bell@304dd|Jeff_Finkelstein@8feaa|Michael_O'Malley@1cf03|Arpit_Joshipura@d957f|Shaun_McFall@e58f1|Lauren_de_la_Fuente@5fd45|Carol_Wilson@d446a|Ken_Kiser@2a4c3|Terri_Reintjes@8ac3e|Sean_Yarborough@1af04|Steve_Vogelsang@d7405
+who is the GBR speaker of 37 ºC Life Science Technology Conference & Exhibition	Philip_Calder@13a4f|Rupert_Osborn@e80c1
+who is the CAN speaker of RSA Conference 2017	Mark_Crowley@64dd8|Mark_Nunnikhoven@a419c|Tyler_Reguly@78618|Joshua_Reynolds@d65da|Numaan_Huq@ad7fe
+who is the USA speaker of Blockchain Law Summit	Keith_Herman@c2beb
+who is the DEU speaker of Bits & Pretzels - The Founders Festival	Tamaz_Georgadze@79e29|Christian_Von_Hardenberg@df9e1|Anna_Alex@eea46|Christof_Mascher@ac1dd|Joshua_Cornelius@0e8b0|Mehmet_Yilmaz@6f99f|Tarek_Muller@c90e7|Joko_Winterscheidt@caf06|Dominik_Dommick@3f069|Steffi_Czerny@4d728|Matthias_Henze@7ed2e|Jan_Miczaika@24ab5|Bernhard_Brugger@d4ca5|Jan_Lüdtke@b95c3|Lars_Jankowfsky@6bb5d|Benjamin_Bak@ab342
+who is the CAN speaker of Oracle Code Prague 2017	Shaun_Smith@c9aa6
+who is the USA speaker of XPONENTIAL 2018	Eduardo_Martinez@fda94|Brian_Wynne@fee5d|Michael_Chasen@24097|Dallas_Brooks@32af2|David_Autor@39adc|Mike_Morgan@abff1|Thomas_Madigan@5b870|Gregory_McNeal@afd47|Robin_Murphy@ac06a|Stephanie_C._Hill@71c3d|Christopher_Hernandez@2a026|Charles_Werner@5e8b1|Zeynep_Tufekci@ebb7e
+who is the GBR speaker of HackConf 2018	Amy_Nicholson@8809e|Euan_Finlay@8572a
+who is the DEU speaker of Digital Entertainment World 2015	Christian_Meinberger@d7976
+who is the USA speaker of Real-World Analytics Summit 2017	Julie_van_Bavel@901a1|Sebastian_Schneeweiss@8386b|Lixia_Wang@299fe|Rajneesh_Patil@23cc4|Sandy_Balkin@8c378|Josh_Ransom@0495d|Amanda_Hart@6434f|Kitty_Rajagopalan@c9621|Tehseen_Salimi@9b127|Julie_Locklear@9e032|Katya_Tsaioun@46bbe|Frank_Zhang@9118a|Christoph_Koenen@af667|Larry_Pickett@c7f07|Wanmei_Ou@007ca|Paul_Barth@0d70d|Dee_Amanze@ac46b|Tom_Hughes@c8339|Nataraj_Dasgupta@9028e|Brett_Davis@e4f76|Jyotsna_Mehta@c3679|James_Harnett@91b49
+who is the USA speaker of IE International Venture Day - Miami	Jamie_Rosenberg@14c7f|Ross_McKegney@1587e|Susan_Amat@9f946|Marco_Marinucci@c30c1
+who is the USA speaker of Channel Partners Evolution 2017	Christopher_Alghini@4af67|Edward_Haletky@94f2a|Mike_Sapien@9d601|Theresa_Caragol@da65a|Tina_Gravel@5da1a|Edward_Gately@afb38|Drew_Lydecker@30399|Natasha_Royer_Coons@fcc2f|Bill_Kleyman@54028|Christian_Renaud@625ef|Shawn_Toldo@20fb8|Rick_Beckers@091e9|Carmen_Sorice@1d0aa|Bryant_Tow@9c66c|Stephanie_Dismore@69b9b|Marc_Nijdam@9a825|David_O'Neil@13ecb|Rudy_Rodriguez@dc5eb|Sanjay_Srinivasan@f16a5|William_Wohnoutka@f4dc3|Buffy_Naylor@c4216|Matthew_Toth@b7c7a|Grant_Kirkwood@11eb3|Dawn_Lindsey@0ce33|Carolyn_April@f6f2d|Jim_Chow@88ccd|Stephen_DiFranco@d3760|James_Anderson@e5c37|Erik_Amneus@50628|Rupesh_Chokshi@5cba2|Bill_Prange@b2829|Michael_Finegan@7f4d8|Brett_Kelsey@7d849|Jasmina_Muller@58107|Domenic_Cutry@27813|Patrick_Oborn@b621c|Tiffani_Bova@61a6f|Gary_Southwell@e49f6|T.C._Doyle@97f91|Amy_Bailey@1bf69|Beau_Barker@b087e|Howard_Cohen@e50d7|Sonya_Meline@53866|Tim_Hebert@b7151|Eric_Bohren@30fcc|John_DeLozier@33bb2|Will_Harris@275dc|Dennis_DeMeyere@9e0b1|Jo_Peterson@182d1|Bana_Qashu@eab9f|Beth_Sautter@8c0da|Sandra_Cheek@79f87|Chris_Peters@92c06|Larry_Walsh@89fd0|Gerry_Le_Canu@8dab3|Ron_Hayman@bcf69|John_White@12455|Steve_Haddock@1d03f|Ryan_Walsh@d4f41
+who is the CAN speaker of Strata + Hadoop World 2017 San Jose	Lana_Novikova@960b9|Alistair_Croll@c36bb
+who is the FIN speaker of Augmented Reality For Producers: Bending The Curve In Real Life	Pietari_Päivänen@ea185
+who is the SWE speaker of Mobile World Congress Americas 2019	Jason_Hoffman@4ace8|Heather_Johnson@d9539
+who is the RUS speaker of Delta Summit 2018	Nikolay_Shkilev@f351d|Oleg_Seydak@07a44|Vladimir_Kurochkin@85300|Vladimir_Nikitin@9d400
+who is the GHA speaker of Africa Technology Summit	Eric_Osiakwan@f5847
+who is the AUS speaker of Pubcon Las Vegas 2019	Jim_Stewart@906fd
+who is the TWN speaker of NIPS 2018	Josh_Wang@6cbc2
+who is the GBR speaker of LTE Africa	Bhavin_Shah@6512c|Stephen_Sale@9c90c|Julian_Bright@9569c|John_Naylon@cdd84
+who is the GBR speaker of Gartner CIO & IT Executive Summit 2019	Dave_Aron@77407|Mark_Raskino@c9abd|Stewart_Buchanan@b4673|Nick_Reed@58614|Nader_Henein@831f6
+who is the CAN speaker of Building a High-performance Startup Culture	Razor_Suleman@2e53a
+who is the SGP speaker of MVNOs World Congress 2019	Ivan_Landen@d07a7|Ahmet_Bahadır_Özdemir@f53d7
+who is the DEU speaker of Smart Kitchen Summit North America 2019	Andreas_Wuerfel@8d91e|Mario_Pieper@f2a62
+who is the CAN speaker of Future Festival Dallas 2018	Jeremy_Gutsche@c7d3b
+who is the AUT speaker of Cloud Foundry Summit 2016	Alois_Mayr@01b1d
+who is the SWE speaker of Strata + Hadoop World Europe 2016	Jim_Dowling@a79a2
+who is the DEU speaker of MedTech Summit 2017	Reinhard_Ortmann@4dad7|Bauer_Georg@c5fb7|Petra_Kaars-Wiele@9d4c5|wei_zhang@0e89e|Peter_Schroeer@72264|Bassil_Akra@93c03|Fatima_Dionisio@ad6bf|Joachim_Wilke@47a52|Ivan_Krstic@7deb6|Claudia_Dollins@15c20|Carsten_Heil@87edf|Stefanie_Leschonsky@4fac2|Stephanie_Berger@774b4|Elena_Mateo_Buesa@81d31|Wolfgang_Werner@edff9
+who is the GBR speaker of Fog Computing, Analytics & Data Conference	Nigel_Chadwick@40506
+who is the USA speaker of Investing in Games	Bill_Weizheng_Wang@52304
+who is the GBR speaker of Fortune Brainstorm E 2016	Carlo_Ratti@57dae
+who is the GBR speaker of Appian Training	James_Rowland-Jones@c6c35|Baxter_Willis@b67ad|Hector_Minto@e8998
+who is the USA speaker of Blockchain Summit London 2020	Dr._Bhupinder_Singh@8eb3b|Alan_Pelz-_Pelz-Sharpe@fe29d|Dale_Chrystie@ff5e9
+who is the KOR speaker of CyCon 2019	Joonsoo_Kim@4d359
+who is the NLD speaker of The Local Digital Media & Commerce Conference	Jon_Stribling@86f05
+who is the USA speaker of Future of Mining Americas 2018	Rick_Tumlinson@1a80e|George_Hemingway@090d9
+who is the ISR speaker of Field Service USA 2018	Yaron_Bartal@5ed9d
+who is the IRL speaker of infoShare 2018	Janina_Bąk@844d9
+who is the GBR speaker of Smart Cities Summit	John_David@87253
+who is the AUS speaker of Tech In Asia Singapore 2015	Phil_Morle@889fd
+who is the USA speaker of Machine Learning Innovation Summit San Francisco 2018	Huiming_Qu@abfe1|Waibhav_Tembe@c1b06|Ling_Cheng@82b17|Nikhil_Garg@dfeeb|Ashish_Bansal@a945f|Francois_Mairesse@656e3|Hamel_Hussain@08b93|Uri_Maoz@10e95|Arthur_Juliani@50523|Dr._Zornitsa_Kozareva@3bac4|Jay_Wang@d1966
+who is the USA speaker of Internet Week New York	Slava_Rubin@a00fb|Mark_Palatucci@e4c4d|Matthew_Harrigan@5905f|Anupam_Malhotra@e6936|Robin_Chase@a1832|Stephen_Liguori@1006e|Jeremy_Osborn@e3340|Chad_Thompson@9a565|Jamyn_Edis@78956|Jonathan_Mildenhall@b03e6|Justin_Moore@75302|Conrad_Wadowski@0a394|Ben_Huh@90f27|Stella_Bugbee@b89b2|Ăn_cứt_Chó@cb07d|Jonah_Peretti@25576|Jim_Robinson@8e0b8|Brita_Rosenheim@0db8c|Rob_Chandhok@3c0a1|Christopher_J._Kelly@b7534|Kathryn_Minshew@e0112|Joanna_Stern@ea6b8|Michael_Heyward@f4fef|Lockhart_Steele@ae9fc|Larry_Smith@ff2af|Nicholas_Chirls@d5b5b|Suroosh_Alvi@6533f|Ned_Brody@37b14|Greg_Lindsay@cca4e|Megan_Rose_Dickey@184c1|Ulrich_Quay@ae7b8|Andrew_Brooks@254b1|Timothy_Stenovec@cf268|Emily_Becher@2cd39|Geoff_Schiller@8a4da|Peter_Weijmarshausen@31350|Michael_Buckwald@3d3a5|Neil_Hunt@f62c9|Marya_Triandafellos@5adf9|Darren_McColl@8c826|Doug_Magnolia@999f8
+who is the ITA speaker of Strata + Hadoop World 2017 San Jose	Carlo_Torniai@035dc
+who is the DEU speaker of Content Marketing Masters 2017	Carsten_Rossi@5ae4f|Sven-Olaf_Peeck@245de|Nicolas_Huber@dcfa0|Matthäus_Michalik@f6b57|Magdalena_Mues@cb0c7|Maik_Metzen@1a9fa|Tilak_Thiagarajan@20523|Lydia_Flügel@eee9f|Constantin_Buer@bf761|Helge_Ruff@2e11e
+who is the FRA speaker of Kalicube Tuesdays with Dawn Anderson: Detecting Co-Occurrence Confusion	Jason_Barnard@1ef61
+who is the POL speaker of How to Web 2011	Zuzanna_Stanska@ebdc7
+who is the ROM speaker of 2nd Annual Claims Management Conference	Radu_Manoliu@65af0
+who is the RUS speaker of The Rise of Russian Corporate Tech Scouting: 1H2020 VC Market Results	Arseniy_Dabbakh@95c03|Sergey_Bogdanov@764e6|Vitaly_Mzokov@9de4f
+who is the CYP speaker of TradeON Summit 2020	Nima_Siar@97e6e|Laoura_Salveta@0a84b
+who is the UKR speaker of IOT Solutions World Congress 2017	Valeriy_Kozlov@68fab
+who is the USA speaker of Machine Learning Innovation Summit New York 2017	Nikhil_Aggarwal@aad0f|Ali_Javid@c4d70|Antonio_Pellegrino@93f23|Nick_Beim@1f340|John_Frankel@a9b5f|Willem_Sundblad@1c0fc|Haftan_Eckholdt@aaeef|Claudia_Perlich@856cc|Steven_Kuyan@fe75c|Matthew_Moocarme@1470a|Jennifer_Shin@cae1f|Alexandra_Abate@ce09a|Sashi_Marella@44ca2|Zuzanna_Kłyszejko@98d9d|Zachary_Smith@b0f76|Teal_Willingham@1f710|Michael_Kubiske@87b85|James_Fan@2113d|Eric_Daimler@2d96c
+who is the USA speaker of OPEX Week: Business Transformation World Summit Summer	Uzair_Rashid@26293
+who is the PRT speaker of Retire Overseas Conference 2018	Duarte_Ornelas_Monteiro@1339c
+who is the IRL speaker of Web Summit 2015	Mary_Aiken@325a7
+who is the AUS speaker of Webdagene 2015	Krystal_Higgins@85065
+who is the USA speaker of Northeast Gas Association Fall Operations Conference 2020	Deepak_Swamy@9544f
+who is the DEU speaker of Adobe Summit 2018	Natanael_Sijanta@736aa
+who is the DEU speaker of FIFTEEN SECONDS FESTIVAL 2017	Nadine_Neubauer@3bc87|Florian_Reichelsdorfer@f3b09|Damir_Maric@732ca|Alexander_Weltzsch@f6c60|Daniel_Krauss@6f976|Gerriet_Danz@91b3f
+who is the USA speaker of European Solid State Circuits Conference 1995	Ahmadreza_Rofougaran@e5ffb
+who is the USA speaker of IBM: Digital Today, Cognitive Tomorrow	Ginni_Rometty@10bcf

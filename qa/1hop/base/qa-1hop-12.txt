@@ -1,0 +1,100 @@
+Orchid Asia Group Management owns which fund	Orchid_Asia_VIII@bd7a6|Orchid_Asia_VI,_L.P@10e2e|Orchid_Asia_VII@ea37b|Orchid_Asia_III,_LP@b01c5
+Riello Investimenti Partners owns which fund	Italian_Strategy_Fund@76903|Impresa_Italia_II@0e905
+Gratitude Railroad owns which fund	Gratitude_Railroad_Partners_Fund@7d1fc
+SoundBoard Venture Fund owns which fund	SoundBoard_Angel_Fund@dc20f|SoundBoard_Angel_Fund@c8537
+Bison Capital Asset Management owns which fund	Bison_Capital_Partners_V@20384|Bison_Capital_Partners_IV@780ff
+Ryugin research Institute owns which fund	BOR_Venture_Fund_I@d484a
+mixi owns which fund	Mixi_Entertainment_Fund_I@9544f
+Kainos Capital owns which fund	Kainos_Capital_Fund_II@6df23|Kainos'_inaugural_Fund_I@91a3f
+Altus Capital owns which fund	Altus_Special_Situations_Asia_I_(ASSA_I)@adbae
+Penta Mezzanine Fund owns which fund	Penta_Mezzanine_Fund_I,_L.P.@f7ae2
+CreditEase owns which fund	CreditEase_Israel_Innovation_Fund@a57ac|CEIIF_II@cff7d
+Computer Software Association of Japan owns which fund	CSAJ_Startup_Fund@299c3
+Lilly Asia Ventures owns which fund	LAV_Biosciences_Fund_IV@81e9b|LAV_Biosciences_Fund_V@6953f
+HDFC Capital Advisors owns which fund	HDFC_Capital_Affordable_Real_Estate_Fund_II@af208|HDFC_Capital_Affordable_Real_Estate_Fund_I@1017a
+Finance Durham Fund owns which fund	Durham_Fund_I@a43ee
+Huaxing Growth Capital owns which fund	Renminbi-denominated_fund_III@b688d|Huaxing_Growth_Capital_USD_Fund_IV@c1a67|Huaxing_Growth_Capital_III@85c1e
+Abies Ventures owns which fund	Abies_Ventures_Fund_I,_L.P.@9dce2
+Accelerate Fund owns which fund	Accelerate_Fund_III@c58b9|Accelerate_Fund_I@b7c10|Accelerate_Fund_II@0b753
+Axis Capital Management (Navix) owns which fund	Axis_Capital_Management_CDK_Vehicles@d4bd0
+Granite Ventures owns which fund	Granite_Venture_II@18469|Granite_Ventures,_L.P.@d8eac
+FGN ABBA Lab owns which fund	ABBALab_Startup_Fund@173c0
+Evernew Capital owns which fund	Evernew_Solana_Ecosystem_Fund@1644c
+Innogy Venture Capital owns which fund	Innogy_Renewables_Technology_Fund_I@1982f
+Mulberry Green Fund owns which fund	Mulberry_Green_Fund_I@20b00
+RealOp Investments owns which fund	RealOp_Real_Estate_Opportunities_Fund_I@830d5
+Kickstart Ventures owns which fund	Fund_1@52d8c
+Benhamou Global Ventures owns which fund	BGV_III@eaaf8|BGV_II_LP@93cb8|BGV_Opportunity_Fund@cb912|BGV_IV@ff75a|BVG_V@a06c0
+Avant Global owns which fund	White_Field_AG_Growth_Fund_IV@d7834
+Knightsbridge Advisers LLC owns which fund	KVC_IX@155ae|KVC_VIII@bb534
+Fundamental Global owns which fund	Fundamental_Global_Venture_Partners,_Lp@2b7db
+Audax Private Equity owns which fund	Continuation_Fund@bfa7b
+Dakota Pacific Real Estate Partners owns which fund	DAKOTA_PACIFIC_REAL_ESTATE_PARTNERS,_LP@5a7c7
+Tsuneishi Capital Partners owns which fund	TVC1@ddcd7
+Story Ventures owns which fund	Story_Ventures_II@43cc2|Story_Ventures_I@640c9
+White Feather Investments owns which fund	White_Feather_Freedom_Fund_I@618c8
+Spiral Sun Ventures owns which fund	Spiral_Sun_Fund_II@b1639|Spiral_Sun_Opportunity_Fund_I@e43f5
+SunFunder owns which fund	Solar_Empowerment_Fund_(SEF)@715d1|Beyond_The_Grid_Solar_Fund_(BTG)@95ada|KOSAP_Fund@d9e7c|Solar_Empowerment_Fund_II_LLC@dfc2a|Solar_Energy_Transformation_Fund_(SET)@bcb39
+Hongtai Capital Holdings owns which fund	Fund_I@d45b3|Aplus_Fund_I@f2e6f
+Brooklyn Bridge Ventures owns which fund	Brooklyn_Bridge_Ventures_Fund_III@83322|Brooklyn_Bridge_Ventures_Fund_II,_LP@200d4|Brooklyn_Bridge_Ventures_Fund_I,_LP@6d1ea
+AIM Ventura Capital owns which fund	Fund_1@4b33f
+SparkChain Capital owns which fund	Fund_I@af535
+NLC owns which fund	Stepping_Stone_Fund@762af
+Dell Technologies Capital owns which fund	Dell_Technologies_Strategic_Innovation_Fund@b4fdf
+Housing Trust Silicon Valley owns which fund	TECH_Fund@249a6
+Platinum Equity owns which fund	Platinum_Equity_Fund_IV@f0b5f|PECF_USS_Holding_Corp@a7584|Platinum_Equity_Capital_Partners_V@efdac|Platinum_Equity_Small_Cap_Fund@213ee
+Driehaus Capital Management owns which fund	Driehaus_Capital_Holdings@78e10
+Whitecap Venture Partners owns which fund	Whitecap_IV@74b08|Whitecap_V@ff415|Whitecap_III@796d2
+Deutsche Beteiligungs owns which fund	DBAG_Fund_VII@5808e|DBAG_Fund_VIII@ce350|DBAG_ECF_Second_New_Vintage@11692|DBAG_ECF_First_New_Vintage@36ba5|DBAG_Fund_VI@f74bc|DBAG_Fund_V@2d257
+Longbow Capital owns which fund	Longbow_Energy_Transition_Fund@00466
+GLP owns which fund	GLP_China_Value-Add_Venture_I@d2a8d|GLP_China_Logistics_Fund_III@7daf4|GLP_China_Income_Fund_I@59461|Hidden_Hill_Modern_Logistics_Private_Equity_Fund@937ea|GLP_China_Income_Fund_II@8ac5e|GLP_China_Income_Fund_III@f8736|GLP_US_Income_Partners_II@ac30d|Vietnam_fund@7ddc0|GLP_Japan_Development_Partners_IV@24c39|CLF_II@e6187
+Stoneshire Berkeley owns which fund	Dogwood_Trail_Real_Estate_Investment_Fund@66d7d
+Argosy Private Equity owns which fund	Argosy_Real_Estate_Partners_IV@de8ce
+Houston Ventures owns which fund	Houston_Ventures_III,_LP@520ca
+Susa Ventures owns which fund	Susa_Ventures_Opportunities_II@d87ad|Susa_Ventures_III@b7491|Susa_Ventures_I@6c6ff|Susa_Ventures_Opportunity_Fund@ee12e|Susa_Ventures_IV@28baa|Susa_Ventures_II@8177f
+Globant owns which fund	The_BeKindTech_Fund@cc19b
+Alcedo owns which fund	Alcedo_V_fund@2e32c|Alcedo_Fund_lV@19620
+Kern Venture Group owns which fund	KVG_Fund_2018,_LP@6a18f
+Buckingham Companies owns which fund	Buckingham_Multifamily_Fund_I@482ce
+Property Meld owns which fund	PROPERTY_MELD_I@7f74a
+ORI Capital owns which fund	ORI_Healthcare_Fund_II@b0c05
+AddVenture owns which fund	AddVenture_V@4e74a|Addventure_I@5dc30|Addventure_II@f3d5f|AddVenture_III@e2b41|AddVenture_IV@b0c08
+Sustainable Ocean Alliance owns which fund	SOA_Seabird_Ventures@3d4a3
+Alchemist Accelerator owns which fund	Alchemist_Accelerator_EU_Fund_l@b1765|Alchemist_Accelerator_US_Fund_I@3c8e6|Alchemist_Accelerator_Nonlinear_Fund_I@2261e|Alchemist_Accelerator_US_Fund_II@88b8b
+Decheng Capital owns which fund	Decheng_Capital_China_Life_Sciences_USD_Fund_I@a241c|Decheng_Capital_China_Life_Sciences_USD_Fund_II@05b83|Decheng_Capital_Global_Life_Sciences_Fund_IV@c21c0
+Chushin Venture Capital owns which fund	CITIC_venture_investment_fund_IV@d7615|CITIC_Venture_Investment_Fund_V@441d2
+Prestige Fund D owns which fund	PRESTIGE_FUND_A_IV@5cec9|Prestige_Fund_D_IV@92f8c|PRESTIGE_FUND_B_V@9994b|PRESTIGE_FUND_D_V@9fc3b|Prestige_Fund_A_V@3db62|Prestige_Fund_B_IV@23312
+Spring Capital owns which fund	Spring_Capital_Growth_Fund_1@3c6ce|Spring_Capital_Seed_Fund_2@056f6
+VitalizeVC owns which fund	IrishAngels_Ventures@4f1a5
+QMS Capital Management owns which fund	QMS_Diversified_Global_Macro_U.S._Fund@32029
+Magallanes Value Investors owns which fund	Magallanes_Impacto_Fund@c5b3d
+StartupXseed Ventures owns which fund	Aaruha_Technology_Fund@4812c
+Monk’s Hill Ventures owns which fund	Monk’s_Hill_Ventures_II@2a3ae|Monk's_Hill_Early-Stage_Fund@68302
+ACE & Company owns which fund	ACE_Buyout_III_SPC@3dd8d|ACE_BUYOUT_INVESTMENTS_LTD@9c3c8|ACE_BUYOUT_II_SPC@084fd|ACE_BUYOUT_IV_SCSP@ba1f1
+Altamont Capital Partners owns which fund	ACP_Investment_Fund_II@9715e|ACP_Investment_Fund_III-A@a8089|ACP_Investment_Fund@528ca
+Regal Healthcare Capital Partners owns which fund	Regal_Healthcare_Capital_Partners_Fund_II@fea13
+Lumerity Capital Partners owns which fund	LUMERITY_CAPITAL_PARTNERS@8149b
+Ascendo Ventures LLC owns which fund	Ascendo_Ventures_Fund_I@29cbd
+Naxicap Partners owns which fund	Naxicap_Investment_Opportunities_II@aea23
+Glade Brook Capital Partners owns which fund	GLADE_BROOK_PRIVATE_INVESTORS_XVI@2f9fa|GLADE_BROOK_PRIVATE_INVESTORS_XV@a037f|GLADE_BROOK_PRIVATE_INVESTORS_XII@c9b5f|GB_SPECIAL_OPPORTUNITIES_FUND@8263b|GLADE_BROOK_PRIVATE_INVESTORS_XIII@b560f|GLADE_BROOK_PRIVATE_INVESTORS_VI@7aaef|GLADE_BROOK_PRIVATE_INVESTORS_II@1c7f7|GLADE_BROOK_PRIVATE_INVESTORS_X@90e47|GLADE_BROOK_PRIVATE_INVESTORS_IX@5a575|GB_PRIVATE_OPPORTUNITIES_FUND_II@a08e2|PRIVATE_INVESTORS_III@ad30c|GB_PRIVATE_OPPORTUNITIES_FUND@dde4f|GLADE_BROOK_PRIVATE_INVESTORS_V@216ea|GLADE_BROOK_PRIVATE_INVESTORS_XI@4f210|GLADE_BROOK_PRIVATE_INVESTORS_XIV@e448a|GLADE_BROOK_PRIVATE_INVESTORS_VII@48ff0
+Casa Verde Capital owns which fund	Casa_Verde_Capital_II@05842|Casa_Verde_Capital,_L.P.@c8d96
+Outliers Fund owns which fund	Outliers_Blockchain_Fund_III@85e2b|Outliers_Blockchain_Fund_II@bfc34|Outliers_Blockchain_Fund_I@2ff17
+Aspirant Group owns which fund	AG_III_Series_Funds@42120
+Ridgefield Energy Partners owns which fund	Richfield_Energy_Partners_Master_Fund_I@64f14|Richfield_Royalty_Ventures@0ef58
+Novabase Capital owns which fund	FCR_Novabase_Capital_Inovação_e_Internacionalização@1a4a0|FCR_Novabase_Capital@20ead
+TechAccel Ventures owns which fund	Tech_accelerator_Fund_I@678c6
+Signal Peak Ventures owns which fund	Signal_Peak_Ventures_II,_L.P.@c4908|Signal_Peak_Ventures_II_CIV-A@b1f52|Signal_Peak_Ventures_III@d8c56|Signal_Peak_Ventures_II_CIV@714ba
+Icon Ventures owns which fund	Icon_Ventures_Fund_V@3dda9|Icon_Ventures_VI@20add|Icon_Venture_Fund@400c2
+Medu Capital owns which fund	Medu_Capital_Fund_III@98e5e|Medu_Capital_Fund_II@fc171|Medu_Capital_Fund_I@d2935
+SunTx Capital Partners owns which fund	SunTx_CPI_Expansion_Fund,_LP@fdc85|SunTx_Capital_Partners_III,_LP@6bc15|SunTx_Fulcrum_Fund_II-SBIC,_LP@13f17|SunTx_Fulcrum_Fund_Prime,_LP@df79f|SunTx_Capital_Partners_II,_LP@52644
+Ecofuel owns which fund	Fund_I@fb6a3
+Stamos Capital Partners owns which fund	SCP_Venture_Fund_I@c93ea
+The Asset Management Exchange owns which fund	The_Long_Term_Credit_Fund@e57a8
+Carousel Capital owns which fund	Carousel_Capital_Partners_V,_LP@68dcf|Carousel_Capital_Partners_VI,_LP@e0358
+Global Partnerships owns which fund	Impact-First_Development_Fund@80d93
+Lindsay Goldberg owns which fund	Lindsay_Goldberg_Fund_V@a3752|Lindsay_Goldberg_IV_L.P.@2b23e
+PNB-INSPiRE Ethical Fund 1 Investment Business Limited Liability Partnership owns which fund	PNB-INSPiRE_Ethical_Fund_I@0f212
+Nautilus Venture Partners owns which fund	Nautilus_Venture_Partners_Fund_1@859cd
+Atlassian Ventures owns which fund	Atlassian_Ventures_Fund@d38a1
+CityView owns which fund	CityView_Western_Fund_I,_L.P.@f2c6c
+TT Capital Partners owns which fund	TTCP_EXECUTIVE_FUND_VII@bd0e4|TTCP_Executive_Fund_-_SS,_LLC@6f8d0

@@ -1,0 +1,100 @@
+amounts raised in the funding rounds led by Sean Parker	12000000.0
+amounts raised in the funding rounds led by Bill Marcus	5500000.0
+amounts raised in the funding rounds led by Doug Allen	850000.0
+amounts raised in the funding rounds led by Daniel Masters	659031.0
+amounts raised in the funding rounds led by Walden C Rhines	230000.0
+amounts raised in the funding rounds led by Gary Bury	64988.0
+amounts raised in the funding rounds led by Scott Thompson	879151.0
+amounts raised in the funding rounds led by Mohammad Wahid Ujjal	1750000.0
+amounts raised in the funding rounds led by Karanpal Singh	1000000.0
+amounts raised in the funding rounds led by Harvinder Singh Bhatia	200000.0
+amounts raised in the funding rounds led by Archibald Cox	1000000.0|1700000.0|800000.0|3500000.0
+amounts raised in the funding rounds led by Shinichiro Sugiyama	484495.0
+amounts raised in the funding rounds led by Mike Dorsey	55000000.0
+amounts raised in the funding rounds led by Michel Lozeau	1737865.0
+amounts raised in the funding rounds led by Shubham Singh	3402.0
+amounts raised in the funding rounds led by Bradley Horowitz	5000000.0
+amounts raised in the funding rounds led by Mitchell Harper	1000000.0
+amounts raised in the funding rounds led by Juraj Vaculik	1200000.0
+amounts raised in the funding rounds led by Keith Rabois	20000000.0
+amounts raised in the funding rounds led by Matias de Tezanos	4400000.0|19717454.0|300000.0
+amounts raised in the funding rounds led by Sampo Parkkinen	444370.0
+amounts raised in the funding rounds led by Fusun Doruk	600000.0|120000.0
+amounts raised in the funding rounds led by Saeed Al Jaberi	133000.0
+amounts raised in the funding rounds led by Dedi Supriadi	7000.0
+amounts raised in the funding rounds led by Mark Suster	4000000.0
+amounts raised in the funding rounds led by Laura Gonzalez-Estefani	507818.0
+amounts raised in the funding rounds led by Kevin Knox	2000000.0
+amounts raised in the funding rounds led by Li Zexiang	1453849.0
+amounts raised in the funding rounds led by Chris Torrance	1031155.0
+amounts raised in the funding rounds led by Muzammil Rasool Shah	73782.0|10000.0
+amounts raised in the funding rounds led by Pallav Pandey	292745.0
+amounts raised in the funding rounds led by Bill Smith	15000000.0
+amounts raised in the funding rounds led by Dave Morin	1500000.0
+amounts raised in the funding rounds led by Karamdeep Nijjar	2500000.0
+amounts raised in the funding rounds led by Nicholas Gruen	150000.0
+amounts raised in the funding rounds led by Madis Müür	1317703.0|458058.0
+amounts raised in the funding rounds led by Shinji Kimura	67292.0
+amounts raised in the funding rounds led by Idan Plotnik	4000000.0
+amounts raised in the funding rounds led by Anuraag Jaipuria	3000000.0
+amounts raised in the funding rounds led by Aristarichus Weru	200000.0|20000.0|30000.0
+amounts raised in the funding rounds led by Tue Mantoni	3000000.0
+amounts raised in the funding rounds led by Kris Singh	650000.0
+amounts raised in the funding rounds led by Tommy Jacobson	451808.0
+amounts raised in the funding rounds led by Trenton Thornock	500000.0
+amounts raised in the funding rounds led by Jon Hallett	650000.0
+amounts raised in the funding rounds led by Neelesh Bhatnagar	1000000.0
+amounts raised in the funding rounds led by Albert Esteve	141144.0
+amounts raised in the funding rounds led by David Lewis	13043.0
+amounts raised in the funding rounds led by Haig Farris	2500000.0
+amounts raised in the funding rounds led by Trish Costello	175000000.0
+amounts raised in the funding rounds led by Carlos Slim	60000000.0
+amounts raised in the funding rounds led by Peter Levine	5700000.0
+amounts raised in the funding rounds led by Suren Marumamula	100000.0
+amounts raised in the funding rounds led by Priyanka Madnani	200000.0
+amounts raised in the funding rounds led by Chris Lynch	1000000.0
+amounts raised in the funding rounds led by Dhianu Das	150000.0|125000.0|60000.0|34444.0
+amounts raised in the funding rounds led by Stephan Pire	100000.0
+amounts raised in the funding rounds led by Mohandas Pai	3507422.0
+amounts raised in the funding rounds led by Camila Farani	81628.0
+amounts raised in the funding rounds led by Matthew Palevsky	11000000.0
+amounts raised in the funding rounds led by Larry RosenBerger	1700000.0|256000.0
+amounts raised in the funding rounds led by Anand Aryamane	1000000.0
+amounts raised in the funding rounds led by José Carlos Semenzato	57806.0
+amounts raised in the funding rounds led by Hiroshi Mikitani	150000000.0
+amounts raised in the funding rounds led by Pascal Stuerchler	2018603.0
+amounts raised in the funding rounds led by Jonathan Milner	504540.0|10559533.0|4489383.0|461991.0|3888302.0
+amounts raised in the funding rounds led by Jeffrey Katzenberg	31000000.0
+amounts raised in the funding rounds led by Jinbo Yao	888781.0
+amounts raised in the funding rounds led by Vijay Kumar	50000.0
+amounts raised in the funding rounds led by Manny Marrero	80000.0
+amounts raised in the funding rounds led by Gary Vaynerchuk	2200000.0
+amounts raised in the funding rounds led by Michael London	5250000.0
+amounts raised in the funding rounds led by Kevin Ryan	1700000.0
+amounts raised in the funding rounds led by Andrew Anastasiou	54516.0|36462.0|59363.0|81232.0|119113.0|60072.0|381609.0
+amounts raised in the funding rounds led by Hazem Ben-Gacem	554825.0
+amounts raised in the funding rounds led by Damian Nicholson	31500.0
+amounts raised in the funding rounds led by Tom Hirschfeld	750000.0
+amounts raised in the funding rounds led by Sean Mulryan	5573011.0
+amounts raised in the funding rounds led by Oren Zeev	2500000.0
+amounts raised in the funding rounds led by Chris DeVore	2050000.0
+amounts raised in the funding rounds led by Brett Dawson	1073609.0
+amounts raised in the funding rounds led by Daniel Scholnick	2100000.0
+amounts raised in the funding rounds led by Mark Bivens	4804891.0
+amounts raised in the funding rounds led by Christopher Calicott	2000000.0
+amounts raised in the funding rounds led by William Kirby	5500000.0|9200000.0
+amounts raised in the funding rounds led by Andreas Mihalovits	1661277.0
+amounts raised in the funding rounds led by Sean O'Sullivan	190000.0
+amounts raised in the funding rounds led by William B. King	5000000.0
+amounts raised in the funding rounds led by Bruce Sachs	2000000.0
+amounts raised in the funding rounds led by Apoorv Gupta	3000.0
+amounts raised in the funding rounds led by Jonas Dhaenens	277000.0
+amounts raised in the funding rounds led by Maurice Gallagher	3000000.0
+amounts raised in the funding rounds led by Pontus Strahlman	249379.0
+amounts raised in the funding rounds led by Heiko Hubertz	130000.0
+amounts raised in the funding rounds led by Adam Sadiq	1000000.0
+amounts raised in the funding rounds led by Owen Van Natta	1200000.0
+amounts raised in the funding rounds led by Mark Bakken	450000.0
+amounts raised in the funding rounds led by Karen Hanton	1681057.0
+amounts raised in the funding rounds led by Rajiv Dadlani	335312.0|3400000.0
+amounts raised in the funding rounds led by Rolf Käse	3326327.0

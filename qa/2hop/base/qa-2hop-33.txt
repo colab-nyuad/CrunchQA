@@ -1,0 +1,100 @@
+Horizen Labs was the lead investor of what types of funding rounds	corporate_round
+Cain International was the lead investor of what types of funding rounds	series_a|series_c|series_b
+Truestone Impact Investment Management was the lead investor of what types of funding rounds	seed
+MBX Capital was the lead investor of what types of funding rounds	series_a
+LVL1 Group was the lead investor of what types of funding rounds	seed|series_d|series_a|series_b|series_c|series_e
+First Venture Capital, Inc. was the lead investor of what types of funding rounds	series_a
+SucSEED Venture Partners was the lead investor of what types of funding rounds	pre_seed|seed|angel
+Kx Technology Fund was the lead investor of what types of funding rounds	pre_seed|seed
+Reflex Capital was the lead investor of what types of funding rounds	pre_seed|seed|series_a
+Two Sigma was the lead investor of what types of funding rounds	seed|series_b
+Shenzhenshi Dingheng Tongchuang was the lead investor of what types of funding rounds	series_a|series_b
+The Box Self Storage Services LLC was the lead investor of what types of funding rounds	seed
+IDFC Alternatives was the lead investor of what types of funding rounds	private_equity
+Opticality Ventures was the lead investor of what types of funding rounds	series_a
+ClearDent was the lead investor of what types of funding rounds	seed
+New Hope Group was the lead investor of what types of funding rounds	series_b
+pitchIN was the lead investor of what types of funding rounds	seed
+Mérieux Equity Partners was the lead investor of what types of funding rounds	private_equity
+Futian Huasheng was the lead investor of what types of funding rounds	seed
+OSK Ventures International was the lead investor of what types of funding rounds	series_a
+Dalamear Investments Ltd was the lead investor of what types of funding rounds	seed|series_a
+Antara Capital Master Fund was the lead investor of what types of funding rounds	post_ipo_debt|post_ipo_equity
+Goldman Sachs Investment Partners was the lead investor of what types of funding rounds	series_d|secondary_market|series_b|series_a|series_e|series_g|series_f|series_c|convertible_note
+FounderFuel was the lead investor of what types of funding rounds	pre_seed|undisclosed
+Kaiming Ziben was the lead investor of what types of funding rounds	series_c
+Herzberg Family Office was the lead investor of what types of funding rounds	seed
+MGG Capital was the lead investor of what types of funding rounds	debt_financing
+Hangzhou Zidian Zichan Guanli Youxian Gongsi was the lead investor of what types of funding rounds	series_a
+Piper Jaffray was the lead investor of what types of funding rounds	series_d|series_c
+Castanea was the lead investor of what types of funding rounds	series_b|private_equity
+SunTrust Robinson Humphrey was the lead investor of what types of funding rounds	debt_financing
+Flying Crown Holdings was the lead investor of what types of funding rounds	seed
+Mueller Ventures was the lead investor of what types of funding rounds	series_a
+Blue Label Telecoms was the lead investor of what types of funding rounds	undisclosed
+Charleston Angel Partners was the lead investor of what types of funding rounds	seed
+Parthenon Capital Partners was the lead investor of what types of funding rounds	private_equity
+Verizon Ventures was the lead investor of what types of funding rounds	undisclosed|seed|series_a|series_b|series_c|convertible_note
+CanCode was the lead investor of what types of funding rounds	grant
+Unorthodox Ventures was the lead investor of what types of funding rounds	seed|series_e
+Friedli Corporate Finance was the lead investor of what types of funding rounds	post_ipo_debt
+Act One Ventures was the lead investor of what types of funding rounds	pre_seed|seed
+Nanyue Gaojiao was the lead investor of what types of funding rounds	post_ipo_equity
+Chuangke 100 Venture Capital Fund was the lead investor of what types of funding rounds	angel|series_a
+Fern Trading was the lead investor of what types of funding rounds	corporate_round
+GoldStone Investment was the lead investor of what types of funding rounds	series_a
+Eos Advisory was the lead investor of what types of funding rounds	seed
+Sanshengshi Chuangtou was the lead investor of what types of funding rounds	series_a
+Recruit Holdings was the lead investor of what types of funding rounds	corporate_round|series_a|series_b
+Coral Ventures was the lead investor of what types of funding rounds	series_b
+DiNovA Capital was the lead investor of what types of funding rounds	series_a|series_e
+Armstrong Group and Associated Partners was the lead investor of what types of funding rounds	series_c
+SL2 Capital was the lead investor of what types of funding rounds	seed
+Ziegler Link-Age Funds was the lead investor of what types of funding rounds	series_a
+SaaS Capital was the lead investor of what types of funding rounds	post_ipo_debt|debt_financing
+Fundamentum was the lead investor of what types of funding rounds	series_c|series_b
+Adways was the lead investor of what types of funding rounds	corporate_round
+Katapult was the lead investor of what types of funding rounds	pre_seed|seed
+Jaguar Land Rover was the lead investor of what types of funding rounds	seed
+National Cancer Institute SBIR Development Center was the lead investor of what types of funding rounds	pre_seed|grant
+Lymbersky Capital & Asset Management was the lead investor of what types of funding rounds	pre_seed|seed
+NMotion was the lead investor of what types of funding rounds	pre_seed|seed
+KarpReilly was the lead investor of what types of funding rounds	seed|series_a|series_b
+CA Media was the lead investor of what types of funding rounds	seed
+MTM was the lead investor of what types of funding rounds	seed
+Vtron Investment was the lead investor of what types of funding rounds	series_a
+Dragoneer Investment Group was the lead investor of what types of funding rounds	post_ipo_secondary|secondary_market|series_a|series_b|series_e|series_f|series_h|series_c|private_equity
+Deep Knowledge Ventures was the lead investor of what types of funding rounds	seed|convertible_note
+Libertus Capital was the lead investor of what types of funding rounds	series_a
+Microgen Plc was the lead investor of what types of funding rounds	corporate_round
+PPI Worldwide Group was the lead investor of what types of funding rounds	seed
+MAS Holdings was the lead investor of what types of funding rounds	seed
+Capital Innovators was the lead investor of what types of funding rounds	pre_seed
+Calvert Impact Capital was the lead investor of what types of funding rounds	debt_financing
+Netcore Cloud was the lead investor of what types of funding rounds	pre_seed|seed
+Piramal Pharma Solutions was the lead investor of what types of funding rounds	corporate_round
+Blakeney Management was the lead investor of what types of funding rounds	series_a
+BofA Securities was the lead investor of what types of funding rounds	debt_financing
+EFung Capital was the lead investor of what types of funding rounds	series_c
+Beijing Taikang Investment was the lead investor of what types of funding rounds	series_c
+CNLive.COM was the lead investor of what types of funding rounds	series_b|series_a
+Qianhai LH Ventures was the lead investor of what types of funding rounds	angel
+Mediahuis was the lead investor of what types of funding rounds	seed|series_a
+Durrants was the lead investor of what types of funding rounds	series_a
+Swettenham Blue was the lead investor of what types of funding rounds	series_a
+SATUS was the lead investor of what types of funding rounds	seed|series_a
+Joom was the lead investor of what types of funding rounds	series_b
+Geechs was the lead investor of what types of funding rounds	seed|corporate_round
+Southern Ute was the lead investor of what types of funding rounds	series_b
+Altius Minerals was the lead investor of what types of funding rounds	seed
+M2O was the lead investor of what types of funding rounds	series_b
+Silvergate Bank was the lead investor of what types of funding rounds	post_ipo_debt
+Cygames was the lead investor of what types of funding rounds	corporate_round
+Huzhou Nanxun Advanced & Intelligent Manufacturing Industry Fund was the lead investor of what types of funding rounds	seed
+Focus Ventures was the lead investor of what types of funding rounds	debt_financing|series_d|series_f|series_c|series_e
+Squadra Ventures was the lead investor of what types of funding rounds	seed
+Play Ventures was the lead investor of what types of funding rounds	pre_seed|seed
+China Culture Industrial Investment Fund was the lead investor of what types of funding rounds	series_b|series_a
+Uyoung was the lead investor of what types of funding rounds	angel
+CUNA Mutual Group was the lead investor of what types of funding rounds	series_b|grant
+Sembcorp Industries was the lead investor of what types of funding rounds	series_a|post_ipo_equity

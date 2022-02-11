@@ -1,0 +1,100 @@
+Leadpages participated in what types of events	meetup|competition|conference|networking
+Queen Mary University of London participated in what types of events	meetup|hackathon
+Imagine Solutions participated in what types of events	conference|expo
+Umbel participated in what types of events	expo|competition|festival|conference|networking
+Travel Wifi participated in what types of events	meetup|conference|networking
+Khaos Cloud participated in what types of events	meetup|conference
+MatterHackers participated in what types of events	expo|competition|class|meetup|conference|networking
+Radio France participated in what types of events	meetup|conference|networking
+Air France KLM participated in what types of events	meetup|seminar|conference
+RoboHead participated in what types of events	seminar|conference
+C-Suite Network participated in what types of events	meetup|conference|networking
+Abtitu participated in what types of events	meetup|conference
+WeMO participated in what types of events	conference|networking|demo_day
+WellPath participated in what types of events	competition|meetup|conference|hackathon|demo_day
+Solly Labs participated in what types of events	seminar|expo|competition|meetup|conference|hackathon|networking
+JCT600 participated in what types of events	conference|festival
+Union Bank participated in what types of events	networking|conference|expo|demo_day
+ClientMagnet participated in what types of events	seminar|conference|expo
+Taylor Wessing participated in what types of events	expo|competition|meetup|conference|hackathon|demo_day|networking
+TechGuard Security participated in what types of events	conference
+Financial Times participated in what types of events	seminar|expo|meetup|festival|conference|demo_day|networking
+Meritech participated in what types of events	seminar|conference
+Appcues participated in what types of events	meetup|conference|virtual
+R360und participated in what types of events	seminar|conference|expo
+Ticlet participated in what types of events	meetup|conference|networking|expo
+FinTech4Good participated in what types of events	conference
+Asia Pacific Security Magazine participated in what types of events	conference|expo
+Thyroid Cancer Alliance participated in what types of events	seminar|conference
+Mazik Global participated in what types of events	meetup|seminar|conference
+SkySilk Cloud Services participated in what types of events	conference|expo
+Bonaverde participated in what types of events	conference
+Clothing+ participated in what types of events	conference|expo
+PRODYNA participated in what types of events	conference
+InsurTech360 participated in what types of events	networking|conference|expo|demo_day
+Tufin participated in what types of events	seminar|expo|class|meetup|conference|networking
+Nubo Software participated in what types of events	conference|expo
+Compwire participated in what types of events	seminar|conference
+NASDAQ Entrepreneurial Center participated in what types of events	competition|conference|networking
+Shanghai Easi Computer Technology participated in what types of events	conference|expo
+Berlin Valley participated in what types of events	networking|conference|hackathon|expo
+23 Snaps participated in what types of events	meetup|conference|expo
+neptune.ai participated in what types of events	conference|expo
+New Era of Networks participated in what types of events	conference|expo
+Charles University participated in what types of events	conference|expo
+Irdeto participated in what types of events	meetup|seminar|conference|expo
+United Spinal Association participated in what types of events	conference|expo|demo_day
+CREMA participated in what types of events	meetup|conference
+Copenhagen Fintech Innovation and Research participated in what types of events	seminar|meetup|networking|conference
+Altera participated in what types of events	meetup|class|conference|expo
+KEDACOM participated in what types of events	conference|expo
+Chef Software participated in what types of events	seminar|expo|competition|class|meetup|festival|conference|demo_day|hackathon|networking
+MLOVE participated in what types of events	seminar|conference
+FilmTrack participated in what types of events	conference|expo
+Centro de Incubação de Évora participated in what types of events	competition|class|demo_day
+Codecademy participated in what types of events	conference|networking|festival
+IGEA participated in what types of events	conference|expo
+Shutter participated in what types of events	seminar|conference
+Make Sense Labs participated in what types of events	meetup|conference|networking|expo
+Cognizant participated in what types of events	seminar|expo|meetup|festival|conference|hackathon|demo_day|webinar|networking
+SwellPath participated in what types of events	seminar|networking
+DiscoverOrg participated in what types of events	meetup|conference|networking
+MIT - Sloan School of Management participated in what types of events	meetup|conference|networking|demo_day
+Axe A.I. Tech participated in what types of events	competition|meetup|conference|hackathon|demo_day|networking
+MyDocTool participated in what types of events	meetup|conference|networking
+Blue Sky Systems participated in what types of events	conference|expo
+cre8ingvision participated in what types of events	seminar|class
+MyChefit participated in what types of events	competition|hackathon|networking
+Financial Technologies Forum participated in what types of events	conference
+Qt Software participated in what types of events	competition|meetup|conference|hackathon|demo_day|networking
+Eynio participated in what types of events	expo|competition|meetup|conference|hackathon|networking
+Two Degrees, Inc. participated in what types of events	expo|meetup|conference|hackathon|networking
+Prime Numbers Technology participated in what types of events	seminar|conference
+Synology participated in what types of events	meetup|conference|networking|expo
+AlterMedia, Inc. participated in what types of events	conference|expo
+Allegro DVT participated in what types of events	conference
+Zolo Technologies participated in what types of events	conference|networking
+Octagon Studio participated in what types of events	conference|networking|expo
+Fashionbiz2.0 participated in what types of events	seminar|expo|competition|meetup|conference|networking
+Data Dynamics participated in what types of events	meetup|seminar|conference
+Claroty participated in what types of events	meetup|conference|networking
+ING Group participated in what types of events	seminar|expo|meetup|festival|demo_day|conference|hackathon|networking
+SparkCognition participated in what types of events	meetup|conference|networking|expo
+Dbvisit Software participated in what types of events	conference
+Nacho Cove participated in what types of events	conference|networking
+Green Packet participated in what types of events	conference|networking|expo
+Bluefin Solutions participated in what types of events	meetup|conference
+ZCast participated in what types of events	meetup|demo_day|networking
+FollowAnalytics participated in what types of events	meetup|festival|conference|expo
+Hazon Solutions, LLC participated in what types of events	conference|expo
+KronTech participated in what types of events	seminar|conference
+InsideView participated in what types of events	meetup|seminar|conference|networking
+Zumos participated in what types of events	conference|expo
+Baton Simulations participated in what types of events	meetup|conference
+Ascom Holding participated in what types of events	seminar|conference|expo
+Addovation Sweden AB participated in what types of events	conference|expo
+Funifier Holdings participated in what types of events	competition|meetup|conference|hackathon|demo_day
+Event Bots participated in what types of events	meetup|conference|networking|expo
+Gigaset participated in what types of events	meetup|conference|networking|expo
+TechNovator participated in what types of events	expo|competition|meetup|festival|demo_day|conference|networking
+Telstra participated in what types of events	seminar|expo|meetup|festival|conference|networking|virtual

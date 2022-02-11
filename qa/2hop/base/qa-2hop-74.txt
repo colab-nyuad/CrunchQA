@@ -1,0 +1,100 @@
+the speakers of GSMA Mobile 360 Latin America 2019 are from what industries	Mobile|Financial_Services|Software|Blockchain|Retail
+the speakers of ЛИГА ЧЕМПИОНОВ UEFA are from what industries	Sports|Telecommunications|News
+the speakers of beatvyne's Music x Tech Experience are from what industries	Legal|Advice|Consulting
+the speakers of IDTechEx Show 2017 are from what industries	Public_Transportation|Automotive|Last_Mile_Transportation|Transportation|Computer_Vision|Nanotechnology|Smart_Home|Robotics|Sensor|Artificial_Intelligence|Autonomous_Vehicles|Logistics|Smart_Cities
+the speakers of Sparklabs Cultiv8 - 2019 Demo Day are from what industries	Machinery_Manufacturing|Agriculture|Robotics|AgTech
+the speakers of Dubai World Insurance Congress are from what industries	Online_Portals|Technical_Support|Information_Technology|Aerospace|National_Security|Financial_Services|Open_Source|Risk_Management|Space_Travel|FinTech|Legal|Robotics|Payments|Insurance|Politics|InsurTech|Consulting
+the speakers of NAFA’s 2019 Institute & Expo are from what industries	Public_Transportation|Automotive|Last_Mile_Transportation|Transportation|Computer_Vision|Robotics|Artificial_Intelligence|Autonomous_Vehicles|Logistics|Smart_Cities
+the speakers of Sibos Toronto 2017 are from what industries	Cloud_Data_Services|Data_Integration|Financial_Services|Software|FinTech|Asset_Management|Data_Mining|Artificial_Intelligence|Insurance|Trading_Platform|Machine_Learning
+the speakers of glTF Tools from Khronos are from what industries	Digital_Marketing|3D_Technology|Real_Time|E-Commerce|Blockchain|Augmented_Reality|Virtual_Reality
+the speakers of Innovate or Be History are from what industries	Marine_Technology|Information_Technology|Shipping|Ports_and_Harbors|3D_Technology|Document_Management|Blockchain|Virtual_Reality
+the speakers of Global Carrier Billing Summit are from what industries	Mobile|Mobile_Payments|Advertising|Digital_Entertainment|UX_Design|Billing
+the speakers of World Exchange Congress 2019 are from what industries	Financial_Services|Risk_Management|FinTech|Artificial_Intelligence|Machine_Learning
+the speakers of DataOps.Rocks Summit 2021 are from what industries	Data_Integration|Analytics|Software|Test_and_Measurement|SaaS|Data_Center_Automation|Big_Data|Business_Intelligence
+the speakers of 1 Million Cups Irvine - Startup and Investor Panel are from what industries	EdTech|E-Learning|Education|Social_Impact
+the speakers of ad:tech New Delhi 2018 are from what industries	Marketing|Ad_Targeting|Advertising|Artificial_Intelligence|Machine_Learning|Predictive_Analytics|Big_Data|Ad_Retargeting
+the speakers of Global Money Transfer Summit 2018 are from what industries	Financial_Services|Banking|Debit_Cards|FinTech|Bitcoin|Blockchain|Cryptocurrency
+the speakers of Start o Sphere (Esummit2020) are from what industries	Venture_Capital|Financial_Services|Business_Development
+the speakers of DevLearn are from what industries	EdTech|Software|Human_Resources
+the speakers of Fashion Online 2019 are from what industries	Information_Technology|Analytics|Software|E-Commerce|Natural_Language_Processing|Artificial_Intelligence|Internet|Retail
+the speakers of How far can we trust IoT? are from what industries	Cyber_Security|Information_Technology|Security|Software|Consumer_Electronics|Artificial_Intelligence|Association|TV|Machine_Learning|Manufacturing|Education|Internet_of_Things
+the speakers of Scaling Artificial Intelligence in San Antonio are from what industries	Information_Technology|Lead_Generation|Analytics|Marketing_Automation|Software|Product_Research|SaaS|Natural_Language_Processing|Artificial_Intelligence|Business_Intelligence
+the speakers of Public Good App House: Apps that Address Food Insecurity - February 2021 are from what industries	Mobile|Mobile_Apps|Open_Source|Legal|E-Commerce|Internet|Non_Profit|Legal_Tech|Apps
+the speakers of Beryl Elites Alternative Investment Conference are from what industries	Finance|Financial_Services|Accounting
+the speakers of Percona Live Data Performance Conference 2016 are from what industries	Software|Enterprise_Software|SaaS|E-Commerce
+the speakers of Venture leaders Technology are from what industries	Software|Broadcasting|Computer_Vision|Robotics|SaaS|Artificial_Intelligence|Machine_Learning|Transportation|Apps
+the speakers of PASS Business Analytics Conference 2016 are from what industries	Cloud_Data_Services|Data_Integration|Analytics|Business_Information_Systems|Computer|Software|Cloud_Computing|Apps|Big_Data|Business_Intelligence
+the speakers of European Commission -- Convergence - The Global Blockchain Congress 2019 are from what industries	Mobile|Financial_Services|Software|Blockchain|Retail
+the speakers of Collision 2020 are from what industries	Fleet_Management|Digital_Marketing|Software|Ride_Sharing|Project_Management|Human_Computer_Interaction|Artificial_Intelligence|Autonomous_Vehicles|Market_Research|Social_Media|Machine_Learning|Cryptocurrency
+the speakers of ITU Telecom World 2019 are from what industries	Enterprise_Software|Information_Technology|National_Security|Security|Software|Public_Safety|Risk_Management|Data_Mining|Information_Services|Big_Data
+the speakers of Investments in Indian Startups for NRIs & Foreign Nationals are from what industries	Credit_Cards|Financial_Services|Debit_Cards|Mobile_Payments|FinTech|Payments|Transaction_Processing
+the speakers of TC3 Carrier Connections 2019 are from what industries	Cyber_Security|Enterprise_Software|Information_Technology|Security|Software|Wireless|SaaS|Artificial_Intelligence|Machine_Learning|Network_Security
+the speakers of Technology for Precision Health Summit are from what industries	Health_Care|Medical|Machine_Learning
+the speakers of ARVO 2020 Conference are from what industries	Health_Care|Medical|Information_Technology|Medical_Device
+the speakers of ACRM (American Congress of Rehabilitation Medicine) 94th Annual Conference - Progress in Rehabilitation Research are from what industries	Motion_Capture|Medical_Device|Sports|Robotics|Health_Diagnostics|Wearables|Augmented_Reality|Rehabilitation|Virtual_Reality
+the speakers of Connections Summit are from what industries	Enterprise_Software|Commercial_Real_Estate|Software|Hospitality|Property_Management|InsurTech|Residential|Intelligent_Systems|CleanTech
+the speakers of IAA GLOBAL VIRTUAL CONFERENCE 2021 are from what industries	Software|Hardware|Health_Care
+the speakers of 5th Security Project 2017 are from what industries	Information_Technology|Security|Software|Information_Services|Internet_of_Things
+the speakers of Nikkei Global Management Forum are from what industries	Venture_Capital|Finance|Financial_Services
+the speakers of DLD Munich 20 are from what industries	Enterprise_Software|Information_Technology|National_Security|Security|Software|Public_Safety|Risk_Management|Data_Mining|Information_Services|Big_Data
+the speakers of Fair startups: business or altruism are from what industries	Software|Legal_Tech|Legal
+the speakers of AutoMobility LA 2017 are from what industries	Gaming|Enterprise|Software|Military|Media_and_Entertainment|Artificial_Intelligence|Enterprise_Applications|Augmented_Reality|Virtual_Reality
+the speakers of KiwiTech Industry Panel Series are from what industries	Commercial_Real_Estate|Smart_Home|Venture_Capital|Financial_Services
+the speakers of AI Fintech Forum are from what industries	Credit|Financial_Services|FinTech|Artificial_Intelligence|Machine_Learning
+the speakers of BDEW - Informationstag Digitale Plattformen für EVU und Stadtwerke are from what industries	Enterprise_Software|B2B|Energy|E-Commerce|Cloud_Computing
+the speakers of FinovateEurope 2019 are from what industries	Cyber_Security|Biometrics|B2B|Information_Technology|Financial_Services|Software|Hardware|FinTech|SaaS|Printing|B2C|Identity_Management
+the speakers of Impact mobility rEVolution'18 are from what industries	Web_Development|Mobile_Apps|Automotive|Analytics|Transportation|Big_Data|Internet_of_Things
+the speakers of Ecommfashion AW'18 are from what industries	Information_Technology|Email_Marketing|E-Commerce|Semantic_Search|Predictive_Analytics|Shopping|Enterprise_Software|Financial_Services|Publishing|Customer_Service|Collaboration|Fashion|Artificial_Intelligence|Machine_Learning|Search_Engine|B2B|Personalization|Virtual_Assistant|Crowdfunding|Travel|Project_Management|A/B_Testing|Association|Retail
+the speakers of IEEE Consumer Electronics Society SCV are from what industries	Gaming|Edutainment|Electronics|Console_Games|Consumer_Electronics|Toys|Video_Games|STEM_Education|Education
+the speakers of Codex: Worlds Top 50 Innovators from Industries of Future are from what industries	Financial_Services|Banking|Debit_Cards|FinTech|Bitcoin|Blockchain|Cryptocurrency
+the speakers of Crédit Agricole & Le Village by CA Virtual Roadshow are from what industries	Human_Resources|Software|Digital_Media|Recruiting|Natural_Language_Processing|Artificial_Intelligence|Management_Consulting|Communities|Predictive_Analytics
+the speakers of Developer Relations Conference 2019 are from what industries	Marketing_Automation|Collaboration|Natural_Language_Processing|Developer_Platform|Communities
+the speakers of Content Delivery Summit 2021 are from what industries	Content_Delivery_Network|Internet|Cloud_Computing|Cloud_Data_Services
+the speakers of Applied Machine Learning Days 2020 are from what industries	Web_Development|Mobile|Information_Technology|E-Commerce|Internet|Social_Media|Information_Services|Education
+the speakers of Bloomberg Live - Intelligence at the Edge: How Manufacturers Can Accelerate Digital Transformation are from what industries	Travel|Aerospace|Industrial_Design|Infrastructure|Air_Transportation|Manufacturing|Software_Engineering
+the speakers of StartCon 2018 are from what industries	Software|InsurTech|Big_Data|Data_Visualization
+the speakers of BISNOW MultiFamily Annual Conference East are from what industries	Enterprise_Software|Commercial_Real_Estate|Software|Hospitality|Property_Management|InsurTech|Residential|Intelligent_Systems|CleanTech
+the speakers of 2020 Silicon Valley Global Innovation Summit are from what industries	FinTech|IT_Management|Financial_Services|Banking
+the speakers of EdTechXEurope 2017 are from what industries	Information_Technology|EdTech|Messaging|Internet|Higher_Education|Association|Communities|Education
+the speakers of Propmodo Live: Empowering the Business of Real Estate with Technology are from what industries	Enterprise_Software|Analytics|Commercial_Real_Estate|Software|Real_Estate|Service_Industry|Machine_Learning
+the speakers of Big Data, San Francisco v 4.0 are from what industries	Personalization|Analytics|Software|Natural_Language_Processing|Artificial_Intelligence|Machine_Learning|Big_Data
+the speakers of The Economist: Climate Risk Summit North America 2021 are from what industries	Sustainability|Analytics|GreenTech|Artificial_Intelligence|CleanTech
+the speakers of NOAH Berlin 2017 are from what industries	Public_Transportation|Travel|Personalization|Information_Technology|Mobile|Analytics|Marketing_Automation|Software|E-Commerce|Fashion|Mobile_Advertising|SaaS|Machine_Learning|Transportation|Apps|Big_Data
+the speakers of HFM Technology Leaders Summit are from what industries	Financial_Services|Software|FinTech|SaaS|Finance
+the speakers of Innovfest Unbound 2018 are from what industries	Aerospace|Financial_Services|Transportation|FinTech|Blockchain|Finance|Supply_Chain_Management|Logistics
+the speakers of Revolution.Aero 2018 are from what industries	Universities|Travel|Tourism|Electronics|Credit_Cards|Financial_Services|Banking|Aerospace|Marketplace|Customer_Service|Wealth_Management|Finance|Insurance|Air_Transportation|Manufacturing|Education
+the speakers of 26. Handelslogistik Kongress are from what industries	Consumer_Goods|Information_Technology|Retail_Technology|Delivery|Payments|Logistics|InsurTech|Retail
+the speakers of Women in Tech East Coast are from what industries	Psychology|Human_Resources|Human_Computer_Interaction|Artificial_Intelligence|Enterprise_Applications|Machine_Learning
+the speakers of World Financial Symposiums AI Webcast are from what industries	Knowledge_Management|Computer_Vision|SaaS|Natural_Language_Processing|Artificial_Intelligence|Machine_Learning|Predictive_Analytics
+the speakers of Ad World Conference 2020 are from what industries	Advertising|E-Commerce|Internet|Social_Media|Brand_Marketing|Consulting|CRM|Social_CRM|Shoes|Software|Digital_Media|Fashion|Business_Development|Marketing|Content|Business_Information_Systems|Professional_Networking|Higher_Education|Manufacturing|Social_Bookmarking|Social_Media_Marketing|News|Mobile_Advertising|Social_Network|Education
+the speakers of TECHSUYO 2020 are from what industries	Industrial_Engineering|Project_Management|Commercial_Real_Estate|Software|Smart_Building|Construction|SaaS
+the speakers of Blockchain in Supply Chain are from what industries	Supply_Chain_Management|Shipping|Transportation|Blockchain|Logistics|Cryptocurrency
+the speakers of Techstars Boston Demo Day 2017 are from what industries	Augmented_Reality|Sports|Digital_Media|Marketing|Sponsorship|Big_Data
+the speakers of IT Arena 2019 are from what industries	Government|Politics|Non_Profit
+the speakers of DebConf19 are from what industries	Open_Source|Software|Training|Linux|Consulting
+the speakers of Introduction to Google Analytics 4 with Anil Batra are from what industries	Marketing|Non_Profit|Advertising|Association
+the speakers of Connected World Summit are from what industries	Marine_Technology|Mobile|Cloud_Data_Services|Analytics|Asset_Management|Database|Smart_Cities|Logistics|Big_Data|Internet_of_Things
+the speakers of The World Knowledge Forum 2018 are from what industries	Cyber_Security|Blockchain|Security
+the speakers of TechCrunch Davos Meetup 2018 are from what industries	Information_Technology|Financial_Services|Health_Care|Biotechnology|Artificial_Intelligence|Blockchain|Machine_Learning|Big_Data|Consulting
+the speakers of The Ravit Show with host Ravit Jain featuring Chris Bergh are from what industries	Data_Integration|Analytics|Software|Test_and_Measurement|SaaS|Data_Center_Automation|Big_Data|Business_Intelligence
+the speakers of Wallifornia MusicTech Global Music Summit 2021 are from what industries	Concerts|Data_Storage|Sports|Analytics|Marketing_Automation|Software|Data_Center|Media_and_Entertainment|Music|Events
+the speakers of ISDA 34th Annual General Meeting are from what industries	Information_Technology|Financial_Services|Semantic_Web|Analytics|Natural_Language_Processing|Artificial_Intelligence|Blockchain|Machine_Learning
+the speakers of CONNECTIONS Summit: IoT and the Smart Home are from what industries	Enterprise_Software|Commercial_Real_Estate|Software|Hospitality|Property_Management|InsurTech|Residential|Intelligent_Systems|CleanTech
+the speakers of Foundation Supply Chain 2.0 are from what industries	Supply_Chain_Management|Shipping|Transportation|Blockchain|Logistics|Cryptocurrency
+the speakers of VC Connect 2017 are from what industries	Information_Technology|Artificial_Intelligence|Apps|Machine_Learning
+the speakers of Spark Summit 2018 are from what industries	Software|Cloud_Computing|Field-Programmable_Gate_Array_(FPGA)|Machine_Learning
+the speakers of B1 June are from what industries	Venture_Capital|Blockchain
+the speakers of TNW – Couch Conference are from what industries	Knowledge_Management|Computer_Vision|SaaS|Natural_Language_Processing|Artificial_Intelligence|Machine_Learning|Predictive_Analytics
+the speakers of Pillars of Franchising: How to franchise your business, Franchise Beacon are from what industries	Franchise|Lending|Management_Consulting|Business_Development|Consulting
+the speakers of GTRI AI Symposium 2018 are from what industries	Knowledge_Management|Computer_Vision|SaaS|Natural_Language_Processing|Artificial_Intelligence|Machine_Learning|Predictive_Analytics
+the speakers of National Retail Foundation NRF-NXT are from what industries	SEO|Software|Advertising
+the speakers of Knowledge Connexions - KnowCon are from what industries	Enterprise_Software|Semantic_Web|Knowledge_Management|Software|Data_Visualization|Artificial_Intelligence|Semantic_Search|Machine_Learning|Database|Big_Data
+the speakers of SingularityU Mexico Summit are from what industries	Public_Transportation|Automotive|Last_Mile_Transportation|Transportation|Computer_Vision|Robotics|Artificial_Intelligence|Autonomous_Vehicles|Logistics|Smart_Cities
+the speakers of IndieHackers are from what industries	Enterprise_Software|PaaS|Software|SaaS|Venture_Capital|Internet|Angel_Investment
+the speakers of The 4th International Chatbot Summit are from what industries	Travel|Information_Technology|Virtual_Assistant|Digital_Marketing|Software|Customer_Service|Natural_Language_Processing|Artificial_Intelligence|Machine_Learning|Leisure|Information_and_Communications_Technology_(ICT)|Speech_Recognition|Sales_Automation
+the speakers of AutoMobili-D are from what industries	Software|Artificial_Intelligence|Robotics|Autonomous_Vehicles
+the speakers of Shopper Marketing Conference and Expo are from what industries	Consumer_Reviews|Analytics|Advertising|Content_Marketing|Market_Research|Social_Media
+the speakers of Entrepreneurs of the Future 2021 are from what industries	Life_Science|Information_Technology|Service_Industry|Logistics|Manufacturing|Retail
+the speakers of Security vs Crypto are from what industries	Cyber_Security|Security|Software|Quantum_Computing|IT_Infrastructure|Identity_Management|Cloud_Computing|Computer
+the speakers of Token Summit III are from what industries	Blockchain|Cryptocurrency|FinTech|Internet
+the speakers of GMTC Frond End Developer Conf are from what industries	Information_Technology|Open_Source|Cloud_Data_Services|Software|SaaS|Blockchain|Cloud_Computing

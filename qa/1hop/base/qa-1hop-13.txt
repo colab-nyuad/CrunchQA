@@ -1,0 +1,100 @@
+what type of investor is Brightbridge Ventures	venture_capital
+what type of investor is Muwu Capital	investor
+what type of investor is Argonautic Ventures	venture_capital|fund_of_funds|hedge_fund
+what type of investor is Runzhe Chuangtou	investor
+what type of investor is Zhejiang Supcon Scientific Instrument Co., Ltd	investor
+what type of investor is FujiSoft	investor
+what type of investor is Mountain Cleantech	venture_capital
+what type of investor is Boston Children's Hospital	investor
+what type of investor is The First Investment Holdings Group	venture_capital
+what type of investor is Apollo Technology Partners	investor
+what type of investor is Heart Driven Fund	investor
+what type of investor is Agility Ventures	venture_capital
+what type of investor is ACK Group	investor
+what type of investor is Holding Moda	investor
+what type of investor is YWC Venture Capital	venture_capital|micro_vc
+what type of investor is Huaxiangjian Zhuangshi	investor
+what type of investor is Solano Foundation	investor
+what type of investor is MEST Express accelerator	incubator|accelerator
+what type of investor is Greencoat Capital	venture_capital
+what type of investor is Xiehe Yiyao Keji	investor
+what type of investor is Voulez Capital	venture_capital
+what type of investor is Tongcheng Capital	venture_capital
+what type of investor is NTWRK	investor
+what type of investor is US Ecology	investor
+what type of investor is Metro Pacific Investments Corp	investor
+what type of investor is Bryce Catalyst	investor
+what type of investor is Growth Ninjas GmbH	venture_capital|incubator|accelerator
+what type of investor is CVC Jool Investors	investor
+what type of investor is Notably	investor
+what type of investor is Mask Network	investor
+what type of investor is Citizens Bank	syndicate
+what type of investor is Chenlong Touzi	private_equity_firm
+what type of investor is Huadeli Holding Group	investor
+what type of investor is Suzhou Shunxin Renhui Guquan Touzi	investor
+what type of investor is Ruiying Touzi	investor
+what type of investor is Tvmining	investor
+what type of investor is Zheng Investment Partners	private_equity_firm
+what type of investor is V.S.T. Tillers Tractors	investor
+what type of investor is EPS Value Plus	venture_capital
+what type of investor is Xerys	private_equity_firm|venture_capital
+what type of investor is SiC Processing	investor
+what type of investor is Full E-NRGY	corporate_venture_capital
+what type of investor is Keiretsu Forum CEE	angel_group
+what type of investor is Zhongtou8.cn	investor
+what type of investor is Innovation Fund America	investor
+what type of investor is Cereal Docks	corporate_venture_capital
+what type of investor is HCVC	venture_capital|micro_vc
+what type of investor is Jianji Capital	investor
+what type of investor is SODECI	investor
+what type of investor is Cockrell Investment Partners	venture_capital
+what type of investor is Mac Invest SA	venture_capital
+what type of investor is ​SETOUCHI BRAND CORPORATION	investor
+what type of investor is Guangzhou Zhangsu Investment Consulting Co., Ltd	investor
+what type of investor is Graham & Company	investor
+what type of investor is S. Mark Taper Foundation	investor
+what type of investor is Lida Automation Technology	investor
+what type of investor is Vita Spring IVD Fund	venture_capital
+what type of investor is JUMP Investors	venture_capital
+what type of investor is Pyrénées Gascogne	venture_capital
+what type of investor is Crosstimbers Capital Group	private_equity_firm|venture_capital
+what type of investor is Baita Accelerator	accelerator
+what type of investor is Valhalla Valley Ventures	venture_capital
+what type of investor is Bank	investor
+what type of investor is Liquid 2 Ventures	venture_capital|micro_vc
+what type of investor is Wealth Club	venture_capital
+what type of investor is Travel Capitalist Ventures (USA, S Africa, Mideast, India)	private_equity_firm|venture_capital
+what type of investor is D.Ragoon	investor
+what type of investor is EBC Solicitors	investment_bank
+what type of investor is CITIC Metal Co., Ltd.	corporate_venture_capital
+what type of investor is Dai-ichi Seiko	investor
+what type of investor is Come Up Capital	venture_capital|micro_vc
+what type of investor is Shenzhenshi Haozhousheng Touzi	investor
+what type of investor is Arnel Capital Management	venture_capital
+what type of investor is Huaxia Life Insurance	private_equity_firm
+what type of investor is Reykjavik University	investor
+what type of investor is Centre for Genomic Regulation	investor
+what type of investor is Companion Fund	venture_capital
+what type of investor is GRA Venture Fund, LLC	micro_vc
+what type of investor is Play The Game Agency	investor
+what type of investor is ISAO	investor
+what type of investor is Qingdao Machinery Industry General	investor
+what type of investor is Scripps Howard Foundation	investor
+what type of investor is Virginia Tech Carilion (VTC) Innovation Fund	venture_capital
+what type of investor is Us Patent Commission	investor
+what type of investor is RTF Management	venture_capital
+what type of investor is High Street Capital	private_equity_firm
+what type of investor is Beijing Wanboke	investor
+what type of investor is Ituran	investor
+what type of investor is OakNorth	investor
+what type of investor is Nabru Ventures	venture_capital
+what type of investor is Tarus Capital	venture_capital|micro_vc
+what type of investor is McNamara Family Ventures	venture_capital
+what type of investor is ONCE Ventures	venture_capital
+what type of investor is Felix Investments	venture_capital
+what type of investor is Shaoxingshi Nuowei Xinshengwu Jishu Fuwu	investor
+what type of investor is Trajectory Capital	family_investment_office|venture_capital
+what type of investor is Capital Management Group	family_investment_office
+what type of investor is Herun Touzi	investor
+what type of investor is Dr. Max Iann Invest	investor
+what type of investor is Primaveris	venture_capital

@@ -1,0 +1,100 @@
+in which city did Solid in Amsterdam 2015 take place	Amsterdam
+in which city did Sioux Falls Startup Weekend take place	Sioux Falls
+in which city did Digitalk 2015 take place	Sofia
+in which city did Expedia Partners Conference take place	Las Vegas
+in which city did Legal Brief 2017 (CA-specific HR) take place	Mountain View
+in which city did Merry Christmas from CourMed® take place	Mckinney
+in which city did MMA Forum Shanghai 2017 take place	Shanghai
+in which city did Inspreneur 2.0 take place	Singapore
+in which city did Startup Grind Tbilisi Hosts Vakho Vakhtangishvili take place	Tbilisi
+in which city did OWASP Global AppSec Amsterdam 2019 take place	Amsterdam
+in which city did EdTechXAsia 2016 take place	Singapore
+in which city did The 2021 UK & Ireland Property Crowdfunding Report Launch take place	Praha
+in which city did Kozmeticki salon Iris take place	Rijeka
+in which city did Palo Alto Networks: Ransomware's Next Steps take place	Pittsburgh
+in which city did 200 Hour Yoga Teacher Training in Rishikesh take place	Rishikesh
+in which city did IDEO's Strategies for Sparking Innovation & Creativity Throughout Your Organization take place	San Mateo
+in which city did WomenHack - Dublin Employer Ticket October 17th, 2019 take place	Dublin
+in which city did Security Startup Challenge 2015 Workshop take place	San Francisco
+in which city did NIPS 2019 take place	Vancouver
+in which city did Fleets & Shared Mobility take place	Sunnyvale
+in which city did Tailgate Brunch in Barsha Heights every friday take place	Dubai
+in which city did SportsPro Live take place	London
+in which city did DX Summit London take place	London
+in which city did LA Uncubed take place	Santa Monica
+in which city did LA Design Summit take place	Los Angeles
+in which city did HackerX - Bremen - 7/18 (Employer Page) take place	Bremen
+in which city did First Women Awards ( UK) take place	London
+in which city did 13th Edition of International Conference on Nanopharmaceutics and Advanced Drug Delivery take place	London
+in which city did proTech 2019 Toronto: Venture Capital Forum take place	Toronto
+in which city did Tarugoconf 2017 take place	Madrid
+in which city did FIBC 2018 take place	Tokyo
+in which city did IntelliTalks: Surviving the world of digital transformation (Munich) take place	Munich
+in which city did HostingCon China 2016 take place	Guangdong
+in which city did WordCamp Chicago 2016 take place	Chicago
+in which city did Hack Cyprus 2015 take place	Nicosia
+in which city did China Vehicle Thermal Management Innovation Summit 2019 take place	Shanghai
+in which city did Disappear Here: On perspective and other kinds of space take place	London
+in which city did RNA Therapeutics take place	London
+in which city did Tech In Asia Jakarta 2018 take place	Jakarta
+in which city did Startup Riot 2016 take place	Atlanta
+in which city did Future Food Asia 2019 take place	Singapore
+in which city did Four Corners Startup Weekend take place	Farmington
+in which city did Practical Management of Impurities, Stockholm, Sweden take place	Stockholm
+in which city did Global Women Summit take place	Casablanca
+in which city did SaaStock 2016 take place	Dublin
+in which city did Bootstrap Alley Tour Seoul take place	Seoul
+in which city did The Developers Conference 2018 - Porto Alegre take place	Canoas
+in which city did Machine Learning for the Enterprise International Conference 2019 take place	Rome
+in which city did SPE Workshop: Asset Integrity - Managing People, Performance, Profitability take place	Abu Dhabi
+in which city did FierceBiotech 2nd Drug Development Forum take place	Boston
+in which city did Tech City Networking Event with the Institute of Directors take place	London
+in which city did Design Thinking take place	Selangor
+in which city did Women in AI Dinner London 2020 take place	London
+in which city did Triangle TechBreakfast take place	Raleigh
+in which city did LTR take place	New York
+in which city did SC Congress Amsterdam 2016 take place	Amsterdam
+in which city did Internet of Things - IoT Training take place	London
+in which city did WomenHack - Austin Employer Ticket 3/5 take place	Austin
+in which city did Open Innovation Series: Accelerators - Emerging Trends & Model of the Future take place	Redwood City
+in which city did Startup Weekend San Juan 2017 take place	San Juan
+in which city did Gartner Data & Analytics Summit Sao Paulo 2018 take place	São Paulo
+in which city did South Summit take place	Madrid
+in which city did Effective Government Relations for Oil & Gas Industry take place	Dubai
+in which city did AI in Pharma Innovation take place	Boston
+in which city did Chief Data Scientist Forum, Europe 2016 take place	London
+in which city did DevGAMM take place	Minsk
+in which city did BayPay Thought Leadership Series with Sasha Orloff, CEO and Co-­Founder at LendUp take place	San Francisco
+in which city did Dubai Airshow 2021 take place	Dubai
+in which city did HackerX - Denver/Boulder (Back-End) Employer Ticket - 7/28 take place	Denver
+in which city did VMworld US 2018 take place	Las Vegas
+in which city did MoneyLIVE: Digital Banking ASEAN 2018 take place	Singapore
+in which city did Digital Health World Congress 2017 take place	London
+in which city did HER take place	New York
+in which city did Drones Data X Conference take place	Santa Cruz
+in which city did Ascent Tech Conference NYC 2019 take place	Manhattan
+in which city did 2018 Benzinga Fintech Summit take place	San Francisco
+in which city did Global Conference on Pharmacy and Pharmaceutical Science take place	Bali
+in which city did Her Agenda x AlleyNYC Present: Holistic Success take place	New York
+in which city did Global Markets Incubator take place	Paris
+in which city did Mobile Growth Austin w/ RealSavvy, RetailMeNot and SPI take place	Austin
+in which city did Mayo Clinic Radiation Oncology: Current Practice and Future Direction take place	Hawaiian Gardens
+in which city did SF MusicTech Summit IX take place	San Francisco
+in which city did AIM Summit – The Leading Alternative Investment Management Summit take place	Dubai
+in which city did Bay Area 9/11 Day of Service Speed Consulting Monday, September 11 take place	San Francisco
+in which city did 2019 San Diego Technology Executive Leadership Summit take place	San Diego
+in which city did BLOCKCHAIN ECONOMIC FORUM 2017 take place	New York
+in which city did IDTechEx: Wearable USA take place	Santa Clara
+in which city did IDC Cloud & Datacenter Roadshow 2017 take place	Istanbul
+in which city did Winter 2018 Quarterly Chapter Meeting take place	Menlo Park
+in which city did NextMed MMVR22 take place	Los Angeles
+in which city did Startup Cities take place	New York
+in which city did WeFIRST take place	San Francisco
+in which city did Code/Mobile take place	Half Moon Bay
+in which city did Building the Enterprise IoT Ecosystem take place	San Francisco
+in which city did Power of the Cast take place	Atlanta
+in which city did Digital Hollywood 2015 Media Summit take place	Los Angeles
+in which city did TechCrunch Include Office Hours take place	San Francisco
+in which city did HackerX - Miami (Full-Stack) Employer Ticket - 11/19 take place	Miami
+in which city did Digital Day Miami - Intensive Digital Marketing Training take place	Miami
+in which city did Intel® Buzz Workshop London 2018 take place	London

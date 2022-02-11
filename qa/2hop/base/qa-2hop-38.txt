@@ -1,0 +1,100 @@
+BlackFin Tech invested in what type of funding rounds	series_c
+Starboard Value invested in what type of funding rounds	post_ipo_equity
+Igah Ventures. invested in what type of funding rounds	seed|series_a|series_b
+Highline Beta invested in what type of funding rounds	pre_seed
+ETFS Capital invested in what type of funding rounds	seed|series_a
+Sallyport Investments invested in what type of funding rounds	series_a|series_b
+Foundation for Food and Agriculture Research invested in what type of funding rounds	grant
+Rockies Venture Club invested in what type of funding rounds	seed|angel|series_a
+Base Capital Partners invested in what type of funding rounds	series_c|series_a
+Inveready invested in what type of funding rounds	pre_seed|post_ipo_debt|undisclosed|seed|series_a|series_b|convertible_note
+VinaCapital Investment Management invested in what type of funding rounds	post_ipo_equity
+TCG Crossover invested in what type of funding rounds	series_c|series_b
+Bowman Capital invested in what type of funding rounds	series_b
+Enygma Ventures invested in what type of funding rounds	seed
+Fall Line Capital invested in what type of funding rounds	seed|series_d|series_a
+Aurinvest invested in what type of funding rounds	series_b
+Accelerace invested in what type of funding rounds	seed|grant
+Leadout Capital invested in what type of funding rounds	seed
+SessionM invested in what type of funding rounds	series_a
+National Development Fund of Taiwan Government invested in what type of funding rounds	seed
+The E14 Fund invested in what type of funding rounds	pre_seed|seed
+NB Ventures invested in what type of funding rounds	seed|series_a|convertible_note
+HaxAsia invested in what type of funding rounds	seed
+Alameda Research invested in what type of funding rounds	initial_coin_offering|seed|series_a|series_b
+Centricap invested in what type of funding rounds	seed
+Deep Fork Capital invested in what type of funding rounds	seed|series_a|series_b|series_c|convertible_note
+NPIF – Mercia Equity Finance invested in what type of funding rounds	seed|series_a
+CoinCircle invested in what type of funding rounds	initial_coin_offering
+Anathem Ventures invested in what type of funding rounds	seed|series_b
+Norgine Ventures invested in what type of funding rounds	series_a
+Microsoft Climate Innovation Fund invested in what type of funding rounds	series_d|series_b
+FoodLabs invested in what type of funding rounds	pre_seed|seed|series_a
+Fusion Fund invested in what type of funding rounds	seed|series_a|series_c|series_b
+CapHorn Invest invested in what type of funding rounds	seed|series_a|series_b
+Bellco Capital invested in what type of funding rounds	series_a
+M12 - Microsoft's Venture Fund invested in what type of funding rounds	series_d|seed|series_a|series_b|convertible_note|series_c|series_e
+Moonrock Capital invested in what type of funding rounds	seed
+One 9 Investments invested in what type of funding rounds	series_a
+Austria Wirtschaftsservice invested in what type of funding rounds	pre_seed|seed
+Yuan Capital invested in what type of funding rounds	series_d|series_c|series_e|series_b
+Vibe Capital invested in what type of funding rounds	pre_seed
+TRIVE invested in what type of funding rounds	seed|series_b
+Blue Lagoon Capital invested in what type of funding rounds	series_a
+Northzone invested in what type of funding rounds	private_equity|seed|series_d|secondary_market|series_b|series_a|series_g|series_f|post_ipo_equity|series_c|series_e
+Golub Capital invested in what type of funding rounds	series_c|series_g|undisclosed|debt_financing
+LOI Venture invested in what type of funding rounds	seed
+Village Ventures invested in what type of funding rounds	seed|series_d|series_a|series_b|series_c|private_equity
+Tech Capital Partners invested in what type of funding rounds	series_b
+Apax Partners invested in what type of funding rounds	series_d|series_a|post_ipo_equity|series_b|series_c|private_equity
+venVelo invested in what type of funding rounds	series_b
+TC - TradersClub invested in what type of funding rounds	private_equity
+Blackstone Accelerates Growth invested in what type of funding rounds	series_d
+VKRM Ventures invested in what type of funding rounds	seed
+Parkwalk Advisors invested in what type of funding rounds	seed|series_a|series_b|post_ipo_equity|series_f
+SATUS Starter invested in what type of funding rounds	seed
+Rockwell Automation invested in what type of funding rounds	series_d
+TwentyTwo VC invested in what type of funding rounds	seed
+Tribal.vc invested in what type of funding rounds	seed|series_a|series_b
+EnCana invested in what type of funding rounds	series_b
+Base Partners invested in what type of funding rounds	series_d|series_a|series_b|series_c|series_e
+Iyogin Capital invested in what type of funding rounds	series_a|series_b
+Sonae IM invested in what type of funding rounds	series_d|series_b|series_a|series_c
+Round13 Capital invested in what type of funding rounds	seed|series_d|post_ipo_equity|series_a|series_b|series_c
+Endo Investors invested in what type of funding rounds	series_b
+Credit Suisse invested in what type of funding rounds	series_b
+Amro Partners invested in what type of funding rounds	series_a
+Adjacent invested in what type of funding rounds	seed
+Kalaari Capital invested in what type of funding rounds	series_d|seed|series_a|series_b|series_c|series_e
+Xontogeny invested in what type of funding rounds	seed
+OutField Capital invested in what type of funding rounds	seed
+Pequot Capital invested in what type of funding rounds	series_c|series_a|series_b
+TLV Partners invested in what type of funding rounds	seed|series_a|series_c|series_b
+NIO Capital invested in what type of funding rounds	angel|series_c
+Kauffman Fellows Fund invested in what type of funding rounds	undisclosed|series_d|series_a|series_c|series_e
+Cox Enterprises Social Impact Accelerator powered by Techstars invested in what type of funding rounds	pre_seed
+FUSE invested in what type of funding rounds	seed|series_a|series_b
+Cowen Group invested in what type of funding rounds	private_equity|series_b|convertible_note
+Brightly Ventures invested in what type of funding rounds	seed
+Falfurrias Capital Partners invested in what type of funding rounds	private_equity
+Barclays Accelerator Powered by Techstars - Cape Town invested in what type of funding rounds	pre_seed|seed
+Big Pi Ventures invested in what type of funding rounds	seed
+Iron Wolf Capital invested in what type of funding rounds	seed
+Engel Ventures invested in what type of funding rounds	seed|series_a
+Lateral Frontiers invested in what type of funding rounds	seed
+Momentum Venture Management invested in what type of funding rounds	series_a|series_b
+Kresge Foundation invested in what type of funding rounds	grant
+Fantail Ventures invested in what type of funding rounds	pre_seed|seed|series_a
+Kairos Ventures invested in what type of funding rounds	seed|series_a|series_b
+HealthX Ventures invested in what type of funding rounds	series_a
+Surge invested in what type of funding rounds	seed
+Experiment Fund invested in what type of funding rounds	seed|series_a
+Kauffman Fellows invested in what type of funding rounds	series_b
+Invictus Growth Partners invested in what type of funding rounds	series_a|private_equity
+Seier Capital invested in what type of funding rounds	seed
+Bezos Earth Fund invested in what type of funding rounds	grant
+Ponooc invested in what type of funding rounds	series_a
+Silicon Badia invested in what type of funding rounds	seed|series_a|series_b
+Alchemist Accelerator invested in what type of funding rounds	pre_seed|seed
+Thinktiv invested in what type of funding rounds	series_a
+Fresh Start FoodTech Incubator invested in what type of funding rounds	pre_seed

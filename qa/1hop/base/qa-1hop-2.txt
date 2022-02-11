@@ -1,0 +1,100 @@
+Umdasch is the speaker of which event	Austrian_Retail_Summit_2020@c2963
+Reed Smith is the speaker of which event	beatvyne's_Music_x_Tech_Experience@832f8
+Trendigo is the speaker of which event	Web_Summit_2020@0ce3a
+Blue Diamond Capital is the speaker of which event	Virtual_DEMO_Day@a430b
+Torq Labs, Inc. is the speaker of which event	Avantex_Fashion_Pitch@3015e
+Scalable Health is the speaker of which event	Big_Data_&_Analytics_in_Healthcare_Summit_Philadelphia_2018@4e193
+Veniam is the speaker of which event	Web_Summit_2017@d36a4|LA_CoMotion_2017@a78cd|Internet_of_Things_World_Asia@17fce
+University of Geneva is the speaker of which event	Human_Rights_Week_-_Semaine_des_Droits_Humains@9e6a8
+Bulba Ventures is the speaker of which event	Startup_Village_2018@5cd80|EMERGE_2019@63448
+Cycle Capital is the speaker of which event	proTECH_2019@83176
+Elemica is the speaker of which event	InterCon_Conference@ee845
+Vertex Pharmaceuticals is the speaker of which event	Oncology_Strategy_Meeting_Europe_2018@e91a2
+HAAS Alert is the speaker of which event	CES_2018@39174|LA_CoMotion_2017@a78cd
+Real Madrid C.F. is the speaker of which event	Digital_Transformation_in_Sports_Summit@31c26
+Stealth is the speaker of which event	Blockchain_Shift@dbefe|Global_Blockchain_Forum@2dc54|Battle_of_the_Cryptos_Worldwide_2018@f840b
+UWINLOC is the speaker of which event	Eureka_Park_CES_2017@6870e|Mobile_World_Congress_2017@bffe3
+Kuda is the speaker of which event	AfroTalent_Film_Festival@b804a|AfroTalent_Film_Festival@5c538
+Vamstar is the speaker of which event	Slush_Helsinki_2019@5e71c
+Clarity HQ is the speaker of which event	QuickBooks_Connect@2d81e
+Peloton Therapeutics is the speaker of which event	Clinical_Operations_Strategy_Meeting_West_Coast_2018@74028
+American Express is the speaker of which event	Big_Data_&_Machine_Learning_Leaders_Summit_Hong_Kong_2018@96be7|Brand_Marketing_Leaders_Summit_Singapore_2019@88216
+AkzoNobel [Dulux Brand] is the speaker of which event	Digital_Marketing_Leaders_Summit_Singapore_2019@de903
+Telecoming is the speaker of which event	Global_Carrier_Billing_Summit@008d0|Global_Carrier_Billing_Summit_2020@0a5e8
+Skai Israel is the speaker of which event	SMX_East_2018@5429d|MediaPost_Search_Insider_Summit@9a796|Internet_Retailer_Conference_&_Exhibition@9f485
+TalkBank is the speaker of which event	Fin.Bot@3b647|BANKS'_COMMISSION_INCOME_2020@dc415
+Nowi is the speaker of which event	WT_Wearable_Technologies_Conference_2018@f475a|The_Things_Conference_2019@9040e
+Dianomic is the speaker of which event	OSIsoft_PI_World_2018@316aa
+iFavour ® is the speaker of which event	The_Wearable_Technology_Show_2016@7abaa
+Chainvine is the speaker of which event	Money20/20@03c0c|BSAC_Business_Briefing@f4e22|OECD_Digital_for_SME_Roundtable@9bc59|Sweden_Foodtech_The_Big_Meet@bffd0
+PopBase is the speaker of which event	VRS_Conference_2018@790c5|Augmented_World_Expo_2018@a6b47
+Over.ai is the speaker of which event	NOAH_Berlin_2019@b91f5
+Treble.ai is the speaker of which event	Y_Combinator_@_Uniandes@73321
+Cushman & Wakefield is the speaker of which event	Connect_Healthcare_2019@b5d6f|Connect_Industrial_2019@dd4f4|Connect_National_Investment_&_Finance_2019@aeb6e|Connect_New_York_2019@9a376|Connect_Los_Angeles_2020@ce1a0|Connect_Industrial_Midwest_2020@5094f|Connect_South_Florida_2020@83a93
+Trammell Crow Company is the speaker of which event	Connect_Industrial_2019@dd4f4
+Smartia is the speaker of which event	How_far_can_we_trust_IoT?@a45af
+YallaCase is the speaker of which event	Dubai_Future_Blockchain_Summit@68f18
+OceanaGold Corporation is the speaker of which event	Future_of_Mining_Australia_2020@9f8a7
+GoHub is the speaker of which event	Silicon_Valley_Startup_Bootcamp_in_Europe@c5ea0
+Movandi is the speaker of which event	Small_Business_Event_-_BPIIMPTW18@b52f1|B2B_Summit@4c808|OCTANe's_Technology_Innovation_Forum_2018@f1501|2018_IEEE_Circuits_and_Systems.@cf35e|IEEE_5G_Summit_San_Diego@43ac7|IEEE_RFIC_2017@dc00d|Connectivyt_Expo@be94c|2018_DARPA_SBIR@bda1b|April_17_UCLA_Sugar_Speaker_Series@3bc25|Beyond_the_hype:_5G_and_Cloud_Computing@b092d
+Kaleido is the speaker of which event	Consensus_2022@b5db7|AWS_re:Invent_Las_Vegas_2018@3e5b0
+MetroNaps is the speaker of which event	SAP_SuccessConnect@66295|Innovation_Summit_2018_America@7d832
+CoStar Group is the speaker of which event	Connect_Apartments_2019@b8a6f
+Pacific Western Bank is the speaker of which event	Connect_National_Investment_&_Finance_2019@aeb6e
+Snips is the speaker of which event	The_AI_Congress_Las_Vegas@dca85
+IE Business School is the speaker of which event	Predictive_Analytics_Innovation_Summit_Singapore_2018@6fb4e
+Pushnami is the speaker of which event	PI_Live@91240
+MessagePath is the speaker of which event	Global_Artificial_Intelligence_Virtual_Conference@0eb23
+Madison Realty Capital is the speaker of which event	Connect_Bay_Area_2019@e8a5e|Connect_National_Investment_&_Finance_2019@aeb6e
+Ople is the speaker of which event	Artificial_Intelligence_for_Business_and_IT_Leaders@d9ba3|Zinnov_Confluence_2019@50d9d|Internet_Retailer_Conference_&_Exhibition@9f485|Internapalooza_2018@fa03c
+Excellon Resources is the speaker of which event	Mining_Journal_Select_London@eba5a
+Enteruptors is the speaker of which event	Fintegrate_Zone_2019@41254|ASIC_Responsible_Lending_Webinar@2a402
+Britive is the speaker of which event	ISSA-LA_October_16,_2019_Dinner_Meeting@f6f7b
+RoadBotics is the speaker of which event	Big_Data_&_AI_Leaders_Summit_Boston_2019@7f375
+Healthcare Solutions Holding is the speaker of which event	Industrial_Healthcare_and_Medical_Tourism@1b0ed
+EVE.calls is the speaker of which event	AI_Conference_2018@a73e7
+BOOQED is the speaker of which event	EXPO_REAL@83e17|Startup_Impact_Summit_2020@34dd1|MIPIM_Proptech_Europe_2019@b80ce
+Halstead Property is the speaker of which event	Real_Estate_Tech_and_Innovation_Expo@d4a9b
+Siliconglen Ltd is the speaker of which event	Aginext.io_London_Conference@2f8e2|Agile20Reflect_Festival@3e6e5
+SolarMente is the speaker of which event	European_Blockchain_Convention_2020@f28a2
+4Blind is the speaker of which event	"Toyota_Startups_Awards@ac89e|TTD_""Technologies_for_the_Metropolis”_2021@2a909|AEA_2020@90a08|WUD@ITMO_2021@16a75|World_Innovation_Summit_for_Health_(WISH)@83c86"
+Avalara is the speaker of which event	Rakuten_Optimism_2019@77575
+Macerich is the speaker of which event	Connect_Direct-to-Consumer_2019@eb071
+Basis Investment Group is the speaker of which event	Connect_National_Investment_&_Finance_2019@aeb6e
+Pieces is the speaker of which event	HIMSS_2018@5d9d6
+Fresh Perspectives is the speaker of which event	Snap3D_One@c9203
+Rashanadda is the speaker of which event	Startup_Chhattisgarh_Challenge@330df|Kickstart@040c0
+Constellation Labs is the speaker of which event	DeveloperWeek_2019@669af|Scale_by_the_Bay@7b197
+SwissRealCoin is the speaker of which event	London_Tech_Week_2018@6eb23
+MentorCloud is the speaker of which event	500_Startups_Batch_15@812dd
+Noknox is the speaker of which event	Tela_Viva_Móvel@80f79
+Infinite X is the speaker of which event	NEXT_BLOCK_Blockchain_Conference_Sofia_2.0@c93e4
+ABN AMRO Bank is the speaker of which event	Workforce_Identity_Governance_&_Access_Management_Summit@9e5c1
+Frameright is the speaker of which event	PIRATE_Summit_2019@db1e1|re:publica_2019@4e9f5
+Nettoken is the speaker of which event	NCSC_Cyber_Accelerator_Demo_Day@c1d76
+Equatorial Space is the speaker of which event	Slush_Singapore_2018@74b44|Global_Space_and_Technology_Convention_2021@69e74|Echelon_Asia_Summit_2019@581b0|20th_Annual_Global_MilSatCom,_London,_UK@d7943|Innovfest_Unbound_2018@66ae4
+Keiretsu Forum Canada is the speaker of which event	Canada_Investment_Space_2019@2aa30
+RTI International is the speaker of which event	Digital_Marketing_Leaders_Summit_Jakarta_2019@eeb70
+Beam Semiconductor is the speaker of which event	Telecom_Council_Innovation_Showcase_2020@2f7c9
+Zeeve is the speaker of which event	Automating_Blockchain_DevOps_in_a_Multicloud_Environment@3834c
+Veritas Investments is the speaker of which event	Connect_Bay_Area_2019@e8a5e
+HardHats is the speaker of which event	Industrious_Women's_Summit_hosted_by_the_Better_Business_Bureau@25524
+CleverTap is the speaker of which event	Mobile_World_Congress_2018@e1c41
+Corellium is the speaker of which event	Black_Hat_USA_2021@884b7
+XMOS is the speaker of which event	CES_2019@55290
+iTeleport is the speaker of which event	Construtalk@25e7a|Conecta_Imobi_2016@2fb9c
+GlobalBoost is the speaker of which event	CX4_Crypto-Conference@3f5fd
+Bespoke is the speaker of which event	Chatbot_Summit_Tel_Aviv_2019@2e66e|Web_in_Travel_2017@f51fd|The_4th_International_Chatbot_Summit@f7c35|Advertising_Week@d7f8e|WIT_JAPAN_AND_NORTH_ASIA_2018@6ab2f
+CLOUDQUANT, LLC is the speaker of which event	Morningstar_Investment_Conference@66f4a|Artificial_Intelligence_and_Data_Science_in_Capital_Markets_Conference@7f21c|Battle_of_the_Cryptos_Worldwide_2018@f840b
+ETHLend is the speaker of which event	LendingUP!_Turning_Loans_Around_2019@ed2b9
+Mujo Mechanics is the speaker of which event	Pitch@Palace_5.0@cc7ec|Angels_in_MedCity_Pitching_Event_Feb-2015@47a54
+RedDoorz is the speaker of which event	Digital_Marketing_Leaders_Summit_Jakarta_2019@eeb70
+Securiti is the speaker of which event	PrivacyOps_–_Data_intelligence_Driven_Privacy_Automation@125a0|RSA_Conference_2020@a62d5
+Guppy Group is the speaker of which event	Money20/20_Asia_2019@7e26b|Money20/20_Europe_2018@2af6a|Fintech_Americas_Conference_2019@fb989|Token_Fest_2018@de437
+United States Agency for International Development is the speaker of which event	IT_Arena_2019@a8ebe
+The News Funnel is the speaker of which event	Real_Estate_Tech_and_Innovation_Expo@d4a9b
+Natixis is the speaker of which event	Connect_National_Investment_&_Finance_2019@aeb6e
+Orbitt is the speaker of which event	GTR_Asia_Trade_&_Treasury_Week_2018@522a8
+Edgility Inc. is the speaker of which event	Career_Transitions_Panel@54c81|HIMSS_2018@5d9d6|HIMSS_2017@67211
+Ethernovia is the speaker of which event	Sensors_Expo_and_Conference,_San_Jose_2019@1f6ab
+Home Credit is the speaker of which event	Fin.Bot@3b647

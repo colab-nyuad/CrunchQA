@@ -1,0 +1,25 @@
+18	job_title-job_title-job-has_job-person	job-is_current-job_current | job-in_org-org-employee_count-employee_count	current (gender) [job_title] whose company has more than (employee_count) employees	142
+19	category-category-org-launched-funding_round-funding_found_investor-person/org	org-country_code-country_code	list of investors in in (country_code)'s [category] companies	80
+20	category-category-org	org-launched-funding_round-type_of-investment_type | funding_round-announced_on-date	[category] companies that launched their (investment_type) during (date)	99
+21	country_code-person/org	person/org-funding_round_investor-funding_round-launched-org-category-category	investors from [country_code] that invested in (category) companies	100
+22	org-acquirer-acquisition-acquiree-org	nan	how many companies did [org] acquire	100
+23	category-category-org	org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol	[category] companies that released ipo on (stock_exchange_symbol)	100
+24	country_code-country_code-org-launched-founding_round	funding_round-funding_round_lead_investor-person/org-country_code	funding round launched by [country_code] companies led by (country_code) investors	100
+0	org-launched-funding_round-funding_round-investor-person/org	nan	list of [org]'s investors	100
+1	org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role	nan	[org] participated in what types of events	100
+2	org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role	nan	what types of event did [org] mostly participate in	100
+3	person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role	nan	[person] participated in what types of events	100
+4	person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role	nan	what types of event did [person] mostly participate in	100
+5	category-category-org	org-org_ipo-date	[category] companies that went public during (date)	100
+6	org-in_org-job-has_job-person	job-is_current-job_crrent | job-job_title-job_title	[org] alumni who has founded (num) or more companies	100
+7	org-acquirer-acquisition-type_of-acquisition_type	nan	how many (acquisition_type)s does [org] have	100
+8	category-category-org	org-founded_on-date	[category] companies founded during (year1) and (year2)	100
+9	org-acquirer-acquisition-acquiree-org	org-category-category	[org] mostly acquired companies from which business segment	100
+10	event-type_of-event_role	event-started_on-date | event-city-city	what [event_role] took place in (city) during (date)	100
+11	category-category-org	org-country_code-country_code | org-employee_count-count	which [category] companies in (country_code) have the largest number of employees	100
+12	category-category-org	org-acquiree-acquisition-acquired_on-date	list of [category] organizations acquired in (date)	100
+13	org-launched-funding_round-funding_round-investor-person/org	funding_round-type_of-investment_type	list of investors in [org]'s (investment_type)	100
+14	event-sponsor/speaker/exhibitor/organizer/contestant-org	job-job_title-job_title | person-has-job-job-in_org-org	which companies in [event] are founded by (gender)	100
+15	category-category-org	org-org_ipo-org_ipo-share_price_usd-price	which [category] companies have the highest ipo share price	100
+16	org	org-launched-funding_round-funding_round_investor-person/org	how many (investment_type) investors does [org] have	100
+17	category-category-org	org-funding_round-raised_aount_usd	list of [category] companies with more than (price) total funding	83

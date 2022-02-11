@@ -1,0 +1,100 @@
+Anum Hussain is the speaker of events in which cities	San Francisco
+Dr. Ogbonnaya Onu is the speaker of events in which cities	Lisbon
+Zhihao Zhao is the speaker of events in which cities	Santa Clara
+Ally Long is the speaker of events in which cities	San Jose
+Martin Kelly is the speaker of events in which cities	London
+Jeffrey Jaensubhakij is the speaker of events in which cities	Singapore
+Matt Barrett is the speaker of events in which cities	Oslo|London
+Moaffak Ahmed is the speaker of events in which cities	Helsinki
+Susanne Burkeholder is the speaker of events in which cities	Moscow
+Michael Hauck is the speaker of events in which cities	Chicago
+Cathryn Chen is the speaker of events in which cities	New York
+Tim Riley is the speaker of events in which cities	Mountain View|New York
+Matthew Gunnin is the speaker of events in which cities	Las Vegas
+Nancy Green is the speaker of events in which cities	Boston
+Vicky Colbert is the speaker of events in which cities	Oxford
+Matt Alsup is the speaker of events in which cities	Chicago
+Tiziano Cembali is the speaker of events in which cities	New York
+Paul Bennett is the speaker of events in which cities	Redmond
+Carla Diana is the speaker of events in which cities	Barcelona
+Mark Berinato is the speaker of events in which cities	Las Vegas
+Zachary Burgeson is the speaker of events in which cities	Boston
+Sheldon Fernandes is the speaker of events in which cities	Santa Clara
+Alan Panezic is the speaker of events in which cities	Loughman
+Ellen Corrigan is the speaker of events in which cities	San Francisco
+Rohan Gunatillake is the speaker of events in which cities	New York
+Johan Ludvig Brattås is the speaker of events in which cities	Seattle
+Juha Pankakoski is the speaker of events in which cities	San Diego|Berlin|Chicago|London
+Steve Steutermann is the speaker of events in which cities	Phoenix|London
+Tim Clark is the speaker of events in which cities	Santa Clara
+Nick Pandher is the speaker of events in which cities	Park City
+Alex Heneveld is the speaker of events in which cities	Broomfield|Denver
+Sepideh Nasiri is the speaker of events in which cities	San Francisco|Long Beach
+Amandine Garnier is the speaker of events in which cities	Toulouse
+Hans Pongratz is the speaker of events in which cities	Denver
+Manolis Sfinarolakis is the speaker of events in which cities	Cambridge
+James Field is the speaker of events in which cities	Helsinki
+Jonathan Geater is the speaker of events in which cities	San Francisco|Berlin
+Douglas J. Roth is the speaker of events in which cities	Boston|New York
+Pat Bajari is the speaker of events in which cities	Singapore|London
+Gordon Einstein is the speaker of events in which cities	Santa Monica|Moscow|Valletta
+Julian Gleizer is the speaker of events in which cities	Toronto
+Vishal Gulati is the speaker of events in which cities	Barcelona|Helsinki|London
+Joshua Smith is the speaker of events in which cities	Portland
+Crissman Loomis is the speaker of events in which cities	Boston
+Jerome S. Engel is the speaker of events in which cities	Barcelona
+David Anderson is the speaker of events in which cities	San Francisco
+Lauren Jupiter is the speaker of events in which cities	New York|Las Vegas
+Thong Le is the speaker of events in which cities	New York
+Richard Cowburn is the speaker of events in which cities	Stavanger
+Sarah Larsson Bernhardt is the speaker of events in which cities	Malmö
+Elizabeth Minogue is the speaker of events in which cities	Sydney
+Brandon Oldenburg is the speaker of events in which cities	Chicago
+Andre Stiegler is the speaker of events in which cities	Kuala Lumpur
+Max Katz is the speaker of events in which cities	San Francisco
+Christian Sanz is the speaker of events in which cities	Hong Kong|Paris|San Francisco|Lisbon|Wan Chai
+Jeremy Noel Johnson is the speaker of events in which cities	Santa Clara
+Vicente Diaz is the speaker of events in which cities	San Francisco
+Anne-Marie Enns is the speaker of events in which cities	Vancouver
+Yuval Shimoni is the speaker of events in which cities	San Francisco
+Eddie Copeland is the speaker of events in which cities	London
+Sankar Jayaram is the speaker of events in which cities	Santa Clara
+Nicholas Pachuda is the speaker of events in which cities	La Jolla
+Alok Kanojia is the speaker of events in which cities	Boston
+Ashwin Kumar is the speaker of events in which cities	New York
+Omar Mohout is the speaker of events in which cities	Ghent|Brussels|Brussel
+Elisabeth Rhyne is the speaker of events in which cities	New York
+Rafael Dohms is the speaker of events in which cities	Amsterdam
+Olga Petrova is the speaker of events in which cities	San Jose|London
+Alex Gorelik is the speaker of events in which cities	San Jose
+Rebecca Lindland is the speaker of events in which cities	San Francisco
+Mahbubul Alam is the speaker of events in which cities	Santa Clara|Los Angeles
+Logan Levkoff is the speaker of events in which cities	New York
+Jim Zhang is the speaker of events in which cities	Raleigh
+Rei Carvalho is the speaker of events in which cities	Washington
+Dag Scott is the speaker of events in which cities	Oslo
+Ann Shin is the speaker of events in which cities	San Jose|Santa Clara|Las Vegas
+Joel Birch is the speaker of events in which cities	Chicago
+Archana Kesavan is the speaker of events in which cities	Kissimmee|Santa Clara
+Dave Levin is the speaker of events in which cities	Lisbon
+Lisa Bobbitt is the speaker of events in which cities	San Francisco
+Avinav Pashine is the speaker of events in which cities	Zürich
+Safia Ali is the speaker of events in which cities	San Francisco|Long Beach
+Mazen Al Jubeir is the speaker of events in which cities	Beverly Hills
+Ameet Bhansali is the speaker of events in which cities	San Jose
+Odera Ume-Ezeoke is the speaker of events in which cities	London
+Mikus Opelts is the speaker of events in which cities	Tartu|Riga
+Clay Collier is the speaker of events in which cities	Santa Clara
+Sam Yam is the speaker of events in which cities	Redwood City|Lisbon
+Frank Seide is the speaker of events in which cities	San Jose
+Paul Allard is the speaker of events in which cities	Paris
+Bettina Warburg is the speaker of events in which cities	Oxford|Atlanta
+Sai Sundaram is the speaker of events in which cities	Hyderabad
+Lori Steele Contorer is the speaker of events in which cities	San Francisco|Long Beach
+Celine Lazorthes is the speaker of events in which cities	Copenhagen|Dublin|Paris|London|Amsterdam
+Paul Hartman is the speaker of events in which cities	Boston
+Marco Blume is the speaker of events in which cities	London
+Stephan Wiepjes is the speaker of events in which cities	Amsterdam
+Dan Stanton is the speaker of events in which cities	Strömstad
+Tomas Edwards is the speaker of events in which cities	Tampa
+Ursula Burns is the speaker of events in which cities	Barcelona|New City|Berlin

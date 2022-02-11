@@ -1,0 +1,100 @@
+investors from United States of America that invested in Leisure companies	Jason_Calacanis@21433|Douglas_Teitelbaum@475ff|Larisa_Serova@1cf8e
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Financial Services companies	Alexander_Edward_Chesterman@b68a4
+investors from Russian Federation that invested in Mobile Apps companies	Andrey_Azarov@6502e
+investors from United States of America that invested in Software companies	Steve_Bornstein@a2964|Ed_Walters@44363|Cliff_Holekamp@9cf88|Robert_Stavis@83e14|Justin_Bastian@72c32|Fabio_Rosati@a8241|David_Zug@9a17b|Devdutt_Yellurkar@7a808|Tomer_Tagrin@aeacc|Chris_Kelly@aa17c|Mark_Cuban@1e113|Robert_Brill@9cec9|Matt_Ocko@29c3b|Elena_Perepelychnaya@672c3|Eric_Reiner@c7414|Immad_Akhund@b76b6|Kevin_Lin@15101|Thomas_Jones@0e858|Jason_Calacanis@21433|Pascal_Levy-Garboua@9fdbc|Rene_Reinsberg@b6f02|Marek_Olszewski@b9ec2|Scott_Banister@ece26|Mike_Shim@65215|Hunter_Walk@82b40|Amrut_Kamani@42bd9|Yura_Lazebnikov@a507e|Jason_Corsello@7389e|Alex_Ott@32e60|Erik_Ford@bcd99|Jason_Finger@a0f49|Jerry_Murdock@34c82|Elad_Gil@0dbc0|Steve_Chen@872bf
+investors from United States of America that invested in Gaming companies	Jason_Calacanis@21433|NON-fungible_Chan@0cbb3|Sumit_Gupta@72bf3
+investors from Denmark that invested in E-Commerce companies	Morten_Lund@a6f83
+investors from Canada that invested in Media and Entertainment companies	John_Curtis@c924a
+investors from United States of America that invested in Machine Learning companies	Esther_Dyson@fd131|Aamir_Rehman@9a552|Cliff_Holekamp@9cf88|Jason_Calacanis@21433|Damon_Carr@74eba|Alex_Ott@32e60|Jenny_Rooke@419fe|Sky_Dayton@d2761|Ullas_Naik@99467|Elena_Perepelychnaya@672c3|Miranda_Son@4c031|Jim_Young@dcbdd|Qasar_Younis@3f0ec
+investors from United States of America that invested in Event Management companies	Cliff_Holekamp@9cf88|Roy_Vann@a1aed
+investors from Germany that invested in Machine Learning companies	Kai_Hansen@1c95e
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Analytics companies	George_Coehlo@4bc26|David_Murray-Hundley@b399c|Eric_Archambeau@fa829
+investors from Austria that invested in Computer Vision companies	Schnidar_Harald@c841a
+investors from United States of America that invested in Scheduling companies	Jason_Calacanis@21433
+investors from United States of America that invested in Medical Device companies	Jason_Calacanis@21433
+investors from United States of America that invested in Cyber Security companies	Jenny_Lefcourt@54a78|Dan_Scheinman@62bb5
+investors from United States of America that invested in Hospitality companies	Jennifer_Wyatt@df393
+investors from Brazil that invested in Office Administration companies	Luis_Cesar_Verdi@7093b
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Events companies	Jos_White@8effa
+investors from United States of America that invested in Insurance companies	Cliff_Holekamp@9cf88|Elad_Gil@0dbc0
+investors from United States of America that invested in Film Production companies	Jason_Calacanis@21433|Jennifer_Wyatt@df393
+investors from Switzerland that invested in Field Support companies	Ariel_Luedi@785fe
+investors from United States of America that invested in Data Mining companies	Tomer_Tagrin@aeacc
+investors from Finland that invested in Advertising Platforms companies	Kaj_Hed@a9efb
+investors from United States of America that invested in Big Data companies	Cliff_Holekamp@9cf88|Jason_Calacanis@21433|Jim_Eberlin@fd917|Jenny_Rooke@419fe|Kevin_Lin@15101
+investors from United States of America that invested in Analytics companies	Glen_Kacher@7c9c5|Cliff_Holekamp@9cf88|Jason_Calacanis@21433|Jim_Eberlin@fd917|Sky_Dayton@d2761|Jason_Finger@a0f49|Lip-Bu_Tan@2c66f|Sashi_Reddi@8ede5|Kevin_Lin@15101|Jit_Saxena@e54ff
+investors from Canada that invested in Machine Learning companies	Chris_Pronger@4d886|Markus_Frind@70622
+investors from Pakistan that invested in Mobile Apps companies	Muhammad_Yousaf_Iqbal@036d3
+investors from United States of America that invested in Mobile Apps companies	Ross_Perot@0dc46|Jason_Calacanis@21433|Jerry_Murdock@34c82|Scott_Belsky@81cfe|Steve_Chen@872bf|Joanne_Wilson@d7f5a
+investors from Denmark that invested in Data Mining companies	Steen_Ulf_Jensen@5d5ee
+investors from Hong Kong that invested in B2B companies	Jessie_Lam@17fcd
+investors from United States of America that invested in Smart Building companies	Jason_Calacanis@21433
+investors from India that invested in Edutainment companies	Rajesh_Sawhney@d0fc9|Kunal_Shah@d2b55
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Adventure Travel companies	William_Kirby@4858a
+investors from Netherlands that invested in Medical companies	Janke_Dittmer@8a2fc
+investors from Indonesia that invested in Lifestyle companies	Ishara_Yusdian@8c37d
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Vacation Rental companies	William_Kirby@4858a
+investors from Japan that invested in Enterprise companies	Shogo_Kawada@3d6e1
+investors from Mexico that invested in Financial Services companies	Marcelo_De_Fuentes@64409
+investors from United States of America that invested in Public Safety companies	Cliff_Holekamp@9cf88|Jason_Calacanis@21433
+investors from United States of America that invested in Venture Capital companies	Glen_Kacher@7c9c5|Lip-Bu_Tan@2c66f
+investors from India that invested in Retail companies	Rajiv_Dadlani@31569|Amit_Patni@b84b8
+investors from United States of America that invested in Drones companies	Justin_Mateen@706cf|Amrut_Kamani@42bd9
+investors from United States of America that invested in Management Consulting companies	Randall_Milch@416aa
+investors from Kazakhstan that invested in SaaS companies	Murat_Abdrakhmanov@9b87e
+investors from United States of America that invested in Developer APIs companies	Jenny_Lefcourt@54a78|Brittney_Mickel@742e5|Sky_Dayton@d2761
+investors from Germany that invested in Commercial Real Estate companies	Kai_Hansen@1c95e
+investors from Nigeria that invested in Food Delivery companies	Uchechukwu_Ajuzieogu@43778
+investors from Slovakia that invested in Education companies	Simon_Slamka@a1f66
+investors from United States of America that invested in PaaS companies	Sashi_Reddi@8ede5
+investors from United States of America that invested in Computer Vision companies	Cliff_Holekamp@9cf88|Qasar_Younis@3f0ec
+investors from United States of America that invested in Cooking companies	Swamy_Kotagiri@d278c
+investors from India that invested in Cyber Security companies	Rohit_Dalvi@18a6c
+investors from Austria that invested in mHealth companies	Schnidar_Harald@c841a
+investors from United States of America that invested in Lending companies	Cliff_Holekamp@9cf88|Immad_Akhund@b76b6
+investors from Netherlands that invested in Leisure companies	Michael_Maximilian_Sepp@7f628
+investors from United States of America that invested in Video Chat companies	Jenny_Lefcourt@54a78
+investors from Nigeria that invested in Information Services companies	Uchechukwu_Ajuzieogu@43778
+investors from Ghana that invested in Lending companies	Samuel_Kwame_Boadu@b1652|Natasha_Apeadjei-Duodu@6e03b
+investors from Indonesia that invested in Drones companies	Ishara_Yusdian@8c37d
+investors from Hong Kong that invested in Supply Chain Management companies	Jessie_Lam@17fcd
+investors from United States of America that invested in Parenting companies	Tom_Williams@7d6b1
+investors from United States of America that invested in Professional Services companies	Jason_Calacanis@21433
+investors from Netherlands that invested in Energy Storage companies	Sagar_Ratilal_Bavarva@92b85
+investors from Canada that invested in Wine And Spirits companies	Markus_Frind@70622
+investors from Netherlands that invested in Energy companies	Sagar_Ratilal_Bavarva@92b85
+investors from Germany that invested in Fleet Management companies	Michael_Halbherr@a8a3e
+investors from United States of America that invested in Cryptocurrency companies	Kenzi_Wang@0e728|Sumit_Gupta@72bf3|Ed_Walters@44363|Jason_Calacanis@21433|Pascal_Levy-Garboua@9fdbc|Erik_Ford@bcd99|Rene_Reinsberg@b6f02|Marek_Olszewski@b9ec2|Matt_Ocko@29c3b|Brittney_Mickel@742e5|NON-fungible_Chan@0cbb3
+investors from Canada that invested in Artificial Intelligence companies	Chris_Pronger@4d886|Markus_Frind@70622
+investors from Germany that invested in Coupons companies	Noel_Zeh@df3df
+investors from Ghana that invested in Finance companies	P._Addo-Nyarko@2c2de
+investors from Canada that invested in Retail companies	Markus_Frind@70622
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Media and Entertainment companies	Domenico_Loprieno@93a2e|Ali_Rasoul@9442c
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Education companies	Miles_Morland@e7173
+investors from Netherlands that invested in Real Estate companies	Michael_Maximilian_Sepp@7f628
+investors from Germany that invested in Shopping companies	Noel_Zeh@df3df
+investors from United Kingdom of Great Britain and Northern Ireland that invested in SaaS companies	David_Murray-Hundley@b399c|Jos_White@8effa
+investors from Finland that invested in Internet companies	Kaj_Hed@a9efb
+investors from Ireland that invested in Financial Services companies	Ruth_Johnston@e935b
+investors from United States of America that invested in Simulation companies	Qasar_Younis@3f0ec
+investors from United States of America that invested in Crowdsourcing companies	Jason_Calacanis@21433|Jit_Saxena@e54ff
+investors from Netherlands that invested in Cloud Data Services companies	Sagar_Ratilal_Bavarva@92b85
+investors from United States of America that invested in Data Visualization companies	Jason_Calacanis@21433
+investors from Spain that invested in Artificial Intelligence companies	Alex_Lawton@0f8ce
+investors from United States of America that invested in Automotive companies	Jason_Calacanis@21433|Richie_Bello@c0069
+investors from United States of America that invested in Small and Medium Businesses companies	Cliff_Holekamp@9cf88|Randall_Milch@416aa
+investors from United States of America that invested in Elder Care companies	Lynn-Ann_Gries@f0be1
+investors from United States of America that invested in Residential companies	Eric_Reiner@c7414
+investors from Ghana that invested in Accounting companies	P._Addo-Nyarko@2c2de
+investors from Russian Federation that invested in Tourism companies	Pavel_Glushenkov@aa50d
+investors from Germany that invested in Autonomous Vehicles companies	Dennis_Weidner@4bd56
+investors from Austria that invested in Software companies	Schnidar_Harald@c841a
+investors from Switzerland that invested in Retail Technology companies	Ariel_Luedi@785fe
+investors from Indonesia that invested in Impact Investing companies	Ishara_Yusdian@8c37d
+investors from United States of America that invested in Security companies	Amrut_Kamani@42bd9|Ross_Perot@0dc46|Cliff_Holekamp@9cf88|Jason_Calacanis@21433|Jenny_Lefcourt@54a78
+investors from Italy that invested in Financial Services companies	Stani_Kulechov@62cd8
+investors from United States of America that invested in Teenagers companies	Jason_Calacanis@21433
+investors from Indonesia that invested in Supply Chain Management companies	Ishara_Yusdian@8c37d
+investors from United Kingdom of Great Britain and Northern Ireland that invested in Artificial Intelligence companies	Taavet_Hinrikus@bbe3c|Brian_Craig@38948
+investors from United States of America that invested in News companies	Cliff_Holekamp@9cf88|Jason_Calacanis@21433
+investors from Germany that invested in Mobile Apps companies	David_Nothacker@b796e|Martin_Ostermayer@747ad|Udo_Schloemer@39b71|Julius_Koehler@88565|Nicolaus_Schefenacker@2c6f4|Dirk_Freise@c7bf0

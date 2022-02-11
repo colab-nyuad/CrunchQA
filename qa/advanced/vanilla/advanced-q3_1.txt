@@ -1,0 +1,100 @@
+SafetyWeb mostly acquired companies from which business segment	Information_Technology|Software
+VAM Investments mostly acquired companies from which business segment	Eyewear|Manufacturing
+Nova Measuring Instruments mostly acquired companies from which business segment	Manufacturing|Semiconductor
+Movie Gallery Canada mostly acquired companies from which business segment	Delivery|Retail
+Volati mostly acquired companies from which business segment	Wholesale
+idealista mostly acquired companies from which business segment	E-Commerce|Property_Management|Real_Estate|Rental|Rental_Property|Reservations|Travel
+Shandong Luxin-Rio Visual Technology mostly acquired companies from which business segment	Film
+Tangent Technologies mostly acquired companies from which business segment	Furniture
+The Learning House mostly acquired companies from which business segment	E-Learning|Education|Training
+Northwind Pharmaceuticals mostly acquired companies from which business segment	Health_Care|Pharmaceutical
+Corvus Insurance mostly acquired companies from which business segment	Insurance
+XplorNet mostly acquired companies from which business segment	Internet|Telecommunications
+Economic Zones World mostly acquired companies from which business segment	Facilities_Support_Services|Logistics|Real_Estate
+Myers Krause mostly acquired companies from which business segment	Banking|FinTech|Finance|Financial_Services
+W.W. Williams mostly acquired companies from which business segment	Transportation
+Anchor Packaging mostly acquired companies from which business segment	Asset_Management|Mobile_Devices|Packaging_Services|Robotics|Software
+Legacy Marketing Partners mostly acquired companies from which business segment	Advertising|Consulting|Event_Management|Social_Media
+PayPal Ventures mostly acquired companies from which business segment	Apps|Financial_Services|Internet
+White Bridge Investments S.p.A. mostly acquired companies from which business segment	Cosmetics|EBooks|Health_Care|Manufacturing|Medical|Medical_Device
+Alloy Group mostly acquired companies from which business segment	Commercial|Environmental_Consulting|Industrial
+Principled Technologies mostly acquired companies from which business segment	Consulting|Data_Storage|E-Learning|Energy_Efficiency|Enterprise_Software|Flash_Storage|Hardware|Information_Technology|Linux|Usability_Testing|Virtualization|Windows
+Allot mostly acquired companies from which business segment	Cyber_Security|Enterprise_Software
+Talent Plus mostly acquired companies from which business segment	Human_Resources|Management_Consulting
+Penn Schoen Berland mostly acquired companies from which business segment	Consulting|Market_Research
+Paramount Management Group mostly acquired companies from which business segment	Financial_Services
+Penna mostly acquired companies from which business segment	Advertising|Human_Resources
+ProtoCall Services mostly acquired companies from which business segment	Health_Care
+GreenCupboards mostly acquired companies from which business segment	E-Commerce|Nutrition|Shopping
+BlueSoft mostly acquired companies from which business segment	CRM|Information_Technology|Software
+Snipp mostly acquired companies from which business segment	Lifestyle|Retail|Software
+Shermco Industries mostly acquired companies from which business segment	Manufacturing
+Alexandria Moulding mostly acquired companies from which business segment	Manufacturing|Product_Design|Product_Management|Wood_Processing
+STAR7 mostly acquired companies from which business segment	Consulting|Local
+Jobing.com mostly acquired companies from which business segment	E-Commerce_Platforms|Employment|Marketplace|Recruiting
+Compass Datacenters mostly acquired companies from which business segment	Information_Technology
+Everything Blockchain mostly acquired companies from which business segment	Information_Technology
+SoloSegment mostly acquired companies from which business segment	Artificial_Intelligence|Information_Technology
+Illinois American Water mostly acquired companies from which business segment	Water|Water_Purification
+News America Marketing mostly acquired companies from which business segment	Apps|Lifestyle
+J.C. Flowers & Co. mostly acquired companies from which business segment	Financial_Services
+ALTICAP mostly acquired companies from which business segment	Service_Industry|Software
+Truecaller mostly acquired companies from which business segment	Apps
+Nexgel mostly acquired companies from which business segment	Insurance|Risk_Management
+Nippon Shokubai mostly acquired companies from which business segment	Biotechnology|Manufacturing
+Metro Supply Chain Group mostly acquired companies from which business segment	Logistics|Retail|Supply_Chain_Management
+Summer Street Capital Partners mostly acquired companies from which business segment	Manufacturing|Medical_Device
+DAS Health mostly acquired companies from which business segment	Software
+Intellectsoft mostly acquired companies from which business segment	Software
+Groupe VYV mostly acquired companies from which business segment	Advice|B2B|Health_Care
+HSBC Asset Management mostly acquired companies from which business segment	Finance|Financial_Services
+Oberbergkliniken mostly acquired companies from which business segment	Consulting|Health_Care|Leisure|Recreation|Wellness
+iQSTEL mostly acquired companies from which business segment	Telecommunications
+Zoompass mostly acquired companies from which business segment	Banking|Blockchain|Payments
+Peacock Engineering mostly acquired companies from which business segment	Food_and_Beverage|Manufacturing|Wine_And_Spirits
+IDStar Cipta Teknologi mostly acquired companies from which business segment	Consulting|Information_Technology|Robotics
+Microbiologics mostly acquired companies from which business segment	Biotechnology|Health_Diagnostics|Medical
+Union Technologies Informatique Group SA mostly acquired companies from which business segment	Professional_Services|Software|Video
+Siepe mostly acquired companies from which business segment	Management_Consulting|Management_Information_Systems
+Bell and Howell mostly acquired companies from which business segment	Computer|Information_Technology|Software
+Acumatica mostly acquired companies from which business segment	Computer|Manufacturing|Software
+Dendreon mostly acquired companies from which business segment	Biotechnology|Health_Care
+NHI - National Health Investors mostly acquired companies from which business segment	Association|Communities|Health_Care|Hospitality
+Zip mostly acquired companies from which business segment	E-Commerce|Finance|Financial_Services|Payments
+Aakash Educational Services mostly acquired companies from which business segment	E-Commerce|E-Learning|Education|Higher_Education|Online_Portals
+Clark Schaefer Hackett mostly acquired companies from which business segment	Consulting|Employment|Human_Resources|Management_Consulting|Outsourcing|Recruiting
+Jacobs Douwe Egberts mostly acquired companies from which business segment	Food_and_Beverage|Manufacturing
+ESGTI mostly acquired companies from which business segment	Intellectual_Property|Mechanical_Engineering
+Mobalytics mostly acquired companies from which business segment	Data_Visualization|Gaming|Sports|eSports
+Constant Contact mostly acquired companies from which business segment	Software
+Happy Dog mostly acquired companies from which business segment	Advertising|Internet|Software|Web_Design|Web_Development
+Momentum Group mostly acquired companies from which business segment	Industrial_Automation|Manufacturing|Service_Industry
+Silicon Image mostly acquired companies from which business segment	Software
+Marex Spectron mostly acquired companies from which business segment	FinTech|Finance|Financial_Services
+V2 Games mostly acquired companies from which business segment	Blockchain|Consumer_Applications|Cryptocurrency|Fantasy_Sports|Gaming|Mobile_Apps|Online_Games|Sports
+Propio Language Services mostly acquired companies from which business segment	Consulting|Education|Information_Technology|Legal|Robotics|Software
+Fairview Health Services mostly acquired companies from which business segment	Health_Care
+PLZ Aeroscience mostly acquired companies from which business segment	Manufacturing
+Veolia Environmental Services mostly acquired companies from which business segment	Waste_Management
+Satispay mostly acquired companies from which business segment	Food_and_Beverage|Loyalty_Programs
+Lotame mostly acquired companies from which business segment	Advertising|Developer_Platform|Mobile
+Prime Strategies mostly acquired companies from which business segment	Government|Professional_Services
+Carson-Dellosa mostly acquired companies from which business segment	EdTech|Manufacturing|Publishing|Toys
+Clean Energy Fuels mostly acquired companies from which business segment	Energy|Natural_Resources|Oil_and_Gas
+Astea International mostly acquired companies from which business segment	Software
+Intelligent Software Solutions mostly acquired companies from which business segment	Enterprise_Software|Law_Enforcement|Software|Training
+Vitruvian Partners mostly acquired companies from which business segment	Software
+iApotek Int AB mostly acquired companies from which business segment	Beauty|E-Commerce|Health_Care|Internet|Pharmaceutical|Retail
+AP Capital Partners mostly acquired companies from which business segment	Consulting|Information_Technology|Outsourcing|Recruiting|Staffing_Agency
+Cordental Group mostly acquired companies from which business segment	Dental
+Elektrobit mostly acquired companies from which business segment	Automotive|Cyber_Security|Service_Industry
+The Jean Coutu Group PJC Inc mostly acquired companies from which business segment	Manufacturing|Pharmaceutical
+Quotient mostly acquired companies from which business segment	Advertising|E-Commerce|FinTech|Retail|Shopping
+Learfield Communications mostly acquired companies from which business segment	Advertising|Affiliate_Marketing|Marketing|Software|Ticketing
+Kelyniam Global mostly acquired companies from which business segment	Internet|Manufacturing|Medical_Device
+China Molybdenum mostly acquired companies from which business segment	Food_and_Beverage|Mining|Precious_Metals
+Planet Organic mostly acquired companies from which business segment	Beauty|Retail
+BayMark Health Services mostly acquired companies from which business segment	Health_Care
+Cuscapi mostly acquired companies from which business segment	E-Commerce|Web_Development
+Seven Point Equity Partners mostly acquired companies from which business segment	Manufacturing
+Cirdan mostly acquired companies from which business segment	Computer|Software

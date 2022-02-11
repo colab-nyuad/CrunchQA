@@ -1,0 +1,100 @@
+Zenedge is the exhibitor of what expo event	IP_Expo_Europe_2017@b7047
+Sensel is the exhibitor of what meetup event	TechCrunch_Disrupt_SF_2016@d8aeb
+Probrand is the exhibitor of what conference event	Digital_Transformation_EXPO_Europe_2019@e7ae7
+SPACING digital ltd. is the exhibitor of what networking event	Web_Summit_2017@d36a4
+Leasy is the exhibitor of what hackathon event	TechCrunch_Disrupt_SF_2018@d735b
+MIO Mobile Kiosk is the exhibitor of what demo_day event	METRO_Accelerator_for_Retail,_Powered_by_Techstars_2017@cf688
+SessionM is the exhibitor of what networking event	MarTech_San_Francisco@adb4f
+CDx Life is the exhibitor of what networking event	Web_Summit_2016@a890c
+Medtep is the exhibitor of what expo event	Mobile_World_Congress_2016@b28db|NewCo_Barcelona@1c264
+Kalypso is the exhibitor of what conference event	Oracle_OpenWorld_2018@f0045|Design_Automation_Conference_2019@8c2ab|Oracle_OpenWorld_2019@b7dd0
+Science United is the exhibitor of what demo_day event	Flashstarts_2015_Demo_Day@ad48e
+Wivity Inc. is the exhibitor of what demo_day event	500_Startups_Batch_17_Demo_Day@8e75b
+European Electronique is the exhibitor of what conference event	Bett_Show_2016@d883c
+Maverick Solutions is the exhibitor of what conference event	Oracle_Openworld_2017@13322
+ProNatives is the exhibitor of what conference event	Web_Summit_2016@a890c
+Intersystems is the exhibitor of what expo event	Gartner_Symposium/ITxpo_2018@e30c4|Gartner_Symposium/ITxpo_Orlando_2017@d3ee2
+Openpath is the exhibitor of what conference event	ISC_West_2019@cbae1|TechCrunch_Disrupt_SF_2018@d735b
+Parky is the exhibitor of what meetup event	Web_Summit_2017@d36a4
+Albany Molecular Research is the exhibitor of what conference event	6th_Annual_HPAPI_Summit@1d15d
+Plumettaz is the exhibitor of what conference event	LTE_Africa@3e32c
+BeTomorrow is the exhibitor of what meetup event	VIVA_Technology_Startup_Connect_Paris_2016@53144
+DERMALOG is the exhibitor of what networking event	CeBIT_2017@e9316|CEBIT_2018@3e92a
+Science Bits is the exhibitor of what expo event	Bett_Show_2016@d883c
+OkCredit is the exhibitor of what demo_day event	YCombinator_Summer_2018_Demo_Day@c4d40
+Dali VR is the exhibitor of what meetup event	Web_Summit_2017@d36a4|TechCrunch_Disrupt_Berlin_2017@cd371|TechCrunch_Disrupt_SF_2018@d735b
+FlyThings Technologies is the exhibitor of what conference event	MWC_Barcelona_2021@4c5a3
+eyeson is the exhibitor of what meetup event	Web_Summit_2017@d36a4
+Teleport is the exhibitor of what meetup event	TechCrunch_Disrupt_SF_2016@d8aeb
+EPI-USE Labs is the exhibitor of what meetup event	Sapphire_Now_+_Asug_Annual_Conference_2019@98158
+KiKi is the exhibitor of what networking event	Web_Summit_2017@d36a4|TechCrunch_Disrupt_SF_2018@d735b
+Exclusive Group is the exhibitor of what expo event	IP_Expo_Europe_2017@b7047
+Figure Eight is the exhibitor of what conference event	NVIDIA_GTC_2021@ba10a|GTC_2018@cf70c|DeveloperWeek_2018@ac311|CVPR_2019@82ce8|CVPR_2018@c31bf|Microsoft_Ignite_2018@0f365|O'Reilly_Artificial_Intelligence_Conference_San_Francisco_2017@94181
+Healthcare X.0 - HealthAssist is the exhibitor of what meetup event	Web_Summit_2016@a890c
+Woven is the exhibitor of what meetup event	TechCrunch_Disrupt_SF_2018@d735b
+Wovns is the exhibitor of what conference event	Bay_Angels_-_FiSF_Fashion_Tech@bee88
+Wireless Power Consortium is the exhibitor of what conference event	Mobile_World_Congress_2016@b28db
+EVAM is the exhibitor of what meetup event	TechCrunch_Disrupt_SF_2016@d8aeb
+Territory Foods is the exhibitor of what conference event	AGC_13th_Annual_West_Coast_Technology_Conference@33f9d
+Gridspace is the exhibitor of what conference event	GTC_2018@cf70c|Enterprise_Connect_Orlando_2018@cf02c
+Legitifi is the exhibitor of what conference event	TechCrunch_Disrupt_SF_2017@52242
+Guard Grabber Technologies Inc. is the exhibitor of what networking event	TechCrunch_Disrupt_SF_2018@d735b
+PaymentsSource is the exhibitor of what conference event	Money_20/20_USA_2018@89d29
+X by 2 is the exhibitor of what conference event	Connected_Insurance_Canada_2019@1ee0a
+Vaultbank is the exhibitor of what expo event	Blockchain_Expo_North_America_2018@783f4
+Otto Group is the exhibitor of what festival event	OMR_Festival_2018@d2483
+GoVivace is the exhibitor of what conference event	SpeechTEK_2017@ce60a
+Stockflare is the exhibitor of what networking event	TechCrunch_Disrupt_London_2016@2456c
+ONIS VISA Diesel Generators is the exhibitor of what conference event	Mobile_World_Congress_2016@b28db
+Unelma Platforms is the exhibitor of what conference event	Arctic15_2017@6a4b3|ICT_Startup_&_Innovation_Mela_2019@0623f
+Two Degrees, Inc. is the exhibitor of what hackathon event	TechCrunch_Disrupt_Berlin_2017@cd371
+AuraPlayer is the exhibitor of what conference event	Oracle_OpenWorld_2018@f0045|Oracle_Openworld_2017@13322
+Zelros is the exhibitor of what meetup event	VIVA_Technology_Startup_Connect_Paris_2016@53144
+Canidium is the exhibitor of what conference event	Sapphire_Now_+_Asug_Annual_Conference_2019@98158
+Plus'n'Go is the exhibitor of what expo event	Web_Summit_2017@d36a4
+Kaba is the exhibitor of what seminar event	SECTECH_SWEDEN_2017@3f958
+RMUS Dynamics is the exhibitor of what festival event	DeveloperWeek_2017@bf476
+IntegraTouch, LLC is the exhibitor of what conference event	MWC_Barcelona_2021@4c5a3
+BBOXX is the exhibitor of what meetup event	VIVA_Technology_Startup_Connect_Paris_2016@53144
+Infovista is the exhibitor of what expo event	Mobile_World_Congress_2016@b28db
+ABB - Power Grids Business is the exhibitor of what conference event	Embedded_World_2020@3f639
+Vimeo is the exhibitor of what conference event	NYC_Uncubed@490ac|IBC_2017@84c96|NAB_Show_2018@66a9a|HR_Uncubed@9565a
+Janus Choice is the exhibitor of what demo_day event	Polsky_Center_for_Entrepreneurship_2014_Demo_Day@93699
+Felcana is the exhibitor of what conference event	Wearable_Technology_Show_2018@23bad|Unbound_London_2018@a33e7
+WebCake is the exhibitor of what demo_day event	Y_Combinator_Summer_2013_Demo_Day@67ff1
+EGEN is the exhibitor of what conference event	AWS_re:Invent_2019@a9a48
+ECSC Group is the exhibitor of what conference event	Infosecurity_Europe_2018@4c4db
+Genius Factory Inc. is the exhibitor of what networking event	TechCrunch_Disrupt_NY_2017@06b4c
+Haapie is the exhibitor of what expo event	CES_2018@39174|VIVA_Technology_Startup_Connect_Paris_2017@f3da3
+TP-LINK JAPAN is the exhibitor of what expo event	Channel_Trends+Visions_2020@76785
+hobbyDB is the exhibitor of what conference event	NewCo_Boulder@51c13|TechFestNW_2017@87976
+Monnit is the exhibitor of what networking event	Interop_ITX_2017@0a515
+WebiTelecomms is the exhibitor of what conference event	Data_Centre_World_2018@7779a
+HONGBOG is the exhibitor of what meetup event	TechCrunch_Disrupt_SF_2018@d735b
+Bravera is the exhibitor of what conference event	Startup_Impact_Summit_2020@34dd1
+BQ is the exhibitor of what networking event	3D_Printshow_London@660dc|3D_Printshow_Paris_2015@8ae2b|3D_Printshow_New_York@16627|3D_Printshow_Dubai@3a791|3D_Printshow_Berlin@f9215|3D_Printshow_California_2015@8e4e7|3D_Printshow_Madrid@bf852
+Devscore is the exhibitor of what networking event	Web_Summit_2017@d36a4
+PerformLine is the exhibitor of what conference event	Money20/20_2017_-_Winner_of_Startup_Pitch_2017@5c7f8|Money_20/20_USA_2018@89d29
+Amnick is the exhibitor of what networking event	5G_Expo_North_America@6f2bd
+Joi Scientific is the exhibitor of what demo_day event	Collision_2017@786ca
+Aetonix is the exhibitor of what conference event	IOT613@42fff|Connected_Health_Conference_2019@44066
+Avanseus is the exhibitor of what seminar event	TC3_Summit_2017_-_Telecom_Council_Carrier_Connections@2bfb5
+Paragon is the exhibitor of what meetup event	TechFestNW_2017@87976
+WIZBL is the exhibitor of what seminar event	Mobile_World_Congress_Americas_2019@bad0b
+Ellis Car is the exhibitor of what networking event	VIVA_Technology_Startup_Connect_Paris_2016@53144
+Eurotech is the exhibitor of what expo event	SC15@0f698|Internet_of_Things_World_2017@f44fd|IBM_Insight_2015@d6f71|The_Technology_Expo_2015@7dc0c|IoT_World_Conference_and_Expo_2020@e2066|Service_Management_Expo_2016@cf20f|Mobile_World_Congress_2016@b28db|IoT_World_2018@fd16e
+16Lab Inc. is the exhibitor of what networking event	TechCrunch_Disrupt_SF_2016@d8aeb|TechCrunch_Disrupt_Berlin_2017@cd371
+Donuts is the exhibitor of what networking event	AGC_13th_Annual_West_Coast_Technology_Conference@33f9d|Montgomery_Summit_2017@998ec
+B-PARTS.com is the exhibitor of what expo event	Web_Summit_2016@a890c
+Lumenus is the exhibitor of what conference event	TechCrunch_Disrupt_NY_2016@739ee
+SuperSonic is the exhibitor of what conference event	Game_Developers_Conference_-_GDC_2016@1e0f6|Mobile_World_Congress_2016@b28db
+Rain Neuromorphics is the exhibitor of what demo_day event	YCombinator_Summer_2018_Demo_Day@c4d40
+CyberSafe.pt is the exhibitor of what meetup event	Web_Summit_2016@a890c
+Seasonalife is the exhibitor of what conference event	RISE_Hong_Kong_2017﻿@c4e29
+Aydrate is the exhibitor of what networking event	Web_Summit_2016@a890c
+KIC Europe is the exhibitor of what conference event	TNW_Conference_Europe_2016@b168d
+LabCore Ltd is the exhibitor of what expo event	TechXLR8@25d88
+WeddingLovely is the exhibitor of what demo_day event	500_Startups_Batch_3@2057a
+Gateworks is the exhibitor of what conference event	Internet_of_Things_World_2019@08767|5G_Expo_North_America@6f2bd
+A Little Nudge is the exhibitor of what demo_day event	TechDay_New_York_2017@0eb98
+SRO Solutions is the exhibitor of what expo event	IBM_InterConnect_2016@bfd36
