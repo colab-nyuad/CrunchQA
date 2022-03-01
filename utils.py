@@ -117,7 +117,7 @@ def create_temporal_triples(data, config_temporal):
         
         triples = pd.DataFrame(data[[c1, c2]])
         for td in to_drop:
-            triples[c2] = triplets[c2].replace(td, float("NaN"))
+            triples[c2] = triples[c2].replace(td, float("NaN"))
         triples = triples.dropna()
         triples[c2] = triples[c2].apply(lambda x:  x[5:7] +'/' + x[:4])
         triples.insert(1, "relation", r)
@@ -139,7 +139,7 @@ def create_numerical_triples(data, config_numerical, clusters):
         
         triples = pd.DataFrame(data[[c1, c2]])
         for td in to_drop:
-            triples[c2] = triplets[c2].replace(td, float("NaN"))
+            triples[c2] = triples[c2].replace(td, float("NaN"))
         triples = triples.dropna()
         triples.insert(1, "relation", r)
         triples = triples.drop_duplicates(keep = "last")
@@ -154,7 +154,7 @@ def create_numerical_triples(data, config_numerical, clusters):
         save_clustered_triples(triples)
      
         # Regression
-        triples_regression[c2] = min_max_scaler.fit_transform(triples_regression[c2].values.reshape(-1, 1))
+        #triples_regression[c2] = min_max_scaler.fit_transform(triples_regression[c2].values.reshape(-1, 1))
         save_regression_literals(triples_regression)
 
 def create_regular_triples(data, config_regular, orgs, people, organizations_list, people_list):

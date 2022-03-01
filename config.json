@@ -47,7 +47,7 @@
 		 "rel": "price_usd", 
 		 "c2": "price_usd", 
 		 "file_name": "acquisition_price", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
                 }
 	  ]
@@ -220,7 +220,7 @@
 		 "rel": "raised_amount_usd", 
 		 "c2": "raised_amount_usd", 
 		 "file_name": "fr_raised_amount", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}
 	  ]
@@ -252,7 +252,7 @@
 	  [
 	        {
 		 "c1": "name_id", 
-		 "rel": "announced_on_year", 
+		 "rel": "announced_on", 
 		 "c2": "announced_on", 
 		 "file_name": "fund_announced_on", 
 		 "to_drop": []
@@ -265,7 +265,7 @@
 		 "rel": "raised_amount_usd", 
 		 "c2": "raised_amount_usd", 
 		 "file_name": "fund_raised_amount", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}
 	  ]
@@ -291,7 +291,7 @@
 		 "rel": "total_invested_usd", 
 		 "c2": "total_funding_usd", 
 		 "file_name": "iv_total_fund", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}, 
 		{
@@ -299,7 +299,7 @@
 		 "rel": "investment_count", 
 		 "c2": "investment_count", 
 		 "file_name": "iv_investment_count", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}
 	  ]
@@ -362,7 +362,7 @@
 		 "rel": "share_price_usd", 
 		 "c2": "share_price_usd", 
 		 "file_name": "ipo_share_price", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}, 
 	        {
@@ -370,7 +370,7 @@
 		 "rel": "raised_amount_usd", 
 		 "c2": "money_raised_usd", 
 		 "file_name": "ipo_raised_amount", 
-		 "to_drop": [], 
+		 "to_drop": [0], 
 		 "k": 40
 		}
 	  ]

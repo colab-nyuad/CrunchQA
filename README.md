@@ -1,5 +1,7 @@
-Jobs dictionary: https://drive.google.com/file/d/1Xg9me-YtLjPK75oiDcFNp8CCSc_CWWMp/view?usp=sharing  
+Download Crunchbase dump and unzip into folder data
 
-Jobs processed file: https://drive.google.com/file/d/1OikSmzymjVtuoQWrGjKQxj8wdrBxv-f7/view?usp=sharing
+Command to generate KG: python creare_kg.py
 
-Clusters: https://drive.google.com/file/d/1iKgptm6goHELIHjha8YQd5XPvF6N2gW7/view?usp=sharing
+Command to shuffle and split generated triples into train, valid, test: to do (add bash script)
+
+Command to generate QA datset: to do (change in config.json names of columns and files according to the templates file, add the templates file, add qa dataset generation file .py)
