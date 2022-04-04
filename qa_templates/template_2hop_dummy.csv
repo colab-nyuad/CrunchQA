@@ -1,89 +1,30 @@
-entity1,relation1,entity2,relation2,entity3,2_hop_q
-org,is_acquirer,acquisition,is_acquirer,org,
-org,is_acquirer,acquisition,is_acquiree,org,what are the organizations acquired by [org]
-org,is_acquirer,acquisition,type_of,acquisition_type,[org] had what types of acquisitions
-org,is_acquirer,acquisition,acquired_on,date,when did [org]'s acquisitions take place
-org,is_acquirer,acquisition,price_usd,price,list of acquisition price from [org]'s acquisitions
-org,is_acquiree,acquisition,is_acquirer,org,[org] was acquired by which company
-org,is_acquiree,acquisition,is_acquiree,org,
-org,is_acquiree,acquisition,type_of,acquisition_type,[org] was acquired in what type of acquisition
-org,is_acquiree,acquisition,acquired_on,date,when was [org] acquired
-org,is_acquiree,acquisition,price_usd,price,for how much was [org] acquired
-org,org_ipo,ipo,org_ipo,org,
-org,org_ipo,ipo,country_code,country_code,[org] launched its ipo in which country
-org,org_ipo,ipo,stock_exchange_symbol,stock_exchange_symbol,what is the stock exchange symbol of [org]'s ipo
-org,org_ipo,ipo,went_public_on,date,when did [org] go public
-org,org_ipo,ipo,share_price_usd,price,what is the share price of [org]'s ipo
-org,org_ipo,ipo,raised_amount_usd,price,how much did [org] raise in its ipo
-org,in_org,job,has_job,person,list of people that work in [org]
-org,in_org,job,in_org,org,
-org,in_org,job,job_title,job_title,
-org,in_org,job,is_current,job_current,
-org,in_org,job,type_of,job_type,
-org,in_org,job,started_on,date,
-org,in_org,job,ended_on,date,
-person,has_job,job,has_job,person,
-person,has_job,job,in_org,org,[person] works for which org
-person,has_job,job,job_title,job_title,[person]'s job title
-person,has_job,job,is_current,job_current,
-person,has_job,job,job_type,job_type,what types of job does [person] have
-person,has_job,job,started_on,date,
-person,has_job,job,ended_on,date,
-acquisition_type,type_of,acquisition,is_acquirer,org,organizations that had [acquisition_type] acquisitions
-acquisition_type,type_of,acquisition,is_acquiree,org,organizations that were acquired in [acquisition_type] acquisition
-acquisition_type,type_of,acquisition,type_of,acquisition_type,
-acquisition_type,type_of,acquisition,acquired_on,date,
-acquisition_type,type_of,acquisition,price_usd,price,
-date,acquired_on,acquisition,is_acquirer,org,list of companies that made an acquisition during [date]
-date,acquired_on,acquisition,is_acquirer,org,list of companies that made an acquisition during [date]
-date,acquired_on,acquisition,is_acquiree,org,list of companies acquired during [date]
-date,acquired_on,acquisition,is_acquiree,org,list of companies aquired during [date]
-date,acquired_on,acquisition,type_of,acquisition_type,
-date,acquired_on,acquisition,acquired_on,date,
-date,acquired_on,acquisition,price_usd,price,
-date,went_public_on,ipo,org_ipo,org,list of organizations that launched ipo during [date]
-date,went_public_on,ipo,country_code,country_code,
-date,went_public_on,ipo,stock_exchange_symbol,stock_exchange_symbol,
-date,went_public_on,ipo,went_public_on,date,
-date,went_public_on,ipo,share_price_usd,price,
-date,went_public_on,ipo,raised_amount_usd,price,
-date,started_on,job,has_job,person,
-date,started_on,job,in_org,org,
-date,started_on,job,job_title,job_title,
-date,started_on,job,is_current,job_current,
-date,started_on,job,job_type,job_type,
-date,started_on,job,started_on,date,
-date,started_on,job,ended_on,date,
-date,ended_on,job,has_job,person,
-date,ended_on,job,in_org,org,
-date,ended_on,job,job_title,job_title,
-date,ended_on,job,is_current,job_current,
-date,ended_on,job,job_type,job_type,
-date,ended_on,job,started_on,date,
-date,ended_on,job,ended_on,date,
-country_code,country_code,ipo,org_ipo,org,list of organizations that launched ipo in [country_code]
-country_code,country_code,ipo,country_code,country_code,
-country_code,country_code,ipo,stock_exchange_symbol,stock_exchange_symbol,what are the stock exchange symbols of ipos in [country_code]
-country_code,country_code,ipo,went_public_on,date,
-country_code,country_code,ipo,share_price_usd,price,
-country_code,country_code,ipo,raised_amount_usd,price,
-stock_exchange_symbol,stock_exchange_symbol,ipo,org_ipo,org,list organizations that launched their ipos on [stock_exchange_symbol]
-stock_exchange_symbol,stock_exchange_symbol,ipo,country_code,country_code,
-stock_exchange_symbol,stock_exchange_symbol,ipo,stock_exchange_symbol,stock_exchange_symbol,
-stock_exchange_symbol,stock_exchange_symbol,ipo,went_public_on,date,
-stock_exchange_symbol,stock_exchange_symbol,ipo,share_price_usd,price,
-stock_exchange_symbol,stock_exchange_symbol,ipo,raised_amount_usd,price,
-job_title,job_title,job,has_job,person,list of people who are [job_title]s
-job_title,job_title,job,in_org,org,
-job_title,job_title,job,job_title,job_title,
-job_title,job_title,job,is_current,job_current,
-job_title,job_title,job,job_type,job_type,
-job_title,job_title,job,started_on,date,
-job_title,job_title,job,ended_on,date,
-job_type,job_type,job,has_job,person,list of people with [job_type] jobs
-job_type,job_type,job,in_org,org,
-job_type,job_type,job,job_title,job_title,
-job_type,job_type,job,is_current,job_current,
-job_type,job_type,job,job_type,job_type,
-job_type,job_type,job,started_on,date,
-job_type,job_type,job,ended_on,date,
+main_chain,question,simple_constraint,temporal_constraint,aggregation_max_constraint,aggregation_sum_constraint,aggregation_count_entity_constraint,selection_constraint,type
+org1-is_acquirer-acquisition-is_acquiree-org2,what are the organizations acquired by [org1],,,,,,,
+org-is_acquirer-acquisition-type_of-acquisition_type,[org] had what types of acquisitions,,,,,,,
+org-is_acquirer-acquisition-acquired_on-date,when did [org]'s acquisitions take place,,,,,,,numeric
+org-is_acquirer-acquisition-price_usd-acquisition_price,list of acquisition price from [org]'s acquisitions,,,,,,,numeric
+org1-is_acquiree-acquisition-is_acquirer-org2,[org1] was acquired by which company,,,,,,,
+org-is_acquiree-acquisition-type_of-acquisition_type,[org] was acquired in what type of acquisition,,,,,,,
+org-is_acquiree-acquisition-acquired_on-date,when was [org] acquired,,,,,,,numeric
+org-is_acquiree-acquisition-price_usd-acquisition_price,for how much was [org] acquired,,,,,,,numeric
+org-org_ipo-ipo-country_code-country_code,[org] launched its ipo in which country,,,,,,,
+org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol,what is the stock exchange symbol of [org]'s ipo,,,,,,,
+org-org_ipo-ipo-went_public_on-date,when did [org] go public,,,,,,,numeric
+org-org_ipo-ipo-share_price_usd-share_price,what is the share price of [org]'s ipo,,,,,,,numeric
+org-org_ipo-ipo-raised_amount_usd-raised_price,how much did [org] raise in its ipo,,,,,,,numeric
+org-in_org-job-has_job-person,list of people that work in [org],,,,,,,
+person-has_job-job-in_org-org,[person] works for which org,,,,,,,
+person-has_job-job-job_title-job_title,[person]'s job title,,,,,,,
+person-has_job-job-job_type-job_type,what types of job does [person] have,,,,,,,
+acquisition_type-type_of-acquisition-is_acquirer-org,organizations that had [acquisition_type] acquisitions,,,,,,,
+acquisition_type-type_of-acquisition-is_acquiree-org,organizations that were acquired in [acquisition_type] acquisition,,,,,,,
+date-acquired_on-acquisition-is_acquirer-org,list of companies that made an acquisition during [date],,,,,,,temporal
+date-acquired_on-acquisition-is_acquirer-org,list of companies that made an acquisition during [date],,,,,,,temporal
+date-acquired_on-acquisition-is_acquiree-org,list of companies acquired during [date],,,,,,,temporal
+date-acquired_on-acquisition-is_acquiree-org,list of companies aquired during [date],,,,,,,temporal
+date-went_public_on-ipo-org_ipo-org,list of organizations that launched ipo during [date],,,,,,,temporal
+country_code-country_code-ipo-org_ipo-org,list of organizations that launched ipo in [country_code],,,,,,,
+country_code-country_code-ipo-stock_exchange_symbol-stock_exchange_symbol,what are the stock exchange symbols of ipos in [country_code],,,,,,,
+stock_exchange_symbol-stock_exchange_symbol-ipo-org_ipo-org,list organizations that launched their ipos on [stock_exchange_symbol],,,,,,,
+job_title-job_title-job-has_job-person,list of people who are [job_title]s,,,,,,,
+job_type-job_type-job-has_job-person,list of people with [job_type] jobs,,,,,,,
