@@ -2,7 +2,7 @@ Download Crunchbase dump and unzip into folder data
 
 Command to generate KG: python construct_kg.py
 
-Command to shuffle and split generated triples into train, valid, test: to do (add bash script)
+Command to shuffle and split generated triples into train, valid, test: ./
 
 Command to train kg embeddings using pykeen: to do (add simple train file and add bash file with commands indicating parameters we used to compute our checkpoints)
 
