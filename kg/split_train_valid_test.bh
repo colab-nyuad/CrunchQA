@@ -1,0 +1,51 @@
+#!/bin/bash
+
+cd vanilla
+
+for i in {1..20}
+do
+ shuf triples.txt > temp.txt
+ shuf temp.txt > triples.txt
+done
+
+rm temp.txt
+mv triples.txt train.txt
+scp train.txt train2.txt
+
+head -n 50000 train2.txt > valid.txt
+sed -i '1,50000d' train2.txt
+
+head -n 50000 train2.txt > test.txt
+rm train2.txt
+
+cd ../literals
+
+for i in {1..20}
+do
+ shuf literals.txt > temp.txt
+ shuf temp.txt > literals.txt
+done
+
+rm temp.txt
+mv literals.txt train_att.txt
+scp train_att.txt train2_att.txt
+
+head -n 50000 train2_att.txt > valid_att.txt
+sed -i '1,50000d' train2_att.txt
+
+head -n 50000 train2_att.txt > test_att.txt
+rm train2_att.txt
+
+cd ../clustering
+
+scp ../vanilla/train.txt train.txt
+cat literals.txt >> train.txt
+rm literals.txt
+
+for i in {1..20}
+do
+ shuf train.txt > temp.txt
+ shuf temp.txt > train.txt
+done
+
+rm temp.txt

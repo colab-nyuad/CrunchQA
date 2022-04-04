@@ -1,0 +1,30 @@
+investment_type,name
+seed,Seed
+angel,Angel
+venture,Venture
+equity_crowdfunding,Equity Crowdfunding
+product_crowdfunding,Product Crowdfunding
+private_equity,Private Equity
+convertible_note,Convertible Note
+debt_financing,Debt Financing
+secondary_market,Secondary Market
+grant,Grant
+post_ipo_equity,Post-IPO Equity
+post_ipo_debt,Post-IPO Debt
+non_equity_assistance,Non-Equity Assistance
+undisclosed,Undisclosed
+corporate_round,Corporate Round
+initial_coin_offering,Initial Coin Offering
+post_ipo_secondary,Post-IPO Secondary
+series_a,Series A
+series_b,Series B
+series_c,Series C
+series_d,Series D
+series_e,Series E
+series_f,Series F
+series_g,Series G
+series_h,Series H
+series_i,Series I
+series_j,Series J
+series_unknown,Venture - Series Unknown
+pre_seed,Pre - seed
