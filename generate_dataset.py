@@ -15,7 +15,7 @@ qa_readable_path = "qa_readable/"
 dataset_path = "qa_dataset/"
 output_file = "{}/data.txt".format(dataset_path)
 output_file_numeric = "{}/data_numeric.txt".format(dataset_path)
-sample_size = 100
+sample_size = 10
 
 # clear previous contents
 #clear_content([dataset_path])
@@ -32,6 +32,7 @@ inv_type = pd.read_csv(qa_readable_path + "investment_type.csv")
 inv_dict = dict(zip(inv_type['investment_type'], inv_type['name']))
 
 def format_entity(entity):
+    entity = str(entity)
     entity = entity.strip()
     if entity in ccode_dict.keys():
         entity = ccode_dict[entity]
@@ -79,7 +80,7 @@ def add_simple_constraint(main_df, sub_chain):
         df_to_join = extract_df(sub_chain)
         values = [s.strip() for s in values.split(",")]
         condition_col = list(df_to_join.columns)[-1]
-        df_to_join = df_to_join.loc[df_to_join[condition_col].isin(condition)]
+        df_to_join = df_to_join[df_to_join[condition_col].isin(values)]
 
     join_column = sub_chain.split("-")[0]
     main_df = main_df.merge(df_to_join, on=join_column)
@@ -200,9 +201,6 @@ if __name__ == "__main__":
     templates = glob.glob('{}*.csv'.format(templates_path))    
     for template in templates:
         template_df = pd.read_csv(template, encoding = "utf-8")
-        print("-"*20)
-        print(template)
-        print("-"*20)
         for index, row in template_df.iterrows():
             main_chain = row['main_chain']
             question = row['question']
@@ -252,7 +250,7 @@ if __name__ == "__main__":
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
 
-            print('Template {} processed \n'.format(index))
+            print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 
 
