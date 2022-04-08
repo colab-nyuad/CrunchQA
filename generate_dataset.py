@@ -147,7 +147,8 @@ def add_aggregation_max_constraint(main_df, sub_chain):
         groupby_cols = list(main_df.columns[::2])
     else:
         sub_chain, cols = sub_chain.split(":")
-        groupby_cols = cols.strip().split(",")
+        groupby_cols = [col.strip() for col in cols.strip().split(",")]
+        print(groupby_cols)
         sub_chain = sub_chain.strip()
 
     df_to_join = extract_df(sub_chain)
@@ -160,7 +161,7 @@ def add_aggregation_max_constraint(main_df, sub_chain):
 
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
-    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(str(x)))
+    #df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(str(x)))
     return df.drop_duplicates()
 
 '''description'''
