@@ -15,10 +15,16 @@ qa_readable_path = "qa_readable/"
 dataset_path = "qa_dataset/"
 output_file = "{}/data.txt".format(dataset_path)
 output_file_numeric = "{}/data_numeric.txt".format(dataset_path)
-sample_size = 100
+sample_size = 10
 
+def clear_content(paths):
+    for path in paths:
+        for f in os.listdir(path):
+            os.remove(os.path.join(path, f))
+            print("successfully removed ", f)
+            
 # clear previous contents
-#clear_content([dataset_path])
+clear_content([dataset_path])
 
 # loading clusters
 clusters = pickle.load(open("kg/clustering/clusters.pickle", "rb"))
@@ -32,6 +38,7 @@ inv_type = pd.read_csv(qa_readable_path + "investment_type.csv")
 inv_dict = dict(zip(inv_type['investment_type'], inv_type['name']))
 
 def format_entity(entity):
+    entity = str(entity)
     entity = entity.strip()
     if entity in ccode_dict.keys():
         entity = ccode_dict[entity]
@@ -152,12 +159,8 @@ def add_aggregation_max_constraint(main_df, sub_chain):
     return main_df
 
 '''description'''
-def group_by_question(df, column_to_group):
-    if df.dtypes[column_to_group] is not str:
-        return df
-    columns_to_group_by = list(df.columns)
-    columns_to_group_by.remove(column_to_group)
-    df[column_to_group] = df.groupby(columns_to_group_by)[column_to_group].transform(lambda x: ' || '.join(x))
+def group_by_question(df, columns_to_group_by, answer_column):
+    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(str(x)))
     return df.drop_duplicates()
 
 '''description'''
@@ -186,7 +189,7 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
     heads = sampled_df[head_column]
     types = sampled_df['type']
 
-    with open(output_file, 'a') as fout, open(output_file_numeric, 'a') as fout_numeric:
+    with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
         for q, h, ans, type in zip(questions, heads, answers, types):
             if pd.isna(type):
                 line = '{}\t{}\t{}\n'.format(q, h, ans)
@@ -199,14 +202,16 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
 if __name__ == "__main__":
     templates = glob.glob('{}*.csv'.format(templates_path))    
     for template in templates:
-        template_df = pd.read_csv(template)
+        template_df = pd.read_csv(template, encoding = "utf-8")
         for index, row in template_df.iterrows():
+            columns_to_group_by = []
             main_chain = row['main_chain']
             question = row['question']
             type = row['type']
             columns = main_chain.split('-')
             head = columns[0]
             answer = columns[-1]
+            columns_to_group_by.append(head)
 
             # extract the starting part of the main chain
             main_df = extract_df('-'.join(columns[:3]))
@@ -222,34 +227,40 @@ if __name__ == "__main__":
             if isinstance(simple_constraint, str):
                 for sub_chain in simple_constraint.split("|"):
                     main_df = add_simple_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             temporal_constraint = row["temporal_constraint"]
             if isinstance(temporal_constraint, str):
                 for sub_chain in temporal_constraint.split("|"):
                     main_df = add_temporal_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_max_constraint = row["aggregation_max_constraint"]
             if isinstance(aggregation_max_constraint, str):
                 for sub_chain in aggregation_max_constraint.split("|"):
                     main_df = add_aggregation_max_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_sum_constraint = row["aggregation_sum_constraint"]
             if isinstance(aggregation_sum_constraint, str):
                 for sub_chain in aggregation_sum_constraint.split("|"):
                     main_df = add_aggregation_sum_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_count_entity_constraint = row["aggregation_count_entity_constraint"]
             if isinstance(aggregation_count_entity_constraint, str):
                 for sub_chain in aggregation_count_entity_constraint.split("|"):
                     main_df = aggregation_count_entity_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             main_df['question'] = question
             main_df['type'] = type
-            groupped_df = group_by_question(main_df, answer)
+            groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
+            #groupped_df = group_by_question(main_df, answer)      
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
 
-            print('Template {} processed \n'.format(index))
+            print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 
 
