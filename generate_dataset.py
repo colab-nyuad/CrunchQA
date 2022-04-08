@@ -17,8 +17,14 @@ output_file = "{}/data.txt".format(dataset_path)
 output_file_numeric = "{}/data_numeric.txt".format(dataset_path)
 sample_size = 10
 
+def clear_content(paths):
+    for path in paths:
+        for f in os.listdir(path):
+            os.remove(os.path.join(path, f))
+            print("successfully removed ", f)
+            
 # clear previous contents
-#clear_content([dataset_path])
+clear_content([dataset_path])
 
 # loading clusters
 clusters = pickle.load(open("kg/clustering/clusters.pickle", "rb"))
@@ -250,6 +256,7 @@ if __name__ == "__main__":
             main_df['question'] = question
             main_df['type'] = type
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
+            #groupped_df = group_by_question(main_df, answer)      
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
 
