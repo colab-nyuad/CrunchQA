@@ -88,7 +88,6 @@ parser.add_argument(
     '--decay', type=float, default=1.0
 )
 
-
 # Exporting enviromental variables
 
 qa_dataset_path = os.environ['QA_DATASET_PATH']
@@ -118,6 +117,8 @@ def train(optimizer, model, data_loader, scheduler, train_samples, valid_samples
 
             elif phase=='valid':
                 model.eval()
+                score, _ = optimizer.calculate_valid_loss(train_samples)
+                print('Training accuracy : ', score)
                 score, _ = optimizer.calculate_valid_loss(valid_samples)
 
                 if score > best_score + eps and epoch < args.max_epochs:
@@ -156,7 +157,7 @@ if __name__ == "__main__":
     word2idx,idx2word, max_len = get_vocab(train_samples)
     vocab_size = len(word2idx)
     dataset = Dataset_SBERT(train_samples, word2idx, entity2idx)
-    data_loader = DataLoader_SBERT(dataset, batch_size=args.batch_size, shuffle=True, num_workers=20)
+    data_loader = DataLoader_SBERT(dataset, batch_size=args.batch_size, shuffle=True, num_workers=1)
     
     ## Creat QA model
     print('Creating QA model')

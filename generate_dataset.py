@@ -79,7 +79,7 @@ def add_simple_constraint(main_df, sub_chain):
         df_to_join = extract_df(sub_chain)
         values = [s.strip() for s in values.split(",")]
         condition_col = list(df_to_join.columns)[-1]
-        df_to_join = df_to_join.loc[df_to_join[condition_col].isin(condition)]
+        df_to_join = df_to_join.loc[df_to_join[condition_col].isin(values)]
 
     join_column = sub_chain.split("-")[0]
     main_df = main_df.merge(df_to_join, on=join_column)

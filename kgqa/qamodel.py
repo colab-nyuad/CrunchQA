@@ -28,8 +28,8 @@ class SBERT_QAmodel(nn.Module):
 
         self.ln_model = AutoModel.from_pretrained('sentence-transformers/bert-base-nli-mean-tokens')
 
-        for param in self.ln_model.parameters():
-            param.requires_grad = True
+#        for param in self.ln_model.parameters():
+#            param.requires_grad = True
 
         # Hidden dimension rank is fixed
         self.hidden_dim = 768
@@ -69,7 +69,7 @@ class SBERT_QAmodel(nn.Module):
 
 
     def get_predictions(self, question, head, attention_mask):
-        pred = super().get_score_ranked(head, question, attention_mask)
+        pred = self.get_score_ranked(head, question, attention_mask)
         return pred
 
     def get_score_ranked(self, head, question, question_param):
