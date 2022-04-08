@@ -186,7 +186,7 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
     heads = sampled_df[head_column]
     types = sampled_df['type']
 
-    with open(output_file, 'a') as fout, open(output_file_numeric, 'a') as fout_numeric:
+    with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
         for q, h, ans, type in zip(questions, heads, answers, types):
             if pd.isna(type):
                 line = '{}\t{}\t{}\n'.format(q, h, ans)
@@ -199,7 +199,10 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
 if __name__ == "__main__":
     templates = glob.glob('{}*.csv'.format(templates_path))    
     for template in templates:
-        template_df = pd.read_csv(template)
+        template_df = pd.read_csv(template, encoding = "utf-8")
+        print("-"*20)
+        print(template)
+        print("-"*20)
         for index, row in template_df.iterrows():
             main_chain = row['main_chain']
             question = row['question']
