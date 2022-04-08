@@ -153,12 +153,8 @@ def add_aggregation_max_constraint(main_df, sub_chain):
     return main_df
 
 '''description'''
-def group_by_question(df, column_to_group):
-    if df.dtypes[column_to_group] is not str:
-        return df
-    columns_to_group_by = list(df.columns)
-    columns_to_group_by.remove(column_to_group)
-    df[column_to_group] = df.groupby(columns_to_group_by)[column_to_group].transform(lambda x: ' || '.join(x))
+def group_by_question(df, columns_to_group_by, answer_column):
+    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(x))
     return df.drop_duplicates()
 
 '''description'''
@@ -202,12 +198,14 @@ if __name__ == "__main__":
     for template in templates:
         template_df = pd.read_csv(template, encoding = "utf-8")
         for index, row in template_df.iterrows():
+            columns_to_group_by = []
             main_chain = row['main_chain']
             question = row['question']
             type = row['type']
             columns = main_chain.split('-')
             head = columns[0]
             answer = columns[-1]
+            columns_to_group_by.append(head)
 
             # extract the starting part of the main chain
             main_df = extract_df('-'.join(columns[:3]))
@@ -223,30 +221,35 @@ if __name__ == "__main__":
             if isinstance(simple_constraint, str):
                 for sub_chain in simple_constraint.split("|"):
                     main_df = add_simple_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             temporal_constraint = row["temporal_constraint"]
             if isinstance(temporal_constraint, str):
                 for sub_chain in temporal_constraint.split("|"):
                     main_df = add_temporal_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_max_constraint = row["aggregation_max_constraint"]
             if isinstance(aggregation_max_constraint, str):
                 for sub_chain in aggregation_max_constraint.split("|"):
                     main_df = add_aggregation_max_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_sum_constraint = row["aggregation_sum_constraint"]
             if isinstance(aggregation_sum_constraint, str):
                 for sub_chain in aggregation_sum_constraint.split("|"):
                     main_df = add_aggregation_sum_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_count_entity_constraint = row["aggregation_count_entity_constraint"]
             if isinstance(aggregation_count_entity_constraint, str):
                 for sub_chain in aggregation_count_entity_constraint.split("|"):
                     main_df = aggregation_count_entity_constraint(main_df, sub_chain)
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             main_df['question'] = question
             main_df['type'] = type
-            groupped_df = group_by_question(main_df, answer)
+            groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
 
