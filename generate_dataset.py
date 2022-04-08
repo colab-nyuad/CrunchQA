@@ -54,10 +54,35 @@ def to_date(x):
     return date(int(x.split("/")[1]), int(x.split("/")[0]), 1)
 
 def extract_df(file_name):
+    # regular main_chain
+    if "/" not in file_name:
+        return extract_df_helper(file_name)
+    # multi-entity/multi-relation filename, for example person/org-country_code-country_code
+    else:
+        col_names = file_name.split("-")
+        to_replace = ""
+        for s in col_names:
+            if "/" in s:
+                to_replace = s
+        replace_cols = to_replace.split("/")
+        result = pd.DataFrame(columns = col_names)
+        for col in replace_cols:
+            file_name_individual = file_name.replace(to_replace, col)
+            print(file_name_individual)
+            df_individual = extract_df_helper(file_name_individual)
+            df_individual.columns = col_names
+            if len(result) > 0:
+                result.append(df_individual)
+            else:
+                result = df_individual
+        print("result", result.columns)
+        return result
+
+def extract_df_helper(file_name):
     col_names = file_name.split("-")
     col_names_without_loc = [re.sub(r'\d+', '', s) for s in col_names]
     file_name = '{}/{}.csv'.format(triples_path, "-".join(col_names_without_loc))
-
+        
     if os.path.isfile(file_name):
         df = pd.read_csv(file_name)
     else:
@@ -161,7 +186,13 @@ def add_aggregation_max_constraint(main_df, sub_chain):
 
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
-    #df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(str(x)))
+    columns_involved = []
+    for c in columns_to_group_by:
+        columns_involved.append(c)
+    columns_involved.append(answer_column)
+    df = df[columns_involved].drop_duplicates()
+    df[answer_column] = df[answer_column].apply(lambda x: str(x))
+    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(x))
     return df.drop_duplicates()
 
 '''description'''
@@ -254,13 +285,12 @@ if __name__ == "__main__":
                     main_df = aggregation_count_entity_constraint(main_df, sub_chain)
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
-            main_df['question'] = question
-            main_df['type'] = type
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
-            #groupped_df = group_by_question(main_df, answer)      
+            groupped_df['question'] = question
+            groupped_df['type'] = type   
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
-
+            #print(sampled_df)
             print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 
