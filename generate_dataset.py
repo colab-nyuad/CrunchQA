@@ -195,21 +195,31 @@ def add_aggregation_max_constraint(main_df, sub_chain):
 '''description'''
 def add_2hop_constraint(main_df, sub_chain):
     columns = sub_chain.split("-")
-    join_column0 = columns[2]
+    middle_col = columns[2]
     join_column = columns[0]
-    first_chain = "-".join(columns[:3])
-    second_chain = "-".join(columns[2:])
+    first_chain = sub_chain.split(middle_col)[0] + middle_col
+    second_chain = middle_col + sub_chain.split(middle_col)[1]
     print(columns)
     print("second_chain", second_chain)
-    first_df = extract_df(first_chain)
-    second_df = extract_df(second_chain)
-    constraint_df = first_df.merge(second_df, on = join_column0)
-    main_df = main_df.merge(constraint_df, on = join_column)
-    print("*"*20)
-    print(main_df)
+    main_df = add_simple_constraint(main_df, first_chain)
+    main_df = add_simple_constraint(main_df, second_chain)
     
     return main_df
-        
+    
+'''description'''
+def add_count_constraint(main_df, sub_chain):
+    group_by_col = main_df.columns[0]
+    sub_chain = sub_chain.split(":")[0]
+    main_df = add_simple_constraint(main_df, sub_chain)
+    aggregation_col = sub_chain.split("-")[-1]        
+    sub_df = main_df[["person", "org2"]].drop_duplicates()
+    count_dict = sub_df["person"].value_counts().to_dict()
+    print(count_dict)
+    main_df["num"] = main_df["person"].apply(lambda x: count_dict[x])
+    print("----"*30)
+    print(main_df)
+    return main_df
+    
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
     columns_involved = []
@@ -320,7 +330,13 @@ if __name__ == "__main__":
                 for sub_chain in constraint_2hop.split("|"):
                     main_df = add_2hop_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
-                    
+                 
+            count_constraint = row["count_constraint"]
+            if isinstance(count_constraint, str):
+                for sub_chain in count_constraint.split("|"):
+                    main_df = add_count_constraint(main_df, sub_chain.strip())
+                    columns_to_group_by.append("num")
+                 
             
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             groupped_df['question'] = question
