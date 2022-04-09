@@ -104,6 +104,7 @@ def extract_df_helper(file_name):
     return: Dataframe'''
 def add_simple_constraint(main_df, sub_chain):
     if ":" not in sub_chain:
+        print("simple 1 hop")
         df_to_join = extract_df(sub_chain)
     else:
         values = sub_chain.split(":")[1].strip()[1:-1]
@@ -116,7 +117,6 @@ def add_simple_constraint(main_df, sub_chain):
     join_column = sub_chain.split("-")[0]
     main_df = main_df.merge(df_to_join, on=join_column)
     return main_df
-
 
 ''' parameters: main_df: Dataframe, sub_chain: str
     requirement: subchain: before yyyy/mm
@@ -185,6 +185,23 @@ def add_aggregation_max_constraint(main_df, sub_chain):
     return main_df
 
 '''description'''
+def add_2hop_constraint(main_df, sub_chain):
+    columns = sub_chain.split("-")
+    join_column0 = columns[2]
+    join_column = columns[0]
+    first_chain = "-".join(columns[:3])
+    second_chain = "-".join(columns[2:])
+    print(columns)
+    print("second_chain", second_chain)
+    first_df = extract_df(first_chain)
+    second_df = extract_df(second_chain)
+    constraint_df = first_df.merge(second_df, on = join_column0)
+    main_df = main_df.merge(constraint_df, on = join_column)
+    
+    return main_df
+    
+
+'''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
     columns_involved = []
     for c in columns_to_group_by:
@@ -220,6 +237,8 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
     answers = sampled_df[answer_column]
     heads = sampled_df[head_column]
     types = sampled_df['type']
+    
+    print(sampled_df)
 
     with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
         for q, h, ans, type in zip(questions, heads, answers, types):
@@ -256,35 +275,44 @@ if __name__ == "__main__":
 
             # process constraints
             simple_constraint = row["simple_constraint"]
+            print("simple")
             if isinstance(simple_constraint, str):
+                print("is_instancd string")
                 for sub_chain in simple_constraint.split("|"):
-                    main_df = add_simple_constraint(main_df, sub_chain)
+                    main_df = add_simple_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             temporal_constraint = row["temporal_constraint"]
             if isinstance(temporal_constraint, str):
                 for sub_chain in temporal_constraint.split("|"):
-                    main_df = add_temporal_constraint(main_df, sub_chain)
+                    main_df = add_temporal_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_max_constraint = row["aggregation_max_constraint"]
             if isinstance(aggregation_max_constraint, str):
                 for sub_chain in aggregation_max_constraint.split("|"):
-                    main_df = add_aggregation_max_constraint(main_df, sub_chain)
+                    main_df = add_aggregation_max_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_sum_constraint = row["aggregation_sum_constraint"]
             if isinstance(aggregation_sum_constraint, str):
                 for sub_chain in aggregation_sum_constraint.split("|"):
-                    main_df = add_aggregation_sum_constraint(main_df, sub_chain)
+                    main_df = add_aggregation_sum_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_count_entity_constraint = row["aggregation_count_entity_constraint"]
             if isinstance(aggregation_count_entity_constraint, str):
                 for sub_chain in aggregation_count_entity_constraint.split("|"):
-                    main_df = aggregation_count_entity_constraint(main_df, sub_chain)
+                    main_df = aggregation_count_entity_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
-
+                    
+            constraint_2hop = row["2hop_constraint"]
+            if isinstance(constraint_2hop, str):
+                for sub_chain in constraint_2hop.split("|"):
+                    main_df = add_2hop_constraint(main_df, sub_chain.strip())
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
+                    
+            
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             groupped_df['question'] = question
             groupped_df['type'] = type   
