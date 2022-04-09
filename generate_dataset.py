@@ -112,7 +112,15 @@ def add_simple_constraint(main_df, sub_chain):
         df_to_join = extract_df(sub_chain)
         values = [s.strip() for s in values.split(",")]
         condition_col = list(df_to_join.columns)[-1]
-        df_to_join = df_to_join[df_to_join[condition_col].isin(values)]
+        # handle boolean specifications
+        if values[0] == "True":
+            df_to_join = df_to_join[df_to_join[condition_col] == True ]
+        elif values[0] == "False":
+            df_to_join = df_to_join[df_to_join[condition_col] == False ]
+        # regular specifications
+        else:
+            df_to_join = df_to_join[df_to_join[condition_col].isin(values)]
+        print("df_to_join", df_to_join)
 
     join_column = sub_chain.split("-")[0]
     main_df = main_df.merge(df_to_join, on=join_column)
@@ -197,10 +205,11 @@ def add_2hop_constraint(main_df, sub_chain):
     second_df = extract_df(second_chain)
     constraint_df = first_df.merge(second_df, on = join_column0)
     main_df = main_df.merge(constraint_df, on = join_column)
+    print("*"*20)
+    print(main_df)
     
     return main_df
-    
-
+        
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
     columns_involved = []
@@ -230,6 +239,7 @@ def substitute_entities(row, head_column):
 
 '''description'''
 def write_questions(sampled_df, answer_column, head_column, output_file):
+    print(sampled_df)
     sampled_df['question'] = sampled_df.apply(lambda x: substitute_entities(x, head_column), axis=1)
     if sampled_df.dtypes[answer_column] is str:
         sampled_df[answer_column] = sampled_df[answer_column].apply(lambda x: ' || '.join([format_entity(ans) for ans in x.split(' || ')]))
@@ -238,7 +248,7 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
     heads = sampled_df[head_column]
     types = sampled_df['type']
     
-    print(sampled_df)
+    print("write question sampled df", sampled_df)
 
     with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
         for q, h, ans, type in zip(questions, heads, answers, types):
@@ -275,10 +285,9 @@ if __name__ == "__main__":
 
             # process constraints
             simple_constraint = row["simple_constraint"]
-            print("simple")
             if isinstance(simple_constraint, str):
-                print("is_instancd string")
                 for sub_chain in simple_constraint.split("|"):
+                    print("subchain simple", sub_chain)
                     main_df = add_simple_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
