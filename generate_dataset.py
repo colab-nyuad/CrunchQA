@@ -208,17 +208,43 @@ def add_2hop_constraint(main_df, sub_chain):
     
 '''description'''
 def add_count_constraint(main_df, sub_chain):
-    group_by_col = main_df.columns[0]
-    sub_chain = sub_chain.split(":")[0]
-    main_df = add_simple_constraint(main_df, sub_chain)
-    aggregation_col = sub_chain.split("-")[-1]        
-    sub_df = main_df[["person", "org2"]].drop_duplicates()
-    count_dict = sub_df["person"].value_counts().to_dict()
-    print(count_dict)
-    main_df["num"] = main_df["person"].apply(lambda x: count_dict[x])
-    print("----"*30)
-    print(main_df)
-    return main_df
+    # by default use the answer column as the column to group by.
+    if ":" not in sub_chain:
+        group_by_col = main_df.columns[0]
+        sub_chain_plain = sub_chain.strip()
+    # we specify a column to group by
+    else:
+        group_by_col = sub_chain.split(":")[1].split("=")[0].split(">=")[0].strip()
+        sub_chain_plain = sub_chain.split(":")[0].strip()
+    main_df = add_simple_constraint(main_df, sub_chain_plain)
+    aggregation_col = sub_chain_plain.split("-")[-1]        
+    sub_df = main_df[[group_by_col, aggregation_col]].drop_duplicates()
+    count_dict = sub_df[group_by_col].value_counts().to_dict()
+    main_df["num"] = main_df[group_by_col].apply(lambda x: count_dict[x])
+    # by default we select from the counts
+    if "[" not in sub_chain:
+        return main_df
+    # we can also specify when we want entities with a specific count, such as num = 5, or num >= 10
+    else:
+        vals = [v.strip() for v in sub_chain.split("[")[1].strip("]").split(",")]
+        val = vals[0]
+        if "=" in sub_chain:
+            result = main_df[main_df["num"] == int(val)]
+        elif ">=" in sub_chain:
+            result = main_df[main_df["num"] >= int(val)]
+        for val in vals[1:]:
+            if "=" in sub_chain:
+                result = result.append(main_df[main_df["num"] == int(val)])
+            if ">=" in sub_chain:
+                result = result.append(main_df[main_df["num"] >= int(val)])
+        return result
+            
+            
+        
+        
+        
+    
+        
     
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
