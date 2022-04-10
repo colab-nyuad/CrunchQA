@@ -86,6 +86,7 @@ def extract_df_helper(file_name):
     if os.path.isfile(file_name):
         df = pd.read_csv(file_name)
     else:
+        print("file_name: ", file_name)
         # in case filename is inverted, we read it and swap columns back
         file_name = '{}/{}-{}-{}.csv'.format(triples_path, col_names_without_loc[2], col_names_without_loc[1], col_names_without_loc[0])
         df = pd.read_csv(file_name)
@@ -197,8 +198,8 @@ def add_2hop_constraint(main_df, sub_chain):
     columns = sub_chain.split("-")
     middle_col = columns[2]
     join_column = columns[0]
-    first_chain = sub_chain.split(middle_col)[0] + middle_col
-    second_chain = middle_col + sub_chain.split(middle_col)[1]
+    first_chain = sub_chain.split("-"+middle_col+"-")[0] + "-" + middle_col
+    second_chain = middle_col + "-" + sub_chain.split("-"+middle_col+"-")[1]
     print(columns)
     print("second_chain", second_chain)
     main_df = add_simple_constraint(main_df, first_chain)
@@ -207,7 +208,7 @@ def add_2hop_constraint(main_df, sub_chain):
     return main_df
     
 '''description'''
-def add_count_constraint(main_df, sub_chain):
+def add_count_constraint(main_df, sub_chain, main_chain):
     # by default use the answer column as the column to group by.
     if ":" not in sub_chain:
         group_by_col = main_df.columns[0]
@@ -216,8 +217,11 @@ def add_count_constraint(main_df, sub_chain):
     else:
         group_by_col = sub_chain.split(":")[1].split("=")[0].split(">=")[0].strip()
         sub_chain_plain = sub_chain.split(":")[0].strip()
-    main_df = add_simple_constraint(main_df, sub_chain_plain)
-    aggregation_col = sub_chain_plain.split("-")[-1]        
+    # if the subchain is NOT part of the main chain, no need to aggregate main_df
+    if sub_chain_plain not in main_chain:
+        main_df = add_simple_constraint(main_df, sub_chain_plain)
+    print("this is main columns: ", main_df.columns)
+    aggregation_col = sub_chain_plain.split("-")[-1]
     sub_df = main_df[[group_by_col, aggregation_col]].drop_duplicates()
     count_dict = sub_df[group_by_col].value_counts().to_dict()
     main_df["num"] = main_df[group_by_col].apply(lambda x: count_dict[x])
@@ -238,13 +242,6 @@ def add_count_constraint(main_df, sub_chain):
             if ">=" in sub_chain:
                 result = result.append(main_df[main_df["num"] >= int(val)])
         return result
-            
-            
-        
-        
-        
-    
-        
     
 '''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
@@ -318,6 +315,8 @@ if __name__ == "__main__":
                 sub_chain = '-'.join([columns[i-1], columns[i], columns[i+1]])
                 df_to_join = extract_df(sub_chain)
                 main_df = main_df.merge(df_to_join, on=columns[i-1])
+            print("-----------------whole main df -----------------")
+            print(main_df)
 
             # process constraints
             simple_constraint = row["simple_constraint"]
@@ -360,7 +359,7 @@ if __name__ == "__main__":
             count_constraint = row["count_constraint"]
             if isinstance(count_constraint, str):
                 for sub_chain in count_constraint.split("|"):
-                    main_df = add_count_constraint(main_df, sub_chain.strip())
+                    main_df = add_count_constraint(main_df, sub_chain.strip(), main_chain)
                     columns_to_group_by.append("num")
                  
             
