@@ -6,7 +6,7 @@ org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,what
 person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,[person] participated in what types of events,,,,,,,,,,,
 person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,what types of event did [person] mostly participate in,,,,,,,,,event-type_of-event_role: person,,
 category-category-org,[category] companies that went public during (date),,,,,,,,org-org_ipo-ipo-went_public_on-date,,,
-org-acquirer-acquisition-type_of-acquisition_type,how many (acquisition_type)s does [org] have,,,,,,,,,,,
+org-is_acquirer-acquisition-type_of-acquisition_type,how many (acquisition_type)s does [org] have,,,,,,,,,,,
 category-category-org,[category] companies founded during (year1) and (year2),org-founded_on-date,,,,,,,,,,
 org-acquirer-acquisition-acquiree-org,[org] mostly acquired companies from which business segment,org-category-category,,,,,,,,,,
 event-type_of-event_role,what [event_role] took place in (city) during (date),event-started_on-date | event-city-city,,,,,,,,,,
