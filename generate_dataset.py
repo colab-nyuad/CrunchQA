@@ -336,6 +336,7 @@ if __name__ == "__main__":
                 df_to_join = extract_df(sub_chain)
                 main_df = main_df.merge(df_to_join, on=columns[i-1])
 
+            print(main_df)
             # process constraints
             simple_constraint = row["simple_constraint"]
             if isinstance(simple_constraint, str):
@@ -382,7 +383,9 @@ if __name__ == "__main__":
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             groupped_df['question'] = question
             groupped_df['type'] = type   
+            print(groupped_df)
             sampled_df = sample_from_df(groupped_df, sample_size)
+            print(sampled_df)
             write_questions(sampled_df, answer, head, output_file)
             print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
