@@ -256,7 +256,7 @@ def sample_from_df(sample_from, sample_size):
 
 '''description'''
 def substitute_entities(row, head_column):
-    columns_to_substitute = re.findall( r'\((.*)\)', row['question'])
+    columns_to_substitute = re.findall( r'\((.*?)\)', row['question'])
     for column in columns_to_substitute:
         row['question'] = row['question'].replace('(' + column + ')', format_entity(row[column]))
 
@@ -324,7 +324,12 @@ if __name__ == "__main__":
     templates = glob.glob('{}*.csv'.format(templates_path))    
     for template in templates:
         template_df = pd.read_csv(template, encoding = "utf-8")
-        for index, row in template_df.iterrows():
+        for index, row in template_df[5:].iterrows():
+            
+            # // -- to be deleted -- //
+            if isinstance(row["order"], str):
+                continue
+            
             columns_to_group_by = []
             main_chain = row['main_chain']
             question = row['question']
@@ -394,6 +399,7 @@ if __name__ == "__main__":
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
             #print(sampled_df)
+            print(row["question"])
             print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 
