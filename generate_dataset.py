@@ -110,14 +110,7 @@ def add_simple_constraint(main_df, sub_chain):
         df_to_join = extract_df(sub_chain)
         values = [s.strip() for s in values.split(",")]
         condition_col = list(df_to_join.columns)[-1]
-        # handle boolean specifications
-        if values[0] == "True":
-            df_to_join = df_to_join[df_to_join[condition_col] == True ]
-        elif values[0] == "False":
-            df_to_join = df_to_join[df_to_join[condition_col] == False ]
-        # regular specifications
-        else:
-            df_to_join = df_to_join[df_to_join[condition_col].isin(values)]
+        df_to_join = df_to_join.loc[df_to_join[condition_col].isin(values)]
 
     join_column = sub_chain.split("-")[0]
     main_df = main_df.merge(df_to_join, on=join_column)
@@ -256,7 +249,7 @@ def sample_from_df(sample_from, sample_size):
 
 '''description'''
 def substitute_entities(row, head_column):
-    columns_to_substitute = re.findall( r'\((.*?)\)', row['question'])
+    columns_to_substitute = re.findall( r'\((.*)\)', row['question'])
     for column in columns_to_substitute:
         row['question'] = row['question'].replace('(' + column + ')', format_entity(row[column]))
 
@@ -324,12 +317,7 @@ if __name__ == "__main__":
     templates = glob.glob('{}*.csv'.format(templates_path))    
     for template in templates:
         template_df = pd.read_csv(template, encoding = "utf-8")
-        for index, row in template_df[5:].iterrows():
-            
-            # // -- to be deleted -- //
-            if isinstance(row["order"], str):
-                continue
-            
+        for index, row in template_df.iterrows():
             columns_to_group_by = []
             main_chain = row['main_chain']
             question = row['question']
@@ -347,7 +335,7 @@ if __name__ == "__main__":
                 sub_chain = '-'.join([columns[i-1], columns[i], columns[i+1]])
                 df_to_join = extract_df(sub_chain)
                 main_df = main_df.merge(df_to_join, on=columns[i-1])
-            
+
             # process constraints
             simple_constraint = row["simple_constraint"]
             if isinstance(simple_constraint, str):
@@ -384,22 +372,18 @@ if __name__ == "__main__":
                 for sub_chain in constraint_2hop.split("|"):
                     main_df = add_2hop_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
-                 
+
             count_constraint = row["count_constraint"]
             if isinstance(count_constraint, str):
                 for sub_chain in count_constraint.split("|"):
                     main_df = add_count_constraint(main_df, sub_chain.strip(), main_chain)
                     columns_to_group_by.append("num")
-                
-                 
-            
+
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             groupped_df['question'] = question
             groupped_df['type'] = type   
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
-            #print(sampled_df)
-            print(row["question"])
             print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 

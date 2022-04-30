@@ -88,7 +88,6 @@ parser.add_argument(
     '--decay', type=float, default=1.0
 )
 
-
 # Exporting enviromental variables
 
 qa_dataset_path = os.environ['QA_DATASET_PATH']
@@ -98,7 +97,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 #-------------------------------------
 
-def train(optimizer, model, data_loader, scheduler, train_samples, valid_samples, test_samples, args, checkpoint_path):
+def train(optimizer, model, data_loader, train_samples, valid_samples, test_samples, args, checkpoint_path):
 
     best_score = -float("inf")
     no_update = 0
@@ -114,10 +113,11 @@ def train(optimizer, model, data_loader, scheduler, train_samples, valid_samples
                 model.train()
                 loader = tqdm(data_loader, total=len(data_loader), unit="batches")
                 score = optimizer.train(loader, epoch)
-                scheduler.step()
 
             elif phase=='valid':
                 model.eval()
+                score, _ = optimizer.calculate_valid_loss(train_samples)
+                print('Training accuracy : ', score)
                 score, _ = optimizer.calculate_valid_loss(valid_samples)
 
                 if score > best_score + eps and epoch < args.max_epochs:
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     word2idx,idx2word, max_len = get_vocab(train_samples)
     vocab_size = len(word2idx)
     dataset = Dataset_SBERT(train_samples, word2idx, entity2idx)
-    data_loader = DataLoader_SBERT(dataset, batch_size=args.batch_size, shuffle=True, num_workers=20)
+    data_loader = DataLoader_SBERT(dataset, batch_size=args.batch_size, shuffle=True, num_workers=1)
     
     ## Creat QA model
     print('Creating QA model')
@@ -166,9 +166,8 @@ if __name__ == "__main__":
     ## Create QA optimizer
     print('Creating QA optimizer')
     optimizer = getattr(torch.optim, args.optimizer)(qa_model.parameters(), lr=args.learning_rate)
-    scheduler = ExponentialLR(optimizer, args.decay)
     qa_optimizer = QAOptimizer(args, qa_model, optimizer, dataset, device)
 
     ## Train the model
     checkpoint_path =  "{}/{}.pt".format(embedding_path, args.model)
-    train(qa_optimizer, qa_model, data_loader, scheduler, train_samples, valid_samples, test_samples, args, checkpoint_path)
+    train(qa_optimizer, qa_model, data_loader, train_samples, valid_samples, test_samples, args, checkpoint_path)
