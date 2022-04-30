@@ -167,6 +167,9 @@ def add_aggregation_max_constraint(main_df, sub_chain):
     # by default take the maximum of all groups
     if ":" not in sub_chain:
         groupby_cols = list(main_df.columns[::2])
+        if "[" in main_df.columns and "]" in main_df.columns:
+            main_df = main_df.loc[main_df.reset_index().groupby(groupby_cols)[max_col].idxmax()]
+            return main_Df
     else:
         sub_chain, cols = sub_chain.split(":")
         groupby_cols = [col.strip() for col in cols.strip().split(",")]
@@ -337,47 +340,45 @@ if __name__ == "__main__":
             simple_constraint = row["simple_constraint"]
             if isinstance(simple_constraint, str):
                 for sub_chain in simple_constraint.split("|"):
-                    main_df = add_simple_constraint(main_df, sub_chain)
+                    main_df = add_simple_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             temporal_constraint = row["temporal_constraint"]
             if isinstance(temporal_constraint, str):
                 for sub_chain in temporal_constraint.split("|"):
-                    main_df = add_temporal_constraint(main_df, sub_chain)
+                    main_df = add_temporal_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_max_constraint = row["aggregation_max_constraint"]
             if isinstance(aggregation_max_constraint, str):
                 for sub_chain in aggregation_max_constraint.split("|"):
-                    main_df = add_aggregation_max_constraint(main_df, sub_chain)
+                    main_df = add_aggregation_max_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_sum_constraint = row["aggregation_sum_constraint"]
             if isinstance(aggregation_sum_constraint, str):
                 for sub_chain in aggregation_sum_constraint.split("|"):
-                    main_df = add_aggregation_sum_constraint(main_df, sub_chain)
+                    main_df = add_aggregation_sum_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
             aggregation_count_entity_constraint = row["aggregation_count_entity_constraint"]
             if isinstance(aggregation_count_entity_constraint, str):
                 for sub_chain in aggregation_count_entity_constraint.split("|"):
-                    main_df = aggregation_count_entity_constraint(main_df, sub_chain)
+                    main_df = aggregation_count_entity_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
-
+                    
             constraint_2hop = row["2hop_constraint"]
             if isinstance(constraint_2hop, str):
                 for sub_chain in constraint_2hop.split("|"):
                     main_df = add_2hop_constraint(main_df, sub_chain.strip())
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
-                     
+
             count_constraint = row["count_constraint"]
             if isinstance(count_constraint, str):
                 for sub_chain in count_constraint.split("|"):
                     main_df = add_count_constraint(main_df, sub_chain.strip(), main_chain)
                     columns_to_group_by.append("num")
-                
-                 
-            
+
             groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             groupped_df['question'] = question
             groupped_df['type'] = type   
