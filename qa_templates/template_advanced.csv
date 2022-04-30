@@ -1,0 +1,26 @@
+checkd,main_chain,question,simple_constraint,temporal_constraint,aggregation_max_constraint,aggregation_sum_constraint,aggregation_count_entity_constraint,selection_constraint,,2hop_constraint,count_constraint,order,type
+y,org1-in_org-job1-has_job-person,[org1] alumni who has founded (num) companies,job1-is_current-job_current: [False],,,,,,,"person-has_job-job2-job_title-job_title: [founder, co-founder]","job2-in_org-org2: person = [2, 3, 4]","simple_constraint, 2hop_constraint, count_counstraint",
+,org-launched-funding_round-funding_round_investor-person/org,list of [org]'s investors,,,,,,,,,,,
+,org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,[org] participated in what types of events,,,,,,,,,,,
+,org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,what types of event did [org] mostly participate in,,,,,,,,,event-type_of-event_role: org,"count_constraint, aggregation_max_constraint",
+,person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,[person] participated in what types of events,,,,,,,,,,,
+,person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role,what types of event did [person] mostly participate in,,,,,,,,,event-type_of-event_role: person,,
+,category-category-org,[category] companies that went public during (date),,,,,,,,org-org_ipo-ipo-went_public_on-date,,,
+,org-is_acquirer-acquisition-type_of-acquisition_type,how many (acquisition_type)s does [org] have,,,,,,,,,,,
+,category-category-org,[category] companies founded during (year1) and (year2),org-founded_on-date,,,,,,,,,,
+,org-acquirer-acquisition-acquiree-org,[org] mostly acquired companies from which business segment,org-category-category,,,,,,,,,,
+,event-type_of-event_role,what [event_role] took place in (city) during (date),event-started_on-date | event-city-city,,,,,,,,,,
+,category-category-org,which [category] companies in (country_code) have the largest number of employees,org-country_code-country_code | org-employee_count-count,,,,,,,,,,
+,category-category-org,list of [category] organizations acquired in (date),org-acquiree-acquisition-acquired_on-date,,,,,,,,,,
+,org-launched-funding_round-funding_round-investor-person/org,list of investors in [org]'s (investment_type),funding_round-type_of-investment_type,,,,,,,,,,
+,event-sponsor/speaker/exhibitor/organizer/contestant-org,which companies in [event] are founded by (gender),job-job_title-job_title | person-has-job-job-in_org-org,,,,,,,,,,
+,category-category-org,which [category] companies have the highest ipo share price,org-org_ipo-org_ipo-share_price_usd-price,,,,,,,,,,clustering|vanilla
+,org,how many (investment_type) investors does [org] have,org-launched-funding_round-funding_round_investor-person/org,,,,,,,,,,vanilla
+,category-category-org,list of [category] companies with more than (price) total funding,org-funding_round-raised_aount_usd,,,,,,,,,,clustering|vanilla
+,job_title-job_title-job-has_job-person,current (gender) [job_title] whose company has more than (employee_count) employees,job-is_current-job_current | job-in_org-org-employee_count-employee_count,,,,,,,,,,vanilla
+,category-category-org-launched-funding_round-funding_found_investor-person/org,list of investors in in (country_code)'s [category] companies,org-country_code-country_code,,,,,,,,,,vanilla
+,category-category-org,[category] companies that launched their (investment_type) during (date),org-launched-funding_round-type_of-investment_type | funding_round-announced_on-date,,,,,,,,,,vanilla
+,country_code-person/org,investors from [country_code] that invested in (category) companies,person/org-funding_round_investor-funding_round-launched-org-category-category,,,,,,,,,,vanilla
+,org-acquirer-acquisition-acquiree-org,how many companies did [org] acquire,,,,,,,,,,,vanilla
+,category-category-org,[category] companies that released ipo on (stock_exchange_symbol),org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol,,,,,,,,,,vanilla
+,country_code-country_code-org-launched-founding_round,funding round launched by [country_code] companies led by (country_code) investors,funding_round-funding_round_lead_investor-person/org-country_code,,,,,,,,,,vanilla

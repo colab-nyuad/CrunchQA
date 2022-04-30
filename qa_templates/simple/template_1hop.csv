@@ -21,11 +21,11 @@ org-contestant-event,[org] is the contestant of which event,,,,,,,
 org-contestant-event,[org] is the contestant of what (country_code) event,event-country_code-country_code,,,,,,
 org-launched-funding_round,funding rounds that [org] launched,,,,,,,
 org-launched-funding_round,(investment_type) funding rounds that [org] launched,funding_round-type_of-investment_type,,,,,,
-org-launched-funding_round,funding round that [org] launched in (date),,"funding_round-announced_on-date: between 2019/01, 2020/01",,,,,temporal
+org-launched-funding_round,funding round that [org] launched in (date),,"funding_round-announced_on-date: between 2015/01, 2021/01",,,,,temporal
 org-launched-funding_round,[org] raised the highest amount of money in which of its funding rounds,,,funding_round-raised_amount_usd-funding_round_price: org,,,,
 org-lead_investor_of-funding_round,funding rounds in which [org] is a lead investor,,,,,,,
 org-lead_investor_of-funding_round,(investment_type) where [org] is a lead investor,funding_round-type_of-investment_type,,,,,,
-org-lead_investor_of-funding_round,[org] was the lead investor of what funding round during (date),,funding_round-announced_on-date,,,,,temporal
+org-lead_investor_of-funding_round,[org] was the lead investor of what funding round during (date),,funding_round-announced_on-date: before 2020/01,,,,,temporal
 org-has_fund-fund,[org] owns which fund,,,,,,,
 org-type_of-investor_type,what type of investor is [org],,,,,,,
 org-total_invested_usd-price_invested,how much did [org] invest in total,,,,,,,numeric
@@ -39,7 +39,7 @@ org-category_group-category_group,industry of [org],,,,,,,
 org-founded_on-date,when was [org] founded,,,,,,,numeric
 org-funding_round_investor-funding_round,[org] invested in what funding rounds,,,,,,,
 org-funding_round_investor-funding_round,[org] invested in which (investment_type) funding rounds,funding_round-type_of-investment_type,,,,,,
-org-funding_round_investor-funding_round,[org] invested in which funding rounds during (date),,funding_round-announced_on-date,,,,,
+org-funding_round_investor-funding_round,[org] invested in which funding rounds during (date),,funding_round-announced_on-date: after 2020/12,,,,,
 org-parent_org-org_parent,[org]'s parent organization,,,,,,,
 org_parent-parent_org-org,[org_parent]'s child organization,,,,,,,
 person-sponsor-event,[person] is the sponsor of what event,,,,,,,
@@ -136,7 +136,7 @@ country_code-country_code-event,list of (event_role) events that rook place in [
 country_code-country_code-funding_round,list of funding round launched in [country_code],,,,,,,
 country_code-country_code-funding_round,list the funding rounds of (investment_type) launched in [country_code],funding_round-type_of-investment_type,,,,,,
 country_code-country_code-org,list of organizations based in [country_code],,,,,,,
-country_code-country_code-org,list of (category) organizations based in [country_code],org-category-category,,,,,,
+country_code-country_code-org,list of (category) organizations based in [country_code],"org-category-category: [Social_Media_Management, Publishing,  Social_Media]",,,,,,
 country_code-country_code-org,list of organizations based in [country_code],,,,,,,
 country_code-country_code-org,list of (org_status) organizations based in [country_code],org-org_status-org_status,,,,,,
 country_code-country_code-person,list of people from [country_code],,,,,,,

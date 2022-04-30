@@ -54,13 +54,37 @@ def to_date(x):
     return date(int(x.split("/")[1]), int(x.split("/")[0]), 1)
 
 def extract_df(file_name):
+    # regular main_chain
+    if "/" not in file_name:
+        return extract_df_helper(file_name)
+    # multi-entity/multi-relation filename, for example person/org-country_code-country_code
+    else:
+        col_names = file_name.split("-")
+        to_replace = ""
+        for s in col_names:
+            if "/" in s:
+                to_replace = s
+        replace_cols = to_replace.split("/")
+        result = pd.DataFrame(columns = col_names)
+        for col in replace_cols:
+            file_name_individual = file_name.replace(to_replace, col)
+            df_individual = extract_df_helper(file_name_individual)
+            df_individual.columns = col_names
+            if len(result) > 0:
+                result.append(df_individual)
+            else:
+                result = df_individual
+        return result
+
+def extract_df_helper(file_name):
     col_names = file_name.split("-")
     col_names_without_loc = [re.sub(r'\d+', '', s) for s in col_names]
     file_name = '{}/{}.csv'.format(triples_path, "-".join(col_names_without_loc))
-
+        
     if os.path.isfile(file_name):
         df = pd.read_csv(file_name)
     else:
+        #print("file_name: ", file_name)
         # in case filename is inverted, we read it and swap columns back
         file_name = '{}/{}-{}-{}.csv'.format(triples_path, col_names_without_loc[2], col_names_without_loc[1], col_names_without_loc[0])
         df = pd.read_csv(file_name)
@@ -92,7 +116,6 @@ def add_simple_constraint(main_df, sub_chain):
     main_df = main_df.merge(df_to_join, on=join_column)
     return main_df
 
-
 ''' parameters: main_df: Dataframe, sub_chain: str
     requirement: subchain: before yyyy/mm
                            after yyyy/mm 
@@ -104,7 +127,6 @@ def add_temporal_constraint(main_df, sub_chain):
         df_to_join = extract_df(sub_chain)
     else:
         sub_chain, condition = sub_chain.split(":")
-        print(sub_chain, condition)
         df_to_join = extract_df(sub_chain.strip())
         condition_column = df_to_join.columns[-1]
         condition = condition.strip()
@@ -147,7 +169,7 @@ def add_aggregation_max_constraint(main_df, sub_chain):
         groupby_cols = list(main_df.columns[::2])
     else:
         sub_chain, cols = sub_chain.split(":")
-        groupby_cols = cols.strip().split(",")
+        groupby_cols = [col.strip() for col in cols.strip().split(",")]
         sub_chain = sub_chain.strip()
 
     df_to_join = extract_df(sub_chain)
@@ -159,8 +181,61 @@ def add_aggregation_max_constraint(main_df, sub_chain):
     return main_df
 
 '''description'''
+def add_2hop_constraint(main_df, sub_chain):
+    columns = sub_chain.split("-")
+    middle_col = columns[2]
+    join_column = columns[0]
+    first_chain = sub_chain.split("-"+middle_col+"-")[0] + "-" + middle_col
+    second_chain = middle_col + "-" + sub_chain.split("-"+middle_col+"-")[1]
+    main_df = add_simple_constraint(main_df, first_chain)
+    main_df = add_simple_constraint(main_df, second_chain)
+    
+    return main_df
+    
+'''description'''
+def add_count_constraint(main_df, sub_chain, main_chain):
+    # by default use the answer column as the column to group by.
+    if ":" not in sub_chain:
+        group_by_col = main_df.columns[0]
+        sub_chain_plain = sub_chain.strip()
+    # we specify a column to group by
+    else:
+        group_by_col = sub_chain.split(":")[1].split("=")[0].split(">=")[0].strip()
+        sub_chain_plain = sub_chain.split(":")[0].strip()
+    # if the subchain is NOT part of the main chain, no need to aggregate main_df
+    if sub_chain_plain not in main_chain:
+        main_df = add_simple_constraint(main_df, sub_chain_plain)
+    aggregation_col = sub_chain_plain.split("-")[-1]
+    sub_df = main_df[[group_by_col, aggregation_col]].drop_duplicates()
+    count_dict = sub_df[group_by_col].value_counts().to_dict()
+    main_df["num"] = main_df[group_by_col].apply(lambda x: count_dict[x])
+    # by default we select from the counts
+    if "[" not in sub_chain:
+        return main_df
+    # we can also specify when we want entities with a specific count, such as num = 5, or num >= 10
+    else:
+        vals = [v.strip() for v in sub_chain.split("[")[1].strip("]").split(",")]
+        val = vals[0]
+        if "=" in sub_chain:
+            result = main_df[main_df["num"] == int(val)]
+        elif ">=" in sub_chain:
+            result = main_df[main_df["num"] >= int(val)]
+        for val in vals[1:]:
+            if "=" in sub_chain:
+                result = result.append(main_df[main_df["num"] == int(val)])
+            if ">=" in sub_chain:
+                result = result.append(main_df[main_df["num"] >= int(val)])
+        return result
+    
+'''description'''
 def group_by_question(df, columns_to_group_by, answer_column):
-    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(str(x)))
+    columns_involved = []
+    for c in columns_to_group_by:
+        columns_involved.append(c)
+    columns_involved.append(answer_column)
+    df = df[columns_involved].drop_duplicates()
+    df[answer_column] = df[answer_column].apply(lambda x: str(x))
+    df[answer_column] = df.groupby(columns_to_group_by)[answer_column].transform(lambda x: ' || '.join(x))
     return df.drop_duplicates()
 
 '''description'''
@@ -187,7 +262,7 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
     questions = sampled_df['question']
     answers = sampled_df[answer_column]
     heads = sampled_df[head_column]
-    types = sampled_df['type']
+    types = sampled_df['type'] 
 
     with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
         for q, h, ans, type in zip(questions, heads, answers, types):
@@ -197,6 +272,42 @@ def write_questions(sampled_df, answer_column, head_column, output_file):
             else:
                 line = '{}\t{}\t{}\t{}\n'.format(q, h, ans, type)
                 fout_numeric.write(line)
+
+'''description'''                
+def add_constraint(main_df, row, constraint_name, main_chain, columns_to_group_by):
+    constraint_list = [i.strip() for i in row[constraint_name].split("|")]
+    
+    if isinstance(constraint, str):
+        if constraint_name == "simple_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_simple_constraint(main_df, sub_chain)
+        elif constraint_name == "temporal_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_temporal_constraint(main_df, sub_chain)
+        elif constraint_name == "aggregation_max_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_aggregation_max_constraint(main_df, sub_chain)
+        elif constraint_name == "aggregation_sum_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_aggregation_sum_constraint(main_df, sub_chain)
+        elif constraint_name == "aggregation_count_entity_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_aggregation_count_entity_constraint(main_df, sub_chain)
+        elif constraint_name == "2hop_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_2hop_constraint(main_df, sub_chain)
+        elif constraint_name == "count_constraint":
+            for sub_chain in constraint_list:
+                main_df = add_count_constraint(main_df, sub_chain)
+        
+        if constraint_name != "count_constraint":
+            columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
+        else:
+            columns_to_group_by.append("num")
+            
+        return main_df, columns_to_group_by
+        
+
 
 
 if __name__ == "__main__":
@@ -253,12 +364,25 @@ if __name__ == "__main__":
                     main_df = aggregation_count_entity_constraint(main_df, sub_chain)
                     columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
 
-            main_df['question'] = question
-            main_df['type'] = type
-            groupped_df = group_by_question(main_df, columns_to_group_by, answer)
+            constraint_2hop = row["2hop_constraint"]
+            if isinstance(constraint_2hop, str):
+                for sub_chain in constraint_2hop.split("|"):
+                    main_df = add_2hop_constraint(main_df, sub_chain.strip())
+                    columns_to_group_by.append(sub_chain.split(":")[0].strip().split("-")[-1].strip())
+                     
+            count_constraint = row["count_constraint"]
+            if isinstance(count_constraint, str):
+                for sub_chain in count_constraint.split("|"):
+                    main_df = add_count_constraint(main_df, sub_chain.strip(), main_chain)
+                    columns_to_group_by.append("num")
+                
+                 
+            
+            groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
+            groupped_df['question'] = question
+            groupped_df['type'] = type   
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
-
             print(template.strip("qa_templates\\template_").strip(".csv"), "|", 'Template {} processed \n'.format(index), sep = " ")
 
 
