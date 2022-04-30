@@ -255,8 +255,7 @@ if __name__ == "__main__":
 
             main_df['question'] = question
             main_df['type'] = type
-            groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
-            #groupped_df = group_by_question(main_df, answer)      
+            groupped_df = group_by_question(main_df, columns_to_group_by, answer)
             sampled_df = sample_from_df(groupped_df, sample_size)
             write_questions(sampled_df, answer, head, output_file)
 
