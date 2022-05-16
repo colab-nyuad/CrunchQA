@@ -12,7 +12,29 @@ In 1-hop and advanced questions, we included constraints.
 
 (3) There are no constraints in 2-hop and 2-hop dummy questions. 
 
+## Definitions of template components
+
+### Main chain
+
+
+
 ## 1-hop questions
+
+#### Structure: entity1-relation-entity2
+
+## 2-hop questions
+
+#### Structure: entity1-relation1-entity2-relation2-entity3
+
+## 2-hop dummy questions
+
+#### Structure: entity1-relation1-dummy-entity=relation2-entity2
+
+## Advanced questions
+
+#### Structure: Multi-hop, multi constraints, multi-entity
+
+
 
 
 
