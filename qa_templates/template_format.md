@@ -1,6 +1,6 @@
 # Overview
 
-There are 4 groups of question templates: 1-hop questions, 2-hop questions, 2-hop dummy questions, advanced questions.
+In total, we have 4 groups of question templates: 1-hop questions, 2-hop questions, 2-hop dummy questions, advanced questions.
 
 In 1-hop and advanced questions, we included constraints. 
 
@@ -34,7 +34,7 @@ Example: 1-hop indicates that the main chain has the form: entity1-relation-enti
 
 where a dummy entity is one that has no meaningful content, but connects entities multi-way.
 
-Example: person-has_job-job, job-job_title-job_title
+Example: "job" is a dummy entity. Its values have the form "job@abcde12345", with "job@" followed by a 10-digit id and carries no real meanings. its entity-relatiosn include: person-has_job-job, job-job_title-job_title. where has_job and job_title are relations, job and job_title are entities.
 
 ## 1-hop questions
 
@@ -58,17 +58,52 @@ Example: person-has_job-job, job-job_title-job_title
 
 1-hop constraint, tail entity must be equal to some value
 
+Format: 
+
+entity1-relation-entity2 [value0, value1, value2]
+
+where entity2 needs to be equal to one of the values
+
 ### temporal_constraint
 
 1-hop constraint, tail entity is a date, must be in a certain range
+
+Format: 
+
+entity1-relation-entity2 [before yyyy/mm]
+
+entity1-relation-entity2 [after yyyy/mm]
+
+entity1-relation-entity2 [between yyyy/mm, yyyy/mm]
 
 ### simple_constraint_nominal_2hop
 
 1-hop constraint, tail entity must be equal to some value
 
-### count_and_groupby (to be deleted)
+Format:
+
+entity1-relation1-entity2-relation2-entity3 [value0, value1, value2] 
+
+where entity3 needs to be equal to one of the values
+
+### simple_constraint_numerical
+
+
 
 ### max_constraint
+
+1-hop, tail entity is the value that should be a gwoup-wise maximum
+
+Format:
+
+[take_the_max_on_this_entity, in_each_gorup_of_this_entity]
+
+Example:
+
+[price, category]
+
+where we take the entries with maximum price in in each category
+
 
 
 
