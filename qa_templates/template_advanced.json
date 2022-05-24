@@ -2,7 +2,11 @@
  "templates": [
   {
     "main_chain": "category-category-org-launched-funding_round-funding_round_investor-person/org",
-    "question": ["which (country_code) investors invested in [category] companies", "list the (country_code) investors of [category] companies", "[category] companies have which investors from (country_code)"],
+    "question": [
+       "which (country_code) investors invested in [category] companies", 
+       "list the (country_code) investors of [category] companies", 
+       "[category] companies have which investors from (country_code)"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -13,7 +17,11 @@
    },
    {
     "main_chain": "category-category-org",
-    "question": ["[category] companies that released ipo on (stock_exchange_symbol)", "list of [category] companies that released ipo on (stock_exchange_symbol)", "(stock_exchange_symbol) is the stock exchange symbol of what [category] companies"],
+    "question": [
+       "[category] companies that released ipo on (stock_exchange_symbol)", 
+       "list of [category] companies that released ipo on (stock_exchange_symbol)", 
+       "(stock_exchange_symbol) is the stock exchange symbol of what [category] companies"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -24,7 +32,11 @@
    },
    {
     "main_chain": "country_code1-country_code-org-launched-funding_round",
-    "question": ["which funding round is launched by [country_code1] companies and led by (country_code2) investors", "(country_code2) investors have led funding rounds launched by which companies from [country_code1] countries", "companies from [country_code1] countries launched which funding rounds of which the lead investors are from (country_code2)"],
+    "question": [
+        "which funding round is launched by [country_code1] companies and led by (country_code2) investors", 
+        "(country_code2) investors have led funding rounds launched by which companies from [country_code1] countries", 
+        "companies from [country_code1] countries launched which funding rounds of which the lead investors are from (country_code2)"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -33,25 +45,32 @@
      }
     ]
    },
-
    {
     "main_chain": "category-category-org1",
-    "question": ["which [category] companies acquired more than 5 companies", "list of [category] companies that acquired more then 5 companies", "[category] companies with more than 5 acquired companies"],
+    "question": [
+       "which [category] companies acquired more than 5 companies", 
+       "list of [category] companies that acquired more then 5 companies", 
+       "[category] companies with more than 5 acquired companies"
+    ],
     "constraints": [
      {
       "numeric_constraint": {
         "org1-is_acquirer-acquisition-is_acquiree-org2": {
         "count_over":"org2",
-         "group_by": ["org1"],                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+         "group_by": ["org1"],
          "numeric": ["", ">", 5]
-        }
+      }
      }
     }
     ]
    },
     {
      "main_chain": "category-category-org1",
-     "question": ["which [category] companies acquired more than 10 companies", "list of [category] companies that acquired more than 10 companies", "Companies that are in the [category] industry and acquired more than 10 companies"],
+     "question": [
+        "which [category] companies acquired more than 10 companies", 
+        "list of [category] companies that acquired more than 10 companies", 
+        "Companies that are in the [category] industry and acquired more than 10 companies"
+     ],
      "constraints": [
       {
        "numeric_constraint": {
@@ -66,7 +85,11 @@
     },
     {
       "main_chain": "category-category-org1",
-      "question": ["which [category] companies acquired more than 50 companies", "list of [category] companies that acquired more than 50 companies", "Companies that are in the [category] industry and acquired more than 50 companies"],
+      "question": [
+         "which [category] companies acquired more than 50 companies", 
+         "list of [category] companies that acquired more than 50 companies", 
+         "Companies that are in the [category] industry and acquired more than 50 companies"
+      ],
       "constraints": [
        {
         "numeric_constraint": {
@@ -79,9 +102,13 @@
       }
       ]
      },
-  {
+    {
     "main_chain": "job_title-job_title-job-has_job-person",
-    "question": ["who is an acting (gender) [job_title] whose company has more than 500 employees", "list current (gender) [job_title] of a company with more than 500 employees", "(gender) people who are [job_title] of a company with more than 500 employees"],
+    "question": [
+       "who is an acting (gender) [job_title] whose company has more than 500 employees", 
+       "list current (gender) [job_title] of a company with more than 500 employees", 
+       "(gender) people who are [job_title] of a company with more than 500 employees"
+    ],
     "constraints": [
       {
         "entity_constraint": {
@@ -102,7 +129,11 @@
   },
   {
     "main_chain": "job_title-job_title-job-has_job-person",
-    "question": ["who is an acting (gender) [job_title] whose company has more than 500 employees", "list current (gender) [job_title] of a company with more than 500 employees", "(gender) people who are [job_title] of a company with more than 500 employees"],
+    "question": [
+       "who is an acting (gender) [job_title] whose company has more than 500 employees", 
+       "list current (gender) [job_title] of a company with more than 500 employees", 
+       "(gender) people who are [job_title] of a company with more than 500 employees"
+    ],
     "constraints": [
       {
         "entity_constraint": {
@@ -124,10 +155,13 @@
       }
     ]
   },
-
   {
     "main_chain": "category-category-org",
-    "question": ["which [category] companies have the highest ipo share price", "list of companies that has the highest ipo share price in [category] industry", "among companies in [category] industry, which one have the highest share price"],
+    "question": [
+       "which [category] companies have the highest ipo share price", 
+       "list of companies that has the highest ipo share price in [category] industry", 
+       "among companies in [category] industry, which one have the highest share price"
+    ],
     "constraints": [
      {
       "max_constraint": {
@@ -142,7 +176,11 @@
    },
    {
     "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
-    "question": ["list (investment_type) investors of [org]", "which people and organizations are the (investment_type) investors of [org]", "[org]'s (investment_type) investors"],
+    "question": [
+       "list (investment_type) investors of [org]", 
+       "which people and organizations are the (investment_type) investors of [org]", 
+       "[org]'s (investment_type) investors"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -154,7 +192,11 @@
 
    {
     "main_chain": "category-category-org-launched-funding_round-funding_round_investor-person/org",
-    "question": ["list investors of (country_code) [category] companies", "which people and organizations from (country_code) invested in [category] companies", "[category] companies' investors from (country_code)"],
+    "question": [
+       "list investors of (country_code) [category] companies", 
+       "which people and organizations from (country_code) invested in [category] companies", 
+       "[category] companies' investors from (country_code)"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -165,14 +207,18 @@
    },
    {
     "main_chain": "category-category-org",
-    "question": ["which [category] companies launched their (investment_type) during (date)", "list of [category] companies that launched their (investment_type) during (date)", "during (date), which [category] companies launched (investment_type)"],
+    "question": [
+       "which [category] companies launched their (investment_type) during (date)", 
+       "list of [category] companies that launched their (investment_type) during (date)", 
+       "during (date), which [category] companies launched (investment_type)"
+    ],
     "constraints": [
      {
       "entity_constraint": {
        "org-launched-funding_round-type_of-investment_type": []
       }
      },
-   {
+    {
       "temporal_constraint": {
        "funding_round-announced_on-date": {}
       }
@@ -180,19 +226,20 @@
     ],
 	"type": "temporal"
    },
-   
-
-
   {
     "main_chain": "event-sponsor/speaker/exhibitor/organizer/contestant-org",
-    "question": ["which companies that participated in [event] have (gender) founders", "(gender) founded [event] companies", "list of companies founded by (gender) people and participated in [event]"],
+    "question": [
+       "which companies that participated in [event] have (gender) founders", 
+       "(gender) founded [event] companies", 
+       "list of companies founded by (gender) people and participated in [event]"
+    ],
     "constraints": [
      {
       "entity_constraint": {
        "org-in_org-job-job_title-job_title": ["founder", "co-founder"]
       }
      },
-   {
+    {
       "entity_constraint": {
        "job-has_job-person-gender-gender": ["male", "female"]
       }
@@ -201,14 +248,18 @@
    },
    {
     "main_chain": "event-sponsor/speaker/exhibitor/organizer/contestant-org",
-    "question": ["which companies that participated in [event] have (gender) founders", "(gender) founded [event] companies", "list of companies founded by (gender) people and participated in [event]"],
+    "question": [
+       "which companies that participated in [event] have (gender) founders", 
+       "(gender) founded [event] companies", 
+       "list of companies founded by (gender) people and participated in [event]"
+    ],
     "constraints": [
      {
       "entity_constraint": {
        "org-in_org-job-job_title-job_title": ["founder", "co-founder"]
       }
      },
-   {
+     {
       "entity_constraint": {
        "job-has_job-person-gender-gender": ["non_binary", "two_spirit", "mt", "transgender_man",
         "bigender", "transgender_woman", "agender", "androgynous",
@@ -218,10 +269,13 @@
      }
     ]
    },
-
   {
     "main_chain": "org-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role",
-    "question": ["what types of event did [org] mostly participate in", "[org] mostly participated in what types of events", "event of what type did [org] mostly participate in"],
+    "question": [
+       "what types of event did [org] mostly participate in", 
+       "[org] mostly participated in what types of events", 
+       "event of what type did [org] mostly participate in"
+    ],
     "constraints": [
      {
       "max_constraint": {
@@ -234,10 +288,13 @@
      }
     ]
    },
-
   {
     "main_chain": "org-sponsor/speaker/exhibitor/organizer/contestant-event",
-    "question": ["what (event_role) events did [org] participate in", "[org] participated in what (event_role) events", "list of (event_role) events that [org] took part in"],
+    "question": [
+       "what (event_role) events did [org] participate in", 
+       "[org] participated in what (event_role) events", 
+       "list of (event_role) events that [org] took part in"
+    ],
     "constraints": [
      {
        "entity_constraint": {
@@ -246,12 +303,13 @@
       }
     ]
    },
-   
-
-
    {
     "main_chain": "org1-in_org-job1-has_job-person",
-    "question": ["[org1] alumni who has founded more than 2 companies", "founders of more than 2 companies who previously worked in [org1]", "list of people formerly worked in [org1] who founded more than 2 companies"],
+    "question": [
+       "[org1] alumni who has founded more than 2 companies", 
+       "founders of more than 2 companies who previously worked in [org1]", 
+       "list of people formerly worked in [org1] who founded more than 2 companies"
+    ],
     "constraints": [
       {
        "entity_constraint": {
@@ -276,7 +334,11 @@
    },
    {
     "main_chain": "org1-in_org-job1-has_job-person",
-    "question": ["[org1] alumni who has founded more than 3 companies", "founders of more than 3 companies who previously worked in [org1]", "list of people formerly worked in [org1] who founded more than 3 companies"],
+    "question": [
+       "[org1] alumni who has founded more than 3 companies", 
+       "founders of more than 3 companies who previously worked in [org1]", 
+       "list of people formerly worked in [org1] who founded more than 3 companies"
+    ],
     "constraints": [
       {
        "entity_constraint": {
@@ -301,7 +363,11 @@
    },
    {
     "main_chain": "org1-in_org-job1-has_job-person",
-    "question": ["[org1] alumni who has founded more than 5 companies", "founders of more than 5companies who previously worked in [org1]", "list of people formerly worked in [org1] who founded more than 5 companies"],
+    "question": [
+       "[org1] alumni who has founded more than 5 companies", 
+       "founders of more than 5companies who previously worked in [org1]", 
+       "list of people formerly worked in [org1] who founded more than 5 companies"
+    ],
     "constraints": [
       {
        "entity_constraint": {
@@ -332,12 +398,20 @@
 
   {
    "main_chain": "person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role",
-   "question": ["what types of events did [person] participate in", "[person] participated in what types of events", "list of the types of events that [person] participated in"],
+   "question": [
+      "what types of events did [person] participate in", 
+      "[person] participated in what types of events", 
+      "list of the types of events that [person] participated in"
+   ],
    "constraints": []
   },  
   {
    "main_chain": "person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role",
-   "question": ["what types of events did [person] mostly participate in", "[person] mostly participated in what types of events", "list of the types of events that [person] most frequently participated in"],
+   "question": [
+      "what types of events did [person] mostly participate in", 
+      "[person] mostly participated in what types of events", 
+      "list of the types of events that [person] most frequently participated in"
+   ],
    "constraints": [
     {
      "max_constraint": {
@@ -352,7 +426,11 @@
   },   
   {
    "main_chain": "category-category-org",
-   "question": ["which [category] companies went public during (date)", "list of [category] companies that went public during (date)", "companies in [category] industry that went public during (date)"],
+   "question": [
+      "which [category] companies went public during (date)", 
+      "list of [category] companies that went public during (date)", 
+      "companies in [category] industry that went public during (date)"
+   ],
    "constraints": [
     {
      "temporal_constraint": {
@@ -364,7 +442,11 @@
   },
   {
     "main_chain": "category-category-org",
-    "question": ["which [category] companies went public during (date)", "list of [category] companies that went public during (date)", "companies in [category] industry that went public during (date)"],
+    "question": [
+       "which [category] companies went public during (date)", 
+       "list of [category] companies that went public during (date)", 
+       "companies in [category] industry that went public during (date)"
+    ],
     "constraints": [
      {
       "temporal_constraint": {
@@ -376,10 +458,13 @@
     ],
     "type": "temporal"
    },
-
   {
    "main_chain": "category-category-org",
-   "question": ["which [category] companies were founded during (date)", "list of [category] companies founded during (date)", "companies in [category] industry founded during (date)"],
+   "question": [
+      "which [category] companies were founded during (date)", 
+      "list of [category] companies founded during (date)", 
+      "companies in [category] industry founded during (date)"
+   ],
    "constraints": [
     {
      "temporal_constraint": {
@@ -391,7 +476,11 @@
   },
   {
     "main_chain": "category-category-org",
-    "question": ["which [category] companies were founded during (date)", "list of [category] companies founded during (date)", "companies in [category] industry founded during (date)"],
+    "question": [
+       "which [category] companies were founded during (date)", 
+       "list of [category] companies founded during (date)", 
+       "companies in [category] industry founded during (date)"
+    ],
     "constraints": [
      {
       "temporal_constraint": {
@@ -403,10 +492,13 @@
     ],
     "type": "temporal"
    },
-
   {
    "main_chain": "org1-is_acquirer-acquisition-is_acquiree-org2-category-category",
-   "question": ["from which business segment did [org1] mostly acquire", "[org1] acquired companies from which industries", "the companies that [org1] acquired are from which business segments"],
+   "question": [
+      "from which business segment did [org1] mostly acquire", 
+      "[org1] acquired companies from which industries", 
+      "the companies that [org1] acquired are from which business segments"
+   ],
    "constraints": [
     {
      "max_constraint": {
@@ -421,50 +513,72 @@
   },   
   {
    "main_chain": "event_role-type_of-event",
-   "question": ["which [event_role] took place in (city) during (date)", "list of all [event_role]s that took place in (city) during (date)", "during (date), what [event_role]s took place in (city)"],
+   "question": [
+      "which [event_role] took place in (city) during (date)", 
+      "list of all [event_role]s that took place in (city) during (date)", 
+      "during (date), what [event_role]s took place in (city)"
+   ],
    "constraints": [
     {
      "temporal_constraint": {
       "event-started_on-date": {}
-    }},
-	  {
+    }
+   },
+    {
      "entity_constraint": {
       "event-city-city": []
-    }}
+    }
+   }
    ],
    "type": "temporal"
   },
   {
    "main_chain": "category-category-org",
-   "question": ["which [category] companies in (country_code) have more than 500 employees", "list of [category] companies in (country_code) with more then 500 employees", "companies from (country_code) in the [category] sector with more than 500 employees"],
+   "question": [
+      "which [category] companies in (country_code) have more than 500 employees", 
+      "list of [category] companies in (country_code) with more then 500 employees", 
+      "companies from (country_code) in the [category] sector with more than 500 employees"
+   ],
    "constraints": [
     {
      "entity_constraint": {
       "org-country_code-country_code": []
-    }},
-	{
+    }
+   },
+   {
      "entity_constraint": {
       "org-employee_count-employee_count": ["501-1000", "1001-5000", "5001-10000", "10000+"]
-    }}
+     }
+    }
    ]
   },
   {
-    "main_chain": "category-category-org",
-    "question": ["which [category] companies in (country_code) have more than 5000 employees", "list of [category] companies in (country_code) with more then 5000 employees", "companies from (country_code) in the [category] sector with more than 5000 employees"],
+   "main_chain": "category-category-org",
+   "question": [
+      "which [category] companies in (country_code) have more than 5000 employees", 
+      "list of [category] companies in (country_code) with more then 5000 employees", 
+      "companies from (country_code) in the [category] sector with more than 5000 employees"
+   ],
    "constraints": [
      {
       "entity_constraint": {
        "org-country_code-country_code": []
-     }},
+     }
+    },
    {
       "entity_constraint": {
        "org-employee_count-employee_count": ["5001-10000", "10000+"]
-     }}
+     }
+    }
     ]
    },
    {
     "main_chain": "category-category-org",
-    "question": ["which [category] companies in (country_code) have more than 10000 employees", "list of [category] companies in (country_code) with more then 10000 employees", "companies from (country_code) in the [category] sector with more than 10000 employees"],
+    "question": [
+       "which [category] companies in (country_code) have more than 10000 employees", 
+       "list of [category] companies in (country_code) with more then 10000 employees", 
+       "companies from (country_code) in the [category] sector with more than 10000 employees"
+    ],
     "constraints": [
      {
       "entity_constraint": {
@@ -478,7 +592,11 @@
    },
   {
    "main_chain": "category-category-org",
-   "question": ["list [category] organizations acquired in (date)", "which companies in the [category] sector were acquired during (date)", "[category] companies being acquired during (date)"],
+   "question": [
+      "list [category] organizations acquired in (date)", 
+      "which companies in the [category] sector were acquired during (date)", 
+      "[category] companies being acquired during (date)"
+   ],
    "constraints": [
     {
      "temporal_constraint": {
@@ -490,7 +608,11 @@
   },
   {
    "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
-   "question": ["list of investors in [org]'s (investment_type)", "which people and organizations invested in [org]'s (investment_type)", "who invested in [org]'s (investment_type)"],
+   "question": [
+      "list of investors in [org]'s (investment_type)", 
+      "which people and organizations invested in [org]'s (investment_type)", 
+      "who invested in [org]'s (investment_type)"
+   ],
    "constraints": [
     {
      "entity_constraint": {
@@ -499,7 +621,5 @@
     }
    ]
   }
-
-  
  ]
 }

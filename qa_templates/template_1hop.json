@@ -28,8 +28,6 @@
     ],
     "type": "temporal"
    },
-
-
    {
     "main_chain": "category-category-org",
     "question": "list of [category] organizations founded in (date)",
