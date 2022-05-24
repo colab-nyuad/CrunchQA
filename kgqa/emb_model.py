@@ -146,7 +146,7 @@ class TransE(KGModel):
     """
 
     def __init__(self, args):
-        super(BaseE, self).__init__(args)
+        super(KGModel, self).__init__()
 
     def similarity_score(self, lhs_e, rhs_e):
         """Compute similarity scores or queries against targets in embedding space."""

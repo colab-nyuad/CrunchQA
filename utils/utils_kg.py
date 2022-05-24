@@ -13,11 +13,10 @@ import math
 import os
 
 begin_year = 1900
-vanilla_data = 'kg/vanilla'
-clustering_data = 'kg/clustering'
-literals_data = 'kg/literals'
-triples_data = 'triples'
-folders = [vanilla_data, clustering_data, literals_data, triples_data]
+vanilla_data = os.environ['VANILLA_DATA']
+clustering_data = os.environ['CLUSTERING_DATA']
+literals_data = os.environ['LITERALS_DATA']
+triples_data = os.environ['TRIPLES_DATA']
 min_max_scaler = preprocessing.MinMaxScaler()
 
 
@@ -66,7 +65,7 @@ def dump_clusters(kmeans, data, column, clusters, suffix):
         clusters['cluster-{}-{}_{}'.format(i, column, suffix)] = [kmeans.cluster_centers_[i].squeeze().tolist(), min_, max_]
 
 ''' Clear the content of the data folders '''
-def clear_content():
+def clear_content(folders):
     for folder in folders:
         for filename in os.listdir(folder):
             file_path = os.path.join(folder, filename)

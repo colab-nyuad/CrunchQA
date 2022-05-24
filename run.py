@@ -90,9 +90,9 @@ parser.add_argument(
 
 # Exporting enviromental variables
 
-qa_dataset_path = os.environ['QA_DATASET_PATH']
+qa_dataset_path = os.environ['QA_DATASET']
 embeddings_path = os.environ['EMBEDDINGS']
-kgqa_checkpoints = os.environ['CHECKPOINTS']
+#kgqa_checkpoints = os.environ['CHECKPOINTS']
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 #-------------------------------------
@@ -142,7 +142,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     ## Reading QA dataset
-    train_samples, valid_samples, test_samples = read_qa_dataset(qa_dataset_path)
+    #train_samples, valid_samples, test_samples = read_qa_dataset(qa_dataset_path)
 
     ## Loading trained pretrained KG embeddings
     embedding_path = ('{}/{}'.format(embeddings_path, args.embeddings_folder))

@@ -1,0 +1,110 @@
+{
+ "templates": [
+  {
+   "main_chain": "org1-is_acquirer-acquisition-is_acquiree-org2",
+   "question": "which organizations were acquired by [org1]",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-is_acquirer-acquisition-type_of-acquisition_type",
+   "question": "[org] had what types of acquisitions",
+   "constraints": []
+  },
+  {
+   "main_chain": "org1-is_acquiree-acquisition-is_acquirer-org2",
+   "question": "by which company was [org1] acquired",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-is_acquiree-acquisition-type_of-acquisition_type",
+   "question": "in what type of acquisition was [org] acquired",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-is_acquiree-acquisition-acquired_on-date",
+   "question": "when was [org] acquired",
+   "constraints": [],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "org-is_acquiree-acquisition-price_usd-acquisition_price",
+   "question": "for how much was [org] acquired",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "org-org_ipo-ipo-country_code-country_code",
+   "question": "in which country did [org] launch its ipo ",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-org_ipo-ipo-stock_exchange_symbol-stock_exchange_symbol",
+   "question": "what is the stock exchange symbol of [org]'s ipo",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-org_ipo-ipo-went_public_on-date",
+   "question": "when did [org] go public",
+   "constraints": [],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "org-org_ipo-ipo-share_price_usd-share_price",
+   "question": "what is the share price of [org]'s ipo",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "org-org_ipo-ipo-raised_amount_usd-raised_price",
+   "question": "how much did [org] raise in its ipo",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "org-in_org-job-has_job-person",
+   "question": "list people who work in [org]",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-has_job-job-job_title-job_title",
+   "question": "what is [person]'s job title",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-has_job-job-job_type-job_type",
+   "question": "what job types does [person] have",
+   "constraints": []
+  },
+  {
+   "main_chain": "acquisition_type-type_of-acquisition-is_acquirer-org",
+   "question": "organizations that had [acquisition_type] acquisitions",
+   "constraints": []
+  },
+  {
+   "main_chain": "acquisition_type-type_of-acquisition-is_acquiree-org",
+   "question": "which organizations were acquired in [acquisition_type] acquisition",
+   "constraints": []
+  },
+  {
+   "main_chain": "date-went_public_on-ipo-org_ipo-org",
+   "question": "list organizations that launched their ipo during [date]",
+   "constraints": [],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "country_code-country_code-ipo-org_ipo-org",
+   "question": "list organizations that launched their ipo in [country_code]",
+   "constraints": []
+  },
+  {
+   "main_chain": "country_code-country_code-ipo-stock_exchange_symbol-stock_exchange_symbol",
+   "question": "what are the stock exchange symbols of ipos in [country_code]",
+   "constraints": []
+  },
+  {
+   "main_chain": "stock_exchange_symbol-stock_exchange_symbol-ipo-org_ipo-org",
+   "question": "list organizations that launched their ipos on [stock_exchange_symbol]",
+   "constraints": []
+  }
+ ]
+}

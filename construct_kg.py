@@ -19,7 +19,13 @@ organizations_list = []
 people_list = []
 min_max_scaler = preprocessing.MinMaxScaler()
 
-clear_content()
+vanilla_data = os.environ['VANILLA_DATA']
+clustering_data = os.environ['CLUSTERING_DATA']
+literals_data = os.environ['LITERALS_DATA']
+triples_data = os.environ['TRIPLES_DATA']
+folders = [vanilla_data, clustering_data, literals_data, triples_data]
+
+clear_content(folders)
 
 with open('jobs.json') as jobs_file:
     executive_jobs = json.load(jobs_file)

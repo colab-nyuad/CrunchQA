@@ -24,6 +24,7 @@ class CheckpointLoader():
         rel2idx = loaded_checkpoint['relation_to_id_dict']
         entity_matrix = loaded_checkpoint['model_state_dict']['entity_embeddings._embeddings.weight']
         print(len(entity2idx))
+        print(len(rel2idx))
         rel_matrix = loaded_checkpoint['model_state_dict']['relation_embeddings._embeddings.weight']
         num_relations = len(rel2idx)
         args.dim = len(entity_matrix[0])
