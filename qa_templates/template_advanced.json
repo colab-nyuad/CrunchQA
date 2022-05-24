@@ -69,7 +69,7 @@
      "question": [
         "which [category] companies acquired more than 10 companies", 
         "list of [category] companies that acquired more than 10 companies", 
-        "Companies that are in the [category] industry and acquired more than 10 companies"
+        "companies that are in the [category] industry and acquired more than 10 companies"
      ],
      "constraints": [
       {
@@ -88,7 +88,7 @@
       "question": [
          "which [category] companies acquired more than 50 companies", 
          "list of [category] companies that acquired more than 50 companies", 
-         "Companies that are in the [category] industry and acquired more than 50 companies"
+         "companies that are in the [category] industry and acquired more than 50 companies"
       ],
       "constraints": [
        {
