@@ -104,6 +104,7 @@ def add_temporal_constraint(main_df, constraint, granularity):
     Values format: "count_over":"column", "group_by": ["column1", "column2"], "max": "ccolumn"   
     return: an augmented Dataframe
 '''
+
 def add_max_constraint(main_df, constraint, main_chain):
     # by default take the maximum of all groups
     chain = list(constraint.keys())[0] # key of the constraint item: sub chain
@@ -189,7 +190,6 @@ def add_numeric_constraint(main_df, constraint):
         numeric_col = values["numeric"][0]
     else:
         numeric_col = "count"
-        
     val = values["numeric"][2]
     # select all rows that satisfies the numeric constraint
     if values["numeric"][1] == "=":
@@ -218,7 +218,6 @@ if __name__ == "__main__":
             print("-"*70)
             print(row)
             print(template.split('/')[-1], " : ", 'Template {} processed \n'.format(idx), sep = " ")
-            
             columns_to_group_by = []
             main_chain = row['main_chain']
             question = row["question"]
@@ -255,8 +254,6 @@ if __name__ == "__main__":
                 # add the ending column to the list of columns to group by, because we are reaplacing the values from this column into the question template
                 columns_to_group_by.append(chain.split("-")[-1])
 
-            # group by the columns needed, so every question generated is unique
-
             #groupped_df = group_by_question(main_df, columns_to_group_by, answer)      
             #groupped_df['question'] = question
             #groupped_df['type'] = type
@@ -266,5 +263,3 @@ if __name__ == "__main__":
             dict_answers_filtered = group_by_question(main_df, columns_to_group_by, answer)
             samples = select_sample(dict_answers_filtered, sample_size)
             write_questions(samples, dict_answers_filtered, question, type, head, output_file, output_file_numeric)
-
-
