@@ -159,12 +159,12 @@ def substitute_entities(sample, head_column, question):
     question = question.replace('[' + head_column + ']', format_entity(sample[head_column]))
     return sample[head_column], question
 
-def write_questions(samples, dict_answers_filtered, question, type, head_column, output_file, output_file_numeric):
+def write_questions(samples, dict_answers_filtered, question, type, head_column, output_file):
     if isinstance(question, list):
         paraphrase = True
     else:
         paraphrase = False
-    with open(output_file, 'a', encoding = "utf-8") as fout, open(output_file_numeric, 'a', encoding = "utf-8") as fout_numeric:
+    with open(output_file, 'a', encoding = "utf-8") as fout:
         for s in samples:
             # randomly pick a question pharaphrase for questions with paraphrases
             if paraphrase == True:
@@ -174,9 +174,7 @@ def write_questions(samples, dict_answers_filtered, question, type, head_column,
             ans = ' || '.join(dict_answers_filtered[s])
             if type == '':
                 line = '{}\t{}\t{}\n'.format(q, head, ans)
-                print(line)
-                fout.write(line)
             else:
                 line = '{}\t{}\t{}\t{}\n'.format(q, head, ans, type)
-                print(line)
-                fout_numeric.write(line)
+            print(line)
+            fout.write(line)

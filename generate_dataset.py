@@ -17,10 +17,10 @@ dataset_path = os.environ['QA_DATASET']
 templates_path = os.environ['TEMPLATES_PATH']
 qa_readable_path = os.environ['QA_READABLE']
 
-output_file = "{}/data.txt".format(dataset_path)
-output_file_numeric = "{}/data_numeric.txt".format(dataset_path)
+output_file = "{}/data_advanced.txt".format(dataset_path)
+#output_file_numeric = "{}/data_numeric.txt".format(dataset_path)
 
-clear_content([dataset_path])
+#clear_content([dataset_path])
 
 # loading clusters
 clusters = pickle.load(open("{}/clusters.pickle".format(clustering_data), "rb"))
@@ -208,7 +208,7 @@ def add_numeric_constraint(main_df, constraint):
 
 if __name__ == "__main__":
     templates = glob.glob('{}/*.json'.format(templates_path))
-    sample_size = 100
+    sample_size = 200
     granularity = "year"
 
     for template in templates[:]:
@@ -262,4 +262,5 @@ if __name__ == "__main__":
             
             dict_answers_filtered = group_by_question(main_df, columns_to_group_by, answer)
             samples = select_sample(dict_answers_filtered, sample_size)
-            write_questions(samples, dict_answers_filtered, question, type, head, output_file, output_file_numeric)
+            write_questions(samples, dict_answers_filtered, question, type, head, output_file)
+

@@ -1,7 +1,27 @@
 {
  "templates": [
+   {
+      "main_chain": "category-category-org1-launched-funding_round-funding_round_investor-person/org2",
+      "question": [
+         "which (country_code1) investors invested in [category] companies in (country_code2)", 
+         "list (country_code1) investors of [category] companies in (country_code2)", 
+         "[category] companies from (country_code2) have which investors from (country_code1)"
+      ],
+      "constraints": [
+       {
+        "entity_constraint": {
+         "person/org2-country_code-country_code1": []
+        }
+       },
+       {
+         "entity_constraint": {
+          "org1-country_code-country_code2": []
+         }
+        }
+      ]
+     },
   {
-    "main_chain": "category-category-org-launched-funding_round-funding_round_investor-person/org",
+    "main_chain": "category-category-org1-launched-funding_round-funding_round_investor-person/org2",
     "question": [
        "which (country_code) investors invested in [category] companies", 
        "list (country_code) investors of [category] companies", 
@@ -10,7 +30,7 @@
     "constraints": [
      {
       "entity_constraint": {
-       "person/org-country_code-country_code": []
+       "person/org2-country_code-country_code": []
       }
      }
     ]
@@ -19,8 +39,8 @@
     "main_chain": "category-category-org",
     "question": [
        "[category] companies that released ipo on (stock_exchange_symbol)", 
-       "list [category] companies that released ipo on (stock_exchange_symbol)", 
-       "(stock_exchange_symbol) is the stock exchange symbol of which [category] companies"
+       "list [category] companies that released their initial public offering on (stock_exchange_symbol)", 
+       "(stock_exchange_symbol) is the stock exchange symbol of which [category] companies' initial public offering"
     ],
     "constraints": [
      {
@@ -76,7 +96,7 @@
        "numeric_constraint": {
          "org1-is_acquirer-acquisition-is_acquiree-org2": {
            "count_over":"org2",
-          "group_by": "",
+          "group_by": ["org1"],
           "numeric": ["", ">", 10]
          }
       }
@@ -95,7 +115,7 @@
         "numeric_constraint": {
           "org1-is_acquirer-acquisition-is_acquiree-org2": {
             "count_over":"org2",
-           "group_by": "",
+           "group_by": ["org1"],
            "numeric": ["", ">", 50]
           }
        }
@@ -175,11 +195,11 @@
     ]
    },
    {
-    "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
+    "main_chain": "org1-launched-funding_round-funding_round_investor-person/org2",
     "question": [
-       "list (investment_type) investors of [org]", 
-       "which people and organizations are the (investment_type) investors of [org]", 
-       "[org]'s (investment_type) investors"
+       "list (investment_type) investors of [org1]", 
+       "which people and organizations are the (investment_type) investors of [org1]", 
+       "[org1]'s (investment_type) investors"
     ],
     "constraints": [
      {
@@ -191,16 +211,16 @@
    },
 
    {
-    "main_chain": "category-category-org-launched-funding_round-funding_round_investor-person/org",
+    "main_chain": "category-category-org1-launched-funding_round-funding_round_investor-person/org2",
     "question": [
        "list investors of (country_code) [category] companies", 
        "which people and organizations from (country_code) invested in [category] companies", 
-       "[category] companies' investors from (country_code)"
+       "[category] companies in (country_code) are invested by qhich  companies and people"
     ],
     "constraints": [
      {
       "entity_constraint": {
-       "person/org-country_code-country_code": []
+       "person/org2-country_code-country_code": []
       }
      }
     ]
@@ -325,7 +345,7 @@
         "numeric_constraint": {
          "job2-in_org-org2": {
           "count_over":"org2",
-          "group_by": "",
+          "group_by": ["person"],
           "numeric": ["", ">", 2]
          }
         }
@@ -354,7 +374,7 @@
         "numeric_constraint": {
          "job2-in_org-org2": {
           "count_over":"org2",
-          "group_by": "",
+          "group_by": ["person"],
           "numeric": ["", ">", 3]
          }
         }
@@ -383,7 +403,7 @@
         "numeric_constraint": {
          "job2-in_org-org2": {
           "count_over":"org2",
-          "group_by": "",
+          "group_by": ["person"],
           "numeric": ["", ">", 5]
          }
         }
@@ -391,8 +411,8 @@
      ]
    },
   {
-   "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
-   "question": ["list [org] investors", "list of people and organizations that invested in [org1]", "who are [org1]'s investors"],
+   "main_chain": "org1-launched-funding_round-funding_round_investor-person/org2",
+   "question": ["list [org1]'s investors", "list of people and organizations that invested in [org1]", "who are [org1]'s investors"],
    "constraints": []
   },
 
@@ -607,10 +627,30 @@
    "type": "temporal"
   },
   {
-   "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
+   "main_chain": "category-category-org",
    "question": [
-      "list investors in [org]'s (investment_type)",
-      "who invested in [org]'s (investment_type)"
+      "list [category] organizations acquired in (date)", 
+      "which companies in the [category] sector were acquired during (date)", 
+      "[category] companies being acquired during (date)"
+   ],
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "org-is_acquiree-acquisition-acquired_on-date": {
+         "after":"2019"
+      }
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+
+  {
+   "main_chain": "org1-launched-funding_round-funding_round_investor-person/org2",
+   "question": [
+      "list investors in [org1]'s (investment_type)",
+      "who invested in [org1]'s (investment_type)",
+      "list of people and organizations that invested in [org1]'s (investment_type)"
    ],
    "constraints": [
     {
