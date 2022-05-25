@@ -2,7 +2,7 @@
  "templates": [
   {
     "main_chain": "investor_type-type_of-person",
-    "question": "list of (gender) [investor_type] investors ",
+    "question": "list (gender) [investor_type] investors ",
     "constraints": [
      {
       "entity_constraint": {
@@ -238,7 +238,7 @@
    },
   {
     "main_chain": "person-sponsor-event",
-    "question": "[person] was the sponsor of which events during (date)",
+    "question": "[person] was a sponsor of which events during (date)",
     "constraints": [
      {
       "temporal_constraint": {
@@ -252,7 +252,7 @@
    },
   {
    "main_chain": "org-sponsor-event",
-   "question": "[org] is the sponsor of which (event_role) events",
+   "question": "[org] was a sponsor of which (event_role) events",
    "constraints": [
     {
      "entity_constraint": {
@@ -263,7 +263,7 @@
   },
   {
    "main_chain": "org-sponsor-event",
-   "question": "[org] is the sponsor of which events in (country_code)",
+   "question": "[org] was a sponsor of which events in (country_code)",
    "constraints": [
     {
      "entity_constraint": {
@@ -274,7 +274,7 @@
   },
   {
    "main_chain": "org-speaker-event",
-   "question": "[org] is the speaker of which (event_role) events",
+   "question": "[org] was a speaker at which (event_role) events",
    "constraints": [
     {
      "entity_constraint": {
@@ -285,7 +285,7 @@
   },
   {
    "main_chain": "org-speaker-event",
-   "question": "[org] is the speaker of which (country_code) events",
+   "question": "[org] was a speaker at which (country_code) events",
    "constraints": [
     {
      "entity_constraint": {
@@ -296,7 +296,7 @@
   },
   {
    "main_chain": "org-organizer-event",
-   "question": "[org] is the organizer of which (event_role) events",
+   "question": "which (event_role) events did [org] organize",
    "constraints": [
     {
      "entity_constraint": {
@@ -307,7 +307,7 @@
   },
   {
    "main_chain": "org-organizer-event",
-   "question": "[org] is the organizer of which events in (country_code)",
+   "question": "which events in (country_code) did [org] organize",
    "constraints": [
     {
      "entity_constraint": {
@@ -349,7 +349,7 @@
    },
   {
    "main_chain": "org-lead_investor_of-funding_round",
-   "question": "(investment_type) in which [org] was a lead investor",
+   "question": "in which (investment_type) [org] was a lead investor",
    "constraints": [
     {
      "entity_constraint": {
@@ -374,7 +374,7 @@
   },
   {
    "main_chain": "org-has_fund-fund",
-   "question": "[org] owns which fund",
+   "question": "which fund is owned by [org]",
    "constraints": []
   },
   {
@@ -452,7 +452,7 @@
   },
   {
    "main_chain": "person-organizer-event",
-   "question": "which (event_role) events did [person] organie",
+   "question": "which (event_role) events did [person] organize",
    "constraints": [
     {
      "entity_constraint": {
@@ -553,7 +553,7 @@
   },
   {
    "main_chain": "person-funding_round_investor-funding_round",
-   "question": "funding round that [person] invested in during (date)",
+   "question": "funding rounds that [person] invested in during (date)",
    "constraints": [
     {
      "temporal_constraint": {
@@ -565,12 +565,12 @@
   },
   {
    "main_chain": "person-funding_round_investment_partner-funding_round",
-   "question": "[person] is the investment partner in which funding round",
+   "question": "[person] was the investment partner in which funding rounds",
    "constraints": []
   },
   {
    "main_chain": "person-funding_round_investment_partner-funding_round",
-   "question": "[person] is the investment partner in which (investment_type) funding round",
+   "question": "[person] was the investment partner in which (investment_type) funding rounds",
    "constraints": [
     {
      "entity_constraint": {
@@ -581,7 +581,7 @@
   },
   {
    "main_chain": "person-funding_round_investment_partner-funding_round",
-   "question": "[person] is the investment partner of what funding round during (date)",
+   "question": "[person] was the investment partner of what funding round during (date)",
    "constraints": [
     {
      "temporal_constraint": {
@@ -686,12 +686,12 @@
   },
   {
    "main_chain": "event-organizer-org",
-   "question": "which companies are the organizers of [event]",
+   "question": "which companies were the organizers of [event]",
    "constraints": []
   },
   {
    "main_chain": "event-organizer-org",
-   "question": "which companies from (country_code) are the organizers of [event]",
+   "question": "which companies from (country_code) were the organizers of [event]",
    "constraints": [
     {
      "entity_constraint": {
@@ -728,7 +728,7 @@
   },
   {
    "main_chain": "event-contestant-org",
-   "question": "which companies are the conteestants of [event]",
+   "question": "which companies are the contestants of [event]",
    "constraints": []
   },
   {

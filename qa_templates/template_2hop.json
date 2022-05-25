@@ -92,22 +92,22 @@
   },
   {
    "main_chain": "person-organizer-event-type_of-event_role",
-   "question": "[person] organized which types of events",
+   "question": "[person] organized what types of events",
    "constraints": []
   },
   {
    "main_chain": "person-exhibitor-event-country_code-country_code",
-   "question": "in which countries [person] was an exhibitor of events",
+   "question": "in which countries [person] was an exhibitor at events",
    "constraints": []
   },
   {
    "main_chain": "person-contestant-event-country_code-country_code",
-   "question": "in which countries [person] was a contestant in events",
+   "question": "in which countries [person] was a contestant at events",
    "constraints": []
   },
   {
    "main_chain": "person-contestant-event-type_of-event_role",
-   "question": "[person] is a contestant of what types of events",
+   "question": "[person] is a contestant at what types of events",
    "constraints": []
   },
   {
@@ -219,7 +219,7 @@
   },
   {
    "main_chain": "funding_round-lead_investor_of-org-country_code-country_code",
-   "question": "[funding_round] is led by investors from what countries",
+   "question": "[funding_round] is led by investors from which countries",
    "constraints": []
   },
   {
@@ -254,7 +254,7 @@
   },
   {
    "main_chain": "org_parent-parent_org-org-category-category",
-   "question": "from whcih categories are [parent_org]'s child companies",
+   "question": "from whcih categories are [org_parent]'s child companies",
    "constraints": []
   }
  ]

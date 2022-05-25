@@ -77,7 +77,7 @@
   },
   {
    "main_chain": "acquisition_type-type_of-acquisition-is_acquirer-org",
-   "question": "organizations that had [acquisition_type] acquisitions",
+   "question": "whihc organizations had [acquisition_type] acquisitions",
    "constraints": []
   },
   {
