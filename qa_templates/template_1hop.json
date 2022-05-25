@@ -1,0 +1,773 @@
+{
+ "templates": [
+  {
+    "main_chain": "investor_type-type_of-person",
+    "question": "list (gender) [investor_type] investors ",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "person-gender-gender": ["non_binary", "two_spirit", "mt", "transgender_man",
+        "bigender", "transgender_woman", "agender", "androgynous",
+        "gender_nonconforming'", "transgender_female", "neutrois", "gender_fluid",
+        "ftm", "transgender_male", "transgender_person", "androgyne"]
+      }
+     }
+    ]
+   },
+  {
+    "main_chain": "org-launched-funding_round",
+    "question": "which funding round [org] launched in (date)",
+    "constraints": [
+     {
+      "temporal_constraint": {
+       "funding_round-announced_on-date": {
+         "after":"2019"
+       }
+      }
+     }
+    ],
+    "type": "temporal"
+   },
+   {
+    "main_chain": "category-category-org",
+    "question": "list of [category] organizations founded in (date)",
+    "constraints": [
+     {
+      "temporal_constraint": {
+       "org-founded_on-date": {
+         "after":"2019/12"
+       }
+      }
+     }
+    ],
+	"type": "temporal"
+   },
+   {
+    "main_chain": "city-city-event",
+    "question": "list events that took place in [city]",
+    "constraints": []
+   },
+   {
+    "main_chain": "city-city-event",
+    "question": "list (event_role) events that took place in [city]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "event-type_of-event_role": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "city-city-funding_round",
+    "question": "list funding rounds launched in [city]",
+    "constraints": []
+   },
+   {
+    "main_chain": "city-city-funding_round",
+    "question": "list (investment_type) funding rounds launched in [city]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "funding_round-type_of-investment_type": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "event_role-type_of-event",
+    "question": "list [event_role] events in (country_code)",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "event-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-launched-org",
+    "question": "which company launched [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-type_of-investment_type",
+    "question": "what is the investment type of [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-country_code-country_code",
+    "question": "[funding_round] was launched in which country",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-city-city",
+    "question": "[funding_round] was launched in which city",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-lead_investor_of-person",
+    "question": "list people who are lead investors of [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-lead_investor_of-person",
+    "question": "list people from (country_code) who are lead investors in [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "person-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-lead_investor_of-org",
+    "question": "list the companies that are lead investors of [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-lead_investor_of-org",
+    "question": "list the organizations from (country_code) that lead [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "org-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-lead_investor_of-org",
+    "question": "list the (category) lead investors of [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "org-category-category": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-announced_on-date",
+    "question": "when was [funding_round] announced",
+    "constraints": [],
+    "type": "temporal"
+   },
+   {
+    "main_chain": "funding_round-raised_amount_usd-funding_round_price",
+    "question": "how much money did [funding_round] raise",
+    "constraints": [],
+    "type": "numeric"
+   },
+   {
+    "main_chain": "funding_round-funding_round_investor-person",
+    "question": "list people who invested in [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-funding_round_investor-person",
+    "question": "list (country_code) people who invested in [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "person-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-funding_round_investor-org",
+    "question": "list organizations that invested in [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-funding_round_investor-org",
+    "question": "list (country_code) organizations that invested in [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "org-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-funding_round_investor-org",
+    "question": "list (category) investors of [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "org-category-category": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "funding_round-funding_round_investment_partner-person",
+    "question": "list the investment partners of [funding_round]",
+    "constraints": []
+   },
+   {
+    "main_chain": "funding_round-funding_round_investment_partner-person",
+    "question": "list investment partners from (country_code) in [funding_round]",
+    "constraints": [
+     {
+      "entity_constraint": {
+       "person-country_code-country_code": []
+      }
+     }
+    ]
+   },
+   {
+    "main_chain": "fund-has_fund-org",
+    "question": "to which organization does [fund] belong",
+    "constraints": []
+   },
+   {
+    "main_chain": "fund-announced_on-date",
+    "question": "when was [fund] announced",
+    "constraints": [],
+    "type": "temporal"
+   },
+   {
+    "main_chain": "fund-raised_amount_usd-fund_price",
+    "question": "how much did [fund] raise",
+    "constraints": [],
+    "type": "numeric"
+   },
+  {
+    "main_chain": "person-sponsor-event",
+    "question": "[person] was a sponsor of which events during (date)",
+    "constraints": [
+     {
+      "temporal_constraint": {
+       "event-started_on-date": {
+         "after":"2012"
+       }
+      }
+     }
+    ],
+    "type": "temporal"
+   },
+  {
+   "main_chain": "org-sponsor-event",
+   "question": "[org] was a sponsor of which (event_role) events",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-sponsor-event",
+   "question": "[org] was a sponsor of which events in (country_code)",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-speaker-event",
+   "question": "[org] was a speaker at which (event_role) events",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-speaker-event",
+   "question": "[org] was a speaker at which (country_code) events",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-organizer-event",
+   "question": "which (event_role) events did [org] organize",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-organizer-event",
+   "question": "which events in (country_code) did [org] organize",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-exhibitor-event",
+   "question": "at which (event_role) events was [org] an exhibitor",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-contestant-event",
+   "question": "in which events did [org] participate as a contestant",
+   "constraints": []
+  },
+  {
+    "main_chain": "org-launched-funding_round",
+    "question": "[org] raised the highest amount of money in which of its funding rounds",
+    "constraints": [
+     {
+      "max_constraint": {
+       "funding_round-raised_amount_usd-funding_round_price": {
+        "count_over":"",
+        "group_by": "",
+        "max": "funding_round_price"
+       }
+      }
+     }
+    ]
+   },
+  {
+   "main_chain": "org-lead_investor_of-funding_round",
+   "question": "in which (investment_type) [org] was a lead investor",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "funding_round-type_of-investment_type": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-lead_investor_of-funding_round",
+   "question": "[org] was the lead investor of which funding round during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "funding_round-announced_on-date": {
+       "after": "2015"
+      }
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "org-has_fund-fund",
+   "question": "which fund is owned by [org]",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-type_of-investor_type",
+   "question": "what type of investor is [org]",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-total_invested_usd-price_invested",
+   "question": "how much did [org] invest in total",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "org-investment_count-investment_count",
+   "question": "how many investments does [org] have",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "org-funding_round_investor-funding_round",
+   "question": "[org] invested in which funding rounds",
+   "constraints": []
+  },
+  {
+   "main_chain": "org-funding_round_investor-funding_round",
+   "question": "[org] invested in which (investment_type) funding rounds",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "funding_round-type_of-investment_type": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "org-funding_round_investor-funding_round",
+   "question": "[org] invested in which funding rounds during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "funding_round-announced_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-speaker-event",
+   "question": "[person] was a speaker at which (event_role) event",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-speaker-event",
+   "question": "[person] was a speaker at which event during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "event-started_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-organizer-event",
+   "question": "[person] was an organizer of which event",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-organizer-event",
+   "question": "which (event_role) events did [person] organize",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-exhibitor-event",
+   "question": "[person] was an exhibitor at which (event_role) event",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "event-type_of-event_role": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-exhibitor-event",
+   "question": "[person] was an exhibitor at which event during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "event-started_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-contestant-event",
+   "question": "[person] was a contestant at which event during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "event-started_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-lead_investor_of-funding_round",
+   "question": "funding round in which [person] is a lead investor",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-lead_investor_of-funding_round",
+   "question": "(investment_type) where [person] is a lead investor",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "funding_round-type_of-investment_type": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-lead_investor_of-funding_round",
+   "question": "[person] was the lead investor of which funding round during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "funding_round-announced_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-type_of-investor_type",
+   "question": "what types of investor is [person]",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-investment_count-investment_count",
+   "question": "how many investments does [person] have",
+   "constraints": [],
+   "type": "numeric"
+  },
+  {
+   "main_chain": "person-funding_round_investor-funding_round",
+   "question": "[person] invested in which funding rounds",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-funding_round_investor-funding_round",
+   "question": "[person] invested in which (investment_type) funding rounds",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "funding_round-type_of-investment_type": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-funding_round_investor-funding_round",
+   "question": "funding rounds that [person] invested in during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "funding_round-announced_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "person-funding_round_investment_partner-funding_round",
+   "question": "[person] was the investment partner in which funding rounds",
+   "constraints": []
+  },
+  {
+   "main_chain": "person-funding_round_investment_partner-funding_round",
+   "question": "[person] was the investment partner in which (investment_type) funding rounds",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "funding_round-type_of-investment_type": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "person-funding_round_investment_partner-funding_round",
+   "question": "[person] was the investment partner of what funding round during (date)",
+   "constraints": [
+    {
+     "temporal_constraint": {
+      "funding_round-announced_on-date": {}
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "date-founded_on-org",
+   "question": "(category) organizations founded in [date]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "org-category-category": [
+      ]
+     }
+    }
+   ],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "event-sponsor-person",
+   "question": "who sponsored [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-sponsor-person",
+   "question": "who from (country_code) sponsored [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "person-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-sponsor-org",
+   "question": "which companies sponsored [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-sponsor-org",
+   "question": "which companies from (country_code) sponsored [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "org-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-speaker-person",
+   "question": "who was a speaker at [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-speaker-person",
+   "question": "who from (country_code) was a speaker at [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "person-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-speaker-org",
+   "question": "which companies were speakers at [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-speaker-org",
+   "question": "which companies form (country_code) were speakers at [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "org-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-organizer-person",
+   "question": "who organized [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-organizer-person",
+   "question": "who from (country_code) organized [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "person-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-organizer-org",
+   "question": "which companies were the organizers of [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-organizer-org",
+   "question": "which companies from (country_code) were the organizers of [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "org-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-exhibitor-person",
+   "question": "who was among exhibitors at [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-exhibitor-org",
+   "question": "which companies were among exhibitors at [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-contestant-person",
+   "question": "who were contestants at [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-contestant-person",
+   "question": "who from (country_code) were contestants at [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "person-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-contestant-org",
+   "question": "which companies are the contestants of [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-contestant-org",
+   "question": "which companies from (country_code) are the contestants of [event]",
+   "constraints": [
+    {
+     "entity_constraint": {
+      "org-country_code-country_code": []
+     }
+    }
+   ]
+  },
+  {
+   "main_chain": "event-country_code-country_code",
+   "question": "in which country did [event] take place",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-city-city",
+   "question": "in which city did [event] take place",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-type_of-event_role",
+   "question": "what kind of event is [event]",
+   "constraints": []
+  },
+  {
+   "main_chain": "event-started_on-date",
+   "question": "when did [event] start",
+   "constraints": [],
+   "type": "temporal"
+  },
+  {
+   "main_chain": "event-ended_on-date",
+   "question": "when did [event] end",
+   "constraints": [],
+   "type": "temporal"
+  }
+ ]
+}
