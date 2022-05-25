@@ -4,7 +4,7 @@
     "main_chain": "category-category-org-launched-funding_round-funding_round_investor-person/org",
     "question": [
        "which (country_code) investors invested in [category] companies", 
-       "list the (country_code) investors of [category] companies", 
+       "list (country_code) investors of [category] companies", 
        "[category] companies have which investors from (country_code)"
     ],
     "constraints": [
@@ -19,8 +19,8 @@
     "main_chain": "category-category-org",
     "question": [
        "[category] companies that released ipo on (stock_exchange_symbol)", 
-       "list of [category] companies that released ipo on (stock_exchange_symbol)", 
-       "(stock_exchange_symbol) is the stock exchange symbol of what [category] companies"
+       "list [category] companies that released ipo on (stock_exchange_symbol)", 
+       "(stock_exchange_symbol) is the stock exchange symbol of which [category] companies"
     ],
     "constraints": [
      {
@@ -49,8 +49,8 @@
     "main_chain": "category-category-org1",
     "question": [
        "which [category] companies acquired more than 5 companies", 
-       "list of [category] companies that acquired more then 5 companies", 
-       "[category] companies with more than 5 acquired companies"
+       "list [category] companies that acquired more than 5 companies", 
+       "[category] companies with more than 5 companies acquired"
     ],
     "constraints": [
      {
@@ -68,7 +68,7 @@
      "main_chain": "category-category-org1",
      "question": [
         "which [category] companies acquired more than 10 companies", 
-        "list of [category] companies that acquired more than 10 companies", 
+        "list [category] companies that acquired more than 10 companies", 
         "companies that are in the [category] industry and acquired more than 10 companies"
      ],
      "constraints": [
@@ -159,8 +159,8 @@
     "main_chain": "category-category-org",
     "question": [
        "which [category] companies have the highest ipo share price", 
-       "list of companies that has the highest ipo share price in [category] industry", 
-       "among companies in [category] industry, which one have the highest share price"
+       "list companies that has the highest ipo share price in [category] industry", 
+       "among companies in [category] industry, which one has the highest share price"
     ],
     "constraints": [
      {
@@ -209,7 +209,7 @@
     "main_chain": "category-category-org",
     "question": [
        "which [category] companies launched their (investment_type) during (date)", 
-       "list of [category] companies that launched their (investment_type) during (date)", 
+       "list [category] companies that launched their (investment_type) during (date)", 
        "during (date), which [category] companies launched (investment_type)"
     ],
     "constraints": [
@@ -231,7 +231,7 @@
     "question": [
        "which companies that participated in [event] have (gender) founders", 
        "(gender) founded [event] companies", 
-       "list of companies founded by (gender) people and participated in [event]"
+       "list companies founded by (gender) people and participated in [event]"
     ],
     "constraints": [
      {
@@ -251,7 +251,7 @@
     "question": [
        "which companies that participated in [event] have (gender) founders", 
        "(gender) founded [event] companies", 
-       "list of companies founded by (gender) people and participated in [event]"
+       "list companies founded by (gender) people and participated in [event]"
     ],
     "constraints": [
      {
@@ -293,7 +293,7 @@
     "question": [
        "what (event_role) events did [org] participate in", 
        "[org] participated in what (event_role) events", 
-       "list of (event_role) events that [org] took part in"
+       "list (event_role) events that [org] took part in"
     ],
     "constraints": [
      {
@@ -308,7 +308,7 @@
     "question": [
        "[org1] alumni who has founded more than 2 companies", 
        "founders of more than 2 companies who previously worked in [org1]", 
-       "list of people formerly worked in [org1] who founded more than 2 companies"
+       "list people who formerly worked in [org1] and founded more than 2 companies"
     ],
     "constraints": [
       {
@@ -337,7 +337,7 @@
     "question": [
        "[org1] alumni who has founded more than 3 companies", 
        "founders of more than 3 companies who previously worked in [org1]", 
-       "list of people formerly worked in [org1] who founded more than 3 companies"
+       "list people who formerly worked in [org1] and founded more than 3 companies"
     ],
     "constraints": [
       {
@@ -365,8 +365,8 @@
     "main_chain": "org1-in_org-job1-has_job-person",
     "question": [
        "[org1] alumni who has founded more than 5 companies", 
-       "founders of more than 5companies who previously worked in [org1]", 
-       "list of people formerly worked in [org1] who founded more than 5 companies"
+       "founders of more than 5 companies who previously worked in [org1]", 
+       "list people who formerly worked in [org1] and founded more than 5 companies"
     ],
     "constraints": [
       {
@@ -384,7 +384,7 @@
          "job2-in_org-org2": {
           "count_over":"org2",
           "group_by": "",
-          "numeric": ["", ">", 4]
+          "numeric": ["", ">", 5]
          }
         }
        }
@@ -401,7 +401,7 @@
    "question": [
       "what types of events did [person] participate in", 
       "[person] participated in what types of events", 
-      "list of the types of events that [person] participated in"
+      "list the types of events that [person] participated in"
    ],
    "constraints": []
   },  
@@ -410,7 +410,7 @@
    "question": [
       "what types of events did [person] mostly participate in", 
       "[person] mostly participated in what types of events", 
-      "list of the types of events that [person] most frequently participated in"
+      "list the types of events that [person] most frequently participated in"
    ],
    "constraints": [
     {
@@ -428,7 +428,7 @@
    "main_chain": "category-category-org",
    "question": [
       "which [category] companies went public during (date)", 
-      "list of [category] companies that went public during (date)", 
+      "list [category] companies that went public during (date)", 
       "companies in [category] industry that went public during (date)"
    ],
    "constraints": [
@@ -462,7 +462,7 @@
    "main_chain": "category-category-org",
    "question": [
       "which [category] companies were founded during (date)", 
-      "list of [category] companies founded during (date)", 
+      "list [category] companies founded during (date)", 
       "companies in [category] industry founded during (date)"
    ],
    "constraints": [
@@ -478,7 +478,7 @@
     "main_chain": "category-category-org",
     "question": [
        "which [category] companies were founded during (date)", 
-       "list of [category] companies founded during (date)", 
+       "list [category] companies founded during (date)", 
        "companies in [category] industry founded during (date)"
     ],
     "constraints": [
@@ -515,7 +515,7 @@
    "main_chain": "event_role-type_of-event",
    "question": [
       "which [event_role] took place in (city) during (date)", 
-      "list of all [event_role]s that took place in (city) during (date)", 
+      "list all [event_role]s that took place in (city) during (date)", 
       "during (date), what [event_role]s took place in (city)"
    ],
    "constraints": [
@@ -536,7 +536,7 @@
    "main_chain": "category-category-org",
    "question": [
       "which [category] companies in (country_code) have more than 500 employees", 
-      "list of [category] companies in (country_code) with more then 500 employees", 
+      "list [category] companies in (country_code) with more than 500 employees", 
       "companies from (country_code) in the [category] sector with more than 500 employees"
    ],
    "constraints": [
@@ -556,7 +556,7 @@
    "main_chain": "category-category-org",
    "question": [
       "which [category] companies in (country_code) have more than 5000 employees", 
-      "list of [category] companies in (country_code) with more then 5000 employees", 
+      "list [category] companies in (country_code) with more than 5000 employees", 
       "companies from (country_code) in the [category] sector with more than 5000 employees"
    ],
    "constraints": [
@@ -576,7 +576,7 @@
     "main_chain": "category-category-org",
     "question": [
        "which [category] companies in (country_code) have more than 10000 employees", 
-       "list of [category] companies in (country_code) with more then 10000 employees", 
+       "list [category] companies in (country_code) with more than 10000 employees", 
        "companies from (country_code) in the [category] sector with more than 10000 employees"
     ],
     "constraints": [
@@ -609,8 +609,7 @@
   {
    "main_chain": "org-launched-funding_round-funding_round_investor-person/org",
    "question": [
-      "list of investors in [org]'s (investment_type)", 
-      "which people and organizations invested in [org]'s (investment_type)", 
+      "list investors in [org]'s (investment_type)",
       "who invested in [org]'s (investment_type)"
    ],
    "constraints": [
