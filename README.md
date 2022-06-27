@@ -13,8 +13,3 @@ Command to shuffle and split generated questions into train, valid, test: ./qa_d
 
 Command to run KGQA framework: 
 python run.py --model DistMult --embeddings_folder embeddings/clustering_distmult --freeze True
-
-Needs to be done: 
-add advanced templates and debug aggregation functions (Silvey)
-minibatching (we cannot load the full matrix of embeddings) (Nadya)
-implementation of regression 
