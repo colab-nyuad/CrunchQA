@@ -13,3 +13,24 @@ Command to shuffle and split generated questions into train, valid, test: ./qa_d
 
 Command to run KGQA framework: 
 python run.py --model DistMult --embeddings_folder embeddings/clustering_distmult --freeze True
+
+
+Mapped Jobs:
+
+"director": ["director"]
+"CSO": ["chief security officer", "cso"] 
+"board_member": ["chairman", "boar director", "board member"] 
+"founder": ["founding partner", "founder", "co-founder", "co founder", "cofounder"] 
+"CFO": ["chief financial officer", "cfo"] 
+"CEO": ["chief executive officer", "ceo"] 
+"CPO": ["chief people officer", "cpo"]
+"CIO": ["chief information officer", "cio"] 
+"CBO": ["chief business officer", "cbo"]
+"VP": ["vice president", "vp"] 
+"advisor": ["advisor"]
+"owner": ["owner"]
+"president": ["president"]
+"CTO": ["chief technology offcier", "cto"]
+"CRO": ["chief revenue officer", "cro"]
+"COO": ["chief operating officer", "coo"]
+
