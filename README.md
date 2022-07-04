@@ -1,5 +1,4 @@
-# <center> FinQA</center> 
-### New Challenges in Question Answering over Knowledge Graphs
+## FinQA: New Challenges in Question Answering over Knowledge Graphs
 
 ![Image of Version](https://img.shields.io/badge/version-v1.0-green)
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
@@ -24,8 +23,7 @@ source set_env.sh
 ```
 
 ### Table of contents
-
-# Table of contents
+---
 1. [Data](#data)
 2. [KG constraction] (#kg)
     1. [KG construction from CSV](#kg_csv)
@@ -37,6 +35,7 @@ source set_env.sh
     2. [Running KGQA](#kgqa)
 
 ### Data <a name="data"></a>
+---
 Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data 
