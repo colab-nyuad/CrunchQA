@@ -23,9 +23,7 @@ source set_env.sh
 ```
 
 ### Table of contents
-
-<hr style="border:0.2px solid blue">
-
+#
 1. [Data](#data)
 2. [KG constraction](#kg)
     1. [KG construction from CSV](#kg_csv)
@@ -37,7 +35,7 @@ source set_env.sh
     2. [Running KGQA](#kgqa)
 
 ### Data <a name="data"></a>
----
+#
 Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data 
