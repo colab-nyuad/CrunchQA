@@ -13,6 +13,8 @@ The repository contains scripts for:
 
 **⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**
 
+*FinQA can be downloaded from [link]().*
+
 ### Quick start
 ```sh
 # retrieve and install project in development mode
@@ -72,15 +74,7 @@ python construct_kg.py
 
 **KG construction from RDF** <a name="kg_rdf"></a>
 
-CrunchBase is a database about startups and technology companies. The database can be searched, browsed, and
-edited via a website, but is also accessible via an entity-centric HTTP API in JSON format. We present a wrapper around the
-API that provides the data as Linked Data. The wrapper provides schema-level links to schema.org, Friend-of-a-Friend and
-Vocabulary-of-a-Friend, and entity-level links to DBpedia for organization entities. We describe how to harvest the RDF data to
-obtain a local copy of the data for further processing and querying that goes beyond the access facilities of the CrunchBase API.
-Further, we describe the cases in which the Linked Data API for CrunchBase and the crawled CrunchBase RDF data have been
-used in other works.
-
-In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf)
+In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format and included a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data set to the KG tirples fromat. The mapped KG is ... than the KG used for constracting the questions. 
 
 ### QA templates <a name="qa_templates"></a>
 
