@@ -22,8 +22,7 @@ git clone https://github.com/colab-nyuad/FinQA
 source set_env.sh
 ```
 
-### Table of contents
-#
+## Table of contents
 1. [Data](#data)
 2. [KG constraction](#kg)
     1. [KG construction from CSV](#kg_csv)
@@ -34,8 +33,7 @@ source set_env.sh
     1. [Training Embeddings](#embeddings)
     2. [Running KGQA](#kgqa)
 
-### Data <a name="data"></a>
-#
+## Data <a name="data"></a>
 Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data 
