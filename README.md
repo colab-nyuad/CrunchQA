@@ -22,12 +22,13 @@ git clone https://github.com/colab-nyuad/FinQA
 source set_env.sh
 ```
 
-*** Table of contents
+### Table of contents
+***
 1. [Data](#data)
-2. [KG constraction] (#kg)
+2. [KG constraction](#kg)
     1. [KG construction from CSV](#kg_csv)
     2. [KG construction from RDF](#kg_rdf)
-3. [QA templates] (#qa_templates)
+3. [QA templates](#qa_templates)
 4. [QA dataset](#qa_dataset)
 5. [Training KGQA model](#kgqa_model)
     1. [Training Embeddings](#embeddings)
