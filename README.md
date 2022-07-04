@@ -24,7 +24,7 @@ source set_env.sh
 
 ### Table of contents
 
-<hr style="border:1px solid blue">
+<hr style="border:0.2px solid blue">
 
 1. [Data](#data)
 2. [KG constraction](#kg)
