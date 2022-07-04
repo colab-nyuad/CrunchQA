@@ -11,7 +11,7 @@ The repository contains scripts for:
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
 
-**⚠️ IMPORTANT: Make sure that you have torch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 exactly. You can check with**
+**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the reposotory contains a script to process a dump and reconstruct the KG at a given timestamp (December 2021)**
 
 ### Quick start
 ```sh
@@ -38,16 +38,7 @@ Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data 
 
-The Crunchbase data dump comprises 17 relational tables\footnote{The database dump was obtained on December 2021.} with primary and foreign keys to link tables together. To build the KG, we use a simple approach. First, we create new entities for each main entity type, namely, \textsc{Organization, Person, Fund, Event}, and \textsc{Funding Round}. 
-
-Next, we use reification nodes \textsc{Job}, \textsc{Acquisition} and \textsc{IPO} to map the relationship between the base entity types. For example, instances of \textsc{Job} are entities that link instances of \textsc{Organization, Person} and add additional information about this particular position, for example, start date, end date, title, etc. 
-
-Finally, we map additional triples extracted from the entities' respective tables including numerical values and dates. At the same time, we exclude fields with textual literals and various metadata irrelevant to our task. The processed knowledge graph includes 3.2 million entities, 31 relations, and 17.6 million triples. 
-
-Figure \ref{fig:kg_architecture} shows the overall structure of our Knowledge graph, where rectangular nodes denote the main classes of entities and the circular nodes visualize the reification we perform. A detailed description of all the entities and relation types is available on the dataset's website. In addition, since the Crunchbase dataset is subject to licensing, we provide a script to process a dump and reconstruct the KG at a given timestamp.
-
-
-Mapped Jobs:
+The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to the following categories:
 
 | KG format   | CSV format  |
 | :---        |    :----:   |
@@ -68,9 +59,17 @@ Mapped Jobs:
 |CRO          |chief revenue officer, cro| 
 |COO          |chief operating officer, coo|
 
+***KG construction from CSV** 
+
+The knowledge graph generated from the csv dump includes 3.2 million entities, 31 relations, and 17.6 million triples. Following is the structure of the created KG:
+
 ![](kg.jpg "KG architecture")
 
 Command to generate KG: python construct_kg.py
+
+***[KG construction from RDF***
+
+http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf
 
 ### QA templates 
 
