@@ -1,8 +1,8 @@
-# <center>FinQA</center> 
+<center> #FinQA</center> 
 ### New Challenges in Question Answering over Knowledge Graphs
 FinQA is a new dataset for question-answering on knowledge graphs (KGQA) to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
-The repository contains script for:
+The repository contains scripts for:
 - creating a Knowledge Graph from the Crunchbase database;
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
@@ -17,9 +17,19 @@ source set_env.sh
 ```
 
 ### Data
-Download Crunchbase dump and unzip into folder data
+Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data
+
+The Crunchbase data dump comprises 17 relational tables\footnote{The database dump was obtained on December 2021.} with primary and foreign keys to link tables together. To build the KG, we use a simple approach. First, we create new entities for each main entity type, namely, \textsc{Organization, Person, Fund, Event}, and \textsc{Funding Round}. 
+
+Next, we use reification nodes \textsc{Job}, \textsc{Acquisition} and \textsc{IPO} to map the relationship between the base entity types. For example, instances of \textsc{Job} are entities that link instances of \textsc{Organization, Person} and add additional information about this particular position, for example, start date, end date, title, etc. 
+
+Finally, we map additional triples extracted from the entities' respective tables including numerical values and dates. At the same time, we exclude fields with textual literals and various metadata irrelevant to our task. The processed knowledge graph includes 3.2 million entities, 31 relations, and 17.6 million triples. 
+
+Figure \ref{fig:kg_architecture} shows the overall structure of our Knowledge graph, where rectangular nodes denote the main classes of entities and the circular nodes visualize the reification we perform. A detailed description of all the entities and relation types is available on the dataset's website. In addition, since the Crunchbase dataset is subject to licensing, we provide a script to process a dump and reconstruct the KG at a given timestamp.
+
+
 Mapped Jobs:
 
 | KG format   | CSV format  |
