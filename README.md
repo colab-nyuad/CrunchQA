@@ -74,7 +74,7 @@ python construct_kg.py
 
 **KG construction from RDF** <a name="kg_rdf"></a>
 
-In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format and included a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data set to the KG tirples fromat. The mapped KG is ... than the KG used for constracting the questions. 
+In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format. The paper includes a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data set to the KG tirples fromat. The mapped KG is smaller than the used KG for constracting the questions. This version is missing events and a set of atrributes for other entities but contain products. The KG and scheme of it can downloaded from [nnnnnn](). 
 
 ### QA templates <a name="qa_templates"></a>
 
