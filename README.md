@@ -23,7 +23,9 @@ source set_env.sh
 ```
 
 ### Table of contents
+
 <hr style="border:1px solid blue">
+
 1. [Data](#data)
 2. [KG constraction](#kg)
     1. [KG construction from CSV](#kg_csv)
