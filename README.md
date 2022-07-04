@@ -11,7 +11,7 @@ The repository contains scripts for:
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
 
-**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct the KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we constructed to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**
+**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**
 
 ### Quick start
 ```sh
@@ -36,7 +36,7 @@ source set_env.sh
 ## Data <a name="data"></a>
 Download Crunchbase dump and unzip into the folder data
 
-### Creating KG from crunchabse data 
+### Creating KG from crunchabse data  <a name="kg"></a>
 
 The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to the following categories:
 
@@ -59,7 +59,7 @@ The Crunchbase data dump comprises 17 relational tables with primary and foreign
 |CRO          |chief revenue officer, cro| 
 |COO          |chief operating officer, coo|
 
-**KG construction from CSV** 
+**KG construction from CSV**  <a name="kg_csv"></a>
 
 The knowledge graph generated from the csv dump includes 3.2 million entities, 31 relations, and 17.6 million triples. Following is the structure of the created KG:
 
@@ -70,20 +70,20 @@ The command to generate KG from the csv dump stored in data:
 python construct_kg.py
 ```
 
-**KG construction from RDF**
+**KG construction from RDF** <a name="kg_rdf"></a>
 
 http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf
 
-### QA templates 
+### QA templates <a name="qa_templates"></a>
 
-### QA dataset
+### QA dataset <a name="qa_dataset"></a>
 
 
 Command to generate QA datset: python genrate_dataset.py
 
 Command to shuffle and split generated questions into train, valid, test: ./qa_dataset/split_train_valid_test.bh
 
-### Training the model and running experiments
+### Training the model and running experiments <a name="kgqa_model"></a>
 
 ```sh
 usage: main.py [-h] [--dataset DATASET] [--kg_type KG_TYPE]
