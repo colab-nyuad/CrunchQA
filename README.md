@@ -1,18 +1,31 @@
-# FinQA 
-## New Challenges in Question Answering over Knowledge Graphs
-HyperKGQA proposes a technique that embeds a Knowledge Graph into the hyperbolic space  and  leverages  this  pre-trained  embeddings  to  map  questions' representation  into entities  and  relationships  space. An extensive set of experiments was run on two benchmark datasets using code published in this repository. The results show that the proposed  method  performs  better  than the state-of-the-art techniques when reasoning on arbitrary multi-hop questions over large sparse graphs.
+# <center>FinQA</center> 
+### New Challenges in Question Answering over Knowledge Graphs
+The digital transformation in the finance sector has been driven by the advances made in big data and artificial intelligence technologies. 
+For instance, data integration enables businesses to make better decisions by consolidating and mining heterogeneous data repositories.
+In particular, knowledge graphs (KGs) are used to facilitate the integration of disparate data sources and can be utilized to answer complex natural language queries.
+This work proposes a new dataset for question-answering on knowledge graphs (KGQA) to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations.
+To build the dataset, we create a new Knowledge Graph from the Crunchbase database using a lightweight schema to support high-quality entity embeddings in large graphs. Next, we create a Question Answering dataset based on multiple-hop templates and paraphrasing.
+Finally, we conduct extensive experiments with state-of-the-art KGQA models and compare their performance on FinQA. The results show that the existing models do not perform well, for example, on multi-hop constrained queries. Hence, FinQA can be used as a challenging benchmark dataset for future KGQA reasoning models. The dataset and scripts are available on the project repository.
 
-### Installation
+### Quick start
 ```sh
 # retrieve and install project in development mode
-git clone https://github.com/colab-nyuad/Hyperbolic_KGQA.git
-cd kge
-pip install -e .
+git clone https://github.com/colab-nyuad/FinQA
 
 # set environment variables
-cd ..
 source set_env.sh
 ```
+
+
+### Data
+Download Crunchbase dump and unzip into folder data
+
+### Creating KG from crunchabse data
+Command to generate KG: python construct_kg.py
+
+![](/src/images/kg.jpeg "KG architecture")
+
+
 ### Avilable models
 This implementation includes the following models:
 - [ComplEx](http://proceedings.mlr.press/v48/trouillon16.pdf)
@@ -206,3 +219,92 @@ Mapped Jobs:
 "CRO": ["chief revenue officer", "cro"]
 "COO": ["chief operating officer", "coo"]
 
+# YOLO Task
+
+![Image of Version](https://img.shields.io/badge/version-v1.0-green)
+![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+![my badge](https://badgen.net/badge/uses/YOLOv5/red?icon=github)
+
+Task for changing the bounding / anchor boxes from rectangles to ellipses (in train, val and detect) by Silvey Yu
+
+**Demo:** [On YouTube](https://www.youtube.com/watch?v=unRMQn6KwF0&ab_channel=SilveyYu)
+
+### How to run
+
+1. Setup the virtual envrionment on your computer
+
+```
+pip3 install virtualenv
+virtualenv test
+source test/bin/activate
+```
+2. Clone this repository
+```
+cd test
+git clone https://github.com/SilvesterYu/YOLO_Silvey_Task.git
+```
+
+3. Run setup
+```
+chmod -R 777 *.*
+cd YOLO_Silvey_Task
+chmod 0755 setup.sh
+./setup.sh
+```
+
+**⚠️ IMPORTANT: Make sure that you have torch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 exactly. You can check with**
+```
+pip3 list
+```
+
+## Testing
+
+If "Descriptors cannot be created directly" error occurs, run:
+
+```
+pip install protobuf==3.20.1
+```
+
+**1. Test Train**
+
+To test the train, go into ``yolov5copy`` directory
+```
+cd yolov5copy
+```
+
+Test train with
+
+```
+python train.py --data coco128.yaml --cfg yolov5s.yaml --weights '' --batch-size 128 --epochs 1
+```
+
+**2. Test Val**
+
+To test the val, go into ``yolov5copy`` directory
+```
+cd yolov5copy
+```
+
+Test val with
+
+```
+python val.py --data coco128.yaml --weights yolov5s.pt --img 640
+```
+
+**3. Test Detection**
+
+To test the detection, go into ``yolov5copy`` directory
+```
+cd yolov5copy
+```
+
+Then, get an image from internet
+```
+wget "https://a-z-animals.com/media/2021/12/Best-farm-animals-cow.jpg"
+```
+
+Run detection using
+```
