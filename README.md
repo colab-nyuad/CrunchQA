@@ -11,7 +11,7 @@ The repository contains scripts for:
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
 
-**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**
+**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**.
 
 *FinQA can be downloaded from [link]().*
 
@@ -49,7 +49,7 @@ The knowledge graph generated from the csv dump includes 3.2 million entities, 3
 ![](kg.jpg "KG architecture")
 
 The command to generate KG:
-```sh
+```python
 python construct_kg.py
 ```
 
@@ -58,6 +58,18 @@ python construct_kg.py
 In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format. The paper includes a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data to the KG tirples fromat. The mapped KG is smaller than the used KG for constracting the questions. This version is missing events and a set of atrributes for other entities but contains the product entities. This smaller version of KG and the scheme of it can be downloaded from [nnnnnn](). 
 
 ## QA templates <a name="qa_templates"></a>
+
+To obtain an initial set of templates, we construct a supplementary bidirectional graph $\mathcal{G}_s$  with main class entities and reification nodes as vertices and relations as edges. The graph $\mathcal{G}_s$ reflects the scheme of the Knowledge graph $\mathcal{G}$. At the next stage, we traverse the graph $\mathcal{G}_s$ from every vertex of main class entities and record all possible paths and vertices we can reach with 1 and 2 edges. In the context of templates, the result of this stage is the list of potential inferential chains $I$, where the source vertex point to the head entity and destination vertex to the answer entity. 
+
+At the next step through manual screening, chains which seem redundant and not reasonable are filtered out. The remained inferential chains are screened for a possibility to attach constraints. The types of constraints used in this paper are entity, temporal, maximum and numeric. These specific types and the format of constraints are based on our inspiration to cover the most informative insights a user can infer from the KG. After this stage, each template $t$ is represented by an inferential chain $I^t$ and the set of constraints $C^t$. 
+
+The templates are classified into 3 categories: 1-hop (inferential chain of the length 1 and at most 1 constraint), 2-hop (inferential chain of the length 2 and at most 1 constraint) and the rest, as more challenging templates are classified as advanced. At the last stage, we significantly populate the advanced templates with the most popular business inquires we find on forums and Crunchbase FAQ. For advanced templates, to ensure diversity in lexicalization of questions, each template has several options (paraphrases) for a question query. When generating questions we randomly select which query form to use. 
+
+Following, we provide the description and format of each constraint type. \textbf{\emph{Entity constraint}} requires a specific entity to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder'. \textbf{\emph{Temporal constraint}} requires the date to be within a specified time range. A sufficient set of questions that we surfed require a time range, and not necessary an implicit timestamp. Some of the questions are aimed to see the dynamic attached to a specific period (e.g., pandemic), which can be reflected through a temporal constraint. For example, from the beginning of COVID-19 can specified as "after 2019" in the template. \textbf{\emph{Maximum constraint}} is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
+Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. \textbf{\emph{Numeric constraint}} reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. \textbf{\emph{Multi-entity/relation}} type is introduced to cover questions which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. 
+
+
+
 
 | KG format   | CSV format  |
 | :---        |    :----:   |
