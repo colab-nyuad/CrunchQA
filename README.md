@@ -22,7 +22,24 @@ Download Crunchbase dump and unzip into folder data
 ### Creating KG from crunchabse data
 Mapped Jobs:
 
-"director": ["director"] "CSO": ["chief security officer", "cso"] "board_member": ["chairman", "boar director", "board member"] "founder": ["founding partner", "founder", "co-founder", "co founder", "cofounder"] "CFO": ["chief financial officer", "cfo"] "CEO": ["chief executive officer", "ceo"] "CPO": ["chief people officer", "cpo"] "CIO": ["chief information officer", "cio"] "CBO": ["chief business officer", "cbo"] "VP": ["vice president", "vp"] "advisor": ["advisor"] "owner": ["owner"] "president": ["president"] "CTO": ["chief technology offcier", "cto"] "CRO": ["chief revenue officer", "cro"] "COO": ["chief operating officer", "coo"]
+| KG format   | CSV format  |
+| :---        |    :----:   |
+|director     |director    |
+|CSO          |chief security officer, cso|
+|board_member |chairman, boar director, board member|
+|founder      |founding partner, founder, co-founder, co founder, cofounder|
+|CFO          |chief financial officer, cfo|
+|CEO          |chief executive officer, ceo| 
+|CPO          |chief people officer, cpo|
+|CIO          |chief information officer, cio|
+|CBO          |chief business officer, cbo|
+|VP           |vice president, vp| 
+|advisor      |advisor|
+|owner        |owner|
+|president    |president|
+|CTO          |chief technology offcier, cto|
+|CRO          |chief revenue officer, cro| 
+|COO          |chief operating officer, coo|
 
 ![](kg.jpg "KG architecture")
 
