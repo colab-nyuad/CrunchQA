@@ -59,7 +59,7 @@ The Crunchbase data dump comprises 17 relational tables with primary and foreign
 |CRO          |chief revenue officer, cro| 
 |COO          |chief operating officer, coo|
 
-***KG construction from CSV** 
+**KG construction from CSV** 
 
 The knowledge graph generated from the csv dump includes 3.2 million entities, 31 relations, and 17.6 million triples. Following is the structure of the created KG:
 
@@ -67,7 +67,7 @@ The knowledge graph generated from the csv dump includes 3.2 million entities, 3
 
 Command to generate KG: python construct_kg.py
 
-***[KG construction from RDF***
+**KG construction from RDF***
 
 http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf
 
