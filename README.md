@@ -65,7 +65,7 @@ The knowledge graph generated from the csv dump includes 3.2 million entities, 3
 
 ![](kg.jpg "KG architecture")
 
-The command to generate KG from the csv dump stored in data:
+The command to generate KG:
 ```sh
 python construct_kg.py
 ```
