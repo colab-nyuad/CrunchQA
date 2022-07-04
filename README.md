@@ -4,7 +4,7 @@
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 ![my badge](https://badgen.net/badge/uses/pykeen/red?icon=github)
 
-FinQA is a new dataset for question-answering on knowledge graphs (KGQA) to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
+FinQA is a new dataset for question-answering on knowledge graphs (KGQA). The dataset was created to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
 The repository contains scripts for:
 - creating a Knowledge Graph from the Crunchbase database;
@@ -40,7 +40,24 @@ Download Crunchbase dump and unzip into the folder data
 
 ### Creating KG from crunchabse data  <a name="kg"></a>
 
-The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to the following categories:
+The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to a set of categories that can be found in *jobs.json*.
+
+**KG construction from CSV**  <a name="kg_csv"></a>
+
+The knowledge graph generated from the csv dump includes 3.2 million entities, 31 relations, and 17.6 million triples. Following is the structure of the created KG:
+
+![](kg.jpg "KG architecture")
+
+The command to generate KG:
+```sh
+python construct_kg.py
+```
+
+**KG construction from RDF** <a name="kg_rdf"></a>
+
+In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format. The paper includes a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data to the KG tirples fromat. The mapped KG is smaller than the used KG for constracting the questions. This version is missing events and a set of atrributes for other entities but contains the product entities. This smaller version of KG and the scheme of it can be downloaded from [nnnnnn](). 
+
+### QA templates <a name="qa_templates"></a>
 
 | KG format   | CSV format  |
 | :---        |    :----:   |
@@ -60,23 +77,6 @@ The Crunchbase data dump comprises 17 relational tables with primary and foreign
 |CTO          |chief technology offcier, cto|
 |CRO          |chief revenue officer, cro| 
 |COO          |chief operating officer, coo|
-
-**KG construction from CSV**  <a name="kg_csv"></a>
-
-The knowledge graph generated from the csv dump includes 3.2 million entities, 31 relations, and 17.6 million triples. Following is the structure of the created KG:
-
-![](kg.jpg "KG architecture")
-
-The command to generate KG:
-```sh
-python construct_kg.py
-```
-
-**KG construction from RDF** <a name="kg_rdf"></a>
-
-In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format. The paper includes a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data set to the KG tirples fromat. The mapped KG is smaller than the used KG for constracting the questions. This version is missing events and a set of atrributes for other entities but contain products. The KG and scheme of it can downloaded from [nnnnnn](). 
-
-### QA templates <a name="qa_templates"></a>
 
 ### QA dataset <a name="qa_dataset"></a>
 
