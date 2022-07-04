@@ -1,4 +1,11 @@
 # <center> FinQA</center> 
+![Image of Version](https://img.shields.io/badge/version-v1.0-green)
+![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+![my badge](https://badgen.net/badge/uses/YOLOv5/red?icon=github)
+
 ### New Challenges in Question Answering over Knowledge Graphs
 FinQA is a new dataset for question-answering on knowledge graphs (KGQA) to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
@@ -6,6 +13,8 @@ The repository contains scripts for:
 - creating a Knowledge Graph from the Crunchbase database;
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
+
+**⚠️ IMPORTANT: Make sure that you have torch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 exactly. You can check with**
 
 ### Quick start
 ```sh
@@ -16,10 +25,23 @@ git clone https://github.com/colab-nyuad/FinQA
 source set_env.sh
 ```
 
-### Data
+### Table of contents
+
+# Table of contents
+1. [Data](#data)
+2. [KG constraction] (#kg)
+    1. [KG construction from CSV](#kg_csv)
+    2. [KG construction from RDF](#kg_rdf)
+3. [QA templates] (#qa_templates)
+4. [QA dataset](#qa_dataset)
+5. [Training KGQA model](#kgqa_model)
+    1. [Training Embeddings](#embeddings)
+    2. [Running KGQA](#kgqa)
+
+### Data <a name="data"></a>
 Download Crunchbase dump and unzip into the folder data
 
-### Creating KG from crunchabse data
+### Creating KG from crunchabse data 
 
 The Crunchbase data dump comprises 17 relational tables\footnote{The database dump was obtained on December 2021.} with primary and foreign keys to link tables together. To build the KG, we use a simple approach. First, we create new entities for each main entity type, namely, \textsc{Organization, Person, Fund, Event}, and \textsc{Funding Round}. 
 
@@ -127,97 +149,3 @@ python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt
 
 Command to run KGQA framework: 
 python run.py --model DistMult --embeddings_folder embeddings/clustering_distmult --freeze True
-
-
-
-
-
-# YOLO Task
-
-![Image of Version](https://img.shields.io/badge/version-v1.0-green)
-![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-![my badge](https://badgen.net/badge/uses/YOLOv5/red?icon=github)
-
-Task for changing the bounding / anchor boxes from rectangles to ellipses (in train, val and detect) by Silvey Yu
-
-**Demo:** [On YouTube](https://www.youtube.com/watch?v=unRMQn6KwF0&ab_channel=SilveyYu)
-
-### How to run
-
-1. Setup the virtual envrionment on your computer
-
-```
-pip3 install virtualenv
-virtualenv test
-source test/bin/activate
-```
-2. Clone this repository
-```
-cd test
-git clone https://github.com/SilvesterYu/YOLO_Silvey_Task.git
-```
-
-3. Run setup
-```
-chmod -R 777 *.*
-cd YOLO_Silvey_Task
-chmod 0755 setup.sh
-./setup.sh
-```
-
-**⚠️ IMPORTANT: Make sure that you have torch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 exactly. You can check with**
-```
-pip3 list
-```
-
-## Testing
-
-If "Descriptors cannot be created directly" error occurs, run:
-
-```
-pip install protobuf==3.20.1
-```
-
-**1. Test Train**
-
-To test the train, go into ``yolov5copy`` directory
-```
-cd yolov5copy
-```
-
-Test train with
-
-```
-python train.py --data coco128.yaml --cfg yolov5s.yaml --weights '' --batch-size 128 --epochs 1
-```
-
-**2. Test Val**
-
-To test the val, go into ``yolov5copy`` directory
-```
-cd yolov5copy
-```
-
-Test val with
-
-```
-python val.py --data coco128.yaml --weights yolov5s.pt --img 640
-```
-
-**3. Test Detection**
-
-To test the detection, go into ``yolov5copy`` directory
-```
-cd yolov5copy
-```
-
-Then, get an image from internet
-```
-wget "https://a-z-animals.com/media/2021/12/Best-farm-animals-cow.jpg"
-```
-
-Run detection using
-```
