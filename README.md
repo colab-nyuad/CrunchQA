@@ -1,5 +1,5 @@
 ## FinQA: New Challenges in Question Answering over Knowledge Graphs
----
+
 ![Image of Version](https://img.shields.io/badge/version-v1.0-green)
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 ![my badge](https://badgen.net/badge/uses/pykeen/red?icon=github)
@@ -22,8 +22,7 @@ git clone https://github.com/colab-nyuad/FinQA
 source set_env.sh
 ```
 
-### Table of contents
-___
+*** Table of contents
 1. [Data](#data)
 2. [KG constraction] (#kg)
     1. [KG construction from CSV](#kg_csv)
