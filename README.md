@@ -72,7 +72,15 @@ python construct_kg.py
 
 **KG construction from RDF** <a name="kg_rdf"></a>
 
-http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf
+CrunchBase is a database about startups and technology companies. The database can be searched, browsed, and
+edited via a website, but is also accessible via an entity-centric HTTP API in JSON format. We present a wrapper around the
+API that provides the data as Linked Data. The wrapper provides schema-level links to schema.org, Friend-of-a-Friend and
+Vocabulary-of-a-Friend, and entity-level links to DBpedia for organization entities. We describe how to harvest the RDF data to
+obtain a local copy of the data for further processing and querying that goes beyond the access facilities of the CrunchBase API.
+Further, we describe the cases in which the Linked Data API for CrunchBase and the crawled CrunchBase RDF data have been
+used in other works.
+
+In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf)
 
 ### QA templates <a name="qa_templates"></a>
 
