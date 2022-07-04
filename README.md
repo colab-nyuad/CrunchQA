@@ -23,7 +23,7 @@ Download Crunchbase dump and unzip into folder data
 ### Creating KG from crunchabse data
 Command to generate KG: python construct_kg.py
 
-![](/src/images/kg.jpeg "KG architecture")
+![](kg.jpg "KG architecture")
 
 
 ### Avilable models
