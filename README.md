@@ -1,4 +1,4 @@
-<center> #FinQA</center> 
+# <center> FinQA</center> 
 ### New Challenges in Question Answering over Knowledge Graphs
 FinQA is a new dataset for question-answering on knowledge graphs (KGQA) to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
