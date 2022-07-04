@@ -38,7 +38,7 @@ source set_env.sh
 ## Data <a name="data"></a>
 Download Crunchbase dump and unzip into the folder data
 
-### Creating KG from crunchabse data  <a name="kg"></a>
+## Creating KG from crunchabse data  <a name="kg"></a>
 
 The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to a set of categories that can be found in *jobs.json*.
 
@@ -57,7 +57,7 @@ python construct_kg.py
 
 In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni-freiburg.de/content/team/faerber/papers/CrunchBaseWrapper_SWJ2017.pdf), authors proposed a wraper around the CruchBase API that provides data in RDF format. The paper includes a link to the dump dated October, 2015. Since this dump is publicly available, we map the RDF data to the KG tirples fromat. The mapped KG is smaller than the used KG for constracting the questions. This version is missing events and a set of atrributes for other entities but contains the product entities. This smaller version of KG and the scheme of it can be downloaded from [nnnnnn](). 
 
-### QA templates <a name="qa_templates"></a>
+## QA templates <a name="qa_templates"></a>
 
 | KG format   | CSV format  |
 | :---        |    :----:   |
@@ -78,14 +78,14 @@ In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni
 |CRO          |chief revenue officer, cro| 
 |COO          |chief operating officer, coo|
 
-### QA dataset <a name="qa_dataset"></a>
+## QA dataset <a name="qa_dataset"></a>
 
 
 Command to generate QA datset: python genrate_dataset.py
 
 Command to shuffle and split generated questions into train, valid, test: ./qa_dataset/split_train_valid_test.bh
 
-### Training the model and running experiments <a name="kgqa_model"></a>
+## Training the model and running experiments <a name="kgqa_model"></a>
 
 ```sh
 usage: main.py [-h] [--dataset DATASET] [--kg_type KG_TYPE]
