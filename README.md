@@ -154,15 +154,15 @@ E.g., for the query asking what types of events did Bill Gates mostly participat
    "max_constraint": {
      "event-type_of-event_role": {
        "count_over": "event",
-       "count_group_by": ["person", "event_role"],
+       "count_group_by": ["person", "event_type"],
        "max_group_by": ["person"],
      }
    }
 ```
 ***Numeric constraint*** reflects the key words "more than", "less than", "at least". This constraint also supports two settings: filtering records by applying the specified condition on the columns values or counting over edges and then applying the specified condition on this count. For the first setting we just need to specify the condition in the format ["entity", ">|=|<",200]. For the second setting we need to specify:
-    - "group_by" - the list of columns to group by
-    - "count_over" - the column we count over while grouping and on which the condition will be applied
-    - "numeric": condition in the format ["", ">|=|<", number]
+- "group_by" - the list of columns to group by
+- "count_over" - the column we count over while grouping and on which the condition will be applied
+- "numeric": condition in the format ["", ">|=|<", number]
 E.g., for a query asking to list companies which acquired more than 50 companies, we need to group by organizations and count over organizations it acquired, then filter out the records where count is <= than 50:
 ```json
     "numeric_constraint": {
