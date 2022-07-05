@@ -35,6 +35,7 @@ source set_env.sh
 5. [Evaluation](#evaluation)
     1. [Training Embeddings](#embeddings)
     2. [Running KGQA](#kgqa)
+6. [Results](#results)
 
 ## Data <a name="data"></a>
 Download Crunchbase dump and unzip into the folder data
@@ -232,6 +233,8 @@ arguments:
   --labels_smoothing    Labels smoothing
   --setting             ["vanilla", "clustering"]
 ```
+
+## Results <a name="results"></a>
 
 | KG Model  | Vanilla  | Temporal  | Numeric  |
 | :---        |    :----:  |    :----:  |    :----:  |
