@@ -62,9 +62,9 @@ In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni
 The templates are classified into 3 categories: 
 * 1-hop (inferential chain of the length 1 and at most 1 constraint)
 * 2-hop (inferential chain of the length 2 and at most 1 constraint) 
-* advanced - rest  
+* advanced - the rest  
 
-Following is an example of an advanced question template:
+Following is an example of the advanced question template:
 ```json
    {
     "main_chain": "org1-in_org-job1-has_job-person",
@@ -98,7 +98,7 @@ Following is an example of an advanced question template:
 ```
 
 Each template contains:
-* main_chain - a path in the KG leading form the head entity to the answer in the format (entity1-relation1-entity2-relation2-.... relationn-entityn+1)
+* main_chain - a path in the KG leading form the head entity to the answer in the format (entity_1-relation_1-entity<sub>2</sub>-relation2-.... relationn-entityn+1)
 * question - the language form of the question where '[]' indicate the head entity and () indicate contraints entitites to be replaced when question are generated according to the template
 * constraints []
 
