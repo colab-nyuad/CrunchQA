@@ -30,6 +30,7 @@ source set_env.sh
     1. [KG construction from CSV](#kg_csv)
     2. [KG construction from RDF](#kg_rdf)
 3. [QA templates](#qa_templates)
+    1. [Constraints Format](#constraints)
 4. [QA dataset](#qa_dataset)
 5. [Training KGQA model](#kgqa_model)
     1. [Training Embeddings](#embeddings)
@@ -101,6 +102,19 @@ Each template contains:
 * main_chain - a path in the KG leading form the head entity to the answers in the format (entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entity<sub>n+1</sub>). 
 * question - a language form of the question where '[]' indicates the head entity and '()' indicate contraints entitites to be replaced when questions are generated according to the template
 * constraints (*entity constraint*, *temporal constraint*, *maximum constraint*, *numeric constraint*)
+* type 
+
+
+\textbf{\emph{Multi-entity/relation}} type is introduced to cover questions which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. 
+
+
+|   | 1-hop  | 2-hop  | advanced  | total |
+| :---        |    :----:  |    :----:  |    :----:  |    :----:  |
+|0     |0    |0   |0   |0    |
+
+
+
+**Constraints Format** <a name="constraints"></a>
 
 \textbf{\emph{Entity constraint}} requires a specific entity to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder'. \textbf{\emph{Temporal constraint}} requires the date to be within a specified time range. A sufficient set of questions that we surfed require a time range, and not necessary an implicit timestamp. Some of the questions are aimed to see the dynamic attached to a specific period (e.g., pandemic), which can be reflected through a temporal constraint. For example, from the beginning of COVID-19 can specified as "after 2019" in the template. \textbf{\emph{Maximum constraint}} is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
 Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. \textbf{\emph{Numeric constraint}} reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. 
@@ -166,19 +180,6 @@ Example:
 ## Ro do: can create a variable specifying the granularity (year or month)
 
 
-
-\textbf{\emph{Multi-entity/relation}} type is introduced to cover questions which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. 
-
-
-
-
-
-
-
-
-|   | 1-hop  | 2-hop  | advanced  | total |
-| :---        |    :----:  |    :----:  |    :----:  |    :----:  |
-|0     |0    |0   |0   |0    |
 
 ## QA dataset <a name="qa_dataset"></a>
 
