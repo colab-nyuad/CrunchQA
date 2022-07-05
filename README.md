@@ -105,7 +105,7 @@ Each template contains:
 * type: temporal when a template requires temporal data, numeric when a template requires numeric data 
 
 
-The templates support multi-entity/relation type (format: entity<sub>1</sub>/entity<sub>2</sub> or relation<sub>1</sub>/relation<sub>2</sub>) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*job<sub>1</sub>*, *job<sub>2</sub>*) refer to the same column as *job*. The order is introduced for the covience of our implementation to simplify the join while attaching the constraints. Following the table shows the number of created templates. 
+The templates support multi-entity/relation type (format: entity<sub>1</sub>/entity<sub>2</sub> or relation<sub>1</sub>/relation<sub>2</sub>) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*job<sub>1</sub>*, *job<sub>2</sub>*) refer to the same column as *job*. The order is introduced for the convience of our implementation to simplify the join while attaching the constraints. Following the table shows the number of created templates. 
 
 
 |   | 1-hop  | 2-hop  | advanced  | total |
@@ -137,6 +137,16 @@ In the following, in the description of each constraint type "constraint_chain" 
 ***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
 Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. 
 
+```json
+    "max_constraint": {
+     "event-type_of-event_role": {
+       "count_over": "event",
+       "count_group_by": ["person", "event_role"],
+       "max_group_by": ["person"],
+      "max": ""
+     }
+    }
+```
 
 ### max_constraint
 
