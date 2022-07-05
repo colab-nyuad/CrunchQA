@@ -134,8 +134,9 @@ In the following, in the description of each constraint type "constraint_chain" 
        }
 ```
 
-***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group and works in two settings: 
-1. Grouping by the head entity and taking maximum by the column. Grouping by the head entity is the default setting so we just need to specify by which column the maximum need to be taken (constraint_chain: {"max": entity}). E.g, for the query asking which Software company raised the highest amount of money in its ipo, the question generator will group by "Software" (org_category) and select maximum among raised_price:
+***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group and works in two settings: grouping by the head entity and taking maximum by the column or first counting over edges and then selecting maximum.
+
+1. Grouping by the head entity is the default setting so we just need to specify by which column the maximum needs to be taken (constraint_chain: {"max": entity}). E.g, for the query asking which Software company raised the highest amount of money in its ipo, the question generator will group by "Software" (org_category) and select maximum among raised_price:
 ```json
     "max_constraint": {
      "org-org_ipo-ipo-raised_amount_usd-raised_price": {
@@ -145,32 +146,17 @@ In the following, in the description of each constraint type "constraint_chain" 
 ```
 2. Another setting the maximum constraint supports is first counting over edges and then selecting maximum. For this constraint we need to specify three fields:
 -- "count_group_by" - the list of columns to group by
--- "count_over" - the column we count over while grouping 
--- "
-
-       "count_over": while groupping we count over this column,
-       "": columns to group by,
-       
-, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. 
+-- "count_over" - the column we count over while grouping and from wich we will select the maximum
+-- "max_group_by": the entity around which the question is centered
+E.g., for the query asking what types of events did Bill Gates mostly participate in, we need to group by Bill Gates and type of the events he participated in (person, event_type) and while grouping we count how many times (we count over the column events), after grouping we select maximun from the count for Bill Gates, in the notation of templates we select maximum from the count per central entity (person):
 ```json
-    "main_chain": "person-sponsor/speaker/exhibitor/organizer/contestant-event-type_of-event_role",
-      "question": [
-         "what types of events did [person] mostly participate in",
-         "[person] mostly took part in what types of events",
-         "list the types of events that [person] most frequently takes part in"
-      ],
-      "constraints": [
-       {
-        "max_constraint": {
-         "event-type_of-event_role": {
-           "count_over": "event",
-           "count_group_by": ["person", "event_role"],
-           "max_group_by": ["person"],
-          "max": ""
-         }
-        }
-       }
-      ]
+   "max_constraint": {
+     "event-type_of-event_role": {
+       "count_over": "event",
+       "count_group_by": ["person", "event_role"],
+       "max_group_by": ["person"],
+     }
+   }
 ```
 *Numeric constraint* reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. 
 
