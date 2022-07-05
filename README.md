@@ -32,7 +32,7 @@ source set_env.sh
 3. [QA templates](#qa_templates)
     1. [Constraints Format](#constraints)
 4. [QA dataset](#qa_dataset)
-5. [Training KGQA model](#kgqa_model)
+5. [Evaluation](#evaluation)
     1. [Training Embeddings](#embeddings)
     2. [Running KGQA](#kgqa)
 
@@ -163,6 +163,7 @@ E.g., for the query asking what types of events did Bill Gates mostly participat
 - "group_by" - the list of columns to group by
 - "count_over" - the column we count over while grouping and on which the condition will be applied
 - "numeric": condition in the format ["", ">|=|<", number]
+- 
 E.g., for a query asking to list companies which acquired more than 50 companies, we need to group by organizations and count over organizations it acquired, then filter out the records where count is <= than 50:
 ```json
     "numeric_constraint": {
@@ -185,7 +186,7 @@ Sample size indicates how many questions per template to genrate. We generetated
 ./qa_dataset/split_train_valid_test.bh
 ```
 
-## Training the model and running experiments <a name="kgqa_model"></a>
+## Evaluation <a name="evaluation"></a>
 
 ```sh
 usage: main.py [-h] [--dataset DATASET] [--kg_type KG_TYPE]
