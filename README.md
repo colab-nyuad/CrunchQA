@@ -163,7 +163,7 @@ E.g., for the query asking what types of events did Bill Gates mostly participat
 - "group_by" - the list of columns to group by
 - "count_over" - the column we count over while grouping and on which the condition will be applied
 - "numeric": condition in the format ["", ">|=|<", number]
-- 
+ 
 E.g., for a query asking to list companies which acquired more than 50 companies, we need to group by organizations and count over organizations it acquired, then filter out the records where count is <= than 50:
 ```json
     "numeric_constraint": {
