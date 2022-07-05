@@ -144,12 +144,12 @@ In the following, in the description of each constraint type "constraint_chain" 
      }
     }
 ```
-2. Another setting the maximum constraint supports is first counting over edges and then selecting maximum. For this constraint we need to specify three fields:
+2. Another setting the maximum constraint supports is first counting over edges and then selecting maximum. For this setting we need to specify three fields:
     - "count_group_by" - the list of columns to group by
     - "count_over" - the column we count over while grouping and from wich we will select the maximum
     - "max_group_by": the entity around which the question is centered
     
-E.g., for the query asking what types of events did Bill Gates mostly participate in, we need to group by Bill Gates and type of the events he participated in (person, event_type) and while grouping we count how many times (we count over the column events), after grouping we select maximun from the count for Bill Gates, in the notation of templates we select maximum from the count per central entity (person):
+E.g., for the query asking what types of events did Bill Gates mostly participate in, we need to group by Bill Gates and type of the events he participated in (person, event_type) and while grouping we count how many times (we count over the column events), after grouping we select maximun from the count for Bill Gates, in the notation of templates we select maximum from the count for central entity (person):
 ```json
    "max_constraint": {
      "event-type_of-event_role": {
@@ -159,20 +159,20 @@ E.g., for the query asking what types of events did Bill Gates mostly participat
      }
    }
 ```
-*Numeric constraint* reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. 
-
-
-### numeric_constraint
-
-Constraint for range selection.
-
-Example:
-
-"group_by" :[column1, column2] (by default group by the head entity)
-
-"numeric": ["column", ">", 2]
-
-
+*Numeric constraint* reflects the key words "more than", "less than", "at least". This constraint also supports two settings: filtering records by applying the specified condition on the columns values or counting over edges and then applying the specified condition on this count. For the first setting we just need to specify the condition in the format ["entity", ">|=|<",200]. For the second setting we need to specify:
+    - "group_by" - the list of columns to group by
+    - "count_over" - the column we count over while grouping and on which the condition will be applied
+    - "numeric": condition in the format ["", ">|=|<", number]
+E.g., for a query asking to list companies which acquired more than 50 companies, we need to group by organizations and count over organizations it acquired, then filter out the records where count is <= than 50:
+```json
+    "numeric_constraint": {
+      "org1-is_acquirer-acquisition-is_acquiree-org2": {
+       "count_over":"org2",
+       "group_by": ["org1"],
+       "numeric": ["", ">", 50]
+      }
+   }
+```
 
 ## QA dataset <a name="qa_dataset"></a>
 
