@@ -11,7 +11,7 @@ The repository contains scripts for:
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
 - running experiments with state-of-the-art KGQA models on FinQA. 
 
-**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes records until the given timestamp (December 2021 to match our KG)**.
+**⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes data records until the given timestamp (December 2021 to match our KG)**.
 
 *FinQA can be downloaded from [link]().*
 
