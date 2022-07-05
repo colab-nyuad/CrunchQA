@@ -178,9 +178,9 @@ E.g., for a query asking to list companies which acquired more than 50 companies
 
 To generate the dataset from the templates:
 ```python
-python genrate_dataset.py --
+python genrate_dataset.py --sample_size 200
 ```
-Command to shuffle and split generated questions into train, valid, test: 
+Sample size indicates how many questions per template to genrate. We generetated 100 questions per 1, 2-hop templates and 200 per advanced templates. Command to shuffle and split generated questions into train, valid, test: 
 ```
 ./qa_dataset/split_train_valid_test.bh
 ```
