@@ -59,82 +59,56 @@ In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni
 
 ## QA templates <a name="qa_templates"></a>
 
-The templates are classified into 3 categories: 1-hop (inferential chain of the length 1 and at most 1 constraint), 2-hop (inferential chain of the length 2 and at most 1 constraint) and the rest, as more challenging templates are classified as advanced. Following, we provide the description and format of each constraint type. 
+The templates are classified into 3 categories: 
+* 1-hop (inferential chain of the length 1 and at most 1 constraint)
+* 2-hop (inferential chain of the length 2 and at most 1 constraint) 
+* advanced - rest  
 
+Following is an example of an advanced question template:
 ```json
    {
-    "main_chain": "org-launched-funding_round",
-    "question": "which funding round did [org] launch since 2019",
-    "constraints": [
-     {
-      "temporal_constraint": {
-       "funding_round-announced_on-date": {
-         "after":"2019"
-       }
-      }
-     }
+    "main_chain": "org1-in_org-job1-has_job-person",
+    "question": [
+       "[org1] alumni who founded more than 5 companies",
+       "founders of more than 5 companies who previously worked in [org1]",
+       "list people who formerly worked in [org1] and founded more than 5 companies"
     ],
-    "type": "temporal"
-   },
+    "constraints": [
+      {
+       "entity_constraint": {
+        "job1-is_current-job_current": ["False"]
+       }
+      },
+      {
+        "entity_constraint": {
+          "person-has_job-job2-job_title-job_title": ["founder", "co-founder"]
+         }
+      },
+      {
+        "numeric_constraint": {
+         "job2-in_org-org2": {
+          "count_over":"org2",
+          "group_by": ["person"],
+          "numeric": ["", ">", 5]
+         }
+        }
+       }
+     ]
+   }
 ```
+
+Each template contains:
+* main_chain - a path in the KG leading form the head entity to the answer in the format (entity1-relation1-entity2-relation2-.... relationn-entityn+1)
+* question - the language form of the question where '[]' indicate the head entity and () indicate contraints entitites to be replaced when question are generated according to the template
+* constraints []
 
 
 \textbf{\emph{Entity constraint}} requires a specific entity to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder'. \textbf{\emph{Temporal constraint}} requires the date to be within a specified time range. A sufficient set of questions that we surfed require a time range, and not necessary an implicit timestamp. Some of the questions are aimed to see the dynamic attached to a specific period (e.g., pandemic), which can be reflected through a temporal constraint. For example, from the beginning of COVID-19 can specified as "after 2019" in the template. \textbf{\emph{Maximum constraint}} is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
 Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. \textbf{\emph{Numeric constraint}} reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. \textbf{\emph{Multi-entity/relation}} type is introduced to cover questions which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. 
 
-# Overview
 
-In total, we have 4 groups of question templates: 1-hop questions, 2-hop questions, 2-hop dummy questions, advanced questions.
 
-In 1-hop and advanced questions, we included constraints. 
 
-(1) There is at most 1 constraint in the 1-hop templates. 
-
-(2) In advanced quesitons, there are more than 1 constraints or more complex entity-relation forms involved. 
-
-(3) There are no constraints in 2-hop and 2-hop dummy questions. 
-
-# Definitions of template components
-
-## Question
-
-The question is a question in natural language form. It has a head entity from which the reasoning starts. The head entity is marked in square brakets. 
-
-Example: country of [org], [person] is the sponsor of which events
-
-## Main chain
-
-The main route of reasoning for a question template. It is in the form of entity-relation-entity. It starts with a head entity and is connected with relations and other entities.
-
-Example: The main chain of the question "[person] is the sponsor of which events" is "person-sponsor-event", where "person" and "event" are entities and "sponsor" is the relation.
-
-## Number of hops
-
-The number of hops refers to the number of relations (edges) in the template's main chain. 
-
-Example: 1-hop indicates that the main chain has the form: entity1-relation-entity2. 2-hop dummy templates have the form: entity1-relation1-dummy_entity-relation2-entity2. 
-
-## Dummy entity
-
-where a dummy entity is one that has no meaningful content, but connects entities multi-way.
-
-Example: "job" is a dummy entity. Its values have the form "job@abcde12345", with "job@" followed by a 10-digit id and carries no real meanings. its entity-relatiosn include: person-has_job-job, job-job_title-job_title. where has_job and job_title are relations, job and job_title are entities.
-
-## 1-hop questions
-
-#### Structure: entity1-relation-entity2
-
-## 2-hop questions
-
-#### Structure: entity1-relation1-entity2-relation2-entity3
-
-## 2-hop dummy questions
-
-#### Structure: entity1-relation1-dummy-entity=relation2-entity2
-
-## Advanced questions
-
-#### Structure: Multi-hop, multi constraints, multi-entity
 
 ## Constraints
 
