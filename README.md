@@ -100,12 +100,12 @@ Following is an example of the advanced question template:
 
 Each template contains:
 * main_chain - a path in the KG leading form the head entity to the answers in the format (entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entity<sub>n+1</sub>). 
-* question - a language form of the question where '[]' indicates the head entity and '()' indicate contraints entitites to be replaced when questions are generated according to the template
+* question - a language form of the question where '[]' indicates the head entity and '()' indicate contraints entitites to be replaced when questions are generated from the template
 * constraints (*entity constraint*, *temporal constraint*, *maximum constraint*, *numeric constraint*)
 * type: temporal when a template requires temporal data, numeric when a template requires numeric data 
 
 
-The templates support multi-entity/relation type (format: entity<sub>1</sub>/entity<sub>2</sub> or relation<sub>1</sub>/relation<sub>2</sib>) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*job<sub>1</sub>*, *job<sub>2</sub>*) refer to the same columbn as *job*. The order is introduced for the covience of our implementation to simplify the join while attaching the constraints.  
+The templates support multi-entity/relation type (format: entity<sub>1</sub>/entity<sub>2</sub> or relation<sub>1</sub>/relation<sub>2</sub>) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*job<sub>1</sub>*, *job<sub>2</sub>*) refer to the same columbn as *job*. The order is introduced for the covience of our implementation to simplify the join while attaching the constraints. Following the table shows the number of created templates. 
 
 
 |   | 1-hop  | 2-hop  | advanced  | total |
