@@ -200,7 +200,7 @@ We first shuffle and split generated triples into train, valid, test:
 ```
 Command to train kg embeddings using pykeen:
 ```
-python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt --valid_path kg/vanilla/valid.txt --test_path kg/vanilla/test.txt --dim 200 --results_folder embeddings/clustering_distmult --gpu 1
+python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt \ --valid_path kg/vanilla/valid.txt --test_path kg/vanilla/test.txt \ --dim 200 --results_folder embeddings/clustering_distmult
 ```
 Command to run KGQA framework: 
 ```
