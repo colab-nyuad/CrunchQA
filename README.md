@@ -120,7 +120,7 @@ In the following, in the description of each constraint type "constraint_chain" 
 
 *Entity constraint* requires the tail entity of the constraint_chain to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder':
 ```json
-"entity_constraint": {"constraint_chain": [value_<sub>1</sub>, value_<sub>2</sub>,, ..., value_<sub>n</sub>]}
+"entity_constraint": {constraint_chain: [value_<sub>1</sub>, value_<sub>2</sub>, ..., value_<sub>n</sub>]}
 ```
 
 ## Constraints
