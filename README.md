@@ -38,7 +38,8 @@ source set_env.sh
 6. [Results](#results)
 
 ## Data <a name="data"></a>
-Download Crunchbase dump and unzip into the folder data
+
+Crunchbase CSV export is updated each morning and includes separate files for companies, people, funding rounds, acquisitions, and IPOs. User key is required to obtain the export, which can be ontained under research access on the [Crunchbase website] (https://about.crunchbase.com/partners/academic-research-access/). After downloading the export, please unzip it into the folder data.
 
 ## Creating KG from crunchabse data  <a name="kg"></a>
 
@@ -189,7 +190,7 @@ Sample size indicates how many questions per template to genrate. We generetated
 
 ## Evaluation <a name="evaluation"></a>
 
-We focus our evaluation on [EmbedKGQA](), an approach that combines graph embeddings and reasoning using graph traversal. To learn KG embeddings, we use the [PyKEEN]() library. We conduct experiments with three KG embedding models:
+We focus our evaluation on [EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA), an approach that combines graph embeddings and reasoning using graph traversal. To learn KG embeddings, we use the [PyKEEN](https://github.com/pykeen/pykeen) library. We conduct experiments with three KG embedding models:
 - [ComplEx](http://proceedings.mlr.press/v48/trouillon16.pdf)
 - [TransE](https://papers.nips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)
 - [DistMult](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ICLR2015_updated.pdf)
