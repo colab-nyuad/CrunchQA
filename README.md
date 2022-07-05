@@ -188,6 +188,18 @@ Sample size indicates how many questions per template to genrate. We generetated
 
 ## Evaluation <a name="evaluation"></a>
 
+We focus our evaluation on EmbedKGQA \cite{saxena-etal-2020-improving}, an approach that combines graph embeddings and reasoning using graph traversal. We select this approach because it proposes a general framework that captures the main ideas of the state-of-the-art techniques while allowing for experimenting with different backend KG embedding models. The EmbedKGQA framework has two training stages: (i) train the knowledge graph embedding on the link prediction task; (ii) train the model for QA by leveraging the pretrained embeddings. The model aims to project the question into the space of KG's embedding. To learn the question representation, the model uses a pretrained transformer (SBERT \cite{reimers-gurevych-2019-sentence})  followed by two linear layers.
+
+To learn KG embeddings, we use the PyKEEN \cite{ali2021pykeen} library. We conduct experiments with three KG embedding models:  TransE \cite{10.5555/2999792.2999923}, ComplEx\cite{10.5555/3045390.3045609}, DistMult \cite{10.1145/3194206.3194227} and two literals models, i.e., ComplExLiteral \cite{https://doi.org/10.48550/arxiv.1802.00934} and DistMultGatedLiteral \cite{https://doi.org/10.48550/arxiv.1802.00934}. 
+Literals models incorporate literals information to compute entity embeddings. However, the entities embedding matrix does not contain embeddings for literals in both settings. Since the model can generate as the answer only one of the entities, the model cannot answer temporal and numeric questions in these settings.
+
+To answer the temporal and numeric question, we propose as a simple baseline a clustering-based variant of the models. 
+In this approach, dates and numeric values are clustered and treated as entities; thus the model can compute their embeddings.
+To achieve this, dates are clustered into \emph{years}, omitting days and month information. We perform K-means clustering among the categories for numeric as 'share\_price' or 'investment\_count'. 
+
+Table \ref{qualitative_evaluation} shows the qualitative results for the described setups where we report Hits@1. Among vanilla settings, TransE model achieves the best performance as in the case of clustered data for vanilla and numeric questions. For ComplEx model, link prediction Hits@1 after incorporating literals information increased almost two times, which results in rise of 1.86\% for QA. 
+
+
 ### Avilable models
 This implementation includes the following models:
 - [ComplEx](http://proceedings.mlr.press/v48/trouillon16.pdf)
@@ -220,3 +232,17 @@ arguments:
   --labels_smoothing    Labels smoothing
   --setting             ["vanilla", "clustering"]
 ```
+
+| KG Model  | Vanilla  | Temporal  | Numeric  |
+| :---        |    :----:  |    :----:  |    :----:  |
+| TransE   |17%   |-   |-   |
+| ComplEx   |12%   |-   |-   |
+| DistMult   |12.7%   |-   |-   |
+| ComplExLiteral   |13.86%   |-   |-   |
+| DistMultGatedLiteral   |10.68%   |-   |-   |
+| TransE (clustering)   |18.2%   |8.09%   |37.43%   |
+| ComplEx (clustering)    |13.2%   |8.89%   |33.49%  |
+| DistMult (clustering)   |11.1%   |8.99%   |8.86%  |
+
+
+## How to cite
