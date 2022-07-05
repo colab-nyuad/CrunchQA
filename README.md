@@ -118,10 +118,9 @@ The templates support multi-entity/relation type (format: entity<sub>1</sub>/ent
 
 In the following, in the description of each constraint type "constraint_chain" indicates a constraint inferential path, which can be up to 2-hop since some constraints involve the reification nodes. The begining of the chain is one of the entities from the main inferential chain (format: entity<sub>main_chain</sub>-relation<sub>1</sub>-entity<sub>1</sub>-relation<sub>2</sub>-entity<sub>2</sub>).
 
-*Entity constraint* requires the tail entity of the contraint_chain to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder'.
-Format:
+*Entity constraint* requires the tail entity of the constraint_chain to be equal to a certain value, e.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female', city = 'Abu Dhabi' and job\_title='founder':
 ```json
-"entity_constraint": {constraint_chain: [value_<sub>1</sub>, value_<sub>2</sub>,, ..., value_<sub>n</sub>]}
+"entity_constraint": {"constraint_chain": [value_<sub>1</sub>, value_<sub>2</sub>,, ..., value_<sub>n</sub>]}
 ```
 
 ## Constraints
