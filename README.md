@@ -148,6 +148,7 @@ In the following, in the description of each constraint type "constraint_chain" 
     - "count_group_by" - the list of columns to group by
     - "count_over" - the column we count over while grouping and from wich we will select the maximum
     - "max_group_by": the entity around which the question is centered
+    
 E.g., for the query asking what types of events did Bill Gates mostly participate in, we need to group by Bill Gates and type of the events he participated in (person, event_type) and while grouping we count how many times (we count over the column events), after grouping we select maximun from the count for Bill Gates, in the notation of templates we select maximum from the count per central entity (person):
 ```json
    "max_constraint": {
