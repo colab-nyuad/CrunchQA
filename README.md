@@ -200,9 +200,8 @@ We first shuffle and split generated triples into train, valid, test:
 ```
 Command to train kg embeddings using pykeen:
 ```python
-python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt  
---valid_path kg/vanilla/valid.txt --test_path kg/vanilla/test.txt  
---dim 200 --results_folder embeddings/clustering_distmult
+python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt --valid_path kg/vanilla/valid.txt 
+--test_path kg/vanilla/test.txt --dim 200 --results_folder embeddings/clustering_distmult
 ```
 Command to run KGQA framework: 
 ```
@@ -219,7 +218,7 @@ arguments:
   --learning_rate       Learning rate for QA task
   --freeze              Freeze weights of trained KG embeddings
   --use_cuda            Use gpu
-  --gpu                 Which gou ti use
+  --gpu                 Which gpu to use
   --num_workers         Number of workers for parallel computing 
   --labels_smoothing    Labels smoothing
   --setting             ["vanilla", "clustering"]
