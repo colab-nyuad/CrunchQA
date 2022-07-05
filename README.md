@@ -98,8 +98,8 @@ Following is an example of the advanced question template:
 ```
 
 Each template contains:
-* main_chain - a path in the KG leading form the head entity to the answer in the format (entity_1-relation_1-entity<sub>2</sub>-relation2-.... relationn-entityn+1)
-* question - the language form of the question where '[]' indicate the head entity and () indicate contraints entitites to be replaced when question are generated according to the template
+* main_chain - a path in the KG leading form the head entity to answers in the format (entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entity<sub>n+1</sub>)
+* question - the language form of the question where '[]' indicates the head entity and () indicate contraints entitites to be replaced when questions are generated according to the template
 * constraints []
 
 
