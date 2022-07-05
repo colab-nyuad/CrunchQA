@@ -118,47 +118,36 @@ The templates support multi-entity/relation type (format: entity<sub>1</sub>/ent
 
 In the following, in the description of each constraint type "constraint_chain" indicates a constraint inferential path, which can be up to 2-hop since some constraints involve the reification nodes. The begining of the chain is one of the entities from the main inferential chain (format: entity<sub>main_chain</sub>-relation<sub>1</sub>-entity<sub>1</sub>-relation<sub>2</sub>-entity<sub>2</sub>).
 
-***Entity constraint*** requires the tail entity of the constraint_chain to be equal to a certain value (fomat: constraint_chain: [value_<sub>1</sub>, value_<sub>2</sub>, ..., value_<sub>n</sub>].  E.g., for queries asking about female founders in Abu Dhaib it can be specified as gender = 'female':
+***Entity constraint*** requires the tail entity of the constraint_chain to be equal to a certain value (constraint_chain: [value_<sub>1</sub>, value_<sub>2</sub>, ..., value_<sub>n</sub>].  E.g., for queries asking about female employees it can be specified as gender = 'female':
 ```json
     "entity_constraint": {
       "person-gender-gender": ["female"]
      }
 ```
 
+***Temporal constraint*** requires the date to be within a specified time range (constraint_chain: {} or {"before":year} or {"after":year} or {"between": [year1, year2]}). If the time range is not specified, we just sample with the indicated year or year+month depending on setting granularity. E.g, for queries asking about funding rounds announced between 2010 and 2020:
+```json
+     "temporal_constraint": {
+        "funding_round-announced_on-date": {
+           "between": ["2010", "2020"]
+        }
+       }
+```
 
-## Constraints
-
-### simple_constraint_nominal_1hop
-
-1-hop constraint, tail entity must be equal to some value
-
-Format: 
-
-entity1-relation-entity2 [value0, value1, value2]
-
-where entity2 needs to be equal to one of the values
-
-### temporal_constraint
+***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
+Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. 
 
 
-\textbf{\emph{Temporal constraint}} requires the date to be within a specified time range. A sufficient set of questions that we surfed require a time range, and not necessary an implicit timestamp. Some of the questions are aimed to see the dynamic attached to a specific period (e.g., pandemic), which can be reflected through a temporal constraint. For example, from the beginning of COVID-19 can specified as "after 2019" in the template. \textbf{\emph{Maximum constraint}} is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group, e.g., if we want to know "which Software companies have the highest ipo share price", the constraint first specifies grouping by the category
-Software and then selects the maximum among share prices. Another setting the maximum constraint supports is first counting over edges and then selecting maximum, e.g., "companies acquired by Meta mostly come from which industry". In this example, the number of companies that Meta acquired in each industry is counted and the industry with the highest count is selected. \textbf{\emph{Numeric constraint}} reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. 
+### max_constraint
 
+1-hop, tail entity is the value that should be a gwoup-wise maximum
 
+"group_by": [column1, column2] (by default group by the head entity)
 
+"max": "column"
 
+*Numeric constraint* reflect the key words "more than", "less than", "at least". This constraint implies counting over edges, e.g., for a question "list companies with acquired more than 50 companies", the constraint first specifies grouping by organization acquisitions where it is an acquirer, then counts acquirees and selects a company based on a condition for a number of acquirees $> 50$. 
 
-
-
-
-
-1-hop constraint, tail entity must be equal to some value
-
-Format:
-
-entity1-relation1-entity2-relation2-entity3 [value0, value1, value2] 
-
-where entity3 needs to be equal to one of the values
 
 ### numeric_constraint
 
@@ -169,18 +158,6 @@ Example:
 "group_by" :[column1, column2] (by default group by the head entity)
 
 "numeric": ["column", ">", 2]
-
-### max_constraint
-
-1-hop, tail entity is the value that should be a gwoup-wise maximum
-
-"group_by": [column1, column2] (by default group by the head entity)
-
-"max": "column"
-
-### Date selection
-
-## Ro do: can create a variable specifying the granularity (year or month)
 
 
 
