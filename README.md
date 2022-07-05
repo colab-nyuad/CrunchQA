@@ -188,53 +188,6 @@ Sample size indicates how many questions per template to genrate. We generetated
 
 ## Evaluation <a name="evaluation"></a>
 
-```sh
-usage: main.py [-h] [--dataset DATASET] [--kg_type KG_TYPE]
-              [--model {TransE,RESCAL,CP,Distmult,SimplE,RotH,RefH,AttH,ComplEx,RotatE}]
-              [--hops HOPS] [--regularizer {L3}] 
-              [--reg REG] [--optimizer {Adagrad,Adam}]
-              [--max_epochs MAX_EPOCHS] [--valid_every VALID]
-              [--dim RANK] [--patience PATIENCE]
-              [--batch_size BATCH_SIZE]
-              [--learning_rate LEARNING_RATE]
-              [--freeze FREEZE] [--use_cuda USE_CUDA]
-              [--num_workers NUM_WORKERS]
-              [--qa_nn_type {LSTM,RoBERTa}] ---gpu GPU]
-              [--use_relation_matching USE_RELATION_MATCHING]
-              [--labels_smoothing LABELS_SMOOTHING]
- 
-Knowledge Graph QA
-
-arguments:
-  -h, --help            show this help message and exit
-  --dataset             Knowledge Graph dataset
-  --kg_type             Type of graph (full, sparse)
-  --model {TransE,RESCAL,CP,Distmult,SimplE,RotH,RefH,AttH,ComplEx,RotatE}
-                        Knowledge Graph embedding model and QA score function
-  --regularizer {L3}
-                        Regularizer
-  --reg                 Regularization weight
-  --optimizer {Adagrad,Adam}
-                        Optimizer
-  --max_epochs
-                        Maximum number of epochs
-  --patience            Number of epochs before early stopping for KG embeddings
-  --valid_every         Number of epochs before validation for QA task
-  --dim                 Embedding dimension
-  --batch_size          Batch size for QA task 
-  --learning_rate       Learning rate for QA task
-  --hops                Number of edges to reason over to reach the answer 
-  --freeze              Freeze weights of trained KG embeddings
-  --use_cuda            Use gpu
-  --gpu                 How many gpus to use
-  --num_workers         Number of workers for parallel computing 
-  --labels_smoothing    Labels smoothing
-  --qa_nn_type {LSTM,RoBERTa}
-                        Which NN to use for question embeddings
-  --use_relation_matching 
-                        Use relation matching for postprocessing candidates in QA task
-```
-
 ### Avilable models
 This implementation includes the following models:
 - [ComplEx](http://proceedings.mlr.press/v48/trouillon16.pdf)
@@ -248,4 +201,22 @@ Command to train kg embeddings using pykeen:
 python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt --valid_path kg/vanilla/valid.txt --test_path kg/vanilla/test.txt --dim 200 --results_folder embeddings/clustering_distmult --gpu 1
 
 Command to run KGQA framework: 
+```
 python run.py --model DistMult --embeddings_folder embeddings/clustering_distmult --freeze True
+
+arguments:
+  --model               [TransE, ComplEx, DistMult]
+  --optimizer           [Adagrad,Adam]
+  --max_epochs          Maximum number of epochs
+  --patience            Number of epochs before early stopping for KG embeddings
+  --valid_every         Number of epochs before validation for QA task
+  --dim                 Embedding dimension
+  --batch_size          Batch size for QA task 
+  --learning_rate       Learning rate for QA task
+  --freeze              Freeze weights of trained KG embeddings
+  --use_cuda            Use gpu
+  --gpu                 Which gou ti use
+  --num_workers         Number of workers for parallel computing 
+  --labels_smoothing    Labels smoothing
+  --setting             ["vanilla", "clustering"]
+```
