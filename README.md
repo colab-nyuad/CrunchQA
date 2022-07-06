@@ -101,7 +101,7 @@ Following is an example of the advanced question template:
 ```
 
 Each template contains:
-* **main_chain** - a path in the KG leading form the head entity to the answer entity in the format **entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entitysub>m+1</sub>**. 
+* **main_chain** - a path in the KG leading form the head entity to the answer entity in the format **entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entity<sub>n+1</sub>**. 
 * **question** - a language form of the question where '[]' indicates the head entity and '()' indicate contraints entitites. They will be replaced by the actual values of the entities when questions are generated from the templates.
 * **constraints** (*entity constraint*, *temporal constraint*, *maximum constraint*, *numeric constraint*)
 * **type**: temporal when a template requires temporal data, numeric when a template requires numeric data
