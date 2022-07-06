@@ -101,13 +101,13 @@ Following is an example of the advanced question template:
 ```
 
 Each template contains:
-* **main_chain** - a path in the KG leading form the head entity to the answer entity in the format `entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entitysub>m+1</sub>`. 
+* **main_chain** - a path in the KG leading form the head entity to the answer entity in the format **entity<sub>1</sub>-relation<sub>1</sub>-entity<sub>2</sub>-relation<sub>2</sub>-.... relation<sub>n</sub>-entitysub>m+1</sub>**. 
 * **question** - a language form of the question where '[]' indicates the head entity and '()' indicate contraints entitites. They will be replaced by the actual values of the entities when questions are generated from the templates.
 * **constraints** (*entity constraint*, *temporal constraint*, *maximum constraint*, *numeric constraint*)
 * **type**: temporal when a template requires temporal data, numeric when a template requires numeric data
 
 
-The templates support multi-entity/relation type (format: `entity<sub>1</sub>/entity<sub>2</sub>` or `relation<sub>1</sub>/relation<sub>2</sub>`) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*`job<sub>1</sub>`*, *`job<sub>2</sub>`*) refer to the same column as *job*. The order is introduced for the convience of our implementation to simplify the join while attaching the constraints (for example, when "job" entity appears more than one time in a question template, we are able to indicate in our code which "job" entity to address to). 
+The templates support multi-entity/relation type (format: **entity<sub>1</sub>/entity<sub>2</sub>** or `relation<sub>1</sub>/relation<sub>2</sub>`) to cover questions, which can refer to multiple entities or relations, e.g., if we ask about investors, both companies and people can make investments, or if a question is about participating in an event without specifying a specific role, we should encounter all types of relations, i.e., sponsor, speaker, organizer, contestant and exhibitor. Subscripts (*`job<sub>1</sub>`*, *`job<sub>2</sub>`*) refer to the same column as *job*. The order is introduced for the convience of our implementation to simplify the join while attaching the constraints (for example, when "job" entity appears more than one time in a question template, we are able to indicate in our code which "job" entity to address to). 
 
 The following table shows the number of created templates. 
 
