@@ -65,7 +65,7 @@ In the paper [*A Linked Data Wrapper for CrunchBase*](http://dbis.informatik.uni
 The templates are classified into 3 categories: 
 * 1-hop (inferential chain of the length 1 and at most 1 constraint)
 * 2-hop (inferential chain of the length 2 and at most 1 constraint) 
-* advanced - the rest  
+* advanced - the rest  (Includes questions with inferential chain of length 1 to 3, with more than one constraints)
 
 Following is an example of the advanced question template:
 ```json
