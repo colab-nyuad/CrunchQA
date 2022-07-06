@@ -1,8 +1,10 @@
 # FinQA: New Challenges in Question Answering over Knowledge Graphs
 
+<div style="text-align: center">
 ![Image of Version](https://img.shields.io/badge/version-v1.0-green)
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 ![my badge](https://badgen.net/badge/uses/pykeen/red?icon=github)
+</div>
 
 FinQA is a new dataset for question-answering on knowledge graphs (KGQA). The dataset was created to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
