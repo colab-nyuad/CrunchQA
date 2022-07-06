@@ -136,7 +136,11 @@ In the following, in the description of each constraint type "constraint_chain" 
        }
 ```
 
-***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group and works in two settings: grouping by the head entity and taking maximum by the column or first counting over edges and then selecting maximum.
+***Maximum constraint*** is introduced to reflect key words as "top", "at most", "the highest" and etc. Maximum is always computed within a group and works in two settings: 
+
+(1) grouping by the head entity and taking maximum by the column, or
+
+(2) first counting over edges and then selecting the row with maximum count value.
 
 1. Grouping by the head entity is the default setting so we just need to specify by which column the maximum needs to be taken (constraint_chain: {"max": entity}). E.g, for the query asking which Software company raised the highest amount of money in its ipo, the question generator will group by "Software" (org_category) and select maximum among raised_price:
 ```json
@@ -161,7 +165,13 @@ E.g., for the query asking what types of events did Bill Gates mostly participat
      }
    }
 ```
-***Numeric constraint*** reflects the key words "more than", "less than", "at least". This constraint also supports two settings: filtering records by applying the specified condition on the columns values or counting over edges and then applying the specified condition on this count. For the first setting we just need to specify the condition in the format ["entity", ">|=|<",200]. For the second setting we need to specify:
+***Numeric constraint*** reflects the key words "more than", "less than", "at least". This constraint also supports two settings: 
+
+(1) filtering records by applying the specified condition on the columns values, or
+
+(2) counting over edges and then applying the specified condition on this count. 
+
+For the first setting we just need to specify the condition in the format ["entity", ">|=|<",200]. For the second setting we need to specify:
 - "group_by" - the list of columns to group by
 - "count_over" - the column we count over while grouping and on which the condition will be applied
 - "numeric": condition in the format ["", ">|=|<", number]
