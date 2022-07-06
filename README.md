@@ -4,7 +4,7 @@
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 ![my badge](https://badgen.net/badge/uses/pykeen/red?icon=github)
 
-<a href="https://github.com/ultralytics/yolov5/actions"><img src="https://badgen.net/badge/uses/pykeen/red?icon=github" alt="CI CPU testing"></a>
+<a href="[https://github.com/ultralytics/yolov5/actions](https://github.com/pykeen/pykeen)"><img src="https://badgen.net/badge/uses/pykeen/red?icon=github"></a>
 
 FinQA is a new dataset for question-answering on knowledge graphs (KGQA). The dataset was created to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
