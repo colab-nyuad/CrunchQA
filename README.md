@@ -41,7 +41,7 @@ source set_env.sh
 
 Crunchbase CSV export is updated each morning and includes separate files for companies, people, funding rounds, acquisitions, and IPOs. User key is required to obtain the export, which can be ontained under research access on the [Crunchbase website] (https://about.crunchbase.com/partners/academic-research-access/). After downloading the export, please unzip it into the folder data.
 
-## Creating KG from crunchabse data  <a name="kg"></a>
+## Creating KG from crunchbase data  <a name="kg"></a>
 
 The Crunchbase data dump comprises 17 relational tables with primary and foreign keys to link tables together. To build the KG, we use a simple approach. We create new entities for each main entity type and use reification nodes to map the relationship between the base entity types and link additional information like start date, end date, title, etc. For the job titles we limit the range to a set of categories that can be found in *jobs.json*.
 
