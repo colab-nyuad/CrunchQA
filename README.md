@@ -204,6 +204,18 @@ Command to train kg embeddings using pykeen:
 python train_embeddings.py --model DistMult --train_path kg/clustering/train.txt --valid_path kg/vanilla/valid.txt 
 --test_path kg/vanilla/test.txt --dim 200 --results_folder embeddings/clustering_distmult
 ```
+Link prediction results:
+| Model  | Setting  | MRR  | H@1  | H@3 |
+| :---        |    :----:  |    :----:  |    :----:  |    :----:  |
+TransE	| Vanilla | 0.165	| 0.119 |	0.181 |
+ComplEx | 0.185 |  0.174 |0.247 |
+DistMult |	0.254	| 0.2	| 0.297 |
+TransE	Clustering	| 0.129 | 0.081	| 0.145 |
+ComplEx |	0.14 |	0.154 |	0.297 |
+DistMult |	0.226	| 0.175 | 0.265 |
+ComplEx	Literals |	0.408 |	0.346 |	0.43 |
+DistMult |	0.255 |	0.155 |	0.269 |
+
 Command to run KGQA framework: 
 ```
 python run.py --model DistMult --embeddings_folder embeddings/clustering_distmult --freeze True
