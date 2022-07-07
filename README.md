@@ -13,7 +13,9 @@ The repository contains scripts for:
 
 **⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes data records until the given timestamp (December 2021 to match our KG)**.
 
-*FinQA can be downloaded from [link](https://drive.google.com/drive/folders/1tdk7rTEEaUnXf_hC626mi03cbHQLhmOc?usp=sharing).*
+---
+## *FinQA can be downloaded from [link](https://drive.google.com/drive/folders/1tdk7rTEEaUnXf_hC626mi03cbHQLhmOc?usp=sharing).*
+---
 
 ### Quick start
 ```sh
