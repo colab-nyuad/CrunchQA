@@ -4,12 +4,12 @@
 ![Image of Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 <a href="https://github.com/pykeen/pykeen"><img src="https://badgen.net/badge/uses/pykeen/red?icon=github"></a>
 
-FinQA is a new dataset for question-answering on knowledge graphs (KGQA). The dataset was created to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
+CrunchQA is a new dataset for question-answering on knowledge graphs (KGQA). The dataset was created to reflect the challenges we identified in real-world applications which are not covered by existing benchmarks, namely, multi-hop constraints, numeric and literal embeddings, ranking, reification, and hyper-relations. 
 
 The repository contains scripts for:
 - creating a Knowledge Graph from the Crunchbase database;
 - creating a Question Answering dataset based on multiple-hop templates and paraphrasing;
-- running experiments with state-of-the-art KGQA models on FinQA. 
+- running experiments with state-of-the-art KGQA models on CrunchQA. 
 
 **⚠️ IMPORTANT: Since the Crunchbase dataset is subject to licensing, the repository contains a script to process a dump and reconstruct KG. The dump provided by Cruchbase under the academic license contains all records till the current timestamp. To match the KG we used to generate questions, the script *construct_kg.py* processes data records until the given timestamp (31st January 2022 23:59:59 to match our KG)**.
 
@@ -18,7 +18,7 @@ The repository contains scripts for:
 ### Quick start
 ```sh
 # retrieve and install project in development mode
-git clone https://github.com/colab-nyuad/FinQA
+git clone https://github.com/colab-nyuad/CrunchQA
 
 # set environment variables
 source set_env.sh
